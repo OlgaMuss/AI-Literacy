@@ -1,0 +1,60 @@
+Week_Number,Week,Concept,Concept_Category,Concreteness_Level,Repetition_N_Weeks,N_Matching_Items,Has_Assessment,Matching_Item_IDs,Item_Difficulties,Instructional_Time_Min,N_Concepts_Week,Time_Per_Concept_Min
+1,Week 1,Social robots definition,Other,2,0,1,True,0,,60,5,12.0
+1,Week 1,Types of robots (social vs industrial vs virtual agents),Other,2,0,1,True,0,,60,5,12.0
+1,Week 1,Marty robot introduction,Other,2,0,1,True,0,,60,5,12.0
+1,Week 1,"Robot components (motors, sensors, computer)",Sensors,5,3,1,True,0,,60,5,12.0
+1,Week 1,Robot parts identification,Other,5,0,1,True,0,,60,5,12.0
+2,Week 2,"What is AI (definition, characteristics)",AI definition,2,1,2,True,"3, 7","DA09: -1.30 (easy)
+, GA10: -1.45 (easy)",130,8,16.25
+2,Week 2,AI vs non-AI applications,Other,2,0,2,True,"3, 7","DA09: -1.30 (easy)
+, GA10: -1.45 (easy)",130,8,16.25
+2,Week 2,"Machine Learning types (supervised, unsupervised, reinforcement)",Machine Learning,2,2,0,False,,,130,8,16.25
+2,Week 2,Classification vs Generation,Other,2,0,0,False,,,130,8,16.25
+2,Week 2,LLM introduction,LLM,2,5,1,True,7,GA10: -1.45 (easy),130,8,16.25
+2,Week 2,"LLM limitations (hallucinations, biases)",LLM,2,5,1,True,7,GA10: -1.45 (easy),130,8,16.25
+2,Week 2,"LLM uses (brainstorming, summarizing, tutoring)",LLM,2,5,1,True,7,GA10: -1.45 (easy),130,8,16.25
+2,Week 2,Prompt engineering basics,Prompting,2,2,1,True,7,GA10: -1.45 (easy),130,8,16.25
+3,Week 3,LLM architecture and training,LLM,2,5,0,False,,,130,10,13.0
+3,Week 3,"How LLMs work (3 stages: unsupervised, supervised, reinforcement)",Machine Learning,2,2,0,False,,,130,10,13.0
+3,Week 3,"Existing LLMs (ChatGPT, etc.)",LLM,2,5,0,False,,,130,10,13.0
+3,Week 3,Prompts and prompt engineering,Prompting,2,2,0,False,,,130,10,13.0
+3,Week 3,"Sustainability of robots (materials, recycling)",Sustainability,2,2,0,False,,,130,10,13.0
+3,Week 3,"Environmental impact (plastic, electronics, batteries)",Sustainability,2,2,0,False,,,130,10,13.0
+3,Week 3,Lithium and resource constraints,Sustainability,2,2,0,False,,,130,10,13.0
+3,Week 3,Social equity and AI access,Other,2,0,0,False,,,130,10,13.0
+3,Week 3,Cultural bias in AI,Biases,2,3,1,True,10,EA05: -1.28 (easy),130,10,13.0
+3,Week 3,Feedback loops and tipping points,Programming,2,4,0,False,,,130,10,13.0
+4,Week 4,"Biases in AI (gender, racial, algorithmic)",Biases,2,3,1,True,12,,124,10,12.4
+4,Week 4,Hallucinations in LLMs,LLM,2,5,1,True,12,,124,10,12.4
+4,Week 4,When NOT to use AI,Other,2,0,0,False,,,124,10,12.4
+4,Week 4,Strategies for appropriate AI use,Other,2,0,0,False,,,124,10,12.4
+4,Week 4,"Programming basics (commands, variables, functions, parameters)",Programming,4,4,1,True,12,,124,10,12.4
+4,Week 4,Loops and conditionals (if-else),Programming,2,4,1,True,12,,124,10,12.4
+4,Week 4,Libraries,Other,2,0,1,True,12,,124,10,12.4
+4,Week 4,"Marty architecture (motors, sensors)",Sensors,5,3,0,False,,,124,10,12.4
+4,Week 4,"Sensors (infrared, color)",Sensors,5,3,0,False,,,124,10,12.4
+4,Week 4,Motor function,Programming,5,4,1,True,12,,124,10,12.4
+5,Week 5,Blockly programming,Programming,4,4,0,False,,,130,7,18.571428571428573
+5,Week 5,Sensor types (general),Sensors,5,3,1,True,1,,130,7,18.571428571428573
+5,Week 5,"Marty sensors (infrared, color)",Sensors,5,3,1,True,1,,130,7,18.571428571428573
+5,Week 5,How sensors work,Sensors,5,3,1,True,1,,130,7,18.571428571428573
+5,Week 5,Sensor input in programming,Programming,5,4,1,True,1,,130,7,18.571428571428573
+5,Week 5,Dance choreography programming,Programming,4,4,0,False,,,130,7,18.571428571428573
+5,Week 5,Sensor-triggered actions,Sensors,5,3,0,False,,,130,7,18.571428571428573
+6,Week 6,"Microcontrollers (definition, function)",Programming,2,4,0,False,,,135,11,12.272727272727273
+6,Week 6,Arduino Nano introduction,Microcontroller,4,2,0,False,,,135,11,12.272727272727273
+6,Week 6,C++ programming,Programming,4,4,0,False,,,135,11,12.272727272727273
+6,Week 6,"AI ethics (transparency, privacy, alignment)",Ethics,2,1,1,True,16,GA16: -1.01 (easy),135,11,12.272727272727273
+6,Week 6,Mental health impacts of AI,Other,2,0,0,False,,,135,11,12.272727272727273
+6,Week 6,Over-reliance on AI,Other,2,0,1,True,16,GA16: -1.01 (easy),135,11,12.272727272727273
+6,Week 6,Manipulation and persuasion by AI,Other,2,0,1,True,16,GA16: -1.01 (easy),135,11,12.272727272727273
+6,Week 6,Misinformation and content accuracy,Other,2,0,1,True,16,GA16: -1.01 (easy),135,11,12.272727272727273
+6,Week 6,"Sustainability impacts (energy, water)",Sustainability,2,2,0,False,,,135,11,12.272727272727273
+6,Week 6,Equity and accessibility,Other,2,0,1,True,16,GA16: -1.01 (easy),135,11,12.272727272727273
+6,Week 6,LLM safeguards,LLM,2,5,0,False,,,135,11,12.272727272727273
+7,Week 7,Microcontroller review,Microcontroller,2,2,0,False,,,123,6,20.5
+7,Week 7,LLM safeguards review,LLM,2,5,0,False,,,123,6,20.5
+7,Week 7,Scaffolded vs unscaffolded LLM interactions,LLM,2,5,0,False,,,123,6,20.5
+7,Week 7,LLM interaction design,LLM,2,5,0,False,,,123,6,20.5
+7,Week 7,Educational applications of LLMs,LLM,2,5,0,False,,,123,6,20.5
+7,Week 7,Responsible AI use synthesis,Other,2,0,0,False,,,123,6,20.5

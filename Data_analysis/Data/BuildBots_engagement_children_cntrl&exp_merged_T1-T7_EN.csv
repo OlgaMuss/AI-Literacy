@@ -1,0 +1,412 @@
+"","Participant_ID","Group","Experimental_group","Timepoint","Duration_in_seconds","IntrinsicMotivation_1","IntrinsicMotivation_2","IntrinsicMotivation_3","IntrinsicMotivation_4","IntrinsicMotivation_5","IntrinsicMotivation_6","IntrinsicMotivation_7","IntrinsicMotivation_8","postitive","negative","LLM_nickname","LLM_enjoyment","LLM_learning","LLM_contributions","LLM_liked","LLM_disliked","project_enjoyment","project_learning","project_difficulty","project_liked","project_disliked","working","working_tries","working_tries2","error_knowledge","error_reason","error_reason_3_TEXT","trying_time","trying_time2","frustration"
+"1",35,3,"control","T1",69,4,4,5,5,5,1,4,3,"Das Marty tanzt.","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2",48,1,"control","T1",72,5,5,5,5,5,1,5,5,"Das er getanzt hat und das Fußball spiel","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3",65,NA,"control","T1",84,5,5,4,5,5,1,2,2,"Marty","Nichts
+",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4",40,3,"control","T1",87,4,4,3,4,4,3,3,3,"Das der Roboter getanzt hat und wir Fußball gespielt haben","gar nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5",39,2,"control","T1",100,5,5,5,5,5,1,5,2,"Marty einen Namen geben 
+Marty kennenlernen","Nix!",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",42,3,"control","T1",98,3,2,3,2,3,1,2,2,"Das man auch bei den Roboter was ausprobieren konnte.","/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7",47,4,"control","T1",113,3,4,3,3,3,2,3,4,"Der Roboter konnte tanzen und wir durften ihn mit stickern bekleben","Unser Roboter war kaputt weshalb manche sachen nicht funktioniert haben",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8",45,3,"control","T1",111,3,3,3,3,3,2,2,2,"Der Roboter und wie er tanzt","Die Steuerung von Marty sonst nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9",34,2,"control","T1",113,2,1,4,4,5,1,2,3,"Personalisieren und Fußball mit den Robotern spielen","Nicht",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10",36,4,"control","T1",105,5,5,4,5,5,1,3,5,"Ein Roboter steuern,mehr wissen über ki bekommen","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11",38,1,"control","T1",103,4,5,4,5,4,1,3,3,"Das farbprogramm / den Tanz","Keine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12",46,4,"control","T1",127,4,4,3,4,4,2,2,3,"Aufkleber und Fußballspiel","nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13",41,4,"control","T1",153,4,4,4,4,3,2,3,4,"Das unser Marti die ganze Zeit umgefallen ist und weil e wie spiegeln war","das der die ganze Zeit umgefallen it und sonst nicht mehr",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14",51,3,"control","T1",78,4,4,5,5,5,1,5,4,"Die coolen Sticker, Marty der Roboter","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15",61,3,"control","T1",81,5,5,5,4,4,4,4,4,"Tanzen und schiessen","Schnelligkeit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",58,5,"control","T1",91,5,5,5,5,4,2,4,4,"Marty austesten und mit ihm zu experimentieren.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",53,5,"control","T1",108,2,3,3,3,4,1,1,2,"Das er getanzt hat und das man ihm Sticker draufkleben konnte.","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18",54,1,"control","T1",121,4,5,5,5,5,1,3,3,"Nicht der Fragebogen","Farbsensor kaputt",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19",60,2,"control","T1",118,5,5,3,4,4,2,4,4,"Mit dem Roboter zu arbeiten","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20",49,1,"control","T1",114,5,3,3,5,4,1,2,2,"Die Sticker drauf kleben.","Das programmieren, also das er die Sachen dann macht.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21",50,2,"control","T1",131,4,4,4,5,4,1,3,4,"Das Manuel the ||||. zu designen und das ausprobieren mit dem Roboter","war alles ok",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22",56,3,"control","T1",129,3,2,5,1,4,2,1,1,"Der Roboter und das der tanzen kann","Die Gruppen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23",62,4,"control","T1",136,4,5,3,4,5,2,4,3,"Die Interaktion mit dem Roboter „Marty“ fande ich sehr spannend weil ich das erste Mal mit einem Roboter physikalisch interagiert habe. Außerdem das anfangen von lernen wie, was und wo bei einem Roboter hat mir sehr Spaß gemacht.","Keine Beschwerben.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24",59,1,"control","T1",139,4,4,4,4,5,1,3,5,"Die Roboter zu steuern 
+Besser zu verstehen wie so ein Roboter funktioniert","Den langen Fragebogen 
+Zu verstehen wie der Roboter funktioniert",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25",55,2,"control","T1",146,4,5,4,4,3,2,4,3,"Unser Roboter mit Stickern kleben","Eigentlich war nichts schwierig",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26",57,4,"control","T1",195,5,4,3,5,4,1,4,2,"Ich finde es interessant das die Roboter so viel konnten
+
+Und die Roboter so einfach zu scheuern sind","Keine ahnung",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27",44,2,"control","T1",604688,4,3,4,4,4,1,2,3,"Das ich auch mal den Robotter steuern durfte","Ich hätte mich gerne auch mal mit meinem I pad verbunden",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28",60,2,"control","T1",601378,5,5,4,4,5,2,4,4,"Elfmeterschießen und halten","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29",48,1,"control","T2",50,5,5,4,5,5,1,4,5,"Elf Meter Turnier",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30",65,NA,"control","T2",64,4,5,3,5,5,1,3,4,"Alles","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31",39,2,"control","T2",68,5,4,4,5,2,4,3,3,"Elfmeter schiesen","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32",35,3,"control","T2",57,5,4,5,5,5,1,3,5,"Marty Elfmeter schiessen","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33",41,4,"control","T2",66,5,4,5,5,4,5,5,5,"Fußball,KI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34",36,4,"control","T2",107,5,5,4,5,3,1,4,5,"Elfmeter schiessen,über ki lernen","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35",45,3,"control","T2",92,3,3,3,3,4,2,3,4,"Die Arbeitsblätter bearbeiten","Mit Marty spielen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36",43,1,"control","T2",115,4,4,5,5,5,1,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37",46,4,"control","T2",91,3,4,4,4,4,2,3,4,"Elfmeterschießen, Marty allgemein","keine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38",47,4,"control","T2",136,3,3,3,4,4,2,3,3,"Mit Marty elfmeter schießen","Die Arbeitsblätter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39",62,4,"control","T2",106,2,2,4,4,4,1,3,3,"Interagieren mit Marty & über KI reden","Beim Fußball bisschen bessere Regeln und die mehr klar sind",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40",51,3,"control","T2",71,5,4,4,5,5,1,4,3,"Die sticker von marty","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41",54,1,"control","T2",119,2,2,5,5,4,1,3,3,".","Kenne ich halt schon.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42",59,1,"control","T2",129,4,4,5,4,5,1,3,4,"Wieder Marty kennenzulernen 
+Das Elfmeterschießen","
+Was Ki ist und was nicht
+ 
+Einstieg in die KI war nicht so spannend",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43",49,1,"control","T2",106,1,1,5,3,4,3,1,1,"…","Kein Fußballspiel,…",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44",55,2,"control","T2",121,4,5,4,3,4,1,2,4,"Schiedsrichter und schießen","Nichts war schwer",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45",53,5,"control","T2",146,2,2,4,3,4,3,1,1,"Fußball und Schiedsrichter","Die arbeits Blätter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46",58,5,"control","T2",129,5,5,5,5,5,2,4,4,"Elfmeter schießen und dinge über KI zu erfahren","X",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47",50,2,"control","T2",123,4,4,4,5,4,2,3,4,"Fußballturnier","längeres turnier mit richtigen spielen nicht mit elfmeterschießen. Sonst war ok",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48",61,3,"control","T2",133,4,3,3,4,4,3,4,4,"Elfmeter schiessem","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49",57,4,"control","T2",159,4,5,5,4,5,1,4,4,"Die einfache Steuerung und die. Nette Frau leisten","den schuss anders getroffden",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50",40,3,"control","T3",37,3,3,3,3,3,3,3,3,"Prakour","Die Schiris von Tisch eins",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51",36,4,"control","T3",51,5,4,4,3,3,1,4,4,"Pakour bauen,dann auch testen","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52",39,2,"control","T3",78,3,4,5,4,4,4,5,4,"Eine Parkuhr machen","Tisch 1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53",65,NA,"control","T3",46,5,5,5,5,5,1,4,4,"Alles","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54",47,4,"control","T3",71,4,3,4,4,5,4,3,4,"Der Marathon mit Marty","Ich fande es schwierig Marty zu steuern",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55",38,1,"control","T3",69,4,4,4,4,5,1,4,3,"Alles
+","Der 1.Parkour",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56",46,4,"control","T3",96,5,4,5,4,5,2,3,3,"Parkour","nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57",51,3,"control","T3",80,5,4,5,5,5,1,3,4,"Die Parcours","Viel Theorie",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58",60,2,"control","T3",91,5,5,5,5,5,2,4,4,"Alles","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59",50,2,"control","T3",86,5,4,5,4,4,2,3,4,"War alles Gut","Bei Tisch Eins gab es Schiebung!!!!!!!!!!!!!!!!!",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60",34,2,"control","T3",91,3,3,2,3,4,1,1,1,"/","/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61",54,1,"control","T3",87,4,4,3,3,4,2,2,2,"Hindernislauf. 
+","Gruppe 4 Scam.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62",43,1,"control","T3",103,5,5,5,5,4,1,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63",49,1,"control","T3",100,5,3,5,5,5,1,1,1,"Der Parkour",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64",62,4,"control","T3",91,5,4,4,4,4,1,3,2,"Mir Marty arbeiten und die Verschiedenen Hindernisse","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65",56,3,"control","T3",100,5,5,5,5,3,4,2,5,"Das ich pakur gewonnen hab",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66",44,2,"control","T3",102,4,3,4,5,3,2,2,2,"Das jeder steuern durfte","das Lorenz immer der Scheff sein möchte",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67",64,1,"control","T3",109,4,4,3,4,4,1,3,4,"Nicht nur theoretisch sondern auch praktisch.","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68",45,3,"control","T3",130,4,4,4,3,3,2,3,3,"Den Parkuhr","Der Parkuhr von Gruppe 1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69",59,1,"control","T3",113,4,5,5,4,5,1,4,3,"Das Parcour bauen 
+Und durch den parcour steuern","Das Roboter erklären",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70",58,5,"control","T3",115,5,5,5,5,5,1,5,5,"Spielen mit marty und das tunier","X",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71",57,4,"control","T3",108,5,3,5,5,4,5,4,3,"Das kleben und der Parcour","unauffällig kleben",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72",34,2,"control","T4",41,3,3,3,3,3,3,3,3,"/","/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73",35,3,"control","T4",64,4,4,5,5,5,1,3,4,"Das marty sein bein wieder hat, das wir wieder was cooles gemacht haben","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74",42,3,"control","T4",70,1,1,3,3,3,1,1,1,"/","/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75",47,4,"control","T4",77,2,2,2,3,4,3,2,3,"Der Pakour und die Aufgabe zu der Marty erstmal hinlaufen musste","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76",45,3,"control","T4",73,3,3,3,3,2,2,3,2,"Die zusammen Arbeit","Ungenau Angaben für die Aufgaben",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77",40,3,"control","T4",37,3,3,3,3,3,3,3,3,"Das escape spiel","Gar nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78",46,4,"control","T4",80,3,3,4,3,4,3,2,2,"Escape Room","nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79",65,NA,"control","T4",52,5,5,4,5,5,1,3,3,"Alles","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80",41,4,"control","T4",112,4,4,4,3,4,2,3,5,"Das Escape game",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81",44,2,"control","T4",130,5,2,4,5,5,4,1,2,"Das kch mich mit Marti verbinden konnte. Das Spiel mit Marty","Die informationen über ki",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82",49,1,"control","T4",65,5,3,5,5,4,1,1,2,".","Die Frage Stellung.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83",50,2,"control","T4",90,4,3,4,4,3,1,3,3,"Der Escape","Die Fragestellung war schwierig.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84",51,3,"control","T4",88,4,3,4,5,4,1,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85",53,5,"control","T4",104,1,1,3,4,2,2,1,1,"?",".",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86",59,1,"control","T4",104,3,3,4,4,2,1,2,4,"Das Escape Room Spiel 
+Den Code zu knacken","Das ganze erklären am Anfang 
+Zum Teil zu wenig Info z",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87",62,4,"control","T4",106,2,3,4,3,3,1,3,2,"Mit Marty arbeiten und verschiedene Sachen machen und auszuprobieren","Die Fragen beim escape room waren nicht sehr genau und man hatte Schwierigkeiten die Aufgabe zu lösen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88",55,2,"control","T4",109,5,5,4,4,3,2,3,4,"Die Gruppenarbeit und das Spiel","Nichts ist schwierig und alles past",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89",58,5,"control","T4",99,5,4,4,5,4,2,4,4,"Escapem mit marty und die infos über Ki","Die aufgaben beim escape spiel besser erklärt zu bekommen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90",54,1,"control","T4",140,3,2,4,4,4,2,2,3,".","Fragestellung war Fehlerhaft wegen „Dance“ und „celebrate“.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91",56,3,"control","T4",151,3,2,5,5,1,2,1,1,NA,"Weniger Präsentation, erst um 8:15 angefangen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92",64,1,"control","T4",156,4,4,3,4,4,1,3,3,"Das nicht nur Theorie drankommt sondern auch praktisches.","Genauere Aufgabenstellungen.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93",61,3,"control","T4",144,3,3,4,4,4,2,3,3,"Zusammenarbeit","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94",63,5,"control","T4",184,3,2,4,5,4,1,1,2,".","Keine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95",65,NA,"control","T5",43,3,3,3,4,4,2,2,3,"Alles","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96",35,3,"control","T5",50,4,3,4,3,4,1,3,3,"Das mit der eigenen choreografie","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97",40,3,"control","T5",54,4,4,3,3,3,4,3,2,"Die Martys wurden benutzt.","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98",48,1,"control","T5",35,4,5,5,5,4,1,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99",43,1,"control","T5",65,4,3,4,5,5,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100",38,1,"control","T5",65,4,4,4,4,4,4,4,4,"Alles","Eigentloch nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101",45,3,"control","T5",86,3,3,2,2,2,4,3,4,"Das wir heute mit dem programmieren angefangen haben","Bessere Erklärung von den Dingen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102",39,2,"control","T5",53,3,5,4,2,3,5,4,4,"Marty tanzen lassen","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103",47,4,"control","T5",98,2,3,2,2,4,3,2,4,"Das Marty auf Hindernisse reagiert und das wir für marty eigene Kommandos einstellen durften","Mox",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104",46,4,"control","T5",59,3,4,4,4,4,3,5,5,"Programmieren und Sensoren","nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105",36,4,"control","T5",69,4,4,3,5,3,1,4,4,"Programmieren,austesten","/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106",44,2,"control","T5",91,4,4,4,4,3,1,2,3,"Die Choreokrafie das Steuern",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107",51,3,"control","T5",52,4,3,4,5,4,1,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108",58,5,"control","T5",58,4,4,4,5,5,2,4,5,"Coreo mit marty und programieren","X",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109",56,3,"control","T5",70,2,1,5,5,3,3,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110",60,2,"control","T5",72,5,5,5,5,5,2,5,5,"Mit Marty arbeiten","Nichts wirklich",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111",50,2,"control","T5",86,4,4,4,4,4,1,3,3,"Das Programmieren und das testen","war alles ok",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112",53,5,"control","T5",79,2,2,1,3,3,1,2,2,"Lieder abspielen","In der Gruppe arbeiten weil sie mir nicht antworten",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113",49,1,"control","T5",75,2,2,5,3,3,2,2,2,"Das Lied aussuchen","Die Präsentation nicht so lange",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114",63,5,"control","T5",83,2,2,4,5,5,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115",62,4,"control","T5",94,4,3,3,5,4,1,3,4,"Das anfangen vom programmieren und das neue Wissen zu erlernen.","Der theorie Part war langweilig und lang",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116",64,1,"control","T5",98,3,3,2,5,5,1,2,2,"Mehr Theorie die man gebrauchen könnte.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117",59,1,"control","T5",105,3,3,4,5,5,2,4,4,"Mit den Befehlen zu arbeiteten 
+Mit dem Block Tool zu arbeiten","Das der Gruppe vorzustellen
+Das erklären von allem",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118",54,1,"control","T5",112,3,2,4,5,4,1,3,2,".","Die sogenannten „if-else Schaltungen“ wahren nur „if Schaltungen“.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119",55,2,"control","T5",124,4,5,4,3,3,2,4,2,"Das loop   Und das mit den Farben","Nichts ist schwer",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120",61,3,"control","T5",76,4,4,4,4,4,3,3,3,"Zusammenarbeit","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121",38,1,"control","T6",25,4,4,4,4,4,4,4,4,"Alles
+","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122",39,2,"control","T6",46,4,4,4,5,5,5,5,4,"Ki arbeitet","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123",65,NA,"control","T6",46,4,4,3,4,4,1,4,4,"Alles","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124",35,3,"control","T6",60,4,3,3,4,4,1,3,3,"Das wir am ende mit chatgbt gearbeitet haben","Keine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125",46,4,"control","T6",48,4,4,3,3,3,2,5,4,"Programmieren, LLM","nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126",40,3,"control","T6",62,4,4,3,4,3,4,4,3,"dass wir programmiert haben","gar nix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127",43,1,"control","T6",50,4,4,4,4,4,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128",34,2,"control","T6",83,3,3,3,3,3,3,3,3,"Mit KI schreiben","Es hatte nicht jeder was zu tun",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129",44,2,"control","T6",100,4,4,4,4,4,2,3,3,"Das gespräch. mit der KI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130",45,3,"control","T6",97,3,3,3,3,4,2,3,3,"Das wir Marty programmieren konnten und das wir aufgeklärt wurden","Das die Webseite nicht funktioniert hat",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131",47,4,"control","T6",97,2,3,4,4,4,2,2,4,"Das mit den Computern und dem eingeben","Das man nicht mehrere Martys hatte um es auszuprobieren",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132",41,4,"control","T6",62,5,5,5,5,5,2,4,5,"Proddamieren und sprechen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133",36,4,"control","T6",136,5,5,5,5,5,1,5,5,"Alles","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134",56,3,"control","T6",62,1,1,5,4,2,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135",51,3,"control","T6",50,5,3,4,5,3,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136",60,2,"control","T6",70,5,5,4,4,4,3,4,4,"Alles","Das programmieren",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137",50,2,"control","T6",63,4,4,4,4,4,1,4,4,"die programmier Zeit","war alles okay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138",62,4,"control","T6",67,5,5,4,4,5,1,5,4,"Das mit Chat GPT zu testen auf die Sicherheit. Das programmieren","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139",49,1,"control","T6",72,5,4,5,5,4,1,3,3,"Das programmieren und das mit chatgbt reden","Das unser Marty die Befehle nicht ausgeführt hat",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140",58,5,"control","T6",80,5,5,5,5,5,2,5,4,"Programieren und Mit chat gpt reden","X",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141",61,3,"control","T6",78,4,4,4,3,4,3,4,3,"Das programmieren 
+Chat gpt Fragen stellen","Programmieren",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142",63,5,"control","T6",80,3,2,5,5,5,1,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143",59,1,"control","T6",97,3,5,4,4,4,1,4,4,"Den Marty zu programmieren 
+Mit Chat gbt zu reden","Das erklären von allem 
+Das es manchmal mit dem programmieren nicht  geklappt hat",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144",54,1,"control","T6",90,3,3,4,5,4,2,4,4,"Microcontroler programmieren war gut.","Manche Befehle haben nicht funktioniert.  Mit chatbot schreiben war nicht so spannend 
+.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145",53,5,"control","T6",83,3,2,3,2,3,2,1,1,"Mein Team hat mir geantwortet","?",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146",64,1,"control","T6",92,3,4,3,5,4,1,3,3,"Das richtige Programmieren",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147",57,4,"control","T6",135,3,4,2,2,3,1,3,3,"Das mit Marty arbeiten und das wir mit dem computer gearbeitet haben",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148",41,4,"control","T7",58,5,5,4,5,5,5,5,3,NA,NA,"Tiger",5,5,4,NA,NA,29,9,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149",38,1,"control","T7",143,4,4,4,4,4,4,4,4,"Alles","Nichts","Apfel",3,3,3,"Er hat mir ausführliche Antworten gegeben","Nichts",29,7,12,"Wo wir mit Marty Fußballspielen konnten","Das Marty manchmal plötzlich nicht funktionierte",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150",54,1,"control","T7",126,3,4,4,4,3,1,4,3,".","Man konnte nicht mit Marty sprechen.","Nein",3,3,3,"Nein","Nein",29,5,12,"Programmieren","Wenn etwas technisch nicht funktioniert",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151",35,3,"control","T7",157,3,4,4,4,5,1,3,4,"Mit chatgpt zu arbeiten","Das marty geredet hätte","Kento",3,2,2,NA,"Er hat nicht geredet",29,7,12,"Marty, die ganzen informationen die wir gesammelt haben, das luca so lieb war","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152",60,2,"control","T7",136,4,4,4,4,5,3,4,4,NA,NA,"Nein",3,3,3,NA,NA,30,7,11,"Das alles mit Marty","Nichts",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153",65,NA,"control","T7",159,4,4,3,4,4,2,3,3,"Alles","Nichts","Mango",4,4,4,"Keine Ahnung","Keine Ahnung",29,7,12,"Marty seine leichte Behinderung","Das man sich die Gruppen nicht aussuchen konnte",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154",47,4,"control","T7",166,2,1,3,3,4,2,4,4,"Die technischen Probleme","Nix","Ladekabel",1,1,1,"Es hat nicht funktioniert","Es hat nicht funktioniert",27,6,10,"Das programmieren","Die Gruppierungen",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155",59,1,"control","T7",147,4,3,3,3,4,1,4,4,"Das abarbeiten mit Chat gbt
+Das Arbeiten mit Marty","Das wir nicht mit Marty reden konnten","Chef",3,3,2,".",".",29,7,10,"Das arbeiten mjt Marty","Das ganze erklären mit Theorie",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156",51,3,"control","T7",150,5,4,4,5,4,2,5,5,NA,NA,"Farb Bio blöttärt",4,5,4,NA,NA,29,9,12,"Die Arbeit mit Marty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157",63,5,"control","T7",150,3,2,4,5,5,1,2,2,NA,NA,"Kdtendiegsvxyxyxwz",3,3,2,"Gagversvsgycyxy","Wryxyrxtxzwzsc",27,5,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158",50,2,"control","T7",159,4,4,4,4,4,1,3,3,"Das Programmieren und die viele Praksis","war alles ok","Manuel the IIII",3,3,2,"?","?",29,6,12,"das programmieren","das wir die martys nicht gebaut haben",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159",39,2,"control","T7",180,4,5,5,4,5,4,5,3,"Marty reden","Nix","Mani",5,4,3,"Nix","Nix",30,7,12,"Marty arbeitetn","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160",48,1,"control","T7",185,3,4,2,4,4,1,5,5,"Programmieren und die Eselsbrücke","Programmieren war an manchen Stellen schwierig","Banane",2,2,2,"Keine Ahnung hat nicht funktioniert","Das es nicht funktioniert hat",29,7,12,"Fußballspiel und das programmieren","Nix",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161",40,3,"control","T7",205,4,4,3,3,3,4,3,3,"Programmieren, mit Marty arbeiten","Nichts","Harald",4,4,3,"Dass Marty uns beim Lernen geholfen hat.","nichts",29,7,11,"Dass wir zusammen programmiert haben und mit Marty gearbeitet haben","Die Gruppenaufteilung",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162",36,4,"control","T7",206,5,3,4,5,5,1,5,4,"Programmieren,Mit Ki Eselbrücken erstellen","Nichts","Aktion konnte nicht ausgefüllt werden",3,3,3,"Nichts","Nichts",30,7,12,"Mit Marty arbeiten","Keine Gruppen nach Wahl und ab und zu keine Arbeit",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163",45,3,"control","T7",213,3,3,2,3,3,2,2,3,"Das wir mit KI arbeiten konnten","Das wir nicht mit der Marty KI arbeiten konnten","Reiner",3,4,3,".","Das wir das sprach Modul von Marty nicht benutzen konnten",29,7,11,"Die spiele","Das meinchmal die technischen Sachen nicht funktioniert haben",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164",34,2,"control","T7",211,3,3,4,3,5,1,3,3,"—","In Gemeinde Gruppen arbeiten","BOB",3,3,2,"Mit KI schreiben","—",28,6,12,"Den Pakur für Marty zu bauen","Die Gruppen und es hatte ich immer jeder was zu tun",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"165",49,1,"control","T7",179,5,3,5,5,4,1,3,3,"Programmieren",".","Maria",3,3,3,".",".",29,7,11,"Programmieren, escaperoom und der parkour.","Die Gruppen Einteilung, die langen Theorie Präsentationen.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166",58,5,"control","T7",192,5,5,5,4,4,2,4,4,"Programieren, viel praxis","X","Hans-peter",3,3,2,"X","X",30,9,12,"Marty ausprobieren","Die gruppen einteilung",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167",56,3,"control","T7",206,2,1,4,4,3,1,1,1,NA,"Die Gruppe","E",3,3,1,"N","N",28,5,13,"Fussball und pakur mit Marty","Theorie und programmieren",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168",61,3,"control","T7",210,4,4,4,4,4,2,3,3,"Programieren","Nix","Cona lampat sein Cousin",3,3,3,"Das jeder gleich viel gemacht hat","Nix",29,7,11,"Das programmieren","Viel Theorie",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169",44,2,"control","T7",233,4,4,4,4,5,2,3,3,"Das Prokramieren","Das wir nicht mit Marty sprechen konnten","Lu",3,3,2,NA,NA,29,7,12,"Das spielen mit Marty","Das Lernen über die Ki die technischen propleme",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170",64,1,"control","T7",221,3,4,4,4,5,1,2,4,"Viel Praxis.",NA,"Peter",3,3,3,".",".",28,6,13,"Dass man viel selber probieren durfte.","Am Anfang war es viel zu einfach,die Programmierung ist wichtiger als Marty durch ein Parkour zu bewegen.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171",46,4,"control","T7",269,4,3,4,3,4,2,4,4,"LLMs, Programmieren","Nichts","Weiter",3,3,3,"Weiter","Weiter",29,7,11,"Marty allgemein","Technischen fehler, dass wir mit Marty nicht sprechen konnten",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172",43,1,"control","T7",282,4,4,4,4,3,1,3,3,NA,"Ich fand nicht so gut das die Marty Websiten teilweise nicht funktioniert haben","Mathe",3,3,3,NA,NA,29,7,12,"Die kleinen Spiele mit Marty waren immer mal wieder Witzig und haben Spaß gemacht","Das die meisten Programme von Marty nich funktioniert haben",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173",66,NA,"control","T7",261,5,3,2,2,4,1,3,5,"Das schlagen und Marty programmieren","Die Fehler des sythems und die würde ich auch verbessern","Mattick",1,1,1,"Es ging nicht","Es ging nicht",29,6,11,"Der pacur","Die Teams",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174",62,4,"control","T7",253,5,5,4,4,4,1,3,3,"Das programmieren und einfach das letzte Mal was mit Marty machen","Nichts","Jannis",3,3,3,"Das wir die Eselsbrücke gemacht haben","Das man einen langen prompt schreiben muss für bessere Ergebnisse",29,7,12,"Das interagieren mit Robotern weil man das normaler weiße nicht macht. Außerdem fande ich das rein schnuppern in programmieren sehr gut.","Das Fußball spielen und der escape room. Nicht alle mögen Fußball und die Stunde war da durch sehr langweilig und hat keinen Spaß gemacht. Der escape war sehr kompliziert und hat nicht so viel Sinn gemacht und dabei habe ich meinen Spaß verloren.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175",53,5,"control","T7",297,4,2,3,3,4,2,2,3,"Mit meine Freunden zu arbeiten","Das mein Team mir nicht richtig antwortet","Lisa",1,1,2,"?","?",28,5,10,"Das bekleben der Marty ,das Fußball","Das ich ohne meine Freunde war und ich das meiste nicht gecheckt habe weil die Theorie nicht so gestaltet war das man es versteht als jemand der sich noch nie mit solchen Themen nicht auseinandergesetzt hat.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176",1,1,"experimental","T1",100,5,5,5,5,5,2,5,5,"The robot that it was finished","More built ","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"177",2,1,"experimental","T1",84,5,4,4,5,4,1,4,3,"The one with the cables and the screwdriver ","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"178",3,2,"experimental","T1",91,5,4,5,5,4,1,5,5,"Das wir anfangen durften zu bauen","that the build guide was a bit unclear","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"179",4,3,"experimental","T1",125,5,5,5,5,5,1,3,5,"The build and the videos","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"180",5,4,"experimental","T1",109,5,5,4,5,4,2,5,4,"Building the robot ","i found nothing difficult. I really liked it","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"181",6,3,"experimental","T1",202,3,3,4,4,3,1,3,2,"Building","survey","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"182",7,4,"experimental","T1",141,5,5,5,5,5,5,5,5,"The knee","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"183",8,1,"experimental","T1",80,5,5,5,5,5,5,5,5,"Marty bauen nur das","survey too long","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"184",9,5,"experimental","T1",117,5,5,4,4,4,3,4,3,"the independent learning and not having to write","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"185",10,2,"experimental","T1",117,5,5,5,5,5,1,5,5,"To build Marty","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"186",11,2,"experimental","T1",118,2,3,1,4,2,1,2,2,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"187",12,4,"experimental","T1",200,5,5,4,4,4,2,4,4,"the building and the building","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"188",13,3,"experimental","T1",80,3,3,4,4,2,2,4,2,"building","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"189",14,5,"experimental","T1",84,5,5,5,5,5,1,5,3,"building
+","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"190",15,5,"experimental","T1",113,5,4,4,3,3,1,4,4,"Building the robot ","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"191",16,1,"experimental","T1",158,5,5,4,4,4,2,4,4,"everything and the parts","this at the end","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"192",17,7,"experimental","T1",123,5,3,4,4,4,3,5,4,"Assembling the motors with the plastic parts","I would have liked to continue building","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"193",18,8,"experimental","T1",131,5,5,5,4,4,2,4,4,"the working together and unpacking","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"194",19,8,"experimental","T1",212,5,5,5,5,5,5,5,5,"the setup ","more work","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"195",20,6,"experimental","T1",200,4,5,4,4,4,1,4,5,"to know something about robots and getting to know a lot","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"196",23,7,"experimental","T1",127,4,4,3,4,4,2,4,3,"the building, and finally getting to know the researcher","the group assignment","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"197",24,6,"experimental","T1",98,3,5,4,4,5,1,4,3,"Collaboration, talking","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"198",26,7,"experimental","T1",154,3,3,4,4,4,2,4,4,"It was a cool introduction to the topic. ","we already didnt have any screws left in the second class","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"199",27,6,"experimental","T1",149,5,4,4,5,5,1,4,3,"building Marty
+","nothing, everything was good and easy","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"200",28,10,"experimental","T1",200,4,4,3,4,3,3,2,3,"That we were allowed to work together in groups.
+That we were allowed to build something","Ich finde alles gut","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"201",29,8,"experimental","T1",93,5,5,5,5,5,1,5,5,"the building","survey","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"202",30,9,"experimental","T1",130,5,5,5,4,5,2,5,5,"Assembling the robot and conducting the surveys ","I didnt find anything difficult today actually","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"203",31,10,"experimental","T1",158,4,4,4,4,2,2,3,3,"getting to know the robot","nothing, everything was good","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"204",32,9,"experimental","T1",31,5,5,5,5,5,5,5,5,"nothing","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"205",1,1,"experimental","T2",121,5,5,5,4,5,2,5,5,"building marty
+","more and longer building","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"206",3,2,"experimental","T2",165,4,5,5,5,4,1,5,4,"that my group has finished both legs and both arms, and we'll probably be done next time.","that we  did theory for such a long time","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"207",4,3,"experimental","T2",114,4,4,4,4,3,1,4,4,"building marty
+","theory","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"208",6,3,"experimental","T2",136,3,2,4,3,3,2,3,2,"the building","theory","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"209",7,4,"experimental","T2",108,5,5,5,5,5,1,5,5,"building the leg of marty","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"210",8,1,"experimental","T2",127,5,3,5,5,5,2,4,3,"finished martys leg and that we have a break now","nothing, everything was great","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"211",9,5,"experimental","T2",105,2,2,2,3,4,2,2,3,"the building","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"212",10,2,"experimental","T2",140,5,3,5,5,4,1,5,4,"to build the robot","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"213",11,2,"experimental","T2",107,4,4,3,3,4,2,4,3,"robot building","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"214",12,4,"experimental","T2",142,5,5,5,5,4,1,4,3,"the building and the building","the learning","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"215",13,3,"experimental","T2",75,3,2,3,2,2,5,2,2,"robot building","building robot for longer and doing less theory","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"216",14,5,"experimental","T2",77,4,3,5,5,3,1,4,4,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"217",15,5,"experimental","T2",89,5,5,3,4,4,2,5,5,"robot building","theory","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"218",16,1,"experimental","T2",165,4,4,3,4,4,2,3,4,"the building with the robot","this at the end","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"219",17,7,"experimental","T2",103,4,3,3,4,4,5,3,4,"That we started with the next leg
+And that we're almost done with the first leg","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"220",18,8,"experimental","T2",72,5,5,5,4,5,1,5,4,"That we finished. And the work ","it wasn't difficult","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"221",20,6,"experimental","T2",80,5,5,4,4,4,1,5,5,"everything was great","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"222",23,7,"experimental","T2",54,4,3,5,4,4,2,4,4,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"223",24,6,"experimental","T2",1810,4,4,4,4,5,4,5,4,"the building of marty","the hour were you had to listen for 50 minutes. It was good that we had some tasks in between","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"224",26,7,"experimental","T2",168,4,3,4,4,4,3,4,4,"Continue building the robot and talk about different types of AI. ","the task sheets were a bit boring","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"225",27,6,"experimental","T2",104,5,5,5,3,4,2,5,4,"building marty
+","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"226",28,10,"experimental","T2",59,3,4,3,3,2,3,3,4,"Working together
+Independently","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"227",29,8,"experimental","T2",56,5,5,4,5,4,4,5,5,"the building","cabel mess","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"228",30,9,"experimental","T2",1231,5,5,4,5,5,2,5,4,"The construction and, of course, the theoretical knowledge ","the theoretical knowledge was a bit difficult but it was okay","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"229",31,10,"experimental","T2",45,5,3,2,3,4,4,4,3,"That we were allowed to continue building ","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"230",1,1,"experimental","T3",40,5,5,5,5,5,4,5,4,"marty done
+","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"231",3,2,"experimental","T3",104,5,5,5,5,5,1,5,5,"That we finished Marty. That we were so fast.","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"232",4,3,"experimental","T3",55,5,5,5,5,5,1,5,5,"the building","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"233",5,4,"experimental","T3",94,5,5,4,4,5,1,5,4,"That the robot Marty is finished","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"234",6,3,"experimental","T3",92,5,4,5,4,5,2,3,3,"assembling the head","legs","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"235",7,4,"experimental","T3",49,5,5,5,5,5,1,5,5,"head and legs","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"236",8,1,"experimental","T3",60,5,5,5,5,5,1,5,5,"building Marty
+","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"237",10,2,"experimental","T3",100,5,5,5,5,4,1,5,4,"testing marty finish building marty","improve marty so it doesnt fall over so much","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"238",12,4,"experimental","T3",91,5,5,4,4,4,2,3,3,"hthe building","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"239",13,3,"experimental","T3",58,4,4,4,4,4,3,3,3,"Building, Marty's first test","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"240",14,5,"experimental","T3",61,5,5,5,5,5,1,3,3,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"241",15,5,"experimental","T3",56,5,5,4,4,3,1,4,4,"building marty
+","theory","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"242",16,1,"experimental","T3",96,5,5,4,4,3,4,4,4,"most","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"243",17,7,"experimental","T3",77,5,4,3,5,4,2,4,4,"That we've finished the legs.
+And almost the rest too","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"244",18,8,"experimental","T3",121,4,5,5,4,4,3,5,5,"That we finished and it was fun. ","it always falls over. It cant walk","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"245",19,8,"experimental","T3",157,4,4,4,4,4,1,3,3,"Collaboration, productivity","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"246",20,6,"experimental","T3",128,3,4,4,4,4,2,5,4,"","i would have liked to be listened more in the team and the teacher should be nicer","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"247",23,7,"experimental","T3",62,5,4,4,3,3,3,4,4,"That we almost finished the robot ","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"248",24,6,"experimental","T3",2266,5,4,5,4,4,2,4,4,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"249",25,10,"experimental","T3",96,5,2,1,5,3,2,2,5,"When I built Marty","building marty","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"250",26,7,"experimental","T3",134,4,3,4,4,4,1,4,4,"That we finished the legs and that we were particularly fast.","that i mounted the leg the wrong way","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"251",27,6,"experimental","T3",117,4,5,4,4,4,1,4,4,"building marty
+","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"252",28,10,"experimental","T3",86,2,2,3,3,3,4,2,3,"Das wie viel Hilfe hatten","the assembling","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"253",29,8,"experimental","T3",132,2,4,5,5,5,1,3,5,"that we're done. Sticking the stickers","it falls over all the time. It doesnt walk","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"254",30,9,"experimental","T3",131,5,5,5,4,5,2,5,5,"I liked the building","actually i dont have anything to say against this class. I liked it and found it enjoyable","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"255",31,10,"experimental","T3",71,3,3,2,2,2,2,3,3,"that we got help","to build","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"256",2,1,"experimental","T3",71,4,4,4,4,5,1,3,3,"moving the robot, building","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"257",1,1,"experimental","T4",71,4,5,5,5,5,1,5,5,"marty and programming","survey","",NA,NA,NA,"","",NA,NA,NA,"","","Ja","1","","","","","5-10 Minuten","",0
+"258",2,1,"experimental","T4",82,5,3,3,3,3,1,3,3,"Playing soccer and then searching for sounds","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"259",3,2,"experimental","T4",99,4,3,5,5,3,1,4,4,"That we played soccer with the robots","that we did theory for so long","",NA,NA,NA,"","",NA,NA,NA,"","","Ja","2","","Nein","","","Weniger als 5 Minuten","",0
+"260",4,3,"experimental","T4",64,5,5,5,5,5,1,5,5,"programmieren","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","Ja","2","","Ja","Etwas anderes, und zwar:","Motor war noch nicht kalibriert ","5-10 Minuten","",0
+"261",5,4,"experimental","T4",54,5,5,5,5,5,5,5,5,"It was fun testing Marty.","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","Ja","3","","Nein","","","20-30 Minuten","",1
+"262",6,3,"experimental","T4",118,3,3,3,3,4,2,3,2,"playing soccer","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"263",7,4,"experimental","T4",85,5,5,5,5,4,2,5,3,"everything","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","Ich bin mir nicht sicher","","","Nein","","","","10-20 Minuten",0
+"264",8,1,"experimental","T4",104,5,5,5,5,5,1,5,5,"Testing Marty and soccer","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"265",9,5,"experimental","T4",72,1,1,1,2,2,3,3,1,"the programming","","",NA,NA,NA,"","",NA,NA,NA,"","","Ja","3","","Ja","Fehler beim Bauen, den wir verursacht haben (z.B. Kabel falsch verbunden)","","5-10 Minuten","",1
+"266",11,2,"experimental","T4",162,4,4,4,5,4,1,4,3,"Playing with robots and building robots ","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"267",12,4,"experimental","T4",124,5,5,5,5,5,2,3,4,"Experimenting with the robot ","survey","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"268",13,3,"experimental","T4",66,5,4,5,4,3,3,5,4,"testing marty","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"269",14,5,"experimental","T4",48,5,5,5,5,5,1,5,3,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"270",15,5,"experimental","T4",63,5,4,3,3,3,1,4,4,"testing marty","theory","",NA,NA,NA,"","",NA,NA,NA,"","","Ja","2","","Nein","","","Weniger als 5 Minuten","",0
+"271",16,1,"experimental","T4",223,5,5,5,4,4,3,4,4,"Playing soccer with robots ","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"272",17,7,"experimental","T4",62,2,3,4,4,4,4,3,3,"everything","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","Nein","","2","Nein","","","","Mehr als 40 Minuten",1
+"273",18,8,"experimental","T4",177,5,5,5,5,5,3,4,4,"That we really finished it and that it doesn't tip over anymore. ","actually nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"274",19,8,"experimental","T4",175,4,4,4,3,4,2,4,4,"Collaboration, productivity.","","",NA,NA,NA,"","",NA,NA,NA,"","","Nein","","mehr als 3","Nein","","","","10-20 Minuten",1
+"275",20,6,"experimental","T4",309,1,4,3,4,3,4,4,5,"Knowing something about AI","I didn't do anything. Ms. XXX yelled at me because I took the laptop (I had already agreed with Ms. XXX that I would take it), then she told me to wait, and I wanted to wait, but she wasn't there. Connecting the charging cable was a little easier with the laptop.","",NA,NA,NA,"","",NA,NA,NA,"","","Ich bin mir nicht sicher","","","Ich bin mir nicht sicher","Fehler beim Bauen, den wir verursacht haben (z.B. Kabel falsch verbunden)","","","5-10 Minuten",0
+"276",21,9,"experimental","T4",168,4,4,4,4,3,2,4,3,"That we are finished and that we have built","not talking so much","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"277",23,7,"experimental","T4",63,4,4,3,4,3,4,3,3,"We're almost done with the Marty robot.","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"278",23,7,"experimental","T4",45,4,4,3,3,3,3,4,4,"","","",NA,NA,NA,"","",NA,NA,NA,"","","Nein","","3","Ja","Fehler beim Bauen, den wir verursacht haben (z.B. Kabel falsch verbunden)","","","5-10 Minuten",2
+"279",24,6,"experimental","T4",122,4,5,5,4,4,2,3,4,"Playing with Marty ","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"280",25,10,"experimental","T4",188,5,5,4,5,5,4,5,5,"Marty feet arms","building the motor","",NA,NA,NA,"","",NA,NA,NA,"","","Nein","","1","Ja","Fehler beim Bauen, den wir verursacht haben (z.B. Kabel falsch verbunden)","","","10-20 Minuten",1
+"281",26,7,"experimental","T4",165,3,3,3,4,4,3,3,3,"We're done. Our Marty is called Martin.","he doesnt work, he's falling over all the time. The joing is broken or something like that :(","",NA,NA,NA,"","",NA,NA,NA,"","","Nein","","3","Nein","","","","10-20 Minuten",2
+"282",27,6,"experimental","T4",107,5,5,4,4,5,1,4,5,"building Marty
+","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"283",28,10,"experimental","T4",183,3,2,2,3,3,4,3,4,"That we were almost done 
+Working alone","that sometimes we assembled things wrong","",NA,NA,NA,"","",NA,NA,NA,"","","Ja","mehr als 3","","Ja","Fehler beim Bauen, den wir verursacht haben (z.B. Kabel falsch verbunden)","","20-30 Minuten","",1
+"284",29,8,"experimental","T4",93,5,5,3,5,4,5,5,2,"walking, that it works","child XXX was annoying
+","",NA,NA,NA,"","",NA,NA,NA,"","","Ja","2","","Ja","Technischer Fehler von Marty (z.B. ein kaputtes Teil)","","Weniger als 5 Minuten","",NA
+"285",30,9,"experimental","T4",181,5,5,4,5,4,1,5,5,"I liked that I was allowed to finish building Marty, and I also liked the calibration process. ","the calibration was a bit difficult but it was fun","",NA,NA,NA,"","",NA,NA,NA,"","","Ich bin mir nicht sicher","","","Ich bin mir nicht sicher","Etwas anderes, und zwar:","Programmierung ","","5-10 Minuten",0
+"286",31,10,"experimental","T4",119,3,4,3,2,3,4,2,4,"That we have made progress with the robot ","that we still didnt finish marty","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"287",3,2,"experimental","T5",141,4,4,4,4,3,1,4,4,"That we could program something at Marty's","that the movement sensor only worked sometimes","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"288",4,3,"experimental","T5",131,4,4,4,5,5,1,5,5,"Programming and testing the sensors ","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"289",5,4,"experimental","T5",67,5,5,4,5,5,2,5,5,"the programming","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"290",6,3,"experimental","T5",129,4,4,3,3,3,1,5,3,"Setting up the sounds ","programming","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"291",7,4,"experimental","T5",83,5,5,5,5,5,1,5,5,"the programming was fun","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"292",8,1,"experimental","T5",155,3,2,2,3,4,2,3,3,"child XXX helped me a lot","programming","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"293",9,5,"experimental","T5",51,2,1,2,2,2,1,2,3,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"294",10,2,"experimental","T5",84,5,5,4,5,4,2,5,5,"marty control and programming","programming","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"295",11,2,"experimental","T5",108,2,3,2,4,5,3,2,3,"programming marty","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"296",12,4,"experimental","T5",102,5,5,4,3,5,2,2,4,"the programming","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"297",13,3,"experimental","T5",65,3,3,3,3,3,4,3,3,"Sensors, Marty Programming","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"298",14,5,"experimental","T5",110,5,3,4,5,2,1,3,3,"programming","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"299",15,5,"experimental","T5",89,3,4,4,2,2,2,4,4,"programming marty and showing the others was the martx does","theory and survey","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"300",16,1,"experimental","T5",129,5,5,4,4,4,2,4,3,"child XXX helped me","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"301",17,7,"experimental","T5",69,4,5,4,4,3,2,3,3,"the programming","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"302",18,8,"experimental","T5",176,5,5,4,4,4,3,4,4,"the programming","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"303",19,8,"experimental","T5",71,3,3,3,3,3,1,3,3,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"304",20,6,"experimental","T5",97,5,5,4,4,4,1,5,5,"everything was ok","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"305",21,9,"experimental","T5",155,3,2,2,3,3,1,3,2,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"306",23,7,"experimental","T5",40,4,4,4,3,3,3,3,4,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"307",24,6,"experimental","T5",56,4,3,4,3,4,1,4,4,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"308",25,10,"experimental","T5",105,5,5,5,5,5,4,5,5,"I moved Marty","building marty and listening to the teacher","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"309",26,7,"experimental","T5",89,3,3,3,2,3,2,3,2,"i dont know","still doesnt work","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"310",27,6,"experimental","T5",141,4,4,4,4,4,1,4,4,"marty programming","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"311",28,10,"experimental","T5",99,2,1,2,2,3,5,2,2,"the testing","working together","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"312",29,8,"experimental","T5",61,5,5,5,5,5,5,5,5,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"313",31,10,"experimental","T5",12,NA,NA,NA,NA,NA,NA,NA,NA,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"314",31,10,"experimental","T5",84,3,2,2,2,3,3,2,2,"the sensors","I wasn't allowed to do anything","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"315",32,9,"experimental","T5",81,2,1,4,3,3,2,1,1,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"316",1,1,"experimental","T6",109,4,5,4,5,5,2,5,3,"Marty speaking and the end ","facing child XXX less but everything else is good","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"317",2,1,"experimental","T6",89,5,5,5,4,4,1,3,3,"Entering the eyes Colors ","I didnt find anything difficult and I'd like to change what the robot did or said","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"318",3,2,"experimental","T6",101,5,5,5,5,5,1,5,5,"that everything worked for us","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"319",4,3,"experimental","T6",57,5,5,5,5,5,1,5,5,"programming","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"320",5,4,"experimental","T6",121,4,4,5,5,5,2,5,5,"everything","that it didnt work at the start","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"321",6,3,"experimental","T6",104,4,4,3,3,3,2,4,4,"talking with marty","programming","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"322",7,4,"experimental","T6",71,5,5,5,3,5,2,5,5,"the programming","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"323",8,1,"experimental","T6",92,2,3,3,4,5,1,3,3,"everything","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"324",9,5,"experimental","T6",51,2,3,2,2,3,5,2,3,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"325",10,2,"experimental","T6",12,NA,NA,NA,NA,NA,NA,NA,NA,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"326",10,2,"experimental","T6",106,5,5,5,5,5,2,4,5,"Programming, talking to Marty","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"327",12,4,"experimental","T6",111,5,5,4,5,4,1,4,3,"speaking with the robot","filling in the survey","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"328",13,3,"experimental","T6",40,4,4,2,3,3,2,3,2,"With Marty Speeches/Programming ","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"329",14,5,"experimental","T6",66,3,3,3,4,3,1,3,3,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"330",15,5,"experimental","T6",59,3,3,3,3,2,2,3,3,"the speaking a little","everything except for the talking","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"331",16,1,"experimental","T6",117,4,5,4,4,4,2,4,3,"the talking","that the talking can take longer","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"332",17,7,"experimental","T6",62,5,4,3,3,4,3,3,4,"everything","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"333",19,8,"experimental","T6",57,3,4,4,4,4,2,3,3,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"334",20,6,"experimental","T6",107,5,5,4,5,4,2,5,5,"Programming was great, programming with a laptop, software, etc.","unfortunate that it didn't work in the end","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"335",21,9,"experimental","T6",67,2,4,2,3,4,2,3,3,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"336",23,7,"experimental","T6",50,4,3,3,3,4,4,4,3,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"337",24,6,"experimental","T6",54,4,4,3,4,4,2,4,4,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"338",25,10,"experimental","T6",73,5,5,5,5,5,5,5,5,"When I used the laptop","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"339",26,7,"experimental","T6",162,4,4,5,5,5,2,4,3,"coding with CC+","that we didnt code using python","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"340",27,6,"experimental","T6",152,5,5,4,5,5,2,5,5,"marty programming","nothing","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"341",28,10,"experimental","T6",125,1,2,2,2,3,4,2,2,"that marty could speak","that everyone wanted to do something else","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"342",29,8,"experimental","T6",45,5,5,5,5,5,1,5,5,"","","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"343",30,9,"experimental","T6",113,5,5,4,4,4,2,5,5,"Programming and explaining how to create codes ","the programming was a bit difficult but it was okay","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"344",31,10,"experimental","T6",116,3,3,2,3,2,4,3,3,"That we were able to talk briefly with Marty and programming","that our group doesnt get along","",NA,NA,NA,"","",NA,NA,NA,"","","","","","","","","","",NA
+"345",1,1,"experimental","T7",206,5,4,5,5,5,2,5,5,"marty talking
+","building more and talk about other things","Herbert",4,4,3,"the speaking","that we talked about microcontrollers and not about other things",5,4,4,"that we were the first","that marty isnt bigger and not a dinosaur","","","","","","","","",NA
+"346",2,1,"experimental","T7",240,5,2,3,3,3,1,2,3,"Talking with Marty and the rhymes he said ","there was nothing difficult","Peter",4,3,4,"that he came up with rhymes","there was nothing i didnt like except that he sometimes talks crap",4,4,3,"I liked building that best because it was more fun than anything else. ","I didnt dislike anything","","","","","","","","",NA
+"347",3,2,"experimental","T7",374,4,5,4,4,4,1,4,4,"That we programmed so much today.
+That we were able to try out so many things","Marty kept saying different things or interrupting, but otherwise everything was fine","Vali",4,5,2,"that he talked well","nothing",5,5,4,"That we played soccer with the Martys and that we could build things but also program.","it was good","","","","","","","","",NA
+"348",4,3,"experimental","T7",218,4,3,4,1,5,1,3,3,"speaking with marty","nothing","Agent M",4,4,3,"that we got a lot of information","nothing",4,4,4,"the building","nothing","","","","","","","","",NA
+"349",5,4,"experimental","T7",260,5,5,4,5,5,2,5,5,"I really liked that we learned how to program and that we created mnemonics. ","nothing everything was great","Weihnachtsmann ",5,5,3,"that we created mnemonics","nothing",5,5,4,"the building","that in our group marty didnt work at first","","","","","","","","",NA
+"350",6,3,"experimental","T7",361,4,4,3,3,4,2,4,3,"talking to marty","nothing actually","Francisko winkler ",4,4,4,"that we could just talk with marty","that we always had to tell him to speak german",4,5,3,"the building of marty","the programming","","","","","","","","",NA
+"351",7,4,"experimental","T7",177,5,5,5,4,5,1,5,5,"to make the rap","nothing","Hiiii",5,5,3,"a lot","nothing",5,5,1,"the building and programming","nothing","","","","","","","","",NA
+"352",8,1,"experimental","T7",247,3,3,3,3,5,1,3,4,"programming","nothing","G�nter",5,4,4,"everything except for one thing","that he always answered wrong",5,4,5,"building","programming rather not","","","","","","","","",NA
+"353",9,5,"experimental","T7",221,3,3,2,3,4,4,3,2,"","","Der Gro�e Sigma",3,2,3,"that he could help us","that he couldnt do some things",4,3,2,"","","","","","","","","","",NA
+"354",10,2,"experimental","T7",249,4,3,4,5,4,1,4,4,"talking with marty","nothing","Donald Trump",4,4,3,"talking to him","that he sometimes didnt understand certain things",4,4,5,"building marty","programming","","","","","","","","",NA
+"355",11,2,"experimental","T7",237,1,4,1,4,5,3,2,3,"programming","nothing","Ich wei� nicht ",3,2,1,"nothing","too little practical work",4,2,4,"building marty","programming","","","","","","","","",NA
+"356",12,4,"experimental","T7",243,5,5,4,5,5,1,4,4,"talking with the robot","nothing","Ande€",5,4,3,"that it was funny","nothing",5,4,2,"everything with the robot","nothing","","","","","","","","",NA
+"357",13,3,"experimental","T7",213,3,3,2,2,3,3,4,4,"talking to marty","","agent J",2,3,2,"marty knows a lot","marty misunderstands some things",4,4,4,"building marty, first tests","programming","","","","","","","","",NA
+"358",14,5,"experimental","T7",235,4,3,3,4,4,1,3,3,"","","Der F�hrer",4,4,3,"okay","okay",5,4,4,"sounds","learning with teacher XXX","","","","","","","","",NA
+"359",15,5,"experimental","T7",274,3,2,3,4,3,1,3,3,"asking marty about a mnemonic","theory","Der Alpha",4,3,2,"asking marty a bit","More freedom, in that you don't have to ask anything specific, but can ask whatever you want.",4,4,4,"building and carrying out programs","The theory, the questionnaires, and asking about mnemonics because you didn't have much freedom","","","","","","","","",NA
+"360",20,6,"experimental","T7",402,5,5,4,5,4,2,5,5,"This time everything, it was nice  to program.","","Margot, SAXY",4,3,4,"that marty always mentioned all group members","He really wanted to end the conversation.",5,5,4,"programming marty but also building wasn't bad","Well, some teachers weren't always in a good mood or very nice, and Ms. XXX bothered me the most. The researchers were very nice. Ms. XXX from ASW was also nice.","","","","","","","","",NA
+"361",23,7,"experimental","T7",270,4,4,3,3,4,1,2,3,"that it is over because Marty was getting on my nerves because he was a bit broken.","that our marty spoke well","Blau ",4,2,3,"that marty explained easily understandable","Marty explained it well, but he always gave a different opinion, which was always different.",4,3,2,"That we finished building our Marty and could then start programming. ","Our Marty was a bit broken so that he always fell over when he had to walk","","","","","","","","",NA
+"362",24,6,"experimental","T7",243,3,3,3,3,4,2,4,4,"Talking to Marty, that we could use a laptop","","Alpha",4,3,2,"creating a story with marty","that we were out of time",4,3,4,"building marty and programming","","","","","","","","","",NA
+"363",25,10,"experimental","T7",310,5,5,5,5,5,5,5,5,"When we spoke with Marty and when he explained to us ","nothing","ti qi ropt",5,1,3,"no answer","no answer",5,4,4,"when i used the laptop","when we had to read someting or work on the QR codes","","","","","","","","",NA
+"364",26,7,"experimental","T7",336,4,3,4,4,4,2,3,3,"Working on a laptop ","nothing","Herbert von herbert der 3. m�nnlichen Grades",4,2,3,"It was funny that he kept saying he didn't have any time left. ","That he kept saying that we had to do the tasks and not him. ",4,3,3,"the work with the laptop","building marty (because it didnt work in the end)","","","","","","","","",NA
+"365",27,6,"experimental","T7",409,5,5,4,5,5,1,5,5,"Talk to Marty and create a mnemonic device","nothing","nilloc / someone",5,3,2,"when we created the mnemonic","everything was good so nothing",5,4,4,"building marty, programming, and talking","Everything was perfect. I would have liked to work with friends, but my group was also good.","","","","","","","","",NA
+"366",28,10,"experimental","T7",245,3,2,3,3,4,3,2,3,"That he could talk to us","nothing","Amy",4,3,1,"that he could answer our questions","nothing",2,3,2,"that we had someting to do with a robot","working together and that programming was a bit difficult","","","","","","","","",NA
+"367",29,8,"experimental","T7",143,5,5,5,5,5,5,5,5,"","","A",2,3,4,"","",4,4,4,"the building","the cable management","","","","","","","","",NA
+"368",30,9,"experimental","T7",406,5,5,3,3,4,2,5,5,"Talking to Marty and setting it up right ","I found the thing with the microcontroller a bit difficult","tia",5,4,2,"That Marty now responds to us in detail, but also subconsciously lets us know when we stray from the topic. ","It took a little too long to load, but later it was back to normal. ",5,4,2,"the things with the code and C++","Actually I found everything quite interesting","","","","","","","","",NA
+"369",31,10,"experimental","T7",237,3,4,4,4,4,3,4,4,"We learned why you shouldn't reveal your name to Chat GPT.","our group doesnt get along","Didi",4,4,2,"that marty helped us with the mnemonic","that marty asked us things",3,4,2,"that we could speak and learn with marty","our group didnt get along","","","","","","","","",NA
+"370",32,9,"experimental","T7",232,3,2,3,4,3,4,1,1,"Working on the laptop and finishing the project ","nothing","Aless (a)",2,1,2,"nothing","nothing",1,2,2,"working with the laptop","all the modern stuff","","","","","","","","",NA

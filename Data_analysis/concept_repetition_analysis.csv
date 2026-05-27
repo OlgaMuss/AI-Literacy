@@ -1,0 +1,14 @@
+Concept_Category,N_Weeks_Appearing,Weeks,Max_Spacing
+LLM,5,"[2, 3, 4, 6, 7]",5
+Programming,4,"[3, 4, 5, 6]",3
+Biases,3,"[2, 3, 4]",2
+Sensors,3,"[1, 4, 5]",4
+Machine Learning,2,"[2, 3]",1
+Hallucinations,2,"[2, 4]",2
+Sustainability,2,"[3, 6]",3
+Motors,2,"[1, 4]",3
+Microcontroller,2,"[6, 7]",1
+Prompting,2,"[2, 3]",1
+Safeguards,2,"[6, 7]",1
+AI definition,1,[2],0
+Ethics,1,[6],0

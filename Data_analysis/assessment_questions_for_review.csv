@@ -1,0 +1,42 @@
+Item_ID,Concept,Week,Question,Correct_Answer,Difficulty
+0,Social robots definition,1,"[Item 0] 1. Which Marty component is shown in this picture?
+
+A) Circuit board connecting the leg motors and sensors to the onboard computer in the head.
+
+B) Onboard computer that controls the robot.
+
+C) Infrared sensor that detects movement.
+
+D) Knee motor that moves the leg.",,
+3,"What is AI (definition, characteristics)",2,"[Item 3] 2. Which of the following tasks can a sensor not perform?
+a) Detect if an object is in front of the sensor.
+b) Measure the brightness of the light in a room.
+c) Move a leg to make something move.
+d) Sense if the sensors is being tilted or picked up.","VERIFY, VERIFY","DA09: -1.30 (easy)
+, GA10: -1.45 (easy)"
+7,"What is AI (definition, characteristics)",2,"[Item 7] CA12: Which of the following examples is NOT AI?
+a) Style change filters in applications such as Prisma, which use a photo as a starting point and create variants in different art styles (impressionist, cubist, etc.).
+b) A music recommendation system such as Spotify recommends music based on the user's listening behavior.
+c) Big data storage solutions that store large amounts of data (e.g., images or videos) and can play them for a large number of users at the same time.
+d) Applications that can reformulate a text into different language styles. (AICOS, Markus 2025)","VERIFY, VERIFY","DA09: -1.30 (easy)
+, GA10: -1.45 (easy)"
+10,Cultural bias in AI,3,"[Item 10] UA19: What is a central feature of reinforcement learning models?
+a) The model performs actions and learns through a trial-and-error method.
+b) It works in interaction with the training environment.
+c) The model makes decisions based on previous experience and current states.
+d) The model requires a labeled data set for training.",VERIFY,EA05: -1.28 (easy)
+12,"Biases in AI (gender, racial, algorithmic)",4,"[Item 12] 1. When designing a prompt for an LLM, which of the following instructions could produce a worse response?
+a) ""Act as an expert historian and summarize the main causes of the French Revolution in 100 words.""
+b) ""Write a short, funny poem about a robot that is learning to cook.""
+c) ""Tell me about science.""
+d) ""Based on the attached document, identify three key risks and one opportunity.""",VERIFY,
+1,Sensor types (general),5,"[Item 1] 2. What movements can Marty's hip motor perform?
+a) move the entire leg
+b) rotate the lower leg at the knee
+c) bend the knee
+d) raise and lower the arm",VERIFY,
+16,"AI ethics (transparency, privacy, alignment)",6,"[Item 16] 1. In programming, which of these is the best description of a command?
+a) A single, basic command, like ""turn left"".
+b) A collection of all possible commands you can use.
+c) A sequence of commands, saved so it can be easily run again later.
+d) A variable that stores a single piece of information, like a number.",VERIFY,GA16: -1.01 (easy)

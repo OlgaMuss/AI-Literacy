@@ -1,0 +1,8 @@
+Week,N_Concepts,N_Assessed,N_Unassessed,Pct_Assessed,Item_Codes,Instructional_Time_Min,Time_Per_Concept_Min,Avg_Concreteness,Avg_Repetition
+1,5,0,5,0.0,robotparts,60,12.0,3.2,1.6
+2,8,6,2,75.0,"AI_DA09, CA12, CI29, CI31, UA19, GA10, GA13",130,16.2,2.12,2.88
+3,9,9,0,100.0,EA05,130,14.4,2.0,1.67
+4,11,11,0,100.0,"GA04, LLMdesign_1, PR1, PR2, PR3, PR4, robotparts_2, sensors",124,11.3,2.73,1.73
+5,6,0,6,0.0,"sensors_1, sensors_2",130,21.7,4.67,2.17
+6,11,1,10,9.1,"microcontrollers_1, microcontrollers_2, GA16, EA11, GA17",135,12.3,2.36,1.73
+7,6,0,6,0.0,,123,20.5,2.17,1.67

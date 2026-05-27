@@ -1,0 +1,196 @@
+Week_Number,Week,Concept,Concept_Category,Concreteness_Level,Repetition_N_Weeks,Time_Per_Concept_Min,Has_Assessment,N_Matching_Items,Matching_Item_IDs,Assessment_Question,Correct_Answer,Item_Difficulties,Item_Source,Instructional_Time_Min,N_Concepts_Week
+1,Week 1,Social robots definition,Other,2,0,12.0,True,1,0,"[Item 0] 1. Which Marty component is shown in this picture?
+
+A) Circuit board connecting the leg motors and sensors to the onboard computer in the head.
+
+B) Onboard computer that controls the robot.
+
+C) Infrared sensor that detects movement.
+
+D) Knee motor that moves the leg.",,,Unknown,60,5
+1,Week 1,Types of robots (social vs industrial vs virtual agents),Other,2,0,12.0,True,1,0,"[Item 0] 1. Which Marty component is shown in this picture?
+
+A) Circuit board connecting the leg motors and sensors to the onboard computer in the head.
+
+B) Onboard computer that controls the robot.
+
+C) Infrared sensor that detects movement.
+
+D) Knee motor that moves the leg.",,,Unknown,60,5
+1,Week 1,Marty robot introduction,Other,2,0,12.0,True,1,0,"[Item 0] 1. Which Marty component is shown in this picture?
+
+A) Circuit board connecting the leg motors and sensors to the onboard computer in the head.
+
+B) Onboard computer that controls the robot.
+
+C) Infrared sensor that detects movement.
+
+D) Knee motor that moves the leg.",,,Unknown,60,5
+1,Week 1,"Robot components (motors, sensors, computer)",Sensors,5,3,12.0,True,1,0,"[Item 0] 1. Which Marty component is shown in this picture?
+
+A) Circuit board connecting the leg motors and sensors to the onboard computer in the head.
+
+B) Onboard computer that controls the robot.
+
+C) Infrared sensor that detects movement.
+
+D) Knee motor that moves the leg.",,,Unknown,60,5
+1,Week 1,Robot parts identification,Other,5,0,12.0,True,1,0,"[Item 0] 1. Which Marty component is shown in this picture?
+
+A) Circuit board connecting the leg motors and sensors to the onboard computer in the head.
+
+B) Onboard computer that controls the robot.
+
+C) Infrared sensor that detects movement.
+
+D) Knee motor that moves the leg.",,,Unknown,60,5
+2,Week 2,"What is AI (definition, characteristics)",AI definition,2,1,16.25,True,2,"3, 7","[Item 3] 2. Which of the following tasks can a sensor not perform?
+a) Detect if an object is in front of the sensor.
+b) Measure the brightness of the light in a room.
+c) Move a leg to make something move.
+d) Sense if the sensors is being tilted or picked up. || [Item 7] CA12: Which of the following examples is NOT AI?
+a) Style change filters in applications such as Prisma, which use a photo as a starting point and create variants in different art styles (impressionist, cubist, etc.).
+b) A music recommendation system such as Spotify recommends music based on the user's listening behavior.
+c) Big data storage solutions that store large amounts of data (e.g., images or videos) and can play them for a large number of users at the same time.
+d) Applications that can reformulate a text into different language styles. (AICOS, Markus 2025)","VERIFY, VERIFY","DA09: -1.30 (easy)
+, GA10: -1.45 (easy)","Unknown, added by authors",130,8
+2,Week 2,AI vs non-AI applications,Other,2,0,16.25,True,2,"3, 7","[Item 3] 2. Which of the following tasks can a sensor not perform?
+a) Detect if an object is in front of the sensor.
+b) Measure the brightness of the light in a room.
+c) Move a leg to make something move.
+d) Sense if the sensors is being tilted or picked up. || [Item 7] CA12: Which of the following examples is NOT AI?
+a) Style change filters in applications such as Prisma, which use a photo as a starting point and create variants in different art styles (impressionist, cubist, etc.).
+b) A music recommendation system such as Spotify recommends music based on the user's listening behavior.
+c) Big data storage solutions that store large amounts of data (e.g., images or videos) and can play them for a large number of users at the same time.
+d) Applications that can reformulate a text into different language styles. (AICOS, Markus 2025)","VERIFY, VERIFY","DA09: -1.30 (easy)
+, GA10: -1.45 (easy)","Unknown, added by authors",130,8
+2,Week 2,"Machine Learning types (supervised, unsupervised, reinforcement)",Machine Learning,2,2,16.25,False,0,,,,,,130,8
+2,Week 2,Classification vs Generation,Other,2,0,16.25,False,0,,,,,,130,8
+2,Week 2,LLM introduction,LLM,2,5,16.25,True,1,7,"[Item 7] CA12: Which of the following examples is NOT AI?
+a) Style change filters in applications such as Prisma, which use a photo as a starting point and create variants in different art styles (impressionist, cubist, etc.).
+b) A music recommendation system such as Spotify recommends music based on the user's listening behavior.
+c) Big data storage solutions that store large amounts of data (e.g., images or videos) and can play them for a large number of users at the same time.
+d) Applications that can reformulate a text into different language styles. (AICOS, Markus 2025)",VERIFY,GA10: -1.45 (easy),Unknown,130,8
+2,Week 2,"LLM limitations (hallucinations, biases)",LLM,2,5,16.25,True,1,7,"[Item 7] CA12: Which of the following examples is NOT AI?
+a) Style change filters in applications such as Prisma, which use a photo as a starting point and create variants in different art styles (impressionist, cubist, etc.).
+b) A music recommendation system such as Spotify recommends music based on the user's listening behavior.
+c) Big data storage solutions that store large amounts of data (e.g., images or videos) and can play them for a large number of users at the same time.
+d) Applications that can reformulate a text into different language styles. (AICOS, Markus 2025)",VERIFY,GA10: -1.45 (easy),Unknown,130,8
+2,Week 2,"LLM uses (brainstorming, summarizing, tutoring)",LLM,2,5,16.25,True,1,7,"[Item 7] CA12: Which of the following examples is NOT AI?
+a) Style change filters in applications such as Prisma, which use a photo as a starting point and create variants in different art styles (impressionist, cubist, etc.).
+b) A music recommendation system such as Spotify recommends music based on the user's listening behavior.
+c) Big data storage solutions that store large amounts of data (e.g., images or videos) and can play them for a large number of users at the same time.
+d) Applications that can reformulate a text into different language styles. (AICOS, Markus 2025)",VERIFY,GA10: -1.45 (easy),Unknown,130,8
+2,Week 2,Prompt engineering basics,Prompting,2,2,16.25,True,1,7,"[Item 7] CA12: Which of the following examples is NOT AI?
+a) Style change filters in applications such as Prisma, which use a photo as a starting point and create variants in different art styles (impressionist, cubist, etc.).
+b) A music recommendation system such as Spotify recommends music based on the user's listening behavior.
+c) Big data storage solutions that store large amounts of data (e.g., images or videos) and can play them for a large number of users at the same time.
+d) Applications that can reformulate a text into different language styles. (AICOS, Markus 2025)",VERIFY,GA10: -1.45 (easy),Unknown,130,8
+3,Week 3,LLM architecture and training,LLM,2,5,13.0,False,0,,,,,,130,10
+3,Week 3,"How LLMs work (3 stages: unsupervised, supervised, reinforcement)",Machine Learning,2,2,13.0,False,0,,,,,,130,10
+3,Week 3,"Existing LLMs (ChatGPT, etc.)",LLM,2,5,13.0,False,0,,,,,,130,10
+3,Week 3,Prompts and prompt engineering,Prompting,2,2,13.0,False,0,,,,,,130,10
+3,Week 3,"Sustainability of robots (materials, recycling)",Sustainability,2,2,13.0,False,0,,,,,,130,10
+3,Week 3,"Environmental impact (plastic, electronics, batteries)",Sustainability,2,2,13.0,False,0,,,,,,130,10
+3,Week 3,Lithium and resource constraints,Sustainability,2,2,13.0,False,0,,,,,,130,10
+3,Week 3,Social equity and AI access,Other,2,0,13.0,False,0,,,,,,130,10
+3,Week 3,Cultural bias in AI,Biases,2,3,13.0,True,1,10,"[Item 10] UA19: What is a central feature of reinforcement learning models?
+a) The model performs actions and learns through a trial-and-error method.
+b) It works in interaction with the training environment.
+c) The model makes decisions based on previous experience and current states.
+d) The model requires a labeled data set for training.",VERIFY,EA05: -1.28 (easy),"AICOS; Markus, 2025",130,10
+3,Week 3,Feedback loops and tipping points,Programming,2,4,13.0,False,0,,,,,,130,10
+4,Week 4,"Biases in AI (gender, racial, algorithmic)",Biases,2,3,12.4,True,1,12,"[Item 12] 1. When designing a prompt for an LLM, which of the following instructions could produce a worse response?
+a) ""Act as an expert historian and summarize the main causes of the French Revolution in 100 words.""
+b) ""Write a short, funny poem about a robot that is learning to cook.""
+c) ""Tell me about science.""
+d) ""Based on the attached document, identify three key risks and one opportunity.""",VERIFY,,added by author,124,10
+4,Week 4,Hallucinations in LLMs,LLM,2,5,12.4,True,1,12,"[Item 12] 1. When designing a prompt for an LLM, which of the following instructions could produce a worse response?
+a) ""Act as an expert historian and summarize the main causes of the French Revolution in 100 words.""
+b) ""Write a short, funny poem about a robot that is learning to cook.""
+c) ""Tell me about science.""
+d) ""Based on the attached document, identify three key risks and one opportunity.""",VERIFY,,added by author,124,10
+4,Week 4,When NOT to use AI,Other,2,0,12.4,False,0,,,,,,124,10
+4,Week 4,Strategies for appropriate AI use,Other,2,0,12.4,False,0,,,,,,124,10
+4,Week 4,"Programming basics (commands, variables, functions, parameters)",Programming,4,4,12.4,True,1,12,"[Item 12] 1. When designing a prompt for an LLM, which of the following instructions could produce a worse response?
+a) ""Act as an expert historian and summarize the main causes of the French Revolution in 100 words.""
+b) ""Write a short, funny poem about a robot that is learning to cook.""
+c) ""Tell me about science.""
+d) ""Based on the attached document, identify three key risks and one opportunity.""",VERIFY,,added by author,124,10
+4,Week 4,Loops and conditionals (if-else),Programming,2,4,12.4,True,1,12,"[Item 12] 1. When designing a prompt for an LLM, which of the following instructions could produce a worse response?
+a) ""Act as an expert historian and summarize the main causes of the French Revolution in 100 words.""
+b) ""Write a short, funny poem about a robot that is learning to cook.""
+c) ""Tell me about science.""
+d) ""Based on the attached document, identify three key risks and one opportunity.""",VERIFY,,added by author,124,10
+4,Week 4,Libraries,Other,2,0,12.4,True,1,12,"[Item 12] 1. When designing a prompt for an LLM, which of the following instructions could produce a worse response?
+a) ""Act as an expert historian and summarize the main causes of the French Revolution in 100 words.""
+b) ""Write a short, funny poem about a robot that is learning to cook.""
+c) ""Tell me about science.""
+d) ""Based on the attached document, identify three key risks and one opportunity.""",VERIFY,,added by author,124,10
+4,Week 4,"Marty architecture (motors, sensors)",Sensors,5,3,12.4,False,0,,,,,,124,10
+4,Week 4,"Sensors (infrared, color)",Sensors,5,3,12.4,False,0,,,,,,124,10
+4,Week 4,Motor function,Programming,5,4,12.4,True,1,12,"[Item 12] 1. When designing a prompt for an LLM, which of the following instructions could produce a worse response?
+a) ""Act as an expert historian and summarize the main causes of the French Revolution in 100 words.""
+b) ""Write a short, funny poem about a robot that is learning to cook.""
+c) ""Tell me about science.""
+d) ""Based on the attached document, identify three key risks and one opportunity.""",VERIFY,,added by author,124,10
+5,Week 5,Blockly programming,Programming,4,4,18.571428571428573,False,0,,,,,,130,7
+5,Week 5,Sensor types (general),Sensors,5,3,18.571428571428573,True,1,1,"[Item 1] 2. What movements can Marty's hip motor perform?
+a) move the entire leg
+b) rotate the lower leg at the knee
+c) bend the knee
+d) raise and lower the arm",VERIFY,,added by authors,130,7
+5,Week 5,"Marty sensors (infrared, color)",Sensors,5,3,18.571428571428573,True,1,1,"[Item 1] 2. What movements can Marty's hip motor perform?
+a) move the entire leg
+b) rotate the lower leg at the knee
+c) bend the knee
+d) raise and lower the arm",VERIFY,,added by authors,130,7
+5,Week 5,How sensors work,Sensors,5,3,18.571428571428573,True,1,1,"[Item 1] 2. What movements can Marty's hip motor perform?
+a) move the entire leg
+b) rotate the lower leg at the knee
+c) bend the knee
+d) raise and lower the arm",VERIFY,,added by authors,130,7
+5,Week 5,Sensor input in programming,Programming,5,4,18.571428571428573,True,1,1,"[Item 1] 2. What movements can Marty's hip motor perform?
+a) move the entire leg
+b) rotate the lower leg at the knee
+c) bend the knee
+d) raise and lower the arm",VERIFY,,added by authors,130,7
+5,Week 5,Dance choreography programming,Programming,4,4,18.571428571428573,False,0,,,,,,130,7
+5,Week 5,Sensor-triggered actions,Sensors,5,3,18.571428571428573,False,0,,,,,,130,7
+6,Week 6,"Microcontrollers (definition, function)",Programming,2,4,12.272727272727272,False,0,,,,,,135,11
+6,Week 6,Arduino Nano introduction,Microcontroller,4,2,12.272727272727272,False,0,,,,,,135,11
+6,Week 6,C++ programming,Programming,4,4,12.272727272727272,False,0,,,,,,135,11
+6,Week 6,"AI ethics (transparency, privacy, alignment)",Ethics,2,1,12.272727272727272,True,1,16,"[Item 16] 1. In programming, which of these is the best description of a command?
+a) A single, basic command, like ""turn left"".
+b) A collection of all possible commands you can use.
+c) A sequence of commands, saved so it can be easily run again later.
+d) A variable that stores a single piece of information, like a number.",VERIFY,GA16: -1.01 (easy),added by author,135,11
+6,Week 6,Mental health impacts of AI,Other,2,0,12.272727272727272,False,0,,,,,,135,11
+6,Week 6,Over-reliance on AI,Other,2,0,12.272727272727272,True,1,16,"[Item 16] 1. In programming, which of these is the best description of a command?
+a) A single, basic command, like ""turn left"".
+b) A collection of all possible commands you can use.
+c) A sequence of commands, saved so it can be easily run again later.
+d) A variable that stores a single piece of information, like a number.",VERIFY,GA16: -1.01 (easy),added by author,135,11
+6,Week 6,Manipulation and persuasion by AI,Other,2,0,12.272727272727272,True,1,16,"[Item 16] 1. In programming, which of these is the best description of a command?
+a) A single, basic command, like ""turn left"".
+b) A collection of all possible commands you can use.
+c) A sequence of commands, saved so it can be easily run again later.
+d) A variable that stores a single piece of information, like a number.",VERIFY,GA16: -1.01 (easy),added by author,135,11
+6,Week 6,Misinformation and content accuracy,Other,2,0,12.272727272727272,True,1,16,"[Item 16] 1. In programming, which of these is the best description of a command?
+a) A single, basic command, like ""turn left"".
+b) A collection of all possible commands you can use.
+c) A sequence of commands, saved so it can be easily run again later.
+d) A variable that stores a single piece of information, like a number.",VERIFY,GA16: -1.01 (easy),added by author,135,11
+6,Week 6,"Sustainability impacts (energy, water)",Sustainability,2,2,12.272727272727272,False,0,,,,,,135,11
+6,Week 6,Equity and accessibility,Other,2,0,12.272727272727272,True,1,16,"[Item 16] 1. In programming, which of these is the best description of a command?
+a) A single, basic command, like ""turn left"".
+b) A collection of all possible commands you can use.
+c) A sequence of commands, saved so it can be easily run again later.
+d) A variable that stores a single piece of information, like a number.",VERIFY,GA16: -1.01 (easy),added by author,135,11
+6,Week 6,LLM safeguards,LLM,2,5,12.272727272727272,False,0,,,,,,135,11
+7,Week 7,Microcontroller review,Microcontroller,2,2,20.5,False,0,,,,,,123,6
+7,Week 7,LLM safeguards review,LLM,2,5,20.5,False,0,,,,,,123,6
+7,Week 7,Scaffolded vs unscaffolded LLM interactions,LLM,2,5,20.5,False,0,,,,,,123,6
+7,Week 7,LLM interaction design,LLM,2,5,20.5,False,0,,,,,,123,6
+7,Week 7,Educational applications of LLMs,LLM,2,5,20.5,False,0,,,,,,123,6
+7,Week 7,Responsible AI use synthesis,Other,2,0,20.5,False,0,,,,,,123,6

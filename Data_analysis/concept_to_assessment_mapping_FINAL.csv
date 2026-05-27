@@ -1,0 +1,57 @@
+Week,Concept,Concreteness_Level,Repetition_N_Weeks,Time_Per_Concept_Min,Has_Assessment,N_Assessment_Items,Item_Codes,Assessment_Question,Correct_Answer,Item_Difficulty,Correct_Answer_Verified
+1,Social robots definition,2,2,12.0,False,0,,,,,
+1,Robot types,2,1,12.0,False,0,,,,,
+1,Marty introduction,2,3,12.0,False,0,,,,,
+1,"Robot components (motors, sensors, computer)",5,1,12.0,False,0,,,,,
+1,Robot parts identification,5,1,12.0,False,0,,,,,
+2,AI definition,2,5,16.2,True,3,"CA12, GA10, GA13",CA12: Which of the following examples is NOT AI?,VERIFY,CA12: -1.40 (easy),"c, a, d"
+2,AI vs non-AI,2,5,16.2,True,3,"CA12, GA10, GA13",CA12: Which of the following examples is NOT AI?,VERIFY,CA12: -1.40 (easy),"c, a, d"
+2,"ML types (supervised, unsupervised, reinforcement)",2,1,16.2,False,0,,,,,
+2,Classification vs Generation,2,1,16.2,False,0,,,,,
+2,LLM introduction,2,3,16.2,True,1,GA10,"GA10: What is a ""prompt""?",VERIFY,GA10: -1.45 (easy),a
+2,LLM limitations,2,3,16.2,True,1,GA10,"GA10: What is a ""prompt""?",VERIFY,GA10: -1.45 (easy),a
+2,LLM uses,3,3,16.2,True,1,GA10,"GA10: What is a ""prompt""?",VERIFY,GA10: -1.45 (easy),a
+2,Prompt engineering,2,2,16.2,True,1,GA10,"GA10: What is a ""prompt""?",VERIFY,GA10: -1.45 (easy),a
+3,LLM architecture,2,3,14.4,True,1,EA05,"EA05: Two people use a voice assistant to search for career opportunities in technology. While person 1 (a young German woman) receives numerous job offers, including management positions and support programs, person 2 (a young man with a non-European background) mainly receives information on entry-level jobs and further training. What ethical dilemma is illustrated by this scenario?",VERIFY,EA05: -1.28 (easy),b
+3,How LLMs work (3 stages),2,2,14.4,True,1,EA05,"EA05: Two people use a voice assistant to search for career opportunities in technology. While person 1 (a young German woman) receives numerous job offers, including management positions and support programs, person 2 (a young man with a non-European background) mainly receives information on entry-level jobs and further training. What ethical dilemma is illustrated by this scenario?",VERIFY,EA05: -1.28 (easy),b
+3,Existing LLMs,2,1,14.4,True,1,EA05,"EA05: Two people use a voice assistant to search for career opportunities in technology. While person 1 (a young German woman) receives numerous job offers, including management positions and support programs, person 2 (a young man with a non-European background) mainly receives information on entry-level jobs and further training. What ethical dilemma is illustrated by this scenario?",VERIFY,EA05: -1.28 (easy),b
+3,Prompt engineering advanced,2,2,14.4,True,1,EA05,"EA05: Two people use a voice assistant to search for career opportunities in technology. While person 1 (a young German woman) receives numerous job offers, including management positions and support programs, person 2 (a young man with a non-European background) mainly receives information on entry-level jobs and further training. What ethical dilemma is illustrated by this scenario?",VERIFY,EA05: -1.28 (easy),b
+3,"Sustainability (materials, recycling, batteries)",2,2,14.4,True,1,EA05,"EA05: Two people use a voice assistant to search for career opportunities in technology. While person 1 (a young German woman) receives numerous job offers, including management positions and support programs, person 2 (a young man with a non-European background) mainly receives information on entry-level jobs and further training. What ethical dilemma is illustrated by this scenario?",VERIFY,EA05: -1.28 (easy),b
+3,Environmental impact,2,1,14.4,True,1,EA05,"EA05: Two people use a voice assistant to search for career opportunities in technology. While person 1 (a young German woman) receives numerous job offers, including management positions and support programs, person 2 (a young man with a non-European background) mainly receives information on entry-level jobs and further training. What ethical dilemma is illustrated by this scenario?",VERIFY,EA05: -1.28 (easy),b
+3,Social equity,2,2,14.4,True,1,EA05,"EA05: Two people use a voice assistant to search for career opportunities in technology. While person 1 (a young German woman) receives numerous job offers, including management positions and support programs, person 2 (a young man with a non-European background) mainly receives information on entry-level jobs and further training. What ethical dilemma is illustrated by this scenario?",VERIFY,EA05: -1.28 (easy),b
+3,Cultural bias,2,1,14.4,True,1,EA05,"EA05: Two people use a voice assistant to search for career opportunities in technology. While person 1 (a young German woman) receives numerous job offers, including management positions and support programs, person 2 (a young man with a non-European background) mainly receives information on entry-level jobs and further training. What ethical dilemma is illustrated by this scenario?",VERIFY,EA05: -1.28 (easy),b
+3,Feedback loops,2,1,14.4,True,1,EA05,"EA05: Two people use a voice assistant to search for career opportunities in technology. While person 1 (a young German woman) receives numerous job offers, including management positions and support programs, person 2 (a young man with a non-European background) mainly receives information on entry-level jobs and further training. What ethical dilemma is illustrated by this scenario?",VERIFY,EA05: -1.28 (easy),b
+4,Biases in AI,2,1,11.3,True,2,"GA04, PR1",GA04: Hallucinations in AI models refer to nonsensical or grammatically incorrect words or sentences generated by the model. Which of the following factors probably does not cause hallucinations?,VERIFY,GA04: 1.01 (difficult),"b, a"
+4,Hallucinations,2,1,11.3,True,1,GA04,GA04: Hallucinations in AI models refer to nonsensical or grammatically incorrect words or sentences generated by the model. Which of the following factors probably does not cause hallucinations?,VERIFY,GA04: 1.01 (difficult),b
+4,When NOT to use AI,2,1,11.3,True,1,GA04,GA04: Hallucinations in AI models refer to nonsensical or grammatically incorrect words or sentences generated by the model. Which of the following factors probably does not cause hallucinations?,VERIFY,GA04: 1.01 (difficult),b
+4,Appropriate AI use,2,1,11.3,True,1,GA04,GA04: Hallucinations in AI models refer to nonsensical or grammatically incorrect words or sentences generated by the model. Which of the following factors probably does not cause hallucinations?,VERIFY,GA04: 1.01 (difficult),b
+4,Programming basics,4,3,11.3,True,1,PR1,"1. In programming, which of these is the best description of a command?",VERIFY,,a
+4,Loops,2,2,11.3,True,1,GA04,GA04: Hallucinations in AI models refer to nonsensical or grammatically incorrect words or sentences generated by the model. Which of the following factors probably does not cause hallucinations?,VERIFY,GA04: 1.01 (difficult),b
+4,Conditionals,2,1,11.3,True,1,GA04,GA04: Hallucinations in AI models refer to nonsensical or grammatically incorrect words or sentences generated by the model. Which of the following factors probably does not cause hallucinations?,VERIFY,GA04: 1.01 (difficult),b
+4,Libraries,2,1,11.3,True,1,PR1,"1. In programming, which of these is the best description of a command?",VERIFY,,a
+4,Marty architecture,2,3,11.3,True,1,GA04,GA04: Hallucinations in AI models refer to nonsensical or grammatically incorrect words or sentences generated by the model. Which of the following factors probably does not cause hallucinations?,VERIFY,GA04: 1.01 (difficult),b
+4,"Sensors (IR, color)",5,3,11.3,True,1,GA04,GA04: Hallucinations in AI models refer to nonsensical or grammatically incorrect words or sentences generated by the model. Which of the following factors probably does not cause hallucinations?,VERIFY,GA04: 1.01 (difficult),b
+4,Motors,5,2,11.3,True,1,GA04,GA04: Hallucinations in AI models refer to nonsensical or grammatically incorrect words or sentences generated by the model. Which of the following factors probably does not cause hallucinations?,VERIFY,GA04: 1.01 (difficult),b
+5,Blockly programming,4,1,21.7,False,0,,,,,
+5,Sensor types,5,3,21.7,False,0,,,,,
+5,Marty sensors,5,3,21.7,False,0,,,,,
+5,How sensors work,5,2,21.7,False,0,,,,,
+5,Sensor programming,5,3,21.7,False,0,,,,,
+5,Choreography programming,4,1,21.7,False,0,,,,,
+6,Microcontrollers,2,1,12.3,False,0,,,,,
+6,Arduino,4,1,12.3,False,0,,,,,
+6,C++ programming,4,1,12.3,False,0,,,,,
+6,"AI ethics (privacy, transparency, alignment)",2,5,12.3,True,1,GA16,GA16: A company decides to use AI instead of human voice actors for the voice recordings of a movie. What ethical problem could arise in terms of social responsibility?,VERIFY,GA16: -1.01 (easy),b
+6,Mental health impacts,2,2,12.3,False,0,,,,,
+6,Over-reliance,2,1,12.3,False,0,,,,,
+6,Manipulation,2,1,12.3,False,0,,,,,
+6,Misinformation,2,1,12.3,False,0,,,,,
+6,Sustainability impacts,2,2,12.3,False,0,,,,,
+6,Equity,2,2,12.3,False,0,,,,,
+6,Safeguards,2,2,12.3,False,0,,,,,
+7,Microcontroller review,2,2,20.5,False,0,,,,,
+7,Safeguards review,2,2,20.5,False,0,,,,,
+7,Scaffolded LLM interactions,2,1,20.5,False,0,,,,,
+7,LLM interaction design,2,3,20.5,False,0,,,,,
+7,Educational LLM applications,3,1,20.5,False,0,,,,,
+7,Responsible AI synthesis,2,1,20.5,False,0,,,,,
