@@ -1,0 +1,76 @@
+Five Big Ideas in
+Artificial Intelligence v.2
+5. Societal Impact
+
+AI can impact society in both positive and
+
+negative ways. AI technologies are
+changing the ways we work, travel,
+communicate, and care for each
+other. But we must be mindful of the
+harms that can potentially occur.
+For example, biases in the data
+used to train an AI system could
+lead to some people being less well
+served than others. Thus, it is
+important to discuss the impacts
+that AI is having on our society and
+develop criteria for the ethical design
+and deployment of AI-based
+systems.
+
+4. Natural Interaction
+
+Intelligent agents require many kinds
+of knowledge to collaborate and
+interact naturally with humans. Ideally,
+agents will converse with us using natural
+language, draw upon cultural knowledge to
+infer intentions from observed behavior, and
+respond appropriately to body language, facial
+expressions, and emotions. Advances in deep neural
+networks such as large language models and convolutional
+neural networks are making this possible.
+The AI for K-12 Initiative is a joint project of the Association for the Advancement of Artificial Intelligence (AAAI)
+and the Computer Science Teachers Association (CSTA), funded by National Science Foundation award DRL-1846073
+
+1. Perception
+
+Computers perceive the world using sensors. Perception is the
+process of extracting meaning from sensory signals. Making
+computers “see” and “hear” well enough for practical use is
+one of the most significant achievements of AI to
+date.
+
+2. Representation & Reasoning
+
+Agents maintain representations of the world
+and use them for reasoning. Representation
+is one of the fundamental problems of
+intelligence, both natural and artificial.
+Computers construct representations
+using data structures,
+and these
+representations support reasoning
+algorithms that derive new information
+from what is already known. While AI
+agents can reason about very complex
+problems, they do not think the way a
+human does.
+
+3. Learning
+
+Computers can learn from data. Machine
+learning is a kind of statistical inference that
+finds patterns in data. Many areas of AI
+have progressed significantly in recent years
+thanks to learning algorithms that create new
+representations. For the approach to succeed,
+tremendous amounts of data are required. This “training
+data” must usually be supplied by people, but is sometimes
+acquired by the machine itself.
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+

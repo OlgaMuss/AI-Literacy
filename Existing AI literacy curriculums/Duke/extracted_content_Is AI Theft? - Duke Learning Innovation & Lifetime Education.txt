@@ -1,0 +1,172 @@
+WHAT WE DO ▽
+
+Home
+
+AI Ethics Learning Toolkit
+
+BLOG
+
+SEARCH
+
+CONTACT US
+
+EVENTS
+
+RESOURCES
+
+SUBSCRIBE
+
+ABOUT US ▽
+
+Is AI Theft?
+
+AI ETHICS LEARNING TOOLKIT
+
+Is AI Theft?
+Exploring Copyright and Intellectual Property?
+
+“This harvesting of our work, scraping and impersonating our styles, it’s the same as
+a parasite that sucks the light out of its host without invitation.”
+– Tim Flach, wildlife photographer, one of the most “scraped” artists in the world
+
+To many users, AI seems like magic. It can generate images, write papers,
+and summarize complex topics into tidy bullet points. But what sources
+are under AI’s hood? How does it know so much? AI models are trained on
+vast amounts of human-generated content from the internet – including
+everything from transcribed YouTube videos and Reddit threads to image
+libraries and the entire text of Wikipedia. This raises a critical legal and
+ethical question: Are AI companies committing copyright infringement
+by scraping and using this content without permission? The New York
+Times, numerous authors, artists, and musicians think so. They’ve filed
+lawsuits against companies like OpenAI and Meta, arguing that their work
+fuels these models – yet they receive no credit, attribution, or
+
+compensation. AI companies defend their practices by citing the Fair Use
+doctrine, claiming that AI outputs are “transformative” – computational
+mashups that are fundamentally di!erent from the original works. But
+many legal questions remain unresolved, and frustration is building across
+the many creative industries that are impacted. As students increasingly
+turn to AI, it’s important for them to consider not just what the tools can
+do, but the human contributions and intellectual property that made
+them possible. Understanding the legal and ethical issues is key to
+becoming a responsible and informed user.
+
+Learning Activities
+
+Conversation Starters A Few Questions to Get the
+Discussion Going
+
+Have you heard/read any stories about artists, musicians, authors
+speaking out about their work being impacted by AI? If so, are you
+sympathetic?
+How do you see the long-term impacts of generative AI on creative
+industries (e.g., writing, art, music, movies/TV)?
+Do you think artists, musicians, writers should be credited and/or
+compensated by AI companies who have trained on their work?
+What would a fair system look like?
+Is it legal to upload copyrighted content to AI to get summaries for
+personal use? How aware are you of copyright restrictions with AI
+tools that you use? Who might be harmed by copyright violations
+with AI?
+What responsibilities should students or researchers have when
+giving credit to AI-generated content they relied on in their own
+work?
+
+Active Learning with AI Fun Ways to Explore AI’s
+Strengths and Limitations
+
+Prompt ChatGPT for the full text of something you know to be
+copyrighted (Ex. a chapter from your Chem 101 textbook). How
+does it respond?
+Prompt ChatGPT to mimic lyrics “in the style of” your favorite artist,
+musician, or writer (Ex. In the style of Taylor Swift, write me a song
+about getting ghosted by a friend). What do you think about the
+output? Could you see ‘mimicry’ as potentially harmful?
+Try a music generator (ex. Suno) and create a song. What was your
+prompt? What do you think about the output? Could you see this
+as potentially harmful?
+
+Disciplinary Extensions Ideas for Exploring AI’s Impact in
+Specific Fields
+
+Journalism/Public Policy: How does AI harm journalism? Use a
+Case Study, like the New York Times lawsuit, to have students
+debate the legal arguments
+Art/Visual Studies/Film Discuss the impact of AI on the art and
+film industry. Case study on the OpenAI Studio Ghibli AI
+(background article).
+I&E/Engineering: Engineering, or I&E, students can explore the
+intellectual property issues behind engineering design involving AI.
+E.g. If an AI tool is used to design a product, who should own the
+result? The user, the developer, or the company behind the AI?
+
+Literature: The question of whether and how digital humanists
+can conduct quantitative works has been a discussion for a long
+time. Some publishers (like JSTOR and Wiley) already license their
+copyrighted materials for scholars to conduct “distant reading.” Is
+this use case di!erent from licensing AI models to train on
+copyrighted materials? Why or why not?
+
+Resources
+Menand, L. (2024, January 15). Is A.I. the Death of I.P.? The New Yorker. [Magazine article]
+Knibbs, K. (2023, Nov. 6). Johnny Cash’s Taylor Swift Cover Predicts the Boring Future of AI Music. Wired.
+[Magazine article]
+Sellman, M. (2025, February 7). Photographer says AI being used to copy his work. The Times. [News
+article]
+Barbaro, M., et al. (2024, April 16). A.I.’s Original Sin. The New York Times. [Podcast]
+
+Scholarly
+Goetze, T. S. (2024). AI Art is Theft: Labour, Extraction, and Exploitation, Or, On the Dangers of
+Stochastic Pollocks. The 2024 ACM Conference on Fairness, Accountability, and Transparency, 186–196.
+[Conference paper]
+Congressional Research Services (CRS) Report. (2023, September). Generative Artificial Intelligence and
+Copyright Law. [Government report]
+Reed, R. (March 22, 2024). Does ChatGPT violate New York Times’ copyrights? Harvard Law School.
+[Interview]
+
+Recommendations
+Related topics → Who builds our AI?
+AI Pedagogy Project (Harvard) Assignments → Filter by theme (e.g. misinformation) and/or subject (e.g.
+ethics & philosophy)
+Copyright & IP-related Articles from the AI Ethics & Policy News Aggregator sourced by Casey Fiesler.
+Note: This would be an excellent place to identify recent news stories you could share with students, or
+
+incorporate into a case study.
+
+1. Sellman, M. (2025, February 7). Photographer says AI being used to copy his work. The Times.
+
+PHYSICAL LOCATION
+The Erwin Square Mill Building
+2024 West Main Street
+Durham, NC 27705
+
+MAILING ADDRESS
+Box 90700
+Durham, NC 27708
+
+CONTACT US
+Phone: (919) 660-5806
+Email:
+learninginnovation@duke.edu
+
+CONNECT
+WITH US
+SUPPORT OUR
+WORK
+Donate to Duke
+Learning Innovation &
+Lifetime Education
+
+BROWSE
+What We Do
+About
+Blog
+Contact Us
+Events
+Directions
+Resources
+Newsletter Signup
+
+Copyright © 2025 Duke Learning Innovation & Lifetime Education
+
+

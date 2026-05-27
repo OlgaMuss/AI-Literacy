@@ -1,0 +1,98 @@
+AI, the Future, and You
+By Stephen Taylor
+Explore AI’s potential impact on future careers through critical reflection, skill
+discovery, and strategic planning.
+
+https://aipedagogy.org/assignment/ai-the-future-and-you/
+
+Learning Objectives
+Engage in meta-discourse with AI about its impact on your future
+Understand the biases and limitations of AI when projecting into the future
+Use your intuition to counter AI-generated “truth”
+
+Instructions
+Preparation
+1. This lesson will require anywhere from 30 to 60 minutes to complete, depending on
+the depth of discussion, the complexity of chosen career pathways, and the time
+allocated for analysis and reflection activities. The exercises are primarily designed for
+high school students who will be applying to college soon, though they can be adapted
+for undergraduates who are contemplating the future of AI and its impact on careers.
+2. Students will need access to a search-connected GPT tool. It is recommended to use
+Perplexity.ai for this workshop. Additionally, providing access to academic databases
+or career exploration tools such as LinkedIn Learning or O*NET can enhance their
+research and analysis.
+3. Test the prompts and tools on a range of career pathways or areas of interest before
+using them with students.
+Introduction
+
+1. Start with an introduction in the form of a discussion-based thinking routine such as
+“Think, Pair, Share” focused on the following prompt: “What do you think AI means for
+your future? What gives you hope? What are you worried about? What do you wonder
+about?”
+2. [Optional] Engage with the World Economic Forum’s “The Future of Jobs Report 2023.”
+Ask students to “Think, Pair, Share” on the top skills projected for future employment.
+Which skills are they already developing in their learning? Which seem new? How
+many connections can they make?
+Future Careers Intelligence
+1. Introduce students to Perplexity.ai (free mode, no accounts) as a GPT-powered search.
+Remind students that they should not put personally identifiable or sensitive
+information into AI tools.
+2. Set the stage. Using Perplexity.ai, students can generate links and lines of inquiry for
+the implications and opportunities of AI in their chosen fields.
+3. Share the following prompt with students. Ask them to copy and paste it into the
+search box and edit for their areas of interest:
+
+I am a high school student applying for universities, and I am concerned about the
+impact that AI might have on my chosen courses and future career pathways. I want
+you to act as an industry intelligence analyst and provide resources and advice that
+will help me prepare for the future of my career, in relation to potential careers,
+necessary skills, and possible opportunities. Present your findings in the form of a
+brief analysis, along with a table of potential impacts and mitigations. Conclude with a
+section on recommendations for how I can prepare for university statements and
+interviews, as well as a list of possible alternative careers related to the field that are
+going to be enhanced by AI. Provide reliable references for your findings. My chosen
+career pathway is [AREAS OF INTEREST].
+If students are unsure about their chosen career pathway, they can adjust the prompt
+above with the following conclusion:
+
+…I’m not sure about a specific career pathway, but some things I am interested in are
+[AREAS OF INTEREST]. Based on these interests, generate 3 potential career
+pathways I could consider, and how AI might affect these respectively.
+
+4. Response evaluation:
+Read and critically evaluate the responses given by Perplexity.
+How do you know they are reliable? What are the limitations of the sources? What
+values do these responses espouse?
+5. Check the sources provided by Perplexity. Are they reliable?
+Open and read the sources you find interesting. Bookmark the sources you want
+to return to.
+6. Make notes:
+What are some opportunities and skills related to your chosen field of study that
+might be impacted by AI? What new skills are now in demand because of AI? What
+kind of skills are at risk of being replaced or supplemented by AI?
+What are some new opportunities or ideas you had not considered before?
+7. Continue the thread with follow-up questions based on the sources provided. Set an
+action plan by having students make notes on what they need to know more about,
+including things they had not considered before, and keep a record of their findings
+and research.
+Prompt the AI to generate an action plan for how to achieve success in their
+chosen career pathway. This should be based on the student’s notes on what they
+had not previously considered (i.e., new skills they may need to learn). The
+students can then use this action plan moving forward when preparing university
+applications, applying for internships, setting career goals, and making informed
+decisions about additional learning opportunities or skill development.
+
+Reflection
+1. Facilitate a “Connect, Extend, Challenge” exercise in pairs or small groups.
+What connections have students made with their prior knowledge? Did the
+information they find contradict their previous understanding on the topic?
+How has this research extended their understanding of the implications and
+opportunities of AI in relation to their areas of interest?
+How does this research challenge their future planning? How will they make use
+of this learning to support their career planning and/or university applications?
+
+Suggested Readings
+“Future of Jobs Report 2023.” World Economic Forum
+“The State of AI in 2023: Generative AI’s Breakout Year.” Quantum Black, AI by McKinsey
+
+

@@ -1,0 +1,164 @@
+WHAT WE DO ▽
+
+Home
+
+AI Ethics Learning Toolkit
+
+BLOG
+
+SEARCH
+
+CONTACT US
+
+EVENTS
+
+RESOURCES
+
+SUBSCRIBE
+
+ABOUT US ▽
+
+Who Builds Our AI?
+
+AI ETHICS LEARNING TOOLKIT
+
+Who Builds Our AI?
+Exploring Ghost Work and AI Labor
+
+“What can end up happening is that certain populations become the guinea pigs of
+these technologies, or conversely, they become the cheap labor to power these
+technologies.”
+– Dr. Seeta Peña Gangadharan, media scholar
+
+Sam Altman, Mark Zuckerberg, Sundar Pichai, Elon Musk, Je! Bezos –
+you’ve likely heard of the Big Tech founders behind some of the most
+prominent AI companies. But who actually builds the technology powering
+AI tools? For starters, a large workforce of computer programmers, data
+scientists, and software developers design the algorithms, neural
+networks, and machine learning models that provide the backbone of AI
+tools. These workers have backgrounds in computer or data science,
+statistics, and engineering. But behind the scenes, another more hidden
+or “ghost” workforce performs the often unsavory tasks that make AI
+actually function – tasks like content moderation, data annotation, data
+
+labeling, and model training. These workers, often outsourced by Big Tech
+to Global South countries, endure low wages and exploitative conditions,
+despite their critical role in shaping AI. As AI becomes integrated into daily
+life, students should critically examine the ethical implications of the
+hidden labor behind these technologies.
+
+Learning Activities
+
+Conversation Starters A Few Questions to Get the
+Discussion Going
+
+What do you know about how AI technology is built? Who are the
+key players?
+Do you think tech companies should be responsible for ensuring
+safe working conditions for outsourced AI laborers? If so, how?
+What parallels do you see between the AI workforce and other
+types of work that rely on outsourced, low-wage workers (ex. gig
+workers)?
+
+Active Learning with AI Fun Ways to Explore AI’s
+Strengths and Limitations
+
+Students gain experience in data labeling by using an open source
+tool to label a set of images and text.
+No AI Alternative: Students examine AI company statements /
+
+policies surrounding outsourced labor for a few major AI
+companies and discuss. Ex. OpenAI, Google
+
+Disciplinary Extensions Ideas for Exploring AI’s Impact in
+Specific Fields
+
+Economics: Students could research the network of where many
+Big Tech companies outsource data annotation and content
+moderation for AI (ex. Sama, Scale AI). Alternatively, students could
+research other forms of “ghost economies” and compare/contrast
+with AI ghost work (see: Ghost Work book).
+Languages/Linguistics: Students could explore how the issue of
+translation and transcription impact data labeling for AI – exploring
+some of the linguistic biases that may exist.
+Data Science/Global Health: Students consider a case study for
+bias in data labeling of medical imaging datasets (ex. skin color
+disparities in dermatology data).
+
+Resources
+Perrigo, B. (2023, January 18). “Exclusive: The $2 Per Hour Workers Who Made ChatGPT Safer.” TIME.
+[Magazine article]
+Bartholomew, J. (2025). Q&A: Uncovering the labor exploitation that powers AI. Columbia Journalism
+Review. (follow-up interview to TIME piece). [Interview]
+Mozilla. “The Humans in the Machine.” (2023). IRL Podcast. Hosted by Bridget Todd. 21 minutes.
+[Podcast]
+
+Scholarly
+
+Nguyen, A., & Mateescu, A. (2024). Generative AI and Labor: Power, Hype, and Value at Work. “AI’s
+dependence on human labor,” Part 2, pg. 11-16. Data & Society. [Report]
+Williams, A., and Miceli, M. Data Work and its Layers of (In)visibility. Just Tech. Social Science Research
+Council. September 6, 2023. [Article]
+Gray, M. L., & Suri, S. (2019). Ghost work: How to stop Silicon Valley from building a new global underclass.
+Houghton Mi#in Harcourt. [Book – available in Duke Libraries]
+Hao, K. (2025). Empire of AI: Dreams and nightmares in Sam Altman’s OpenAI. Penguin Press. [Book –
+available in Duke Libraries]
+
+– Chapter 9 focuses on Labor & AI issues and is an excellent
+
+introduction to the topic.
+
+Recommendations
+Related topics → Is AI biased? Who benefits from AI?
+AI Pedagogy Project (Harvard) Assignments → Filter by theme (e.g. misinformation) and/or subject (e.g.
+ethics & philosophy)
+Labor-related Articles from the AI Ethics & Policy News Aggregator sourced by Casey Fiesler. Note: This
+would be an excellent place to identify recent news stories you could share with students, or
+incorporate into a case study.
+
+1. Interview in Rolling Stone, O’Neil, L. (2023, August 12). These Women Tried to Warn Us About AI. Rolling
+Stone.
+
+PHYSICAL LOCATION
+The Erwin Square Mill Building
+2024 West Main Street
+
+BROWSE
+What We Do
+About
+
+Durham, NC 27705
+
+MAILING ADDRESS
+Box 90700
+
+Blog
+Contact Us
+Events
+
+Durham, NC 27708
+
+Directions
+
+CONTACT US
+
+Resources
+
+Phone: (919) 660-5806
+Email:
+
+Newsletter Signup
+
+learninginnovation@duke.edu
+
+CONNECT
+WITH US
+SUPPORT OUR
+WORK
+Donate to Duke
+Learning Innovation &
+Lifetime Education
+
+Copyright © 2025 Duke Learning Innovation & Lifetime Education
+
+

@@ -1,0 +1,134 @@
+Questioning the Bot: Socratic Chats
+with AI
+By Nina Yuen
+What happens after the prompt? Question AI-generated text using Socratic methods
+and infuse moments of AI-free critique into evaluative writing.
+
+https://aipedagogy.org/assignment/questioning-the-bot-socratic-chats-withai-2/
+
+Learning Objectives
+Critically deconstruct essays to assess strengths and weaknesses in content and
+structure
+Refine thinking through collaborative inquiry and role-play
+Apply standards of strong writing and nuanced thinking to the development of voice
+Respond to a chatbot with clarity, perspective, and human insight
+Maintain authorial agency while engaging AI as a co-writer or collaborator
+
+Instructions
+Assignment Overview
+Prompting is an important emerging skill in the context of AI–but what happens after? This
+assignment begins where the chatbot output ends. Instead of competing with the AI,
+students will be challenged to recognize its strengths, critique its weaknesses, and infuse
+the generated material with their own voice and vision.
+Students will engage the chatbot in a Socratic dialogue, posing questions, identifying
+assumptions, and pushing past surface-level responses. To counteract any sense of
+passivity or dependence on the tool, the assignment also includes “unplugged” moments for
+
+AI-free writing and revision.
+Students will move through a cycle of writing, prompting, analyzing, and revising—both
+with and without AI—in order to compare writing approaches and deepen critical
+engagement. They’ll start by brainstorming with pen and paper, then prompt the chatbot to
+write sample essays with links to scholarly sources. They will make edits to the sample
+essay and track changes, then prompt the chatbot to write a rubric that holds this first
+essay to a new standard.
+
+Assignment Structure
+1. AI-free writing
+Begin by choosing an essay topic that is appropriate to your classroom. Students
+should be familiar with the topic, or at least have some background knowledge of the
+subject area. For instance, an English class might choose the theme “Representations
+of Race in 20th Century American Literature.” Students will write a short, in-class
+essay using only human-generated sources and distraction-free tools (e.g., pen and
+paper or a simple word processor). Keeping the essay relatively short allows for
+quicker revision and ensures compatibility with chatbot input/output word limits.
+2. Prompt the chatbot
+Using the same topic, students will now engage with a chatbot (e.g., ChatGPT or
+Claude). The chatbot can help brainstorm research questions, simplify complex texts,
+map out research plans, suggest sources, or assist in summarizing findings. Students
+should iteratively prompt the AI, experimenting and adjusting their inputs as needed.
+Encourage them to document each step of the process and reflect on how the
+chatbot’s responses influence their thinking.
+3. Evaluate
+Once students have completed their final essays, they will evaluate their work using
+two approaches—first with AI, then without.
+Start by using the chatbot to co-create a rubric for evaluation. As students apply
+this rubric, the chatbot can help them organize their ideas, identify patterns, and
+reflect on the distinctiveness of their voice.
+Next, have students evaluate their essays without AI support. Ask students to
+critically assess their work using personal or peer-developed criteria. Encourage
+
+them to consider the limitations of the AI-generated rubric and push their analysis
+further, adding their own insights to go beyond what the AI offered.
+4. Discuss
+When you are engaging in a Socratic dialogue with the chatbot, reflect with curiosity;
+ask questions that open up chance, surprise, and discovery; cite expert sources; and
+embrace ambiguity and complexity. Push the AI with follow-up questions like “Why?”,
+“How?”, and “What if?” to challenge its assumptions and deepen the exchange. Don’t
+accept its answers at face value. For inspiration, a Socratic dialogue might look like
+this: Student: “Why do you think the author’s portrayal of race is effective?” AI:
+“Because it challenges stereotypes.” Student: “What stereotype specifically? And how
+does the text challenge it?” Aim for at least 3–5 layers of follow-up in your exchanges.
+5. Re-writing with AI
+Now that you’ve written one essay on your own, generated one with AI, and evaluated
+both, it’s time to rewrite your essay—first with the chatbot’s help, then independently.
+You’ll have access to the chatbot-generated essay transcript as a reference point to
+help you reflect, revise, and make your writing more distinct and thoughtful. Let the AI
+model suggest edits or rewrites, but treat these as prompts for further thinking rather
+than final drafts.
+First, prompt the chatbot to revise the original essay.
+Then, use distraction-free tools to write another human-only draft.
+Compare these versions and continue refining as needed, drawing from both
+processes to enhance clarity, structure, and voice.
+6. Compare
+Now bring in both peer and AI perspectives. Ask a classmate and the chatbot to review
+and compare the human-written and chatbot-revised essays. To prompt the chatbot for
+comparison, try: “Which essay demonstrates stronger rhetorical strategies?” or “Which
+essay more clearly expresses an original voice?” Use the rubric from earlier or
+generate a new one together. Look for interpretive claims, rhetorical strategies, and
+expressions of voice. What patterns or differences emerge across drafts?
+7. Revise
+The presence of the chatbot’s voice should prompt students to assert their own.
+Encourage deeper engagement with sources, clearer articulation of ideas, and a
+
+strong sense of personal authorship. Use this stage to synthesize everything learned
+so far about AI, revision, and your own writing process.
+
+Reflection
+The following questions are designed to guide student thinking throughout the process and
+support end-of-assignment reflection:
+How did the essay change when you prompted the chatbot to a) respond from
+different political perspectives b) write in the voice of a specific essayist c) modify the
+essay for different audiences?
+How might writers from the past have undergone a similar revision process?
+When did the chatbot underperform–or overperform–in responding to your prompts?
+What did the chatbot miss? What did it get right? How do your observations relate to
+what you’ve learned about how LLMs work? Offer a theory about why it did well at
+certain tasks and poorly at others.
+Who did you choose to “speak” with in your chatbot dialogue? A
+scholar/mentor/elder/fictional character/historic figure? How did the nature of your
+learning shift depending on whom or what you were talking to?
+What dialogue prompting tactics did you use? How were they different from the
+framing of your in-person conversation?
+Did any platform guardrails or institutional constraints appear? (e.g., “I am not able to
+give advice,” or “I have to direct you to our office of communications.”)
+At what stages did the chatbot enhance your learning? Where did it fall short or create
+confusion?
+How do you think your essay would have turned out differently if you had completed it
+without a chatbot?
+Do you relate to your words differently than you would if you had written them “from
+scratch”?
+Can you find places where you pivoted away from the chatbot’s assumptions or
+questioned its framing?
+In what ways did your personal style and voice diverge from the chatbot’s tone?
+
+Did anything surprise you when you compared the essays? What questions, thoughts,
+musings, or curiosities popped up for you?
+What did you learn about yourself, your writing process, and the subject of your
+essay?
+What would be the implications for human writing if everyone co-wrote with chatbots?
+If you were to share a piece of advice to fellow students about co-writing with
+chatbots, what would you say?
+When might using chatbots jeopardize the trust between you and your teachers?
+Between you and your audience?
+
+

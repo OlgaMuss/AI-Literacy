@@ -1,0 +1,167 @@
+WHAT WE DO ▽
+
+Home
+
+AI Ethics Learning Toolkit
+
+BLOG
+
+SEARCH
+
+CONTACT US
+
+EVENTS
+
+RESOURCES
+
+SUBSCRIBE
+
+ABOUT US ▽
+
+Glossary
+
+AI ETHICS LEARNING TOOLKIT
+
+Glossary
+
+We generated these definitions by uploading the content of our AI Ethics Learning Toolkit
+into Google’s NotebookLM and then creating a glossary.
+
+AI Divide / Digital Divide
+The growing gap between individuals, communities, and companies who have access to,
+use of, and skills related to cutting-edge Artificial Intelligence technologies.
+
+AI Hallucination
+An instance where an AI model generates misleading, inaccurate, or entirely fabricated
+content, often without a clear basis in its training data. Many favor alternative terms
+(bullshit, machine errors, AI mirage), so as not to assign human qualities to AI technology.
+
+AI Hype / AI Boosterism
+
+An outsized enthusiasm for the benefits of Artificial Intelligence by individuals,
+organizations, and/or the media, with little acknowledgement of the harms these
+technologies may cause.
+
+AI Literacy
+The ability to understand how Artificial Intelligence (AI) works, recognize its strengths and
+limitations, critically evaluate AI tools and outputs, and thoughtfully consider the ethical,
+social, and practical implications of its use.
+
+AI Privilege / Information Privilege
+Related to the AI Divide, AI privilege refers to the benefits of one’s access to, use of, and
+skills related to cutting-edge Artificial Intelligence technologies.
+
+AI Slop
+The flood of low-quality, sometimes misleading, AI-generated content (text, images, video)
+present on the internet, social media, and other information/publication platforms.
+
+Bias (data)
+Bias that is present in the training and fine-tuning data of AI models. Bias negatively a"ects
+the models functions and outputs.
+
+Content Moderation
+The process (human, or automated) of reviewing and filtering online content to remove
+material that violates platform guidelines or is deemed inappropriate or harmful.
+
+Copyright Infringement
+The reproduction, distribution, performance, or derivative of a copyrighted work without
+the permission of the copyright owner.
+
+Critical Thinking
+The analysis and evaluation of an issue in order to form a judgment. In the context of AI, it
+involves the skills of evaluating AI-generated information and questioning its assumptions.
+
+Data Labeling / Data Annotation
+The process of annotating raw data with meaningful tags or labels to provide context and
+structure for machine learning models.
+
+Deepfakes
+Synthetic media (images, audio, or video) that have been altered or created using AI to
+convincingly depict someone saying or doing something they did not actually say or do.
+These may be somewhat benign celebrity deepfakes (Taylor swift peddling Le Creuset
+cookware), or dangerously misleading (ex. Zelensky deepfakes).
+
+Fair Use
+A legal doctrine that permits limited use of copyrighted material without permission from
+the copyright holder for purposes such as criticism, news reporting, teaching, scholarship,
+or research.
+
+Garbage in, Garbage out (GIGO)
+The phenomenon where flawed, biased, or low-quality data or input leads to outputs that
+are similarly flawed, biased, or of poor quality.
+
+Ghost Work / Ghost Labor
+The often invisible human workers who make AI systems function by working on tasks like
+data labeling, content moderation, and transcription.
+
+Mis/Disinformation
+(Dis)information – False or inaccurate information that is deliberately created and spread
+with the intent to deceive or cause harm. (Mis)information has the same e"ects but is not
+intentional.
+
+Model Training
+The process of using data to teach a machine learning model to identify patterns and make
+predictions or decisions.
+
+Monoculture
+In the context of AI training data, it refers to the overrepresentation of certain viewpoints,
+languages, or perspectives (often from the Global North and dominant cultures) leading to
+a lack of diversity in the AI’s understanding and outputs.
+
+Overreliance
+Excessive dependence on AI tools or outputs, potentially leading to a decline in human
+skills like critical thinking and independent decision making.
+
+Privacy
+The right of individuals to control the collection, use, and dissemination of their personal
+information. In AI, it relates to how the user data and information used for training models
+are handled.
+
+Trust
+Confidence in the reliability, truth or ability of something. The rapid spread of AI-generated
+content, particularly hallucinations and AI slop, muddies the waters of what is reliable
+information online.
+
+PHYSICAL LOCATION
+The Erwin Square Mill Building
+2024 West Main Street
+
+BROWSE
+What We Do
+About
+
+Durham, NC 27705
+
+MAILING ADDRESS
+Box 90700
+
+Blog
+Contact Us
+Events
+
+Durham, NC 27708
+
+Directions
+
+CONTACT US
+
+Resources
+
+Phone: (919) 660-5806
+Email:
+
+Newsletter Signup
+
+learninginnovation@duke.edu
+
+CONNECT
+WITH US
+SUPPORT OUR
+WORK
+Donate to Duke
+Learning Innovation &
+Lifetime Education
+
+Copyright © 2025 Duke Learning Innovation & Lifetime Education
+
+

@@ -1,0 +1,336 @@
+Eighteen pitfalls to beware of in AI journalism
+A checklist for avoiding hype
+SAYASH KAPOOR AND ARVIND NARAYANAN
+SEP 30, 2022
+
+36
+
+3
+
+Reporting about AI is hard. Companies hype their products and most
+
+journalists aren’t sufficiently familiar with the technology. When news arti
+
+uncritically repeat PR statements, overuse images of robots, attribute agen
+
+to AI tools, or downplay their limitations, they mislead and misinform read
+about the potential and limitations of AI.
+
+We noticed that many articles tend to mislead in similar ways, so we analy
+
+over 50 articles about AI from major publications, from which we compiled
+
+recurring pitfalls. We hope that being familiar with these will help you dete
+
+hype whenever you see it. We also hope this compilation of pitfalls will hel
+journalists avoid them.
+We were inspired by many previous efforts at dismantling hype in news
+reporting on AI by Prof. Emily Bender, Prof. Ben Shneiderman, Lakshmi
+
+Sivadas and Sabrina Argoub, Prof. Emily Tucker, and Dr. Daniel Leufer et al
+You can download a PDF checklist of the 18 pitfalls with examples here.
+You’re reading AI Snake Oil, a blog about our
+upcoming book. Subscribe to get new posts.
+Type your email...
+
+Subscribe
+
+Example 1: “The Machine Are Learning, and s
+are the students” (NYT)
+We identi(ed 19 issues in this article, which you can read here.
+In December 2019, NYT published a piece about educational technology
+
+(EdTech) product called Bakpax. It is a 1,500-word, feature-length article th
+provides neither accuracy, balance, nor context.
+It is sourced almost entirely from company spokespeople, and the author
+
+borrows liberally from Bakpax's PR materials to exaggerate the role of AI. T
+
+keep the spotlight on AI, the article downplays the human labor from teach
+that keeps the system running—such as developing and digitizing
+assignments.
+Bakpax shut down in May 2022.
+
+This is hardly a surprise: EdTech is an overhyped space. In the last decade,
+
+there have been hundreds of EdTech products that claim to "revolutionize"
+education. Despite billions of dollars in funding, many of them fail.
+Unfortunately, the article does not provide any context about this history.
+
+A GIF of our annotations showing the prevalence of issues throughout the
+article. Each annotation represents a pitfall. You can read the entire
+annotated article here.
+
+Example 2: “AI may be as effective as medica
+specialists at diagnosing disease” (CNN)
+We identi(ed 9 issues in this article, which you can read here.
+In September 2019, CNN published this article about an AI research study.
+
+buries the lede, seemingly intentionally: the spotlight is on the success of A
+
+tools in diagnosis, whereas the study finds that fewer than 1% of papers on
+
+tools follow robust reporting practices. In fact, an expert quoted at the end
+the article stresses that this is the real message of the study.
+
+Besides, the cover image of the article is a robot arm shaking hands with a
+
+human, even though the study is about finding patterns in medical images
+
+These humanoid images give a misleading view of AI, as we’ve described he
+
+Example 3: “AI tested as university exams
+undergo digital shift” (FT)
+You can read the annotated article here.
+Many schools and universities have adopted remote proctoring software
+during the COVID-19 pandemic. These tools suffer from bias and lack of
+validity, enable surveillance, and raise other concerns. There has been an
+uproar against remote proctoring from students, non-profits, and even
+senators.
+In November 2021, the Financial Times published an article on a product
+
+called Sciolink that presents an entirely one-sided view of remote proctori
+
+It almost exclusively quotes the creators of Sciolink and provides no conte
+about the limitations and risks of remote proctoring tools.
+
+Eighteen pitfalls in AI journalism
+
+We analyzed over 50 news stories on AI from 5 prominent publications: Th
+New York Times, CNN, Financial Times, TechCrunch, and VentureBeat.
+
+We briefly discuss the 18 pitfalls below; see our checklist for more details a
+examples.
+
+Flawed human-AI comparison
+
+What? A false comparison between AI tools and humans that implies AI too
+and humans are similar in how they learn and perform.
+
+Why is this an issue? Rather than describing AI as a broad set of tools, suc
+comparisons anthropomorphize AI tools and imply that they have the
+
+potential to act as agents in the real world.
+Pitfall 1. Attributing agency to AI: Describing AI systems as taking actions
+
+independent of human supervision or implying that they may soon be able
+do so.
+
+Pitfall 2. Suggestive imagery: Images of humanoid robots are often used to
+
+illustrate articles about AI, even if the article has nothing to do with robots
+
+This gives readers a false impression that AI tools are embodied, even whe
+is just software that learns patterns from data.
+
+Pitfall 3. Comparison with human intelligence: In some cases, articles on A
+
+imply that AI algorithms learn in the same way as humans do. For example
+comparisons of deep learning algorithms with the way the human brain
+
+functions are common. Such comparisons can lend credence to claims tha
+is “sentient”, as Dr. Timnit Gebru and Dr. Margaret Mitchell note in their
+recent op-ed.
+
+Pitfall 4. Comparison with human skills: Similarly, articles often compare h
+
+well AI tools perform with human skills on a given task. This falsely implies
+
+that AI tools and humans compete on an equal footing—hiding the fact tha
+tools only work in a narrow range of settings.
+
+Hyperbolic, incorrect, or non-falsifiable claims about
+
+What? Claims about AI tools that are speculative, sensational, or incorrect
+spread hype about AI.
+Why is this an issue? Such claims give a false sense of progress in AI and
+make it difficult to identify where true advances are being made.
+Pitfall 5. Hyperbole: Describing AI systems as revolutionary or
+
+groundbreaking without concrete evidence of their performance gives a fa
+
+impression of how useful they will be in a given setting. This issue is ampli
+
+when AI tools are deployed in a setting where they are known to have past
+
+failures—we should be skeptical about the effectiveness of AI tools in these
+settings.
+
+Pitfall 6. Uncritical comparison with historical transformations: Compari
+
+AI tools with major historical transformations like the invention of electric
+
+or the industrial revolution is a great marketing tactic. However, when new
+articles adopt these terms, they can convey a false sense of potential and
+progress—especially when these claims are not backed by real-world
+evidence.
+
+Pitfall 7. Unjustified claims about future progress: Claims about how futur
+
+developments in AI tools will affect an industry, for instance, by implying t
+
+AI tools will inevitably be useful in the industry. When these claims are ma
+without evidence, they are mere speculation.
+Pitfall 8. False claims about progress: In some cases, articles include false
+claims about what an AI tool can do.
+
+Pitfall 9. Incorrect claims about what a study reports: News articles often
+cite academic studies to substantiate their claims. Unfortunately, there is
+
+often a gap between the claims made based on an academic study and wha
+the study reports.
+Pitfall 10. Deep-sounding terms for banal actions: As Prof. Emily Bender
+
+discusses in her work on dissecting AI hype, using phrases like “the elemen
+act of next-word prediction” or “the magic of AI” implies that an AI tool is
+doing something remarkable. It hides how mundane the tasks are.
+
+Uncritically platforming those with self-interest
+What? News articles often use PR statements and quotes from company
+
+spokespeople to substantiate their claims without providing adequate con
+or balance.
+Why is this an issue? Emphasizing the opinions of self-interested parties
+
+without providing alternative viewpoints can give an over-optimistic sense
+progress.
+
+Pitfall 11. Treating company spokespeople and researchers as neutral part
+When an article only or primarily has quotes from company spokespeople
+
+researchers who built an AI tool, it is likely to be over-optimistic about the
+potential benefits of the tool.
+Pitfall 12. Repeating or re-using PR terms and statements: News articles
+
+often re-use terms from companies’ PR statements instead of describing h
+an AI tool works. This can misrepresent the actual capabilities of a tool.
+
+Limitations not addressed
+
+What? The potential benefits of an AI tool are emphasized, but the potenti
+limitations are not addressed or emphasized.
+
+Why is this an issue? A one-sided analysis of AI tools can hide the potentia
+limitations of these tools.
+Pitfall 13. No discussion of potential limitations: Limitations such as
+
+inadequate validation, bias, and potential for dual-use plague most AI tools
+
+When these limitations are not discussed, readers can get a skewed view o
+the risks associated with AI tools.
+
+Pitfall 14. Limitations de-emphasized: Even if an article discusses limitatio
+
+and quotes experts who can explain them, limitations are often downplaye
+the structure of the article, for instance by positioning them at the end of
+article or giving them limited space.
+Pitfall 15. Limitations addressed in a “skeptics” framing: Limitations of AI
+
+tools can be caveated in the framing of the article by positioning experts w
+
+explain these limitations as skeptics who don’t see the true potential of AI.
+
+Prof. Bender discusses this issue in much more detail in her response to an
+NYT Mag article.
+
+Pitfall 16. Downplaying human labor: When discussing AI tools, articles oft
+
+foreground the role of technical advances and downplay all the human labo
+
+that is necessary to build the system or keep it running. The book Ghost W
+
+by Dr. Mary L. Gray and Dr. Siddharth Suri reveals how important this invis
+
+labor is. Downplaying human labor misleads readers into thinking that AI t
+work autonomously, instead of clarifying that they require significant
+overhead in terms of human labor, as Prof. Sarah T. Roberts discusses.
+
+Pitfall 17. Performance numbers reported without uncertainty estimation
+caveats: There is seldom enough space in a news article to explain how
+
+performance numbers like accuracy are calculated for a given application o
+
+what they represent. Including numbers like “90% accuracy” in the body o
+the article without specifying how these numbers are calculated can
+
+misinform readers about the efficacy of an AI tool. Moreover, AI tools suffe
+
+from performance degradations under even slight changes to the datasets
+
+they are evaluated on. Therefore, absolute performance numbers can misle
+readers about the efficacy of these tools in the real world.
+Pitfall 18. The fallacy of inscrutability: Referring to AI tools as inscrutable
+
+black boxes is a category error. Instead of holding the developers of these
+
+tools accountable for their design choices, it shifts scrutiny to the technica
+
+aspects of the system. Journalists should hold developers accountable for t
+
+performance of AI tools rather than referring to these tools as black boxes
+allowing developers to evade accountability.
+While these 18 pitfalls appear in the articles we analyzed, there are other
+
+issues that go beyond individual articles. For instance, when narratives of A
+wiping out humanity are widely discussed, they overshadow current realworld problems such as bias and the lack of validity in AI tools. This
+
+underscores that news media must play its agenda-setting role responsibl
+We thank Klaudia Jaźwińska, Michael Lemonick, and Karen Rouse for their
+feedback on a draft of this article. We re-used the code from Molly White et
+
+al.’s The Edited Latecomers’ Guide to Crypto to generate our annotated articl
+
+36 Likes
+
+Previous
+
+Discussion about this post
+Comments
+
+Restacks
+
+Write a comment...
+
+Leon Galindo Stenutz 30 Sep 2022
+
+Excellent, informative, serious -- and a (temporary?) relief from the onslaught of information
+dangers of runaway AI.
+Two core questions:
+1. Is AI truly a core species-level anthropogenic existential risk?
+
+2. How much of what you have observed is merely the result of bad journalism and poorly m
+
+public relations -- versus a partial or upfront attempt to hype up AI Risk as a form of fake new
+even intentional PsyOps focused on destablizing certain audiences and societies?
+
+Would also be interesting to better understand how your insights relate to the alarm concern
+
+as an existential risk sounded by the likes of Stephen Hawking, Elon Musk, Eliezer Yudkowsk
+Gates, Stuart Russell.
+
+Also, to understand how your research and vision of the near to mid-term future of the impac
+
+align with, or differ from the work of Nick Bostrom, Jaan Taallin, Max Tegmark, Yann LeCun, B
+Christian, or Melanie Mitchell, among others.
+Thanks, appreciate your article deeply.
+LIKE (1)
+
+REPLY
+
+Abi Olvera 4 Aug 2024
+
+Excellent and useful piece. The very last link for the “agenda setting quality” of media is brok
+Were there other citations to replace it?
+
+I can see the “black box” nature of AI being a cop out for applications like those in EdTech bu
+“black box” discussion be useful in some limited circumstances like general purpose LLMs?
+LIKE
+
+REPLY
+
+1 more comment...
+
+© 2025 Sayash Kapoor and Arvind Narayanan ∙ Privacy ∙ Terms ∙ Collection notice
+Substack is the home for great culture
+
+

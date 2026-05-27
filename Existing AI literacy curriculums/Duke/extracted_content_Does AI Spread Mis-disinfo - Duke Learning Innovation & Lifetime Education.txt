@@ -1,0 +1,172 @@
+WHAT WE DO ▽
+
+Home
+
+AI Ethics Learning Toolkit
+
+BLOG
+
+SEARCH
+
+CONTACT US
+
+EVENTS
+
+RESOURCES
+
+SUBSCRIBE
+
+ABOUT US ▽
+
+Does AI Spread Mis-disinfo
+
+AI ETHICS LEARNING TOOLKIT
+
+Does AI Spread Mis/Disinfo?
+Exploring Deep Fakes and Mis/Disinformation
+
+“The popular emergence of generative AI has deepened uncertainty in an alreadyskeptical information environment, leading people to suspect that anything could be
+the product of synthetic media.”
+– Charlie Warzel, technology journalist at The Atlantic
+
+From Taylor Swift deepfakes to synthetic AI robocalls from politicians, AI
+tools have the potential to turn any message into a viral disinformation
+campaign. Disinformation refers to “false, inaccurate, or misleading
+information designed, presented and promoted to intentionally cause
+public harm or for profit.” Misinformation is similar in nature, but the
+sharers of misinformation may have done so accidentally and without
+intent to harm. AI models aren’t human – they don’t possess intent to
+harm, whether deliberately or inadvertently. So, what’s the concern? Some
+argue that the ready availability and low cost of AI tools could facilitate the
+spread of higher quality mis/disinformation by bad (human) actors. Others
+
+argue the danger of this is overblown and there is insu!cient evidencebased research to support the hype. It may be some time before we fully
+understand the impact of AI-generated mis/disinformation, students
+should be aware of the potential ways in which AI could be used to
+manipulate text, images, video, and information sources. They should
+remain critical consumers and sharers of information they come across.
+
+Learning Activities
+
+Conversation Starters A Few Questions to Get the
+Discussion Going
+
+Have you ever come across a deepfake, or mis/disinformation
+online? How could you tell?
+What are some scenarios you can imagine where
+mis/disinformation could cause real-world harm?
+Who do you think is most susceptible to being manipulated by
+mis/disinformation? Why do you think they are more vulnerable to
+being swayed by it?
+
+Active Learning with AI Fun Ways to Explore AI’s
+Strengths and Limitations
+
+Students can create fake content with AI for a faux disinformation
+campaign. Share the prompt, AI outputs, and have the class react.
+
+Students can discuss a case study from the Disinformation Studies
+syllabus. Case Studies include: Japanese incarceration, media and
+the AIDs crisis, the myth of the “Welfare Queen”, and more.
+Instructor can choose some examples from #deepfake-tagged
+articles in Snopes.com for students to discuss. Ask students to
+reflect on the ways the Snopes authors fact-checked the claim.
+
+Disciplinary Extensions Ideas for Exploring AI’s Impact in
+Specific Fields
+Psychology: Research has found that when disinformation is more
+targeted and personalized, it is more persuasive. What are some of
+the psychological (phenomena) at play in the creation and
+consumption of disinformation?
+History: Students could look at the historical roots of
+disinformation and make connections to modern day AI
+narratives.
+Arts & Humanities: What is the role of visual/media arts in
+disinformation/propaganda campaigns?
+Computer Science/Engineering: What are some of the most
+promising detection technologies that could help identify fake
+content?
+
+Resources
+Elliott, V. (2024, Sept. 2nd). AI-Fakes Detection Is Failing Voters in the Global South. Wired. [Magazine
+article]
+Mehrotra, D. (2024, June 19th). Perplexity Is a Bullshit Machine. Wired. [Magazine article]
+Hsu, T., & Thompson, S. A. (2024, July 11). Even Disinformation Experts Don’t Know How to Stop It. The
+New York Times.
+
+UNC CITAP. (2021). Does Not Compute. This podcast predates the GAI explosion but includes
+numerous, excellent episodes on disinformation. [Podcast]
+
+Scholarly
+Kuo, R., & Marwick, A. (2021). Critical disinformation studies: History, power, and politics. Harvard
+Kennedy School Misinformation Review. [Article]
+Sison, A. J. G., Daza, M. T., Gozalo-Brizuela, R., & Garrido-Merchán, E. C. (2023). ChatGPT: More than a
+Weapon of Mass Deception, Ethical challenges and responses from the Human-Centered Artificial
+Intelligence (HCAI) perspective. arXiv. [Preprint]
+Simon, F. M., Altay, S., & Mercier, H. (2023). Misinformation reloaded? Fears about the impact of
+generative AI on misinformation are overblown. Harvard Kennedy School Misinformation Review. [Article]
+
+Matz, S. C., et al. (2024). The potential of generative AI for personalized persuasion at scale. Scientific
+Reports, 14(1), 4692. [Article]
+
+Recommendations
+Related topics → Does AI harm critical thinking? Is AI biased?
+UNC’s Critical Disinformation Studies: a Syllabus project
+AI Pedagogy Project (Harvard) Assignments → Filter by theme (e.g. misinformation) and/or subject (e.g.
+journalism)
+Mis/disinformation-related Articles from the AI Ethics & Policy News Aggregator sourced by Casey
+Fiesler. Note: This would be an excellent place to identify recent news stories you could share with
+students, or incorporate into a case study.
+
+1. Directorate-General for Communications Networks, Content and Technology (European Commission).
+(2018). A multi-dimensional approach to disinformation: Report of the independent High level Group on fake
+news and online disinformation. Publications O!ce of the European Union.
+https://data.europa.eu/doi/10.2759/739290
+2. Matz, S. C., Teeny, J. D., Vaid, S. S., Peters, H., Harari, G. M., & Cerf, M. (2024). The potential of generative
+AI for personalized persuasion at scale. Scientific Reports, 14(1), 4692. https://doi.org/10.1038/s41598024-537553. Simon, F. M., Altay, S., & Mercier, H. (2023). Misinformation reloaded? Fears about the impact of
+generative AI on misinformation are overblown. Harvard Kennedy School Misinformation Review.
+https://doi.org/10.37016/mr-2020-127
+
+PHYSICAL LOCATION
+The Erwin Square Mill Building
+2024 West Main Street
+
+BROWSE
+What We Do
+About
+
+Durham, NC 27705
+
+MAILING ADDRESS
+Box 90700
+
+Blog
+Contact Us
+Events
+
+Durham, NC 27708
+
+Directions
+
+CONTACT US
+
+Resources
+
+Phone: (919) 660-5806
+Email:
+
+Newsletter Signup
+
+learninginnovation@duke.edu
+
+CONNECT
+WITH US
+SUPPORT OUR
+WORK
+Donate to Duke
+Learning Innovation &
+Lifetime Education
+
+Copyright © 2025 Duke Learning Innovation & Lifetime Education
+
+

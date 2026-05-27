@@ -1,0 +1,254 @@
+ (https://twitter.com/ai4k12)
+ (https://www.youtube.com/channel/UCsEdLohr2U6uW6IQQ9ovBrw)
+
+Home (https://ai4k12.org/)
+What’s Happening 
+Resources 
+
+Guidelines 
+
+About 
+
+(https://ai4k12.org/)
+List of Resources
+Card View
+(https://ai4k12.org/resources-card-view/)
+
+AI-Powered Educational Robots
+AI-Powered Educational Robot: AutoAuto from Master AI (https://ai4k12.org/autoautofrom-master-ai/)
+AI-Powered Educational Robot: mBot2 from MakeBlock (https://ai4k12.org/mbot2from-makeblock/)
+AI-Powered Educational Robot: VEX AIM from Innovation First (https://ai4k12.org/vexaim-coding-robot/)
+
+Books
+Book: AI Super-Powers: China, Silicon Valley, and The New World Order
+(https://ai4k12.org/book-ai-super-powers-china-silicon-valley-and-the-new-world-order/)
+Book: Architects of Intelligence: The truth about AI from the people building it
+(https://ai4k12.org/book-architects-of-intelligence-the-truth-about-ai-from-the-peoplebuilding-it/)
+Book: ArtiTcial Intelligence: A Guide for Thinking Humans (https://ai4k12.org/artiTcialintelligence-a-guide-for-thinking-humans/)
+
+Book: ArtiTcial Intelligence: A Modern Approach (https://ai4k12.org/book-artiTcial-intelligence-a-modern-approach/)
+Book: How Smart Machines Think (https://ai4k12.org/how-smart-machines-think/)
+Book: How to Teach AI: Weaving Strategies and Activities Into Any Content Area
+(https://ai4k12.org/how-to-teach-ai-weaving-strategies-and-activities-into-any-contentarea/)
+Book: Teaching AI: Exploring New Frontiers for Learning (https://ai4k12.org/teachingai-exploring-new-frontiers-for-learning/)
+Book: The Future Computed: ArtiTcial Intelligence and Its Role in Society
+(https://ai4k12.org/the-future-computed-artiTcial-intelligence-and-its-role-in-society/)
+Book: The Learner’s Apprentice: AI and the AmpliTcation of Human Creativity
+(https://ai4k12.org/the-learners-apprentice-ai-and-the-ampliTcation-of-human-creativity/)
+Book: What to Think About Machines That Think (https://ai4k12.org/what-to-thinkabout-machines-that-think/)
+Book Chapter: ArtiTcial Intelligence Thinking in K-12 (https://ai4k12.org/artiTcial-intelligence-thinking-in-k-12/)
+Book Series: Hands-On AI Projects for the Classroom (https://ai4k12.org/hands-on-aiprojects-for-the-classroom/)
+Book: Power On (https://ai4k12.org/power-on/)
+
+Reports
+Report: Automation and ArtiTcial Intelligence: How machines are affecting people and
+places (https://ai4k12.org/report-automation-and-artiTcial-intelligence-how-machinesare-affecting-people-and-places/)
+Report: Building Capacity for K-12 ArtiTcial Intelligence Education Research
+(https://ai4k12.org/building-capacity-for-k-12-artiTcialintelligence-education-research/)
+Report Executive Summary: State of AI Education in Your State (https://ai4k12.org/executive-summarythe-state-of-k-12-ai-education-in-your-state-workshop/)
+Report: The Future of Problem Solving with Data and Intelligence: Increasing ArtiTcial
+Intelligence and Data Science Education Across the US (https://ai4k12.org/the-futureof-problem-solving-with-data-and-intelligence-increasing-artiTcial-intelligence-and-datascience-education-across-the-us/)
+Report: K-8 AI Career Competencies (http://stelar.edc.org/sites/stelar.edc.org/Tles/K8_STEM_Career_Competencies.pdf) (site under maintenance)
+
+Careers
+Career Training: Robotics Career (https://ai4k12.org/robotics-career/)
+
+Career Training: AI4GA’s AI Career Cards (https://ai4k12.org/ai4gas-ai-career-cards/)
+
+Children’s Books
+Book: A Fresh Squeeze on Data (https://ai4k12.org/book-a-fresh-squeeze-on-data/)
+Book: How to Train Your Robot (https://ai4k12.org/how-to-train-your-robot/)
+Book Series: AI and ME (ReadyAI) (https://ai4k12.org/book-series-ai-and-me/)
+Book Series: AI Made Simple (edsquare) (https://ai4k12.org/ai-made-simple-edsquare/)
+Book Series: The World of ArtiTcial Intelligence 4D (https://ai4k12.org/the-world-of-artiTcial-intelligence-4d/)
+Book Series: Tinker Toddlers (https://ai4k12.org/book-series-tinker-toddlers/)
+
+Competitions
+Competition: Halite (https://ai4k12.org/competition-halite/)
+Competition: WAICY (World ArtiTcial Intelligence Competition for Youth)
+(https://ai4k12.org/waicy-world-artiTcial-intelligence-competition-for-youth/)
+
+CTE/CTAE Pathways
+CTAE Pathways: Denmark High School (Georgia) ArtiTcial Intelligence Pathway
+(https://ai4k12.org/denmark-high-school-georgia-artiTcial-intelligence-pathway/)
+CTE Pathways: Walker Junior High and Kennedy High School (California) ArtiTcial Intelligence Pathway
+(https://ai4k12.org/walker-junior-high-and-kennedy-high-school-california-artiTcial-intelligence-pathway/)
+Georgia’s AI CTAE Frameworks (Approved) – ArtiTcial Intelligence Pathway
+(https://ai4k12.org/georgias-ai-ctae-frameworks/)
+Foundations of ArtiTcial Intelligence
+ArtiTcial Intelligence Concepts
+ArtiTcial Intelligence Applications
+Florida’s AI CTE Framework (Under Review) – Draft 4 Course Sequence –
+(https://ai4k12.org/doridas-ai-cte-framework/)AI in the World, Applications of AI, Procedural Program (Python), Foundations of Machine Learning
+
+Curriculum Materials
+Curriculum: AI4ALL Open Learning (https://ai4k12.org/curriculum-ai4all-open-learning/)
+Curriculum: AI & Cybersecurity for Teens (ACT) (https://ai4k12.org/ai-cybersecurity-for-
+
+teens-act/)
+Curriculum: AI and Machine Learning Module (Code.org middle school curriculum)
+(https://ai4k12.org/ai-and-machine-learning-module/)
+Curriculum: AI for Georgia (AI4GA) (middle school curriculum) (https://ai4k12.org/aifor-georgia-ai4ga/)
+Curriculum: AI for Oceans (Code.org machine learning intro) (https://ai4k12.org/ai-foroceans/)
+Curriculum: AI plus Ethics for Middle School (Blakely Payne, MIT) (https://ai4k12.org/aiplus-ethics-for-middle-school/)
+Curriculum: Code.org AI Curricula (Code.org) (https://ai4k12.org/code-org-ai-curricula/)
+Curriculum: Computational Thinking & AI in Elementary School (Claude Reuter)
+(https://ai4k12.org/computational-thinking-ai-in-elementary-school/)
+Curriculum: CRAFT (Classroom-Ready Resources About AI for Teaching) [Stanford]
+(https://ai4k12.org/craft-classroom-ready-resources-about-ai-for-teaching/)
+Curriculum: CS Frontiers: AI/ML (https://ai4k12.org/cs-frontiers-ai-ml/)
+Curriculum: DAILy Curriculum (Irene Lee, MIT) (https://ai4k12.org/daily-curriculum/)
+Curriculum: ECS Alternate Curriculum Unit on ArtiTcial Intelligence
+(https://ai4k12.org/ecs-alternate-curriculum-unit-on-artiTcial-intelligence/)
+Curriculum: Exploring the Future Through Robotics and ArtiTcial Intelligence (Matthew
+Reuben)
+(https://ai4k12.org/exploring-the-future-through-robotics-and-artiTcial-intelligence/)
+Curriculum: FarmBeats for Students (Microsoft Education) (https://ai4k12.org/farmbeats-for-students/)
+Curriculum: IBM Activity Kits on AI (https://ai4k12.org/ibm-activity-kits-on-ai/)
+Curriculum: Thinking with KIBO: Introducing ArtiTcial Intelligence in Early
+Grades (KinderLab Robotics) (https://ai4k12.org/thinking-with-kibo-introducing-artiTcial-intelligence-in-early-grades/)
+
+Demos
+Demos: Convolutional Neural Nets (https://ai4k12.org/demos-convolutional-neuralnets/)
+Demo: ConvNetJS Convolutional neural net demos (https://ai4k12.org/convnetjs/)
+Demo: Diffusion Demo (https://ai4k12.org/diffusion-demo/)
+Demo: Erase Your Face (https://ai4k12.org/erase-your-face/)
+Demo: FaceDemo: TinyYOLOV2 Face Detection (https://ai4k12.org/facedemo-tinyyolov2-face-detection/)
+Demo: FaceMesh: Real-time face mesh from webcam (https://ai4k12.org/facemesh/)
+
+Demo: Hand Pose Detector: Real-time palm and Tnger detection from webcam images
+(https://ai4k12.org/hand-pose-detector/)
+Demo: Markov Chain Demo: Generate text using a statistical language model
+(https://ai4k12.org/markov-chain-demo/)
+Demo: Neuron Sandbox: Solve problems using a simulated linear threshold unit.
+(https://ai4k12.org/neuron-sandbox/)
+Demo: Object Detection: Real-time object detection from webcam images
+(https://ai4k12.org/object-detection/)
+Demo: pix2pix (https://ai4k12.org/pix2pix/)
+Demo: Quick, Draw! (https://ai4k12.org/quick-draw/)
+Demo: Scroobly Doodle Animation (https://ai4k12.org/scroobly/)(video (https://www.youtube.com/watch?v=mq2jK5X9JNY))
+Demos: Spectrograms and Waveforms (https://ai4k12.org/spectrograms-and-waveforms/)
+Demo: Speech Recognition in Chrome (https://ai4k12.org/speech-recognition-inchrome/)
+Demo: Teachable Machine (https://ai4k12.org/teachable-machine/)
+Demo: Extension of Teachable Machine (GenAI Project, Finland) (https://ai4k12.org/extension-of-teachable-machine/)
+Demo: TensorFlow Playground
+(https://ai4k12.org/tensordow-playground/)
+Demo: Word Embedding Demo (https://ai4k12.org/word-embedding-demo/)
+Demo: TensorFlow.js Models (https://ai4k12.org/tensordow-js-models/)(video
+(https://www.youtube.com/watch?v=c3aZeMZ0cvs))
+Demo: University of Karlsruhe (https://lecture-demo.ira.uka.de/)
+
+Lists of Links
+Links: DeepFakes (https://ai4k12.org/links-deepfakes/)
+Links: Diversity and Inclusion in AI (https://ai4k12.org/diversity-and-inclusion-in-ai/)
+Links: Transformer Networks (https://ai4k12.org/transformer-networks/)
+
+Online Professional Development Courses
+Online Course: AI 101 for Teachers (Code.org) (https://ai4k12.org/ai-101-for-teachers/)
+Online Course: ArtiTcial Intelligence Explorations and Their Practical Use in
+Schools (ISTE) (https://ai4k12.org/online-course-artiTcial-intelligence-explorations-andtheir-practical-use-in-schools/)
+
+Online Course: IBM AI Education (IBM/MindSpark) (https://ai4k12.org/ibm-ai-education/)
+Online Course: Teaching AI in the Classroom (CSER, Australia)
+(https://ai4k12.org/teaching-ai-in-the-classroom/)
+Online Course: ArtiTcial Intelligence (AI) Education for Teachers (coursera)
+(https://ai4k12.org/artiTcial-intelligence-ai-education-for-teachers/)
+
+Online Courses for K-12 Students
+Online Course: AI and ME (ReadyAI) (https://ai4k12.org/online-course-ai-and-me/)
+Online Course: AI Foundations Powered by ISTE and IBM (https://ai4k12.org/ai-foundations-powered-by-iste-and-ibm/)
+Online Course: AI4All Open Learning (AI4All) (https://ai4k12.org/ai4all-open-learning/)
+Online Course: Elements of AI (Reaktor + University of Helsinki) (https://ai4k12.org/elements-of-ai/)
+Online Course: Introduction to Q-learning in Python (LoisLab) (https://ai4k12.org/introduction-to-q-learning-in-python/)
+
+Reference Sources and Tutorials
+The ArtiTcial Intelligence Wiki (https://ai4k12.org/the-artiTcial-intelligence-wiki/) (PathMind): encyclopedia-like accessible explanations of concepts in AI reasoning and machine learning
+Towards Data Science (https://ai4k12.org/towards-data-science/): blog with a mix of
+introductory articles and detailed technical explorations
+An Explanation of Machine Learning Even You Can Understand (https://ai4k12.org/anexplanation-of-machine-learning-even-you-can-understand/) (TheNextWeb): quick survey of the fundamentals
+The difference between AI and machine learning, explained (https://ai4k12.org/the-difference-between-ai-and-machine-learning-explained/)(TheNextWeb): insightful discussion of the nature of AI and its relationship to ML
+
+Research
+NSF AI Education for K-12 Awards (https://ai4k12.org/nsf-ai-education-for-k-12-awardsfy18-fy21/)
+EAAI K-12 AI Education Papers (https://ai4k12.org/eaai-k-12-ai-education-papers/)
+
+Resource Directories
+
+Resource Directory: Expore AI Ethics (https://ai4k12.org/explore-ai-ethics/)
+Resource Directory: Learn About AI at Code.org (https://ai4k12.org/learn-about-ai-atcode-org/)
+Resource Directory: MIT RAISE (Responsible AI for Social Empowerment and Education) (https://ai4k12.org/raise-playground/)
+The Best Online Machine Learning Courses (2022) (https://ai4k12.org/the-best-onlinemachine-learning-courses-2022/)
+
+Software Packages
+Software: AI and MIT App Inventor (https://ai4k12.org/software-ai-with-mit-app-inventor/)
+Software: Calypso (intelligent robot programming framework) (https://ai4k12.org/calypso/)
+Software: Cognimates (https://ai4k12.org/cognimates/)
+Software: eCraft2Learn (https://ai4k12.org/ecraft2learn/)
+Software: Machine Learning for Kids (https://ai4k12.org/machine-learning-for-kids/)
+Software: micro:bit CreateAI (https://ai4k12.org/microbit-createai/)and micro:bit MLMachine (https://ai4k12.org/microbit-ml-machine/)
+Software: RAISE Playground (https://ai4k12.org/raise-playground/)
+
+TeachAI Resources
+TeachAI Resources: AI Guidance for Schools Toolkit (2023) (https://ai4k12.org/ai-guidance-for-schools-toolkit/)
+TeachAI Resources: Future of Computer Sience Education in an Age of AI (2024)
+(https://ai4k12.org/future-of-computer-sience-education-in-an-age-of-ai-2024/)
+TeachAI Resources: Foundational Policy Ideas for AI in Education (2024)
+(https://ai4k12.org/foundational-policy-ideas-for-ai-in-education-2024/)
+
+Videos
+Documentary: AlphaGo (https://ai4k12.org/documentary-alphago/)
+Documentary: CyberWork and the American Dream (https://ai4k12.org/cyberwork-andthe-american-dream/)
+Documentary: Frontline: In the Age of AI (https://ai4k12.org/frontline-in-the-age-of-ai/)
+Documentary: Nova: Look Who’s Driving (https://ai4k12.org/nova-look-whos-driving/)
+Video Playlist: Computer Vision (5 videos on computer vision projects at Google)
+(https://ai4k12.org/playlist-computer-vision/)
+
+Video Series: Careers in AI (https://ai4k12.org/series-careers-in-ai/)
+Video Series: Crash Course ArtiTcial Intelligence (20 episodes)
+(https://ai4k12.org/crash-course-artiTcial-intelligence/)
+Video Series: Crash Course Computer Science (5 episodes deal with AI)
+(https://ai4k12.org/crash-course-computer-science/)
+Video Series: EverydAI (https://ai4k12.org/everydai/)
+Video Series: How AI Works (from Code.org) (https://ai4k12.org/how-ai-works/)
+Video Series: The Age of AI (YouTube Learning; 8 episodes) (https://ai4k12.org/theage-of-ai/)
+Video: AI Ethics and Fairness in 7 Minutes (https://ai4k12.org/ai-ethics-and-fairness-in7-minutes/)
+Video: Computer Scientist Explains Machine Learning in 5 Levels of Ditculty
+(https://ai4k12.org/computer-scientist-explains-machine-learning-in-5-levels-of-ditculty/)
+Video: Deconstructing Robotics (https://ai4k12.org/deconstructing-robots/)
+Video: How Computer Vision is Finally Taking Off, After 50 Years
+(https://ai4k12.org/how-computer-vision-is-Tnally-taking-off-after-50-years/)
+Video: How Computer Vision Works (https://ai4k12.org/how-computer-vision-works/)
+Videos: How Self-Driving Cars Work (https://ai4k12.org/how-self-driving-cars-work/)
+Video: How Snapchat’s Filters Work (https://ai4k12.org/how-snapchats-Tlters-work/)
+Video: How to Train Your Robot (for K-8) (https://ai4k12.org/how-to-train-your-robot-2/)
+Video: Humans Need Not Apply (https://ai4k12.org/humans-need-not-apply/)
+Video: Inside Google Translate (https://ai4k12.org/inside-google-translate/)
+Video: Lidar vs. Vslam For Robot Vacuums (https://ai4k12.org/lidar-vs-vslam-for-robotvacuums/)
+Video: Neural Networks for Babies (https://ai4k12.org/neural-networks-for-babies/)
+Video: The Companion Robot Designer (Bloomberg News) (https://ai4k12.org/the-companion-robot-designer/)
+Video: The Power and Limits of ArtiTcial Intelligence (https://ai4k12.org/the-power-andlimits-of-artiTcial-intelligence/)
+Video: The Rise of AI (https://ai4k12.org/the-rise-of-ai/)
+
+(https://ai4k12.org/wp-
+
+Search…
+
+
+
+Sort by Relevance
+content/uploads/2020/08/jointfundingfooter.png)
+
+© 2020 AI4K12
+
+Licensing Terms (https://ai4k12.org/licensing-terms/)
+
+Privacy Statement
+
+(https://ai4k12.org/privacy-statement/)
+
+This web site is based upon work supported by the National Science Foundation under
+Grant No. DRL-1846073. Any opinions, findings, and conclusions or recommendations
+expressed in this material are those of the authors and do not necessarily reflect the
+views of the National Science Foundation.
+
+

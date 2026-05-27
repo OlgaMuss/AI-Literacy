@@ -1,0 +1,2796 @@
+AI Readiness
+Framework
+What students, educators,
+and leaders need to know
+v2.0
+
+The AI Education Project (aiEDU)
+published its first AI Readiness
+Framework in October 2024. Built
+on qualitative and quantitative
+research, our first framework
+included research-based
+student, educator AI Readiness
+competencies, and a district
+readiness rubric.
+
+AI Readiness Framework
+
+In just a year,
+much has
+changed.
+
+Introduction
+
+2
+
+Overview
+Research has called into question
+whether LLM use has a negative effect
+on brain connectivity and cognitive
+engagement (MIT Media Lab, 2024). The
+World Economic Forum’s 2025 Jobs
+Report indicates that 22% of all jobs will
+be disrupted by 2030, with nearly 40%
+of job skills expected to change (World
+Economic Forum, 2025). And more
+students are using AI tools for
+schoolwork (Pew Research, 2025) and
+companionship (Common Sense
+Media, 2025). At the same time, most
+districts are only just starting to develop
+AI use policies (RAND, 2025).
+
+At the same time, the shape of skills is
+changing, with significant implications
+for AI Readiness.
+To strengthen our second AI Readiness
+Framework, aiEDU embarked on novel
+research and a new analysis of labor
+market data and K-12 graduation
+requirements with The Burning Glass
+Institute. What we found is that human
+skills—like communication,
+collaboration, and critical thinking—are
+increasing in value. It’s also clear that
+many technical skills will be
+augmented with AI. This requires strong
+knowledge of foundational skills
+alongside AI skills.
+And it frames the challenge ahead for
+K-12 education. Educators cannot
+choose between developing soft skills,
+core content skills, and AI. They must
+take an all-of-the-above approach,
+finding the balance to teach all of
+them, and teach them well. In order to
+live, work, and thrive in a world with AI,
+students will need both foundational
+learning and the ability to direct and
+assess AI tools.
+
+AI Readiness Framework
+
+Introduction
+
+3
+
+New
+insights
+driving our
+learnings
+
+That means understanding students’
+human advantages differently, new
+competencies for educators, and a
+heightened importance for school
+leaders, not just districts as a whole, to
+understand the challenge ahead.
+It also means strengthening the
+pedagogical vision and perspective on
+AI implementation at the district
+level. Version 2 of our AI Readiness
+Framework seeks to give each of these
+key constituencies the baseline they
+need to do so.
+
+What’s
+new in
+Version 2?
+
+Version 2 of aiEDU’s AI Readiness
+Framework incorporates this evolution
+to anchor core content knowledge and
+human skills throughout student
+competencies. In addition, we’ve
+included an explicit connection
+between learning pedagogy and AI skill
+building in educator competencies
+and the readiness rubrics.
+In Version 2, the AI Readiness
+framework continues to build on the
+work from other digital and AI literacy
+frameworks (and also acknowledges
+the great work of many organizations in
+our citations below):
+• UNESCO’s AI Competencies for Students
+AI Competencies for Teachers
+• Digital Promise’s AI Literacy Framework
+• AI4K12’s Big Ideas in AI
+• EC, OECD, and Code.org’s The AILit Framework
+• Common Sense Media’s AI Toolkit for
+School Districts
+
+AI Readiness Framework
+
+Based on latest research and feedback
+from users, Version 2 also includes the
+following updates:
+
+Student Competencies
+
+• The competencies in “Domain 3: Lead with
+the Human Advantage” are revised to
+reflect current research on the future of
+work
+• New curricular examples aligned to
+competencies
+
+Educator Competencies
+
+• Updated competencies throughout to
+reflect latest cognitive research on AI use
+
+School Leader Readiness Rubric
+
+• This new addition reflects the importance
+of school leadership to drive AI Readiness
+and focuses on their needs directly,
+focusing on instructional leadership and
+community engagement
+
+District Readiness Rubric
+
+• Revised for more specific criteria for
+districts to consider
+
+Introduction
+
+4
+
+Defining
+AI Readiness
+AI Readiness
+
+aiEDU defines AI Readiness as the
+knowledge and capabilities needed to
+apply one’s human advantage with
+evolving technology.
+A person is AI ready when they can
+leverage the combination of core content
+knowledge and durable skills like critical
+thinking and collaboration alongside AI to
+achieve their life and career potential.
+
+Many specific qualities go into a person being AI ready, including concepts like:
+
+•AI literacy
+
+(e.g., how to effectively and critically use
+AI tools)
+
+•Content literacy
+
+(e.g., math, literacy, science, social
+studies, and computer science skills)
+
+•Media literacy
+
+(e.g., evaluating information sources for
+bias and synthesizing information across
+digital platforms, ensuring digital
+citizenship)
+
+AI Readiness Framework
+
+•Social and emotional wellness
+
+(e.g., developing empathy, managing
+screen time, building healthy online
+relationships)
+
+•Creative and critical thinking
+
+(e.g., problem-solving with technology,
+designing innovative solutions,
+questioning assumptions about
+technological solutions, collaborating
+across disciplines)
+
+Introduction
+
+5
+
+Defining
+AI Readiness
+Lead with
+the human
+advantage
+Being a critical
+thinker
+Knowing
+the basics
+To build the AI Literacy & Readiness
+Competencies, aiEDU looked to multiple
+perspectives and research.
+See our Methodologies section for more details.
+
+Building from this body of work, we see
+a progression of learning for AI literacy
+and AI Readiness for students and
+educators: knowing the basics, being
+a critical thinker, and leading with the
+human-advantage. In addition, to
+support educators and students, we
+see specific actions for districts and
+schools to take to ensure their systems
+are AI Ready.
+
+AI Readiness Framework
+
+Introduction
+
+6
+
+This
+framework
+has four
+parts
+
+01
+
+Student
+AI Literacy
+& Readiness
+Competencies
+
+The first is the AI Literacy & Readiness
+Competencies for Students. These are
+concrete skills that will support students
+in building their AI literacy and
+readiness. These span all subject areas.
+Audience
+
+• Teachers: To know what connections to
+support students in making
+• Parents: To understand what they should
+expect from their children
+• School leaders, district leaders: to inform AI
+readiness outcomes for students in any vision
+setting and strategy
+
+02
+
+Educator
+AI Literacy
+& Readiness
+Competencies
+
+The second is the AI Literacy &
+Readiness Competencies for
+Educators, which names the concrete
+knowledge and skills educators need to
+teach students AI Literacy & Readiness.
+It should be noted that these
+competencies span all subject areas
+and are intended for all educators and
+those providing wrap-around supports
+for learners.
+Audience
+
+• School leaders, district leaders: to inform AI
+readiness for teachers
+• Teachers: to understand the skills they should
+be developing
+
+03
+
+School
+AI Readiness
+Rubric
+
+The third part is the School AI
+Readiness Rubric, which provides
+guidance on what schools’ approach
+can be to align to system level
+readiness.
+Audience
+
+• School leaders: to self assess and guide work
+within schools to support AI readiness
+
+04
+
+District
+AI Readiness
+Rubric
+
+The final part is the District AI
+Readiness Rubric, which provides
+guidance on the levels of work districts
+must do to prepare for AI use and build
+AI Readiness in their systems.
+Audience
+
+• District leaders: to deliver district-level change
+
+• District leaders: to support conditions that
+allow school leaders to implement AI readiness
+
+AI Readiness Framework
+
+Introduction
+
+7
+
+How to
+use it
+
+Student is always
+at the center
+
+Student
+AI Literacy
+& Readiness
+Competencies
+All of this work is designed to
+build an important end goal:
+Increase student learning and
+preparedness for the
+changing workforce
+and world.
+
+Educator
+AI Literacy
+& Readiness
+Competencies
+Teachers use their competencies to
+set students up for success on student
+competencies, and identify ways to
+integrate AI Readiness work into
+existing systems and content.
+
+School
+AI Readiness
+Rubric
+School leaders use the School
+Leader Readiness Rubric to set
+teachers up for success.
+
+District
+AI Readiness
+Rubric
+District leaders use the District
+Readiness Rubric to set schools
+up for success.
+
+AI Readiness Framework
+
+Introduction
+
+8
+
+01
+
+AI Literacy
+& Readiness
+Competencies
+Student
+AI Readiness Framework
+
+Section 01
+
+Student Competencies
+
+9
+
+Student
+Competencies
+
+Overview
+AI Literacy & Readiness Competencies
+for Students is organized into three
+overarching domains: Know Your
+Basics, Be a Critical Thinker, and Lead
+with the Human Advantage. Within
+each domain, competencies are
+broken down into a grade band (K-5,
+6-8, and 9-12) with specific
+descriptions and skills.
+
+Teachers can see how learning these
+skills progresses over time and what
+can be appropriate for the age group
+they teach as well as prior skills to
+support. Competencies do not need to
+be addressed in any particular order,
+but offer multiple entry points for
+building AI literacy and AI Readiness in
+any class.
+
+Audience
+
+Teachers
+To know what connections to support
+students in making
+Parents
+To understand what they should expect
+from their children
+School Leaders, District Leaders
+To inform AI readiness outcomes for
+students in any vision setting and strategy
+
+AI Readiness Framework
+
+Section 01
+
+Student Competencies
+
+10
+
+Domain 1
+
+Know Your
+Basics
+
+AI Literacy
+
+Competencies
+
+Grades K-5
+
+Grades 6-8
+
+Grades 9-12
+
+A. Define &
+identify
+AI systems
+
+Use age appropriate and
+accurate definitions of AI (e.g.,
+AI is a technology that gathers
+information and makes
+predictions from that
+information)
+
+Refine definitions of AI, using
+more specific terms (e.g., AI is a
+technology that identifies
+patterns from large amounts of
+data and uses those patterns
+to make predictions or
+generate outputs in response
+to user prompts)
+
+Use nuanced definitions of AI,
+taking care to not assign
+human traits to descriptions of
+AI (e.g., LLMs are statistical
+models trained with selfsupervised learning on large
+text or code datasets to predict
+the next token in a sequence.)
+
+• Identify and begin to describe
+machine learning
+
+• Identify more key terms used
+with AI and the different ways
+for LLMs to gather data and
+what AI applications bring
+into LLMs (e.g., supervised vs.
+unsupervised learning,
+reasoning models)
+
+• Describe that AI gathers data
+and follows instructions
+• Identify different types of
+personally identifiable data
+(e.g., name, address), why
+they matter in various
+situations including AI
+powered tools, and what it
+means to keep personal data
+private
+
+(includes all previous skills)
+
+• Identify what datasets were
+used to train an AI model and
+what AI models and methods
+were used to develop a tool
+• Identify how personal
+information is being collected,
+used, and shared” (Digital
+Promise, 2024) by AI tools and
+systems and know how to
+effectively manage/delete
+data collected by AI tools and
+systems
+• Build understanding of how AI
+systems use energy and
+space
+
+AI Readiness Framework
+
+Section 01
+
+(includes all previous skills)
+
+• Describe the differences in
+models (e.g., training data,
+training methods), the
+resulting strengths and
+weakness of the models, and
+what types of tasks the
+different models are best
+used for
+• “Consider the benefits and/or
+costs of AI to individuals,
+society, and the environment”
+(Digital Promise, 2024)
+
+Student Competencies
+
+11
+
+Domain 1
+
+Know Your
+Basics
+
+AI Literacy
+
+Competencies
+
+Grades K-5
+
+Grades 6-8
+
+Grades 9-12
+
+B. Use AI tools
+safely and
+effectively
+
+Recognize and ask questions
+about AI and non-AI in familiar
+technologies (e.g., smart
+speakers, NPCs in games)
+
+Use and critically compare
+outputs of age-appropriate AI
+tools and applications
+
+Evaluate AI tool use in larger
+technology ecosystems
+
+• Describe responsible use of AI
+and non-AI tools
+
+(includes all previous skills)
+
+• Experiment with different tools
+and prompts to identify
+differences and similarities in
+outputs from AI tools based
+on user inputs
+• Evaluate when and how AI
+tools should be used in
+different situations; consider if
+the problem is right for AI, if
+you have enough data, and
+weigh the possible risks
+against benefits
+
+(includes all previous skills)
+
+• Identify how AI tools connect
+with and impact other
+technologies they use
+• “Responsibly engage in the
+consumption, creation, or
+sharing of AI-enabled
+products, including ethical
+sourcing and citation” (Digital
+Promise, 2024)
+• Act as a decision-maker
+around AI tool use, not just a
+consumer
+
+• Develop metacognitive skills
+with AI use to describe levels
+of thinking, learning, and
+creativity in AI use
+• Effectively manage/delete
+data collected by AI tools and
+systems
+
+C. Develop core
+content
+knowledge
+
+Develop grade-level appropriate literacy, math, science, and social studies
+skills and knowledge, aligned to relevant national and/or state standards
+
+AI Readiness Framework
+
+Section 01
+
+Student Competencies
+
+12
+
+Domain 2
+
+Be a Critical
+Thinker
+
+AI Literacy
+
+Competencies
+
+Grades K-5
+
+Grades 6-8
+
+Grades 9-12
+
+A. Determine
+responsible use
+of AI
+
+Compare strengths and
+weaknesses of different
+processes and tool selection
+for problem solving, including
+AI tools (e.g., identifying
+benefits and drawbacks of
+using different models for a
+given math problem)
+
+When presented with a novel
+problem, critically examine the
+possible use of AI tools at
+various points in the process,
+considering energy use, bias,
+and access (e.g., as a group,
+prototyping an AI tool use case
+for a problem)
+
+Critically assess the
+appropriateness of using AI for
+novel problems, including
+analyzing ethical implications
+of AI tool use in various
+contexts (e.g., environmental
+impacts, bias)
+
+B. Identify and
+address AI biases
+
+Identify why outputs from AI
+tools have discrepancies
+
+Discuss how AI systems might
+reflect biases of their creators
+or training data (AI4K12, 5-A.iii,
+2022)
+
+Critique AI systems for
+embedded biases and
+propose ways to make them
+more inclusive and ethical
+
+• Recognize and explain the
+different perspectives on key
+ethical issues surrounding AI,
+such as bias, transparency,
+and accountability
+
+• “Understand how values,
+beliefs, and points of view are
+applied through AI-enabled
+systems and outputs” (Digital
+Promise, 2024)
+
+• Identify benefits and
+drawbacks of AI tools for a
+job, considering who or what
+might be left out or
+purposefully included
+
+• “Identify how bias in data
+collection informs reporting”
+(Digital Promise, 2024)
+
+• Compare outputs from AI
+tools given different prompts
+• Define bias in data
+• Connect discrepancies in
+outputs to ideas of fairness
+and bias
+• Gather and sort data noticing
+patterns and outliers
+
+(includes all previous skills)
+
+• Choose appropriate data for
+AI tasks, considering
+relevance and potential
+biases
+
+C. Examine AI use
+and outputs
+
+(includes all previous skills)
+
+• Engage in ethical impact
+assessments of AI tools
+• Identify technical and policy
+solutions that could improve
+equity of tools
+
+Ask and answer questions
+about products created by AI
+and non-AI tools
+
+Assess the reliability and
+limitations of AI outputs in
+various scenarios
+
+Critically assess AI outputs,
+considering potential biases
+and limitations
+
+• Ask questions about the
+sources used in a response
+
+• Develop questions to review
+and compare tone, content,
+and credibility of outputs from
+various AI tools
+
+• “Evaluate outputs of AIenabled system for
+appropriate tone, audience,
+and content” and “evaluate
+the credibility or accuracy of
+an output prediction (Digital
+Promise, 2024)
+
+• Ask questions about the
+problem to determine what
+tool (AI or non-AI) would be
+best and why
+• Determine if outputs created
+by AI are factual or not (e.g.,
+teacher models entering a
+prompt to an AI tool and
+students discuss validity of
+response)
+
+AI Readiness Framework
+
+• Compare different tools for a
+given problem, identifying
+benefits and drawbacks, to
+make recommendations
+about the best tool for a
+problem
+
+• Determine if and how an AI
+algorithm is the right tool for
+the job
+
+• Compare multiple
+perspectives, outputs, and
+sources before finalizing a
+response that uses an AI tool
+
+• “Analyze and synthesize
+multiple perspectives to
+support lateral reading”
+(Digital Promise, 2024)
+
+Section 01
+
+Student Competencies
+
+13
+
+Domain 3
+
+Lead with the
+Human Advantage
+
+AI Readiness
+
+Competencies
+
+Grades K-5
+
+Grades 6-8
+
+Grades 9-12
+
+A. Build emotional
+intelligence
+
+Build foundations of uniquely
+human emotional intelligence
+skills: collaboration, empathy,
+compassion, self-regulation,
+and active listening skills
+
+Deepen the uniquely human
+emotional intelligence skills
+applied to various social
+situations or problems (e.g.,
+collaboration, empathy,
+compassion, self-regulation,
+active listening)
+
+Apply human-centered skills
+(e.g., collaboration, empathy,
+compassion, self-regulation,
+active listening) to social and
+academic situations
+
+• Engage in collaborative work
+that requires communicating
+needs, ideas, and processes
+clearly with others
+• Develop vocabulary and
+routines to support empathy
+building (e.g., identifying and
+sharing personal emotions
+when engaging with
+technology and others)
+
+B. Apply creativity
+and
+interdisciplinary
+thinking
+
+(includes all previous skills)
+
+• Engage in more collaborative
+work that requires
+communication of needs,
+ideas, and processes within
+the group and to external
+audiences
+• Engage in more robust
+empathy building exercises
+(e.g., human-centered design
+framework for problem
+solving)
+
+Build foundational creative and
+interdisciplinary thinking skills
+
+Deepen creative and
+interdisciplinary thinking skills
+
+• Ask “what if,” “what else,”
+“why,” or “why not” type
+questions that foster flexible
+and associative thinking
+
+• Apply methods for
+brainstorming and creating
+that go beyond sequential or
+linear approaches
+
+• Identify points of connection
+across subject areas
+
+• Ask questions that consider
+multiple subjects when
+creating or problem-solving
+
+AI Readiness Framework
+
+Section 01
+
+(includes all previous skills)
+
+• Engage in collaborative work
+for more complex problems
+that requires communication
+of needs, ideas, and
+processes; engage in
+implementing solutions
+• Apply empathy, compassion,
+and active listening to
+nuanced scenarios (e.g.,
+applying human-centered
+design framework for
+problem solving in
+community-based contexts)
+Apply creative and
+interdisciplinary thinking skills
+to novel situations
+• Develop creative approaches
+to complex problems that
+require human reflection and
+engagement throughout the
+process
+• Build cross-content
+connections that leverage
+human expertise in novel
+situations
+
+Student Competencies
+
+14
+
+Domain 3
+
+Lead with the
+Human Advantage
+
+AI Readiness
+
+Competencies
+
+Grades K-5
+
+Grades 6-8
+
+Grades 9-12
+
+C. Be a life-long
+learner
+
+Build foundational curiosity,
+resilience, resourcefulness, and
+adaptability skills
+
+Deepen curiosity, resilience,
+resourcefulness, and
+adaptability skills
+
+Apply personalized strategies
+for life-long learning:
+
+• Identify the roadblock and
+ask questions about how to
+get around the roadblock
+
+• Approach novel situations
+with an orientation to context
+and knowledge building (e.g.,
+ask what do I know and what
+don’t I know yet)
+
+• Come back to a problem
+multiple times
+• Make adjustments to planned
+approaches based on when
+new information is presented
+
+AI Readiness Framework
+
+(includes all previous skills)
+
+• Iterate on possible solutions
+or applications of new skills to
+refine solutions
+• Seek new knowledge or
+support from others when
+faced with an unknown or
+potential roadblock
+
+Section 01
+
+(includes all previous skills)
+
+• Reflect on approaches to
+novel situations that refine
+knowledge and context
+building
+• Embrace productive struggle,
+preserving with novel
+problems and iterations of
+possible solutions
+• Continue to seek new
+knowledge and experience
+
+Student Competencies
+
+15
+
+02
+AI Literacy
+& Readiness
+Competencies
+Educator
+AI Readiness Framework
+
+Section 02
+
+Educator Competencies
+
+16
+
+Educator
+Competencies
+
+Overview
+The AI Literacy & Readiness
+Competencies for teachers highlights
+the key knowledge and skills for
+teachers to successfully build their own
+AI literacy and AI Readiness and
+support students in developing their AI
+literacy and AI Readiness.
+
+These educator competencies are
+organized into three overarching
+domains: Know and Model the Basics,
+Foster and Model Critical Thinking,
+and Lead with the Teacher Advantage.
+While these echo the domains of the
+student competencies, they are not
+intended to be a one-to-one match.
+You’ll see the most relevant student
+competencies listed for each educator
+competency.
+
+Audience
+
+School Leaders, District Leaders
+To inform AI readiness for teachers
+Teachers
+To understand the skills they should be
+developing
+
+AI Readiness Framework
+
+Section 02
+
+Educator Competencies
+
+17
+
+Domain 1
+A. Build
+foundational
+knowledge of AI
+
+Know and Model
+the Basics
+Define what AI is, how data is used in AI, and how AI is situated
+within the broader tech ecosystem
+Effectively use AI
+
+Aligned Student
+Competencies
+1.a: Define & identify AI systems
+1.b: Use AI tools safely and
+effectively
+
+Understand the impacts of AI on human skill development
+and cognition
+Understand the history of AI development and implications
+on future
+
+B. Build
+pedagogical
+knowledge of AI
+literacy and
+readiness skills
+
+Explain, in age-appropriate ways, what AI is, how AI uses data,
+AI uses and applications, and best practices with AI use
+Build learning experiences that center human skill and
+learning, using AI as a tool when applicable, not a
+replacement for human thinking
+Identify the uniquely human skills needed for students in a
+world of AI: emotional intelligence (e.g., compassion,
+empathy, collaboration, active listening, communication),
+creativity, multi-perspective decision making, resilience,
+adaptability, curiosity
+
+1.a: Define & identify AI systems
+1.b: Use AI tools safely and
+effectively
+1.c: Develop core content
+knowledge
+
+Identify connections between core subject content and AI
+literacy skills
+
+C. Identify,
+describe, and
+apply district AI
+policies
+
+Situate safe and responsible individual and classroom AI use
+within district AI use policy
+Understand and apply district policies on AI citations and
+plagiarism in student work
+
+1.a: Define & identify AI systems
+1.b: Use AI tools safely and
+effectively
+
+Understand and apply district policies on collection, storage,
+and use of student data within AI tools, as situated within
+district student data policies and FERPA
+Implement family communication and engagement with AI
+per district policy
+
+AI Readiness Framework
+
+Section 02
+
+Educator Competencies
+
+18
+
+Domain 2
+A. Critically
+evaluate the use
+of AI tools in
+teaching &
+learning
+
+Foster and Model
+Critical Thinking
+
+Aligned Student
+Competencies
+
+Critically evaluate if AI tools are best for a given instructional
+task or not using the following:
+1. Purpose - impact on student learning,
+2. Privacy
+3. Practicality
+
+2.a: Determine responsible use
+of AI
+
+Analyze inputs to AI and AI created outputs for alignment to
+values, beliefs, mitigating bias, and student learning
+outcomes
+
+2.c: Examine AI use and outputs
+
+2.b: Identify and address AI
+biases
+
+Anchor any AI use to further student outcomes in researchbased learning pedagogy
+
+B. Model critical
+evaluation of AI
+tools used in
+teaching and
+learning
+
+Establish and discuss AI use guidance with students,
+modeling when and how students can work with AI tools
+
+2.a: Determine responsible use
+of AI
+
+Engage students with credibility checks on sources and AI
+outputs, including critical evaluation of when to AI
+
+2.b: Identify and address AI
+biases
+
+Facilitate age-appropriate discussions on current and
+long-term effects of AI on individuals, the work force, society,
+and the environment
+
+2.c: Examine AI use and outputs
+
+C. Collaboratively
+iterate and refine
+AI use with
+colleagues
+
+Evaluate established assignments for ways for students to
+intentionally engage with AI tools that deepen learning,
+collaboration, critical thinking, and creativity
+
+3.b: Apply creativity and
+interdisciplinary thinking
+
+Engage in ongoing reflections and evaluation of the efficacy
+of the AI tools based on your knowledge of students, student
+learning data analysis, and levels of student engagement
+and enthusiasm
+
+AI Readiness Framework
+
+Section 02
+
+3.c: Be a life-long learner
+
+Educator Competencies
+
+19
+
+Domain 3
+
+Lead with the
+Teacher Advantage
+
+A. Create
+opportunities for
+students to build
+emotional
+intelligence
+
+Create learning opportunities for students to identify specific
+emotional, social, and collaboration skills they bring to their
+work
+
+B. Model and
+create
+opportunities for
+students to apply
+creativity and
+interdisciplinary
+thinking
+
+Create learning opportunities that build from students’
+interest and relevant real-world situations, that require
+considering multiple different subjects and/or perspectives
+
+C. Create
+opportunities to
+support life-long
+learning
+
+Develop and model routines for resilience, prompting
+students to reflect on their process when tools changes or fail
+them
+
+Aligned Student
+Competencies
+3.a: Build emotional intelligence
+
+Design collaborative work that requires communication that
+anchors on emotional and social skills
+Highlight differences in AI-only products and human + AI
+products to build students awareness of the differences
+
+3.b: Apply creativity and
+interdisciplinary thinking
+
+Build class structures that support students in adding
+metacognitive and “what if” moments to build creative &
+interdisciplinary thinking skills
+
+3.c: Be a life-long learner
+
+Model refining personal understanding of when to use tools,
+when to question tools, and how to continue to develop
+uniquely human capabilities
+
+AI Readiness Framework
+
+Section 02
+
+Educator Competencies
+
+20
+
+03
+AI Readiness
+Rubric
+School
+AI Readiness Framework
+
+Section 03
+
+School Readiness Rubric
+
+21
+
+School
+AI Readiness Rubric
+
+Overview
+The School AI Readiness Rubric is a
+tool to support school level leaders in
+implementing AI Readiness within
+their schools. While many of the
+criteria reflect those in The District
+Readiness Rubric, there is particular
+emphasis on the Enable Teaching &
+Learning domain.
+
+School leaders are uniquely positioned to
+implement district level policy and set the
+instructional priorities and systems for their
+schools. A school that successfully moves
+through the levels of this rubric sets up its
+teachers to develop within the educator
+competencies. That, in turn, will set
+students up for success in achieving their
+own competencies.
+The School AI Readiness Rubric is designed
+as a companion to District Readiness
+Rubric. Districts aligning to the AI Readiness
+Rubric set schools up to be successful in
+implementing school-level readiness. If a
+school is operating with limited district
+guidance on AI readiness, then the school
+leadership must establish and implement
+the vision and the policy, not just align with
+existing vision & policy from the district.
+
+Audience
+
+School Leaders
+To self-assess and guide work within
+schools to support AI readiness
+District Leaders
+To support conditions that allow school
+leaders to implement AI readiness
+
+AI Readiness Framework
+
+Section 03
+
+School Readiness Rubric
+
+22
+
+School
+AI Readiness Rubric
+Domain
+
+Level 1
+Demonstrate Commitment
+
+Level 2
+Invest & Implement
+
+Level 3
+Deepen & Iterate
+
+Connect District
+Vision to School
+Implementation
+
+Vision for Student AI
+Readiness
+Develop school instructional
+goals aligned to updated
+district vision for student AI
+Readiness
+
+Embed student AI Readiness
+outcomes within student
+assessment structures
+
+Implement aligned support for
+developing AI Readiness
+competencies across all
+school staff roles
+
+Consistently use AI Readiness
+competencies in existing
+district performance
+management systems or
+structures
+
+Pilot implementation of criteria
+for AI use in instruction for tool
+evaluation and instructional
+trainings
+
+Expand and iterate on
+implementation of criteria for AI
+use in instruction across
+instructional domains
+
+Implement regular
+communications with families
+about AI Readiness efforts and
+engage community partners in
+school AI Readiness initiatives
+
+Use family and community
+feedback to continuously
+improve AI Readiness
+strategies and position school
+as a community resource for AI
+literacy
+
+Identify key communication
+pathways to various
+stakeholders (e.g., parent
+newsletters, teacher messages,
+student notes)
+
+Set a regular cadence of
+communication to all
+stakeholders on AI Readiness
+implementation aligned to
+existing communication
+structures, including learning
+opportunities for stakeholders
+on updates
+
+Refine communication on AI
+Readiness implementation and
+have regular opportunities for
+community stakeholders to
+engage in learning,
+development of AI literacy and
+AI Readiness implementation
+
+AI Readiness Framework
+
+Section 03
+
+School Readiness Rubric
+
+Identify points of alignment
+and gaps in current school
+instructional goals and district
+student AI Readiness outcomes
+Vision for School AI Use
+Map district AI Readiness
+competencies for different
+roles to given school structure
+and roles
+Vision for AI Use in Instruction
+Internalize district criteria for AI
+use in instruction anchored in
+strong pedagogical practices
+
+Galvanize
+Stakeholders
+
+Context Gathering
+Informally gather input (e.g.,
+survey, focus groups) from
+students, teachers, staff, family
+and community members on
+AI in education to inform key
+priorities for AI Readiness
+implementation
+Communicate and Educate
+
+23
+
+School
+AI Readiness Rubric
+Domain
+
+Level 1
+Demonstrate Commitment
+
+Set Conditions
+through Policy
+& Operations
+
+Guardrails
+Identify gaps or areas for
+adaptation for AI Readiness in
+existing technology and
+academic integrity policies
+(e.g., acceptable use policies)
+
+Level 2
+Invest & Implement
+
+Level 3
+Deepen & Iterate
+
+Draft an inclusive, adaptive
+and transparent guardrails for
+ethical use of AI and
+safeguarding of student data
+by students, teachers,
+leadership, and staff
+
+Iterate on AI guardrails,
+leveraging feedback from
+stakeholders, and integrating
+to existing tech stack
+acceptable use guidelines
+
+Create an updated tech
+procurement process that
+accounts for AI tool-specific
+needs, a plan for keeping or
+sunsetting any existing tech
+tools in use, and an evaluation
+plan for measuring success of
+tools in use; pilot the use of the
+process
+
+Full-system roll out of updated
+tech procurement and piloting
+process; monitor efficacy and
+success of implemented tools
+through an ongoing review of
+tools in use that
+accommodates the pace of
+change of AI technology and
+new tools coming to market
+
+Establish and implement
+collaborative, structured, and
+connected opportunities for
+teachers to develop AI
+Readiness skills aligned to
+school-specific AI Readiness
+goals
+
+Integrate ongoing, jobembedded professional
+learning on AI Readiness within
+teacher development systems.
+Use instructional data,
+feedback from teachers, and
+responsiveness to rapidly
+changing landscape to
+continually refine teacher
+development and leadership
+for AI Readiness
+
+Processes
+Evaluate current tech
+procurement processes,
+existing tech stack in use, and
+tech efficacy measures in
+place
+
+Enable Teaching
+& Learning
+
+Instructional Leadership
+Assess current teacher (and
+self) AI knowledge and comfort
+levels, along with early AI
+adopters that can serve as
+AI Readiness champions to
+identify AI Readiness
+instructional priorities (e.g.,
+AI tool use, rethinking
+assignments in the age of AI,
+integrating AI literacy skillbuilding to core curriculum),
+aligned to school-specific AI
+Readiness goals
+
+Examples:
+School-wide PLC on AI tool use
+for a specific teaching task,
+with examples, opportunities
+for feedback and revision, and
+reviewing student work
+
+Observation & Coaching
+Conduct observations to
+identify levels of AI Readiness
+happening in classrooms
+
+Incorporate AI Readiness
+considerations into informal
+classroom observations and 1:1
+coaching, aligned to schoolschool specific AI Readiness
+goals and instructional
+priorities
+
+Establish ongoing,
+differentiated coaching cycles
+that use multiple data sources
+to deepen individual teachers’
+AI Readiness and instructional
+effectiveness
+
+AI Readiness Framework
+
+Section 03
+
+School Readiness Rubric
+
+24
+
+School
+AI Readiness Rubric
+Domain
+
+Level 1
+Demonstrate Commitment
+
+Level 2
+Invest & Implement
+
+Level 3
+Deepen & Iterate
+
+Enable Teaching
+& Learning
+(Continued)
+
+Instructional Materials
+Lead instructional leadership
+team in evaluating a prioritized
+set of instructional materials for
+AI Readiness; share
+recommendations for changes
+to curriculum to meet student
+AI Readiness and content
+outcomes
+
+Support instructional teams in
+implementing updated
+curriculum aligned to student
+AI Readiness and content
+outcomes; establish ongoing
+analysis of efficacy of
+materials through student and
+teaching data
+
+Define what a strong
+instructional AI tool is,
+anchored in student learning
+and AI Readiness outcomes
+
+Implement criteria for
+instructional AI tool selection to
+evaluate and streamline
+existing district-approved
+instructional tools; ensure
+alignment to overall district
+tech procurement processes
+
+Evolve criteria for instructional
+tool selection and apply to
+existing and new tool selection
+processes
+
+AI Readiness Framework
+
+Section 03
+
+School Readiness Rubric
+
+With department or
+instructional leaders, identify
+key criteria to evaluate existing
+and new instructional
+materials for supporting
+student AI Readiness and
+content outcomes, aligning to
+vision of AI use in instruction
+
+Tool Selection for Instruction
+
+25
+
+04
+AI Readiness
+Rubric
+District
+AI Readiness Framework
+
+Section 04
+
+District Rubric
+
+26
+
+District
+AI Readiness Rubric
+
+Overview
+The District Readiness Rubric is a tool to
+support district-level leaders in creating
+equitable and inclusive Systems AI
+Readiness that ensures all students,
+teachers, and staff have the opportunity
+to meaningfully engage with AI
+Readiness skill-building as well as gain
+access to district-approved AI tools.
+
+This rubric builds on the work shared by
+the Council of the Great City Schools &
+CoSN Launch K-12 Generative Artificial
+Intelligence (Gen AI) Readiness
+Checklist, the ILO group, Common
+Sense Media’s AI Toolkit, and learnings
+from districts we have partnered with in
+developing AI Readiness plans.
+District leaders can use this rubric to
+assess their level of AI Readiness across
+key criteria in five domains. These
+criteria outline essential actions to set
+up school leaders to successfully
+implement AI Readiness plans in their
+schools, which in turn will support
+building student, teacher, and staff AI
+Readiness competencies.
+
+Audience
+
+District Leaders
+To support conditions that allow school
+leaders to implement AI readiness
+
+AI Readiness Framework
+
+Section 04
+
+District Rubric
+
+27
+
+District
+AI Readiness Rubric
+Domain
+
+Level 1
+Demonstrate Commitment
+
+Develop Equitable
+Vision for AI
+Readiness
+
+Vision for Student Readiness
+
+See aiEDU AI Readiness
+Student Competencies for
+student outcomes
+
+Level 2
+Invest & Implement
+
+Level 3
+Deepen & Iterate
+
+Develop and share clear
+student outcome goals that
+incorporate AI Readiness (e.g.,
+reimagining the Portrait of a
+Graduate in the world of AI)
+
+Embed AI-ready student
+outcome goals in student
+assessment structures and
+have a process established for
+reporting on and revising
+student outcome goals
+
+Create and implement aligned
+support for developing AI
+Readiness competencies
+across all district roles; pilot AI
+use integration in systems
+across the district
+
+Embed AI Readiness
+competencies in existing
+performance management
+systems or structures; embed
+system-wide AI use training
+and ongoing evaluation of
+efficacy
+
+Pilot implementation of criteria
+for AI use in instruction for tool
+evaluation and instructional
+trainings
+
+Expand and iterate on
+implementation of criteria for AI
+use in instruction across
+instructional domains
+
+Identify places ready for
+innovation to pilot AI Readiness
+implementations (e.g., a
+particular school, a particular
+content area across multiple
+schools); implement pilots
+
+Apply learnings from pilot
+implementations to expand AI
+Readiness implementation
+across all district functions;
+establish feedback loops to
+gather data on
+implementations
+
+Identify key people (i.e., leaders
+of areas of impact: operations,
+teaching & learning, programs)
+within the district to bring into
+the strategic planning
+
+Establish and implement a
+formal structure (e.g., task
+force) for diverse stakeholder
+input on AI Readiness strategic
+plan and decisions on
+information flow going out of
+the district
+
+Establish ownership of ongoing
+leadership of the formal
+structure that continues to
+meet to assess
+implementation, discuss issues
+that are arising with
+implementation, and make
+revisions/adjustments to the
+strategic approach that is
+timely and responsive
+
+AI Readiness Framework
+
+Section 04
+
+District Rubric
+
+Identify AI Readiness points of
+connection and gaps in
+existing district student
+outcome goals (e.g., examining
+the Portrait of a Graduate in the
+world of AI)
+Vision for System AI Use
+
+See aiEDU AI Readiness
+Educator Competencies for
+teaching specific
+competencies
+
+Vision for System AI Use: Define
+AI Readiness competencies for
+all district roles; define vision
+for AI use and integration
+across district systems
+
+Vision for AI Use in Instruction
+Define criteria for AI use in
+instruction anchored in strong
+pedagogical practices
+
+Develop a
+Strategy
+
+Set Strategy
+Review current strategic plan
+and change management;
+identify points of connection
+and possible challenges that AI
+Readiness presents
+
+Plan for Change
+
+28
+
+District
+AI Readiness Rubric
+Domain
+
+Level 1
+Demonstrate Commitment
+
+Level 2
+Invest & Implement
+
+Level 3
+Deepen & Iterate
+
+Set Conditions
+through Policy &
+Operations
+
+Guardrails
+Draft inclusive, adaptive, and
+transparent guardrails for
+ethical use of AI and safeguarding of student data by
+students, teachers, leadership,
+and central office staff
+
+Iterate on AI guardrails,
+leveraging feedback from
+stakeholders, and integrating
+to existing tech stack
+acceptable use guidelines
+
+Create an updated tech
+procurement process that
+accounts for AI tool-specific
+needs, a plan for keeping or
+sunsetting any existing tech
+tools in use, and an evaluation
+plan for measuring success of
+tools in use; pilot the use of the
+process
+
+Full-system roll out of updated
+tech procurement and piloting
+process. Monitor efficacy and
+success of implemented tools
+through an ongoing review of
+tools in use that
+accommodates the pace of
+change of AI technology and
+new tools coming to market
+
+District stakeholders (e.g.,
+students, families, teachers,
+staff, and board members)
+have a role in the AI Readiness
+task force and/or are providing
+feedback & guidance on the
+strategic vision & plan
+
+Establish regular cadence for
+gathering feedback and needs
+from stakeholders (e.g.,
+students, families, teachers,
+staff, board members)
+
+Develop partnerships with local
+industry and post-secondary
+organizations to identify key AI
+impacts on community
+
+Deepen ongoing partnerships
+with local and post-secondary
+organizations to support AI
+readiness skill-building aligned
+to community needs
+
+Identify key communication
+pathways to various
+stakeholders (e.g., parent
+newsletters, teacher messages,
+board meetings)
+
+Set a regular cadence of
+communication to all
+stakeholders on AI readiness
+implementation aligned to
+existing communication
+structures, including learning
+opportunities for stakeholders
+on updates
+
+Refine communication on AI
+readiness implementation and
+have regular opportunities for
+community stakeholders to
+engage in learning on AI
+literacy and readiness
+implementation
+
+AI Readiness Framework
+
+Section 04
+
+District Rubric
+
+Identify gaps or areas for
+adaptation for AI Readiness in
+existing technology and
+academic integrity policies
+(e.g., acceptable use policies)
+Processes
+Evaluate current tech
+procurement processes,
+existing tech stack in use at the
+district level and at each site
+(identifying which ones use AI
+and which don’t), and tech
+efficacy measures in place
+
+Galvanize
+Stakeholders
+
+Context Gathering
+Informally gather input (e.g.,
+survey, focus groups) from
+students, families, teachers,
+staff, and board members on
+AI literacy & AI Readiness needs
+(and what concerns they may
+have about AI in order to
+understand what the
+guidelines need to address)
+Engage and Learn
+Identify potential local industry
+and post-secondary
+organizations to learn from on
+AI impacts on the community
+Communicate and Educate
+
+29
+
+District
+AI Readiness Rubric
+Domain
+
+Level 1
+Demonstrate Commitment
+
+Enable Teaching
+& Learning
+
+Capacity Building
+
+See aiEDU School Leader
+Readiness Rubric for
+connections to school-level
+implementation
+
+Level 2
+Invest & Implement
+
+Level 3
+Deepen & Iterate
+
+Scale foundational level
+training for all instructional staff
+and provide deeper
+application for those that have
+completed foundational level
+trainings; trainings are aligned
+to AI readiness competencies
+for given roles
+
+Provide ongoing, differentiated,
+integrated deeper application
+trainings for all instructional
+staff and have foundational
+training integrated into new
+hire trainings; trainings are
+aligned to AI readiness
+competencies for given roles
+
+Evaluate district-approved
+instructional materials for AI
+Readiness and provide
+recommendations for changes
+to curriculum to meet student
+AI Readiness outcomes,
+content outcomes, and vision
+for AI use in instruction
+
+Implement updated curriculum
+and engage in ongoing
+analysis of efficacy of
+instructional materials to meet
+student AI Readiness
+outcomes, content outcomes,
+and vision for AI use in
+instruction
+
+Prioritize departments for
+student AI Readiness
+alignment updates based on
+district vision
+
+Prioritized department
+programs are updated for
+student AI Readiness outcomes
+and aligned to district vision,
+with clear processes and
+recommendations for
+replicating with other
+departments
+
+Define what a strong
+instructional AI tool is,
+anchored in student learning
+and AI Readiness outcomes
+
+Implement criteria for
+instructional AI tool selection to
+evaluate and streamline
+existing district-approved
+instructional tools; ensure
+alignment to overall district
+tech procurement processes
+
+Evolve criteria for instructional
+tool selection and apply to
+existing and new tool selection
+processes
+
+AI Readiness Framework
+
+Section 04
+
+District Rubric
+
+Provide foundational-level
+trainings with targeted school
+and teacher leaders, aligning
+training with AI readiness
+competencies for given roles
+See aiEDU AI Readiness Educator
+Competencies for teacher outcomes
+and possible progression of learning
+
+Instructional Materials
+Identify processes for
+evaluating district-approved
+instructional materials to
+support AI Readiness student
+outcomes; align process to
+vision for AI use in instruction
+
+Departmental Alignment
+Identify all district-wide
+departments (e.g., multilingual learners, career
+pathways, after-school
+programs) that will need
+updating to align with student
+AI Readiness outcomes
+Tool Selection for Instruction
+
+30
+
+05
+Methodologies
+& Acknowledgments
+AI Readiness Framework
+
+Section 05
+
+Methodologies & Acknowledgments
+
+31
+
+Methodologies
+Building on our initial research
+surveying over 1800 educators, Version
+2 includes the latest cognitive science
+research available on the impacts of AI
+use on the brain, new labor market
+analysis, and crosswalking new AI
+literacy frameworks.
+
+This research revealed several key
+themes across frameworks
+(understanding the basics of AI, ethical
+considerations, critical evaluation,
+interdisciplinary approach, operational
+support, life-long learning, and teacher
+support) that we’ve synthesized and
+added to in our frameworks.
+
+We included findings from research-based AI literacy frameworks and guidance from:
+**Released June 2025** Common Sense Media AI Readiness Toolkit for Districts:
+https://www.commonsense.org/education/AI-toolkit-for-school-districts
+**Released May 2025** AI LIT Framework: https://ailiteracyframework.org/
+Digital Promise’s framework, which emphasizes three components: Understand, Use, and Evaluate.
+UNESCO’s Guidance for generative AI in education and research, AI and education: Guidance for
+policy-makers, AI competency framework for teacher, and AI competency framework for students,
+which focus on three progression levels: understand, apply, and create on four aspects: humancentered mindset, ethics of AI, AI techniques and applications, and AI system design.
+The Kapor Foundation’s Responsible AI Guide (Kapor Foundation, 2024), which we particularly
+appreciated for its approach to tying competencies directly to lessons, providing a clear path from
+theory to practice.
+EDSAFE AI S.A.F.E Benchmarks, which provides policy roadmaps for creating a safe AI ecosystem
+CGCS & CoSN’s K-12 Generative AI Readiness, which provides a detailed checklist for local
+educational agencies for how to approach AI implementation across their system.
+Kennedy HQ’s AI Literacy Framework
+ILO Group’s Framework for Implementing Artificial Intelligence (AI) in K-12 Education which provides
+four areas of consideration, political, operational, technical, and fiscal, for district-wide areas of
+consideration with AI implementation, along with examples of department-specific AI applications.
+North Carolina Department of Public Instruction’s Generative AI Implementation Recommendations
+& Considerations for PK-13 Public Schools
+To situate our competencies within existing workforce frameworks, we connect to the:
+Framework for 21st Century Learning
+America Succeeds Durable Skills
+World Savvy Global Competence Matrix
+To highlight AI knowledge and literacy’s roots in computing and digital literacy, we draw from:
+ISTE’s standards
+CSTA’s K-12 Computer Science Standards
+AI4K12’s K-12 AI Guidelines
+
+AI Readiness Framework
+
+Section 05
+
+Methodologies & Acknowledgments
+
+32
+
+Acknowledgments
+Reviewers for v2
+
+Babak Mostaghimi
+
+We would like to thank the following
+people for their review of v2 of the
+competencies and rubrics.
+
+former Assistant Superintendent of
+Elementary Education & Student Support
+for Gwinnett County Public Schools
+
+Bailey Cato Czupryk
+
+SVP, Transformation at TNTP
+
+Meghann Ziler
+
+Partner, Futures Design Studio at TNTP
+
+Camsie McAdams
+
+Director, Institute at STEM Ready America
+
+Karen Quanbeck
+
+Vice President of Implementation at
+Colorado Education Initiative
+
+Acknowledgments from v1
+We would like to thank the following
+organizations for their contributions in
+the development of these
+competencies and rubrics.
+
+AI Readiness Framework
+
+Section 05
+
+Methodologies & Acknowledgments
+
+33
+
+Citations
+AI4K12. (2020). K-12 AI Guidelines.
+https://ai4k12.org/
+America Succeeds. (2019). Durable skills
+framework.
+https://www.durableskillsadvantage.org/
+Broussard, M. (2023). More than a glitch:
+Confronting race, gender, and ability bias in
+tech. MIT Press.
+Chai, C.S., Lin, P.-Y., Jong, M.S.-Y., Dai, Y., Chiu, T.K.,
+& Huang, B. (2020). Factors influencing students’
+behavioral intention to continue artificial
+intelligence learning. In 2020a International
+Symposium on Educational Technology (ISET).
+(pp. 147–150).
+https://doi.org/10.1109/ISET49818.2020.00040
+Chai, C.S., Lin, P.-Y., Jong, M.S.-Y., Dai, Y., Chiu, T.K.,
+& Qin, J. (2021). Perceptions of and behavioral
+intentions towards learning artificial intelligence
+in primary school students. Educational
+Technology & Society , 24 (3), 89–101. Retrieved
+from https://www.jstor.org/stable/27032858
+Chen, M., Zhou, C., & Wu, Y. (2020). Research on
+the model and development status of
+information literacy self-improvement ability of
+primary and secondary school teachers. In
+Ninth International Conference of Educational
+Innovation through Technology (EITT). (pp.
+87–91).
+https://doi.org/10.1109/EITT50754.2020.00021
+Cheung, S. K., Lam, J., Li, K. C., Au, O., Ma, W. W., &
+Ho, W. S. (Eds.). (2018). Technology in Education.
+Innovative Solutions and Practices: Third
+International Conference, ICTE 2018. Springer.
+Chittora, S., & Baynes, A. (2020, October).
+Interactive Visualizations to Introduce Data
+Science for High School Students. In Proceedings
+of the 21st Annual Conference on Information
+Technology Education. (pp. 236–241).
+https://doi.org/10.1145/3368308.3415360
+
+AI Readiness Framework
+
+Section 05
+
+Crabtree., M. (2023). What is ai literacy? A
+comprehensive guide for beginners.
+https://www.datacamp.com/blog/what-is-ailiteracy-a-comprehensive-guide-for-beginners
+CSTA. (2017). CSTA K-12 Computer Science
+Standards.
+https://csteachers.org/k12standards/interactive/
+Common Sense Media. (2025). Talk, Trust, and
+Trade-Offs: How and Why Teens Use AI
+Companions.
+https://www.commonsensemedia.org/research/
+talk-trust-and-trade-offs-how-and-why-teensuse-ai-companions
+Common Sense Media. (2025). Common Sense
+Media AI Readiness Toolkit for Districts:
+https://www.commonsense.org/education/
+AI-toolkit-for-school-districts
+Cummings D., Anthony M., Watson C., Watson A.,
+& Boone S. (2021). Combating social injustice
+and misinformation to engage minority youth in
+computing sciences. In Proceedings of the 52nd
+ACM Technical Symposium on Computer
+Science Education. (pp.1006–1012).
+https://doi.org/10.1145/3408877.3432452
+Diliberti, M.K., Lake, R.J., Weiner, S.R. (2025). More
+Districts Are Training Teachers on Artificial
+Intelligence.
+https://www.rand.org/pubs/research_reports/
+RRA956-31.html
+EDSAFE AI. (2021). S.A.F.E Benchmarks.
+https://www.edsafeai.org/safe
+Kosmyna, N., Hauptmann, E., Yuan, Y.T., Situ, J.,
+Liao, X.H., Bersnitzky, A.V., Braunstein, I., Maes, P.
+(2024). Your Brain on ChatGPT: Accumulation of
+Cognitive Debt when Using an AI Assistant for
+Essay Writing Task.
+https://arxiv.org/pdf/2506.08872
+
+Methodologies & Acknowledgments
+
+34
+
+Citations
+Long, D., Magerko, B. 2020. What is AI Literacy?
+Competencies and Design Considerations. In
+Proceedings of the 2020 CHI Conference on
+Human Factors in Computing Systems (CHI ‘20).
+Association for Computing Machinery, New York,
+NY, USA, 1–16.
+https://doi.org/10.1145/3313831.3376727
+Ellis, G., Ory, E., Bhushan, N. (2005). Organizing a
+K-12 AI curriculum using philosophy of the mind.
+Engineering: Faculty Publications, Smith College.
+Retrieved from https://scholarworks.smith.edu/
+egr_facpubs/96
+Gao, J., & Wang, L. (2019). Reverse thinking
+teaching discussion in high school information
+technology under new curriculum standards. In
+14th International Conference on Computer
+Science & Education (ICCSE). (pp. 222–226).
+https://doi.org/10.1109/ICCSE.2019.8845429
+Gong, X., Zhao, L., Tang, R., Guo, Y., Liu, X., He, J., …
+Wang, X. (2019). AI education system for primary
+and secondary schools. In 2019 ASEE Annual
+Conference & Exposition.
+Han, X., Hu, F., Xiong, G., Liu, X., Gong, X., Niu, X., …
+Wang, X. (2019). Design of AI + curriculum for
+primary and secondary schools in Qingdao. In
+Chinese Automation Congress (CAC).
+(pp. 4135–4140).
+https://doi.org/10.1109/CAC.2018.8623310
+Ho, J. W., Scadding, M., Kong, S. C., Andone, D.,
+Biswas, G., Hoppe, H. U., & Hsu, T. C. (2019).
+Classroom activities for teaching artificial
+intelligence to primary school students. In
+Proceedings of international conference on
+computational thinking education. The
+Education University of Hong Kong. (pp. 157–159).
+
+International Society for Technology in
+Education. (2024). ISTE Standards.
+https://iste.org/standards
+Judd, S. (2020). Activities for Building
+Understanding: How AI4ALL Teaches AI to Diverse
+High School Students. In Proceedings of the 51st
+ACM Technical Symposium on Computer
+Science Education. (pp. 633–634).
+https://doi.org/10.1145/3328778.3366990
+Jump, A., Bradley, A., Goodness, E., Miclaus, R,.
+Emerging Tech: Primary Impact of Generative AI
+on Business Use Cases. September 2023.
+Kandlhofer, M., Steinbauer, G., Lasnig, J.P.,
+Baumann, W., Plomer, S., Ballagi, A., & Alfoldi, I.
+(2019). Enabling the creation of intelligent things:
+Bringing artificial intelligence and robotics to
+schools. In IEEE Frontiers in Education Conference
+(FIE). (pp. 1–5).
+https://doi.org/10.1109/FIE43999.2019.9028537
+Keller, J., Donoghoe, M., Perry, A., (2024). The US
+must balance climate justice challenges in the
+era of artificial intelligence.
+https://www.brookings.edu/articles/the-usmust-balance-climate-justice-challenges-inthe-era-of-artificial-intelligence/
+Kennedy, K. (2023). AI literacy framework.
+https://kennedyhq.com/wp/2023/12/21/ailiteracy-framework/
+Lee, I., Ali, S., Zhang, H., Dipaola, D., & Breazeal, C.
+(2021). Developing middle school students’ AI
+literacy. In Association for Computing Machinery,
+Inc. (pp. 191–197).
+https://doi.org/10.1145/3408877.3432513
+
+ILO Group. (2024). Framework for implementing
+artificial intelligence.
+https://www.ilogroup.com/wp-content/
+uploads/2024/03/Framework-for-ImplementingArtificial-Intelligence-AI-in-K-12-Education_
+v1.0.pdf
+
+AI Readiness Framework
+
+Section 05
+
+Methodologies & Acknowledgments
+
+35
+
+Citations
+Lee, S., Mott, B., Ottenbriet-Leftwich, A., Scribner,
+A., Taylor, S., Glazewski, K.,…Lester, J. (2020).
+Designing a collaborative game-based learning
+environment for ai-infused inquiry learning in
+elementary school class- rooms. In Proceedings
+of the 2020 ACM conference on innovation and
+technology in computer science education.
+(pp. 566–566).
+https://doi.org/10.1145/3341525.3393981
+Lin, P., & Brummelen, J. (2021). Engaging teachers
+to co-design integrated ai curriculum for k-12
+classrooms. In CHI ‘21: Proceedings of the 2021
+CHI Conference on Human Factors in
+Computing Systems . (pp.1–12).
+https://doi.org/10.1145/3411764.3445377
+Lindner, A., & Berges, M. (2020). Can you explain
+AI to me? teachers’ pre- concepts about
+artificial intelligence. In IEEE Frontiers in Education
+Conference (FIE). (pp. 1–9).
+https://doi.org/10.1109/FIE44824.2020.9274136
+Long, D., & Magerko, B. (2020). What is AI literacy?
+Competencies and design considerations. In
+Proceedings of the 2020 chi conference on
+human factors in computing systems. (pp. 1–16).
+https://doi.org/10.1145/3313831.3376727
+McClain, C., Kennedy, B., Gottfried, J., Anderson,
+M., Pasquini, G. (2025). How the U.S. Public and AI
+Experts View Artificial Intelligence. Pew Research
+Center.
+https://www.pewresearch.org/
+internet/2025/04/03/how-the-us-public-andai-experts-view-artificial-intelligence/
+Micheuz, P. (2020). Approaches to Artificial
+Intelligence as a Subject in School Education. In
+T. Brinda, D. Passey, & T. Keane (Eds), Empowering
+Teaching for Digital Equity and Agency. OCCE
+2020. IFIP Advances in Information and
+Communication Technology, 595. Springer.
+https://doi.org/10.1007/978-3-030-59847-1_1
+
+AI Readiness Framework
+
+Section 05
+
+Mills, K., Ruiz, P., Lee, K., Coenraad, M., Fusco, J.,
+Roschelle, J. & Weisgrau, J. (2024, May). AI
+literacy: A framework to understand, evaluate,
+and use emerging technologies. Digital Promise.
+https://doi.org/10.51388/20.500.12265/218
+Mossavar-Rahmani, F., & Zohuri, B. (2024).
+Artificial Intelligence at Work: Transforming
+Industries and Redefining the Workforce
+Landscape. Journal of Economics &
+Management Research
+Nestor Maslej, Loredana Fattorini, Raymond
+Perrault, Yolanda Gil, Vanessa Parli, Njenga
+Kariuki, Emily Capstick, Anka Reuel, Erik
+Brynjolfsson, John Etchemendy, Katrina Ligett,
+Terah Lyons, James Manyika, Juan Carlos
+Niebles, Yoav Shoham, Russell Wald, Tobi Walsh,
+Armin Hamrah, Lapo Santarlasci, Julia Betts
+Lotufo, Alexandra Rome, Andrew Shi, Sukrut Oak.
+“The AI Index 2025 Annual Report,” AI Index
+Steering Committee, Institute for HumanCentered AI, Stanford University, Stanford, CA,
+April 2025.
+Nisheva-Pavlova, M.M. (2021). AI courses for
+secondary and high school - comparative
+analysis and conclusions. In CEUR Workshop
+Proceedings, 3061. (pp. 9–16).
+OECD (2025). Empowering learners for the age of
+AI: An AI literacy framework for primary and
+secondary education (Review draft). OECD. Paris.
+https://ailiteracyframework.org
+Olari, V., & Romeike, R. (2021). Addressing ai and
+data literacy in teacher education: A review of
+existing educational frameworks. In WiPSCE ‘21:
+The 16th Workshop in Primary and Secondary
+Computing Education, 17. (pp. 1–2).
+https://doi.org/10.1145/3481312.3481351
+P21 Resources. Frameworks for 21st Century
+Learning.
+https://www.battelleforkids.org/insights/p21resources/
+
+Methodologies & Acknowledgments
+
+36
+
+Citations
+TeachAI. (2023). AI guidance for schools toolkit.
+https://www.teachai.org/toolkit
+United Nations Educational, Scientific and
+Cultural Organization. (2023). Guidance for
+generative AI in education and research.
+https://doi.org/10.54675/EWZM9535
+United Nations Educational, Scientific and
+Cultural Organization. (2021). AI and education:
+guidance for policy makers.
+https://doi.org/10.54675/PCSP7350
+United Nations Educational, Scientific and
+Cultural Organization. (2024). AI competency
+framework for teachers.
+https://doi.org/10.54675/JKJB9835
+United Nations Educational, Scientific and
+Cultural Organization. (2024). AI competency
+framework for students.
+https://doi.org/10.54675/ZJTE2084
+White, S., Scott, A., Koshy, S. (2024). Kapor
+Foundation. Responsible AI and tech justice: A
+guide for K-12 education.
+https://kaporfoundation.org/wp-content/
+uploads/2024/01/Responsible-AI-Guide-KaporFoundation.pdf
+
+AI Readiness Framework
+
+Section 05
+
+World Economic Forum. (2024). Global Risks
+Report.
+https://www3.weforum.org/docs/WEF_The_
+Global_Risks_Report_2024.pdf
+World Economic Forum. (2024). Shaping the
+Future of Learning.
+https://www3.weforum.org/docs/WEF_Shaping_
+the_Future_of_Learning_2024.pdf
+World Economic Forum. (2025). The Future of
+Jobs Report 2025.
+https://www.weforum.org/publications/thefuture-of-jobs-report-2025/
+World Economic Forum. (2025). Rethinking Media
+Literacy: A New Ecosystem Model for Information
+Integrity.
+https://reports.weforum.org/docs/WEF_
+Rethinking_Media_Literacy_2025.pdf
+World Savvy. (2024). The Global Competence
+Matrix.
+https://worldsavvy.org/global-competence/
+
+Methodologies & Acknowledgments
+
+37
+
+06
+Appendix
+AI Readiness Framework
+
+Section 06
+
+Appendix
+
+38
+
+Appendix
+Resource
+
+Framework Connection
+
+Aligned Competencies
+
+Elementary AI
+Exploration: AI or Not?
+
+To successfully define what AI
+is (and is not), students sort
+everyday technologies into “AI”
+and “Not AI” and co-create a
+class definition of artificial
+intelligence. While doing so,
+they surface and correct
+misconceptions like “all
+technology is AI.”
+
+Student Competencies:
+
+To build age-appropriate skills
+to critically evaluate and begin
+to mitigate bias in AI systems,
+students investigate how facial
+recognition might fail to
+recognize certain people,
+reflecting on fairness and
+exclusion.
+
+Student Competencies:
+
+In this activity, students build
+emotional intelligence and the
+impact of technology on
+human connection. Students
+create a personal “connection
+graph” of their day and explore
+how technology, including AI,
+shaped their highs and lows of
+human connection. They then
+share and reflect in pairs or
+groups.
+
+Student Competencies:
+
+In this activity students
+continue to build their
+emotional intelligence,
+communication skills, and
+different ways to think about
+the responsible use of AI.
+Students sort scenarios into
+“Supports,” “Erodes,” or
+“Depends” based on their
+impact on relationships, then
+complicate them with “What
+if?” challenge cards.
+
+Student Competencies:
+
+Section 06
+
+Appendix
+
+(Grades 3–5)
+Resource link
+
+Elementary Fair AI
+Exploration: Blind Spot
+(Grades 3–5)
+Resource link
+
+Rithm Project
+Snapshot: Mapping
+Connection
+(High School ELA)
+Resource link
+
+Rithm Project
+Snapshot: The AI Effect
+(High School ELA)
+Resource link
+
+AI Readiness Framework
+
+1a: Know Your Basics: Define &
+identify AI systems
+2c: Be a Critical Thinker:
+Examine AI use and outputs
+
+2b: Be a Critical Thinker: Identify
+and address AI biases
+3a: Lead with the Human
+Advantage: Build emotional
+intelligence
+
+2a: Be a Critical Thinker:
+Determine responsible use of AI
+3a: Lead with the Human
+Advantage: Build emotional
+intelligence
+
+2a: Be a Critical Thinker:
+Determine responsible use of AI
+3a: Lead with the Human
+Advantage: Build emotional
+intelligence
+
+39
+
+Appendix
+1
+
+Resource
+Project: Deepfake PSA
+(Grades 9–12)
+
+Add your answers in the green boxes below.
+
+Find the deepfake
+One of these photos is real and one was generated by AI. Use the
+dropdown menus under the photos to identify which image is the fake.
+
+Resource link
+
+Choose one
+
+Choose one
+
+How do you know?
+
+Framework Connection
+
+Aligned Competencies
+
+In this longer project, students
+learn how deepfakes are
+created, analyze their risks, and
+create a press release to
+educate the public about
+manipulated media. This
+supports students in building
+their skill with examining AI
+outputs and use.
+
+Student Competencies:
+
+AI and Academic Integrity:
+Moving Beyond the Binary. In
+this professional learning
+experience, educators identify
+and apply proactive solutions
+to address AI use while
+supporting authentic student
+learning.
+
+Educator Competencies:
+
+2c: Be a Critical Thinker:
+Examine AI use and outputs
+3b: Lead with the Human
+Advantage: Apply creativity
+and interdisciplinary thinking
+
+The deﬁnition of artiﬁcial intelligence (AI)
+
+Guiding Questions
+
+Purpose
+• Does the tool support your goal or is it a
+technological novelty?
+• Does it enhance student engagement?
+
+1b: Know and Model the Basics:
+Build pedagogical knowledge
+of AI literacy and readiness
+skills
+Specifically: Build learning
+experiences that center human
+skill and learning, using AI as a
+tool when applicable, not
+replacement for human
+thinking
+2a: Foster and Model Critical
+Thinking: Critically evaluate the
+use of AI tools in teaching &
+learning
+
+• What does it offer that the other tools
+you have don’t?
+
+Privacy
+• Does the tool collect student data?
+• What else is collected and stored?
+
+Practicality
+• Can you create or get what you need?
+• Do you need extensive training to use
+the tool?
+• Is the setup relatively simple?
+
+AI Readiness Framework
+
+Section 06
+
+Appendix
+
+40
+
+AI Readiness Framework: What students, educators,
+and leaders need to know ©2025 by aiEDU is
+licensed under Creative Commons AttributionNonCommercial-ShareAlike 4.0 International
+
+Suggested Citation: aiEDU. (2025). AI Readiness
+Framework: What students, educators, and leaders
+need to know.
+https://www.aiedu.org/
+
+

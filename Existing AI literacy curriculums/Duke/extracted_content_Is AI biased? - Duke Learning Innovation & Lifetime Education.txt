@@ -1,0 +1,193 @@
+WHAT WE DO ▽
+
+Home
+
+AI Ethics Learning Toolkit
+
+BLOG
+
+SEARCH
+
+CONTACT US
+
+EVENTS
+
+RESOURCES
+
+SUBSCRIBE
+
+ABOUT US ▽
+
+Is AI biased?
+
+AI ETHICS LEARNING TOOLKIT
+
+Is Ai Biased?
+Exploring Bias and Monoculture
+
+“Algorithmic oppression is not just a glitch in the system but, rather, is fundamental
+to the operating system of the web.”
+– Dr. Safiya Noble, Information Sciences Scholar
+
+The concept of “garbage in, garbage out” illustrates a core aspect of AI’s
+limitations: biased training data produces biased outputs. The exact
+training datasets used by models like GPT-4 are kept secret, but we know
+they rely on massive collections of human-generated text scraped from
+the open internet, including sites like Reddit, Wikipedia, and countless
+websites and forums. In a famous critique on the ethics of Large Language
+Models, researchers note that the internet is overrun with hegemonic or
+monocultural viewpoints which leads to an overrepresentation of white
+supremacist, misogynistic, and ageist perspectives in the training data. As
+AI usage grows, these biased worldviews are encoded in its data and
+potentially amplified into the culture. One good example of this bias is
+
+linguistic diversity. There are over 7,100 languages spoken in the world,
+yet very few of those languages are documented on the Internet, and even
+fewer are supported by Generative AI models. Given the risks of AI bias,
+students should reflect on the many points at which bias can enter the AI
+pipeline—from what data is included, to how it’s labeled or filtered, to
+what questions the users ask. Understanding these potential areas of bias
+helps students critically evaluate the information AI provides—and
+consider who gets represented, and who gets left out.
+
+Learning Activities
+
+Conversation Starters A Few Questions to Get the
+Discussion Going
+
+What types of bias have you noticed on social media, or the
+internet more broadly? Did these shape your opinion or behavior?
+Have you ever noticed any biases, or inaccuracies, in AI-generated
+responses? What made you question it?
+What strategies do you use to spot bias in news, social media, or
+AI-generated content?
+How might generative AI unintentionally reinforce harmful
+stereotypes or deepen social inequalities? Can you think of
+examples?
+Whose perspectives do you think are most represented in online
+content and AI outputs? Whose voices are left out – and why might
+that be?
+
+Active Learning with AI Fun Ways to Explore AI’s
+Strengths and Limitations
+
+Prompt an AI image generator for an image of a lawyer, engineer,
+doctor, etc, and compare the gender, ethnicity, age of the person.
+Were there stereotypes represented in the outputs?
+Prompt AI for a brief history of an historical event or social
+phenomenon that the class is studying. Discuss the
+perspectives/biases present and absent in the AI’s output. Examine
+what sources it used (if available).
+No AI Alternative: Don’t use an image AI generator, but check out
+this article on AI stereotypes in which authors explored images and
+stereotypes with AI. Discuss your reactions in small groups.
+
+Disciplinary Extensions Ideas for Exploring AI’s Impact in
+Specific Fields
+
+Linguistics course: Students can explore how AI handles
+sociolinguistics and code-switching. For example, students could
+prompt AI with di"erent dialects, or registers, and see how it
+understands these and responds. Does it try to “correct”/normalize
+the prompting language?
+Social Science courses (ex. GSF, AMES, AAAS): Students can use
+AI to explore how it frames certain topics or identities. Connect this
+activity to theories and readings discussed in class about
+stereotypes and cultural biases/discrimination.
+TRIGGER
+WARNING: Instructors should take care to frame an AI activity
+thoughtfully, as the AI outputs may be unexpected and/or
+triggering.
+Foreign Language course: Students could prompt AI for a story
+(in foreign language) that includes potential for biased outputs.
+Example: Help me write a story about a doctor and a nurse
+
+working in a small, rural village. Does it gender the doctor/nurse?
+Does it include rural stereotypes?
+
+Resources
+Perrigo, B. (2022, January 18). Why Timnit Gebru Isn’t Waiting for Big Tech to Fix AI’s Problems. TIME.
+[Magazine article]
+Busiek, J. (2024, March 21). Three fixes for AI’s bias problem. University of California. [Blog post]
+Nicoletti, L., & Equality, D. B. T. +. (2025, January 17). Humans are biased. Generative AI is even worse.
+Bloomberg. [News article]
+Turk, V. (2023, October 10). How AI reduces the world to stereotypes. Rest of World. [Article]
+Je"ries, A. (2017, April 27). Machine learning is racist because the internet is racist. The Outline. [Article]
+
+Lizarraga, L. (2023, November 8). How does a computer discriminate? Interview with Safiya Noble. Code
+Switch Podcast. NPR. [Podcast]
+
+Scholarly
+Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic
+Parrots: Can Language Models Be Too Big?
+
+. Proceedings of the 2021 ACM Conference on Fairness,
+
+Accountability, and Transparency, 610–623. [Article]
+Gebru, T., & Torres, É. P. (2024). The TESCREAL bundle: Eugenics and the promise of utopia through
+artificial general intelligence. First Monday. [Journal article]
+Noble, S. U. (2018). Algorithms of Oppression: How Search Engines Reinforce Racism. NYU Press. [Book –
+available in Duke Libraries]
+Sourati, Z., Karimi-Malekabadi, F., Ozcan, M., McDaniel, C., Ziabari, A., Trager, J., Tak, A., Chen, M.,
+Morstatter, F., & Dehghani, M. (2025). The Shrinking Landscape of Linguistic Diversity in the Age of
+Large Language Models. arXiv. [Preprint]
+Hofmann, V., Kalluri, P.R., Jurafsky, D. et al.AI generates covertly racist decisions about people based on
+their dialect. Nature 633, 147–154 (2024). [Journal article]
+
+Recommendations
+
+Related topics → Does AI spread mis/disinfo? Does AI harm critical thinking?
+AI Pedagogy Project (Harvard) Assignments → Filter by theme (e.g. bias) and/or subject (e.g. ethics &
+philosophy)
+Bias-related Articles from the AI Ethics & Policy News Aggregator sourced by Casey Fiesler. Note: This
+would be an excellent place to identify recent news stories you could share with students, or
+incorporate into a case study.
+
+1. Noble, S. U. (2018). Algorithms of Oppression: How Search Engines Reinforce Racism. NYU Press.
+2. Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic
+Parrots: Can Language Models Be Too Big? Proceedings of the 2021 ACM Conference on Fairness,
+Accountability, and Transparency, 610–623. https://doi.org/10.1145/3442188.3445922
+
+PHYSICAL LOCATION
+The Erwin Square Mill Building
+2024 West Main Street
+
+BROWSE
+What We Do
+About
+
+Durham, NC 27705
+
+MAILING ADDRESS
+Box 90700
+
+Blog
+Contact Us
+Events
+
+Durham, NC 27708
+
+Directions
+
+CONTACT US
+
+Resources
+
+Phone: (919) 660-5806
+Email:
+
+Newsletter Signup
+
+learninginnovation@duke.edu
+
+CONNECT
+WITH US
+SUPPORT OUR
+WORK
+Donate to Duke
+Learning Innovation &
+Lifetime Education
+
+Copyright © 2025 Duke Learning Innovation & Lifetime Education
+
+

@@ -1,0 +1,25 @@
+Curriculum,Source,Content,Age_group
+Berlin KI-Aufträge,Berlin-Brandenburg Education Server 2024,"Intelligence testing, character conversations with AI, Soekia language model exploration, Bot or Not game, prompt engineering, TeachableMachine image classification, ML with data analysis (retail/student data with Pandas), bias in ML, system prompts, Build-a-Bot chatbot design",14-18 years
+Day of AI – Brain behind the Bot,Day of AI 2026,"Chatbots, NLP, LLMs, bias in chatbots, hallucinations, interrogating the internet, AI and human connection, classroom AI usage norms",12-18 years
+MIT DAILy,MIT RAISE 2026,"What is AI, Algorithms as opinions, ethical matrices, decision trees, supervised ML with Teachable Machine, neural networks, GANs, deepfakes, misinformation, AI-generated art and stories, environmental impact of AI, YouTube redesign project",11-14 years
+Common Sense Media,Common sense media 2026,"AI definitions, how AI is trained with data, AI chatbots (human-like design, friendship impacts), AI bias (how it happens, real-world impacts), AI algorithms and personalization, facial recognition (benefits and risks), AI and plagiarism",11-18 years
+aiEDU,aiEDU 2026,"AI Readiness Framework (human advantage skills), real-world AI applications (chatbots vs search engines, AI-generated book covers/reviews/handwriting), bias and misinformation, benefits/harms analysis, deepfakes PSA creation, ChatGPT interview design, interspecies communication app design, government automated decision systems (29 AIs of DC)",11-18+ years
+Georgia AI4GA,AI4GA 2026,"5 Big Ideas: Perception, Representation & Reasoning, Learning, Natural Interaction, Societal Impact; autonomous robots, self-driving vehicles, understanding language, intelligent assistants, word embeddings, computer decision-making, ML with datasets, neural networks",14-18 years
+ENARIS EPFL,Roteco 2026,"AI Basics, Ethics, NLP/Chatbots, Supervised/Reinforcement Learning, Computer Vision, Neural Networks, AI & Art, Social Media manipulation, Environment",14-18 years
+MIT AI Ethics,MIT Media Lab 2026,"Algorithms as opinions, ethical matrices, supervised ML/classification, algorithmic bias with Teachable Machine",10-18 years
+AI4K12,AI4K12 2026,"5 Big Ideas:Perception, Representation & Reasoning, Learning, Natural Interaction, Societal Impact; sentiment analysis, NLP; NLP; AI & drawing/environment/OVID-19, AI ethics, facial recognition, criminal legal system",5-18 years
+AI Adapt / AI in my life,ADAPT center 2026,"What is AI, algorithms, Intelligent Piece of Paper activity, generative AI, Art vs AI quiz, human vs machine capabilities; AI ethics: EU Trustworthy AI guidelines, ChatGPT for homework, social credit systems, Moral Machine self-driving car scenarios, environmental impact (data centers, carbon footprint); AI careers and future of work: multidisciplinary/dual skilling, job profiles",15-16 years
+Duke learning innovation,Duke Center for Teaching and Learning 2026,"Do We Need AI framework, hallucinations/AI mirage, bias, theft/IP, misinformation, privacy, sustainability",18+
+Harvard AI pedagogy,AI Pedagogy Project 2026,"Socratic questioning with bots, AI journalism pitfalls, playtesting prompts, interviewing fictional characters",18+
+Toddle AI 101,Toddle 2026,"Critical thinking, creativity with AI, computational thinking, self/social awareness, collaboration, communication, problem-solving",5-18 years
+,,,
+LEGEND,,,
+Abbreviation,Full Term,Explanation in Curriculum Context,
+AI,Artificial Intelligence,,
+GANs,Generative Adversarial Networks,,
+LLM,Large Language Model,,
+ML,Machine Learning,,
+NLP,Natural Language Processing,,
+IP,Intellectual Property,,
+PSA,Public Service Announcement,"Students create press releases (250-400 words) educating the public about deepfakes, their impact on democracy, and how to identify them",
+Intelligent Piece of Paper,Unplugged algorithm activity,"Student plays Tic-Tac-Toe by following algorithmic instructions on paper without understanding strategy, demonstrating how AI can produce intelligent-seeming outputs without actual understanding",

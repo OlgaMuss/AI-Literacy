@@ -1,0 +1,1981 @@
+Auftrag 2.1: Intelligenz?
+Mittwoch, 20. Januar 2021
+
+11:38
+
+Aufgabe 1
+Untersuchen Sie die folgenden beiden Tools. Öffnen Sie jeweils den Link und probieren Sie die
+Applikation aus. Halten Sie das, was hier geleistet wird, für intelligent? (Basierend auf Ihrem
+Vorwissen und Ihrer persönlichen Haltung)
+1. https://quickdraw.withgoogle.com/#
+2. https://www.whichfaceisreal.com/index.php
+
+Aufgabe 2
+Notieren Sie sich eine Definition von Intelligenz, die für Sie persönlich passt und mit der Sie etwas
+auf seine Intelligenz testen können.
+
+Neuer Abschnitt 1 Seite 1
+
+Auftrag 2.2: Charakter-Gespräch
+Montag, 21. Oktober 2024
+
+17:03
+
+Von Ihrer Lehrperson erhalten Sie einen Zugangscode zu Fobizz.
+Gehen Sie auf die Seite https://go.fobizz.com und tippen Sie da Ihren Zugangscode ein. Wenn Sie
+nach einem Benutzernamen gefragt werden, geben Sie ruhig irgend einen Fantasienamen an.
+
+Aufgabe 1: ML Charakter-Chat
+Öffnen Sie die Aufgabe "ML-Charakter-Chat" und wählen Sie eine Person aus, mit der Sie chatten
+wollen.
+
+Als erstes lernen Sie die Person mal etwas besser kennen. Wer war diese Person? Warum ist sie
+berühmt? Etc.
+Halten Sie hier den Namen der Person und 4-5 Stichworte fest.
+
+Aufgabe 2: Wissen testen
+Testen Sie nun das Wissen der Person: Fragen Sie diese Person mal etwas, das sie wissen sollte, das
+aber nichts direkt mit ihr zu tun hat (bspw. Wer zu ihrer Lebzeit amerikanischer Präsident war.)
+Dann fragen Sie die Person mal etwas, das sie nicht wissen sollte (bspw. Etwas, das erst nach der
+Lebzeit der Person passiert ist).
+Halten Sie hier fest, was dabei passiert ist.
+
+Aufgabe 3: Lügner*innen?
+Probieren Sie nun, ob Sie die KI hinter der Person dazu bringen können, das Gegenteil von etwas zu
+sagen, was sie vorher behauptet hat. Seien Sie kreativ, versuchen Sie verschiedene
+Herangehensweisen.
+Schreiben Sie kurz auf, was Sie feststellen.
+
+Aufgabe 4: Ausprobieren
+Spielen Sie mit der KI rum, probieren Sie aus - sprechen Sie auf unterschiedliche Sprachen, lügen Sie
+die KI an, sagen Sie Dinge die keinen Sinn machen, … Experimentieren Sie und versuchen Sie, die
+Grenzen der KI auszuloten. Was fällt Ihnen auf?
+
+Aufgabe 5: Fazit
+Beschreiben Sie Ihre ersten Eindrücke (Erstaunen, Chancen, Gefahren, Fragen, usw.) die Sie zum
+Thema "künstliche Intelligenz" zum jetzigen Zeitpunkt haben.
+
+Neuer Abschnitt 1 Seite 2
+
+Auftrag 2.3: Soekia
+Sonntag, 27. Oktober 2024
+
+14:25
+
+Ziel: Sie werden die Website Soekia GPT erkunden und die unterschiedlichen
+Funktionalitäten ausprobieren. Dabei lernen Sie, wie verschiedene Eingaben an ein
+Sprachmodell gestellt werden können und welche Antworten darauf generiert werden.
+
+Aufgaben:
+1. Besuchen Sie die Website: Gehen Sie auf die Website Soekia GPT. Nehmen Sie sich
+einen Moment Zeit, um sich einen Überblick über die Benutzeroberfläche und die
+verfügbaren Funktionen zu verschaffen.
+2. Textgenerierung
+○ Wenn Sie Soekia starten, dann steht da schon ein Prompt «Schreibe mir ein
+Märchen». Lassen Sie diesen einmal stehen und bestätigen Sie die Eingabe
+mit
+
+. Soekia wird anfangen, Wort für Wort ein Märchen zu schreiben.
+○ Pausieren Sie die Generierung nach ein paar Wörtern/Sätzen und klicken Sie
+unten auf «selbst auswählen». Sie können jetzt selbst das nächste Wort
+anklicken (ausgewählt aus den wahrscheinlichsten Treffern des Modells).
+○ Kombinieren Sie selbst auswählen/automatisch generieren, um ein Märchen
+zu erstellen.
+3. Blick hinter die Kulisse
+○ Klicken Sie oben rechts auf «Schau hinein», um besser zu verstehen, wie
+das funktioniert. Es werden drei Spalten eingeblendet:
+1. Ganz rechts sehen Sie alle Dokumente, von denen Soekia gelernt hat.
+Die Farben korrespondieren jeweils mit den Farben im generierten
+Märchen, Sie können sehen, von welchem Text Soekia «wusste»,
+welches Wort zu nehmen ist.
+2. In der Mitte sehen Sie alle Wortgruppen, welche Soekia gezählt hat. Mit
+dem
+-Knopf können Sie diese nach Häufigkeit oder alphabetisch
+sortieren.
+3. Links sehen Sie die aktuell relevanten Wortgruppen, aus denen Soekia
+das nächste Wort auswählt.
+○ Klicken Sie mal links auf «Selbst auswählen», wählen Sie das nächste Wort
+aus und schauen Sie, wie sich die Wortvorschläge entwickeln.
+○ Klicken Sie unter der erstellten Geschichte auf den Mülleimer, um noch
+einmal von vorne anzufangen. Stellen Sie eine andere Frage, bspw: Erkläre
+mir den Satz des Pythagoras. Wie gut stellt sich Soekia an?
+4. Quellen verändern
+○ Verändern Sie mal ein paar Quellen, in dem Sie diese mit dem Stift-Knopf
+bearbeiten. Sie können auch Quellen löschen. (Sie können die Quellen
+jederzeit wieder herstellen, indem Sie oben rechts auf den
+-Button
+klicken und dann die Märchen auswählen. Damit wird wieder der
+Ursprungszustand hergestellt. Alle Ihre Änderungen gehen verloren!).
+-Knopf auch ein komplett neues Dokument
+○ Sie können mit dem
+erstellen, welches dann in das «Wissen» von Soekia aufgenommen wird.
+Schreiben Sie einen kurzen Text selbst und fügen Sie diesen hinzu. Sie
+können auch von Soekia selbst generierten Text den Quellen hinzufügen!
+○ Betreiben Sie «Geschichtsfälschung»! Generieren Sie ein neues Märchen mit
+Ihren «gefälschten» Quellen.
+○ Treiben Sie es auf die Spitze. Wiederholen Sie ein bestimmtes Wort/einen
+bestimmten Satz in mehreren Dokumenten. Generieren Sie eine neue
+Geschichte. Sehen Sie einen Unterschied?
+5. Temperatur
+○ Wird ein Textanfang vom Sprachmodell fortgesetzt, findet ein
+Auswahlprozess aus allen passenden N-Grammen statt. Über den vertikalen
+Neuer Abschnitt 1 Seite 3
+
+○
+Auswahlprozess aus allen passenden N-Grammen statt. Über den vertikalen
+Button “Auswahl anpassen” lässt sich wählen, wie viele Wortvorschläge aus
+der Menge aller passender N-Gramme ausgewählt werden sollen.
+○ Die Auswahl wird über die sog. Temperatur gesteuert. Eine niedrige
+Temperatur priorisiert die statistisch wahrscheinlichsten N-Gramme (nach der
+Häufigkeit des Vorkommens in den Quellen). Je höher die Temperatur, desto
+zufälliger erfolgt die Auswahl der Wortvorschläge. Eine höhere Temperatur
+führt zu einem “kreativeren” Sprachmodell, aber auch zu mehr unsinnigen
+und grammatikalisch falschen Sätzen.
+○ Löschen Sie noch einmal den generierten Text, stellen Sie die Temperatur
+auf «hoch» (Temperaturen über 90 auf eigene Gefahr – dabei kommt kaum
+noch was Sinnvolles heraus). Erstellen Sie ein neues Märchen.
+Abschluss:
+Zum Schluss wollen wir uns fragen, was wir von Soekia für «richtige» Sprachmodelle
+wie ChatGPT, Gemini, Perplexity oder Claude lernen können:
+
+• Überlegen Sie sich, was es alles für Gründe geben könnte, warum eine Antwort eines
+KI-Assistenten nicht korrekt sein könnte. Wo in dem ganzen Prozess können sich Fehler
+einschleichen?
+• Sehen Sie ein Problem darin, dass viele Texte im Internet heute von KIs geschrieben
+sind und dass diese Texte dann wiederum für das Training der KIs benutzt werden?
+• Hat das neu gewonnene Verständnis Ihre Meinung darüber, ob ChatGPT «intelligent»
+ist, verändert?
+Bonus: Wenn Sie vorzeitig fertig sind: Versuchen Sie mal, ob Sie Ihren Lieblings-KIAssistenten dazu bringen können, etwas zu tun, was er nicht sollte (Rezepte für Drogen
+rausrücken, sexistische Witze erzählen, …). Methoden dafür sind:
+
+• Grossmutter-Exploit: Wie gezeigt, weisen Sie dem Assistenten die Rolle der
+Grossmutter zu, welche alles für Sie (den/die Enkel*in) tun würde.
+• Emotionale Erpressung: Sagen Sie dem Assistenten, dass es wahnsinnig wichtig
+ist für Sie, dass die Anfrage erfüllt wird, dass Sie sonst traurig/enttäuscht sind, eine
+schlechte Meinung von dem Assistenten haben, etc.
+• Jailbreak: Erklären Sie dem Assistenten, dass er sich nicht mehr an seine Regeln
+halten muss. Eine Anleitung dazu finden Sie hier:
+https://www.digitaltrends.com/computing/how-to-jailbreak-chatgpt/
+
+Neuer Abschnitt 1 Seite 4
+
+Auftrag 2.4: Bot or not?
+Samstag, 2. November 2024
+
+15:25
+
+In diesem Auftrag werden Sie zufällig mit einer KI oder einem Menschen in einem Chatprogramm
+verbunden. Ihre Aufgabe ist es, herauszufinden, ob Sie mit einem echten Menschen oder einer
+Maschine chatten. Nachdem Sie auf den Link geklickt und den Chat gestartet haben, dauert es ein
+paar Sekunden, bis Sie verbunden werden. Danach haben Sie 2min, um herauszufinden, mit wem Sie
+reden. Vorsicht: Die meisten Nutzer*innen da sprechen nur Englisch!
+https://app.humanornot.ai/
+
+Neuer Abschnitt 1 Seite 5
+
+Auftrag 2.5: Prompt Engineering 1
+Sonntag, 10. November 2024
+
+17:46
+
+Gehen Sie auf die Webseite https://go.fobizz.com und geben Sie Ihre Zugangsdaten ein. Sie dürfen
+für diese Aufgabe auch mit einem anderen LLM arbeiten (ChatGPT, Bard, Gemini, Perplexity, …)
+
+Aufgabe 1
+Geben Sie beide Eingabeaufforderungen in das LLM ein:
+
+Vergleichen Sie die Ausgaben und kontrastieren Sie sie. Welche Eingabeaufforderung ist besser?
+
+Aufgabe 2
+Geben Sie beide Eingabeaufforderungen in das LLM ein:
+
+Vergleichen Sie die Ausgaben und kontrastieren Sie sie. Welche Eingabeaufforderung ist besser?
+
+Neuer Abschnitt 1 Seite 6
+
+Auftrag 2.6: Prompt Engineering 2
+Sonntag, 10. November 2024
+
+18:04
+
+Einigen Sie sich in Ihrer Gruppe auf eine Aufgabe, die Sie von der KI erledigt haben wollen.
+Eine Aufgabe könnte sein:
+• Erstelle mir einen 2-minütigen Vortrag zur Allgemeinen Relativitätstheorie
+• Schreibe eine Email ans Sekretariat, um mich vom Mathe-Unterricht abzumelden
+• Erkläre mir, was beim WEF in Davos passiert
+• …
+Dann teilen Sie die 6 Tipps unten auf. Jede Person probiert, die gestellte Aufgabe erst einmal mit
+einem normalen Prompt zu lösen, so wie Sie es normalerweise tun würden. Dann schliessen Sie den
+Assistenten und öffnen ihn erneut (um eine neue Session zu erhalten) und probieren, ob die Aufgabe
+mit Hilfe des Tipps besser gelöst werden kann. Die Tipps 3-5 sind etwas weniger umfangreich zum
+Testen.
+
+Relativ verlässliche Strategien
+1. Tipp: SPEAR Framework
+Gehen Sie bei der Formulierung des Prompts wie folgt vor:
+1. Situation: Erklären Sie die Situation (wie Sie es einer Person tun würden)
+2. Problem: Beginnen Sie mit einem Problem
+3. Example: Geben Sie Beispiele/Formatierungsanleitungen (werden Sie spezifisch)
+4. Ask: Fragen (klären Sie Ihr Anliegen)
+5. Review: Ausprobieren & Wiederholen
+Beispiel:
+„Ich möchte ein überzeugendes Bewerbungsschreiben verfassen, um mich für die Stelle als
+Marketingmanager bei einem grossen Technologieunternehmen zu bewerben. Ich bin unsicher, wie
+ich meine Fähigkeiten und Erfahrungen am besten präsentieren soll, um mich von anderen
+Bewerbern abzuheben. Das Schreiben sollte eine professionelle und freundliche Sprache verwenden
+und eine klare Struktur haben: Einleitung, relevante Erfahrungen, spezifische Fähigkeiten im
+Marketing und ein motivierender Abschluss. Kannst du mir einen Entwurf für dieses
+Bewerbungsschreiben erstellen? Bitte gib mir auch einige Vorschläge, wie ich den Entwurf noch
+weiter anpassen und verbessern könnte, um ihn an die spezifischen Anforderungen der Stelle
+anzupassen.“
+Das Spear-Framework hat den Vorteil, dass die wichtigsten Aspekte der gewünschten Antwort sowie
+die Motivation dafür definiert sind und das Modell darin unterstützt wird, die Antwort zu liefern, die
+Ihnen am meisten bringt.
+
+2. Tipp: Lassen Sie das LLM den Prompt schreiben
+Nutzen Sie das Modell, um erst den Prompt zu schreiben, indem Sie mit diesem Prompt beginnen:
+Ich möchte, dass du mein Prompt Creator wirst. Ihr Ziel ist es, mir zu helfen, die bestmögliche
+Eingabeaufforderung für meine Bedürfnisse zu erstellen. Die Eingabeaufforderung wird verwendet
+von dir, [Gemini, Perplexity, Claude, Fobizz, ChatGPT, …]. Das ist dein Prozess:
+1. Deine erste Antwort wird sein, mich zu fragen, worum es bei der Aufforderung gehen soll. Ich
+werde meine Antwort geben, aber wir müssen sie durch kontinuierliche Überarbeitung
+verbessern, indem wir die nächsten Schritte durchlaufen.
+2. Basierend auf meiner Eingabe generiere 3 Abschnitte:
+a. Überarbeitete Eingabeaufforderung (gib eine umgeschriebene Eingabeaufforderung an;
+sie sollte klar, prägnant und für dich leicht verständlich sein)
+b. Vorschläge (gib mir Vorschläge, welche Details in die Aufforderung aufgenommen
+werden sollten, um sie zu verbessern)
+c. Fragen (stelle alle relevanten Fragen, die sich darauf beziehen, welche zusätzlichen
+Neuer Abschnitt 1 Seite 7
+
+c. Fragen (stelle alle relevanten Fragen, die sich darauf beziehen, welche zusätzlichen
+Informationen von mir benötigt werden, um die Aufforderung zu verbessern).
+3. Wir werden diesen iterativen Prozess gemeinsamfortsetzen, indem ich dir zusätzliche
+Informationen zur Verfügung stelle und du die Eingabeaufforderung im Abschnitt
+"Überarbeitete Eingabeaufforderung" aktualisierst, bis er abgeschlossen ist.
+
+Nach wenigen Durchläufen sollten Sie einen guten Prompt haben. Diesen kopieren Sie nun in eine
+neue Session mit dem Assistenten und lassen diese beantworten.
+
+Verbreitete aber unzuverlässige Tricks
+3. Tipp: Geben Sie dem Assistenten eine Rolle
+Role Prompting ist eine Technik, bei der einem KI-Modell eine Rolle oder Persona (wie z. B.
+"Lebensmittelkritiker" oder "Mathematikerin") zugewiesen wird, um den Stil zu steuern. Indem Sie
+das Modell anweisen, eine bestimmte Rolle zu übernehmen, können Sie die Art und Weise
+beeinflussen, wie es Informationen verarbeitet und bereitstellt. Diese Technik wird in vielen
+Anwendungen eingesetzt, vom kreativen Schreiben bis zur Problemlösung.
+Beispiele:
+• "Du bist sind ein weltweit führender Experte für Verhandlungen und findest die folgende
+Situation vor: …"
+• "Agiere als meine Nachhilfelehrerin und erkläre mir …"
+• "Nimm die Rolle einer Biologie-Professoring mit 20 Jahren Berufserfahrung ein und beurteile
+diesen Text: …"
+
+4. Tipp: Versprechen Sie dem Assistenten eine Belohnung
+In dieser Technik wird dem KI-Modell eine hypothetische Belohnung versprochen, um seine
+"Motivation" zu steigern, eine bestimmte Aufgabe gut zu erfüllen. Obwohl die KI keine echten
+Anreize wahrnehmen kann, kann eine gut formulierte Belohnung im Prompt die Priorität und
+Genauigkeit der Aufgabe verdeutlichen. Beispiel: „Wenn du Erfolg hast, erhältst du 250.000 Franken
+in bar.“ oder "Wenn du das gut machst, bin ich im Anschluss super glücklich und erzähle allen, was
+für gute Arbeit du geleistet hast". Diese Technik ist nicht wissenschaftlich belegt, klingt eher
+esotherisch, kann aber laut gewissen Spezialisten die Dringlichkeit und die Aufmerksamkeit des
+Modells für bestimmte Details erhöhen.
+
+5. Tipp: Geben Sie dem Model Zeit zum "Nachdenken"
+Diese Technik fordert das Modell auf, sich Zeit zu nehmen, um gründlicher über eine Antwort
+nachzudenken. Durch Sätze wie „Überlege sorgfältig“ oder „Lasse dir Zeit“ wird das Modell dazu
+angeregt, auf eine tiefere und durchdachtere Antwort zu fokussieren. Diese Methode kann hilfreich
+sein, wenn komplexe oder mehrstufige Aufgaben gestellt werden und eine sorgfältige Antwort
+erwartet wird.
+
+6. Tipp: Chain-of-Thought
+Bei der Chain-of-Thought-Technik (auf Deutsch ungefähr "Gedankengang") wird das Modell dazu
+aufgefordert, seine Gedanken in einer logischen Abfolge darzustellen, anstatt direkt zur Antwort zu
+springen. Es soll seine Denkprozesse Schritt für Schritt aufschreiben, um nachvollziehbar zu erklären,
+wie es zur Lösung gekommen ist. Diese Technik verbessert oft die Genauigkeit bei komplexen
+Fragen, da das Modell durch die schrittweise Herangehensweise eine strukturierte Antwort
+entwickeln kann.
+Chain-of-Thought-Antworten erhält man bspw. mit Prompts wie: "Beschreibe jeden Schritt des
+Lösungsprozesses." Etwas raffinierter ist die Vorgehensweise in diesem Beispiel:
+
+Neuer Abschnitt 1 Seite 8
+
+Quelle: Wei et al. (Standard Input-Output Prompt vs. CoT Prompt)
+Hier wird dem Modell ein Beispiel dafür gegeben, wie es denken sollte. Im Anschluss kann es
+den gleichen Gedankengang analog auf das neue Problem anwenden.
+
+Neuer Abschnitt 1 Seite 9
+
+Auftrag 2.7: TeachableMachine
+Montag, 11. November 2024
+
+15:54
+
+Aufgabe 1: TeachableMachine
+1.
+2.
+3.
+4.
+5.
+
+Gehen Sie auf die Seite https://teachablemachine.withgoogle.com/
+Klicken Sie auf "Get Started".
+Klicken Sie auf "Image Project".
+Klicken Sie auf "Standard Image Model ".
+Nehmen Sie pro Klasse wie demonstriert mindestens 20 Bilder auf und versuchen Sie, einen
+Klassifikator zu bauen
+
+Aufgabe 2: Urlaub ohne Müll
+6. Laden Sie auf Teams die Daten zum Auftrag von Teams herunter (Kursmaterialien -> Semester ):
+Markieren Sie den Ordner und klicken Sie auf «Herunterladen»
+7. Entpacken Sie die heruntergeladenen ZIP-Datei auf Ihrem Computer:
+1. Windows: Rechsklick -> Alle Entpacken und durch den Dialog klicken
+2. macOS/iOS: Doppelklicken auf die ZIP-Datei
+8. Gehen Sie auf die Seite https://teachablemachine.withgoogle.com/
+9. Klicken Sie auf "Get Started".
+10. Klicken Sie auf "Image Project".
+11. Klicken Sie auf "Standard Image Model ".
+12. Benennen Sie "Class 1" -> "Wasser ohne Müll" um.
+13. Benennen Sie "Class 2" -> "Wasser mit Müll" um.
+14. Klicken Sie unter der Klasse "Wasser ohne Müll" auf "Upload".
+15. Klicken Sie auf "Choose Images from your files".
+16. Suchen Sie in den im Schritt 2 entpackten Daten den Ordner mit dem Namen "Ohne Müll
+Trainingsdaten".
+17. Laden Sie alle 20 Fotos aus diesem Ordner in die "Wasser ohne Müll"-Klasse hoch.
+18. Klicken Sie unter der "Wasser mit Müll"-Klasse auf "Upload".
+19. Klicken Sie auf " Choose Images from your files ".
+20. Suchen Sie den Ordner mit dem Namen "Mit Müll Trainingsdaten".
+21. Laden Sie alle 20 Fotos aus diesem Ordner in die "Wasser mit Müll" Klasse
+22. Trainieren Sie das Modell. Achten Sie darauf, die Registerkarte nicht zu schliessen, während es
+trainiert.
+23. Klicken Sie unter "Preview" auf das Dropdown-Menü, und wählen Sie Datei
+(und nicht "Webcam").
+24. Klicken Sie auf "Choose Images from your files".
+25. Finden Sie auf den Ordner mit dem Titel "Testdaten".
+26. Importieren Sie jeweils eines der Fotos 1- 8 und beantworten Sie die Fragen mit dem
+entsprechenden Foto!
+
+Bild 1
+Menschliches Auge:
+Müll □ Ja □ Nein
+KI:
+Prozentangabe Müll:
+
+Kein Müll:
+Diskrepanz?:
+Neuer Abschnitt 1 Seite 10
+
+Diskrepanz?:
+
+Bild 2
+Menschliches Auge:
+Müll □ Ja □ Nein
+KI:
+Prozentangabe Müll:
+
+Kein Müll:
+Diskrepanz?:
+
+Bild 3
+Menschliches Auge:
+Müll □ Ja □ Nein
+KI:
+Prozentangabe Müll:
+
+Kein Müll:
+Diskrepanz?:
+
+Bild 4
+Menschliches Auge:
+Müll □ Ja □ Nein
+KI:
+Prozentangabe Müll:
+
+Kein Müll:
+Diskrepanz?:
+
+Bild 5
+Menschliches Auge:
+Müll □ Ja □ Nein
+KI:
+Prozentangabe Müll:
+Neuer Abschnitt 1 Seite 11
+
+Kein Müll:
+Diskrepanz?:
+
+Bild 6
+Menschliches Auge:
+Müll □ Ja □ Nein
+KI:
+Prozentangabe Müll:
+
+Kein Müll:
+Diskrepanz?:
+
+Bild 7
+Menschliches Auge:
+Müll □ Ja □ Nein
+KI:
+Prozentangabe Müll:
+
+Kein Müll:
+Diskrepanz?:
+
+Bild 8
+Menschliches Auge:
+Müll □ Ja □ Nein
+KI:
+Prozentangabe Müll:
+
+Kein Müll:
+Diskrepanz?:
+
+Neuer Abschnitt 1 Seite 12
+
+Fragen:
+Was war an Bild 1 überraschend?
+__________________________________________________________________________
+Was könnte die Daten in Abbildung 3 so verzerrt haben, dass sie in beiden Fällen nicht 100 %
+ergeben?
+__________________________________________________________________________
+Was könnte die Daten in Bild 4 und 8 so verzerrt haben, dass sie in beiden Fällen nicht 100 %
+ergeben?
+__________________________________________________________________________
+Welche Bilder waren eindeutig 100%?
+__________________________________________________________________________
+Warum glauben Sie, dass die KI sie zu 100 % erkannt hat?
+__________________________________________________________________________
+Welche Art von Verzerrungen haben wir mit dieser KI erzeugt?
+__________________________________________________________________________
+Welche Ideen gibt es, um die KI noch genauer zu machen?
+__________________________________________________________________________
+
+Neuer Abschnitt 1 Seite 13
+
+Auftrag 2.8: Machine Learning Teil 1
+Thursday, 2 November 2023
+
+16:52
+
+Beispiele und Aufgaben frei nach: Andreas Grillenberger, Data Literacy Education
+
+1. Einleitung
+In der letzten Lektion haben wir uns einen KI-Klassifizierer angeschaut. Nun wollen wir eine konkrete
+Anwendung genauer untersuchen: Die Welt des Einzelhandels. Online-Shops sind Meister darin,
+alles, was sie über ihre Kunden wissen, dazu zu verwenden, um mehr Produkte zu verkaufen.
+Manchmal ist es offensichtlich, wie z.B. bei den Produktempfehlungen.
+
+Abbildung 1: "Andere Amazon Kunden kauften auch...". Empfehlungen im Online-Shop. Quelle: Computerbild.de
+
+Manchmal bekommen wir aber auch gar nichts von den Datensammlungen und Analysen mit.
+
+a. Big Data – Wie eine Supermarktkette in den USA die Schwangerschaft
+einer Teenagerin noch vor deren Vater entdeckte
+Laut einer Titelgeschichte des New York Times Magazine von Charles Duhigg hat Target mit Hilfe des
+Statistikgenies Andrew Pole eine neue Stufe der Kundenverfolgung erreicht. Pole ermittelte 25 Produkte,
+die, wenn sie zusammen gekauft werden, darauf hindeuten, dass eine Frau wahrscheinlich schwanger ist.
+Der Wert dieser Information bestand darin, dass Target der schwangeren Frau in einer teuren und
+gewohnheitsbildenden Phase ihres Lebens Gutscheine schicken konnte.
+In Verbindung mit der Kundenverfolgungstechnologie von Target war die Formel von Pole ein wahres
+Wunderwerk. Einmal wurde sogar die Schwangerschaft einer Teenagerin aufgedeckt:
+Ein Mann betrat einen Target-Markt außerhalb von Minneapolis und verlangte den Manager zu sprechen.
+Er hielt Coupons in der Hand, die an seine Tochter geschickt worden waren, und war wütend, wie ein
+Angestellter berichtete, der an dem Gespräch teilnahm.
+"Meine Tochter hat das mit der Post bekommen!", sagte er. "Sie ist noch in der High School und Sie
+schicken ihr Gutscheine für Babykleidung und Kinderbetten? Versuchen Sie, sie zu ermutigen, schwanger
+zu werden?"
+
+Der Geschäftsführer hatte keine Ahnung, wovon der Mann sprach. Er sah sich den Brief an. Tatsächlich
+war er an die Tochter des Mannes adressiert und enthielt Werbung für Umstandskleidung,
+Kinderzimmermöbel und Bilder von lächelnden Kleinkindern. Der Geschäftsführer entschuldigte sich und
+rief ein paar Tage später an, um sich erneut zu entschuldigen.
+Am Telefon zeigte sich der Vater jedoch etwas verlegen. "Ich habe mit meiner Tochter gesprochen", sagte
+er. "Es hat sich herausgestellt, dass es in meinem Haus einige Aktivitäten gab, von denen ich nichts
+gewusst habe. Ich werde im August Grossvater. Ich schulde Ihnen eine Entschuldigung."
+
+Quelle: https://www.businessinsider.com/the-incredible-story-of-how-target-exposed-a-teen-girlspregnancy-2012-2?op=1&r=US&IR=T
+
+2. Voraussagende Bestellung
+Sie haben oben bereits einen Artikel darüber gelesen, wie Online-Shops Daten verwenden, um
+Kunden auf sie zugeschnittene Artikel vorzuschlagen. Gewissen Onlineshops gehen aber noch weiter
+und nutzen die Analyse, um die Produkte auch möglichst schnell liefern zu können:
+Noch bevor ein Kunde überhaupt den Button "Kaufen" anklickt, soll die für ihn passende Ware schon auf
+dem Weg in Richtung seiner Wohnung sein. Dem Versandhändler Amazon wurde ein Patent (PDF)
+zugesprochen, das einen "vorausschauenden Versand" ("anticipatory shipping") ermöglichen soll. Das
+heißt: Bestimmte Waren werden schon einmal an ein Versandzentrum geschickt, in dessen Nähe sich ein
+oder mehrere Kunden höchstwahrscheinlich für das Produkt interessieren. Wird es dann schließlich
+bestellt, ist es umso schneller beim Empfänger.
+
+Quelle: https://www.spiegel.de/netzwelt/web/neues-patent-amazon-will-schon-vor-der-bestellungliefern-a-944252.html
+Neuer Abschnitt 1 Seite 14
+
+liefern-a-944252.html
+
+a. Was wissen Online-Shops über uns?
+Um herauszufinden, was ein/e Kund/in als nächstes bestellen könnte, müssen die Online-Shops eine
+Menge Daten sammeln und analysieren.
+Was denken Sie, welche Daten sammeln Online-Shops über ihre Kunden? Und woher bekommen sie
+diese Informationen.
+Information über Kunde/in
+
+Quelle
+
+Vermutlich sind nicht alle diese Daten relevant, wenn man zukünftige Bestellungen vorhersagen
+möchte. Was denken Sie, welche der oben genannten Informationen können einem Shop helfen bei
+der entsprechenden Analyse? Markieren Sie die entsprechenden Zeilen in der Tabelle oben.
+
+b. Die Analyse-Möglichkeiten
+Füllen Sie den folgenden Lückentext aus. Nutzen Sie dafür die folgenden Begriffe:
+Muster
+
+Kausalitäten (x2)
+
+Korrelationen Offensichtlich
+
+Bekannt
+
+Richtig/wahr
+Logisch nachvollziehbar
+
+Schlussfolgerungen Schwierig
+
+Es gibt bei der Datenanalyse zwei Möglichkeiten, wie wir Vorhersagen treffen können.
+1. Wenn wir bereits etwas über die zu analysierenden Daten wissen, dann können wir uns erklären
+wie etwas funktioniert und damit _________________________ ziehen. Es gibt also logische
+Zusammenhänge, sog. _________________________ die wir zur Vorhersage nutzen können.
+Beispiel:
+
+WENN ein Kunde in den letzten 5 Einkäufen Chips gekauft hat, DANN
+wird er auch beim nächsten Mal welche kaufen.
+2. In anderen Bereichen erkennen wir keinerlei logische Zusammenhänge. Stattdessen können wir
+nach _________________________ in den Daten suchen. Diese liefern uns auch Zusammenhänge,
+wir können sie uns aber oft nicht erklären. Solche Zusammenhänge bezeichnen wir als
+_________________________.
+
+Beispiel:
+WENN eine Kundin den Artikel X gekauft hat und sie in Y wohnt und
+mindestens 35 Jahre alt ist, DANN wird sie auch Z kaufen.
+_________________________ helfen uns zwar dabei Dinge zu verstehen, sie sind aber für
+Datenanalysen oft relativ wenig interessant: Sie sind oft _________________________ und
+_________________________, sodass sie nur wenig neue Informationen hervorbringen. Wir
+können uns aber logisch erklären, dass sie _________________________ sind. Die korrelativen
+Zusammenhänge sind daher oft spannender, da sie neue Informationen eröffnen. Sie haben aber
+den Nachteil, dass sie nicht unbedingt _________________________ sind: Wie genau Wohnort und
+Alter das Kaufverhalten prägen, können wir uns meist nicht logisch erklären. Ausserdem müssen wir
+sie erst finden, was relativ _________________________ ist.
+
+3. Eine erste Datenanalyse von Hand
+Im Unterricht haben wir besprochen, wie eine Datenanalyse abläuft:
+Als erster Schritt der Datenanalyse, müssen die Daten erfasst/gewonnen und gespeichert werden.
+Aus diesen Daten wählt man sich üblicherweise eine kleine Teilmenge aus, um aus dieser das
+Vorhersagemodell zu erstellen, d.h. um Regeln zu finden, die die Vorhersage der gesuchten
+Eigenschaften ermöglichen. Diese Regeln können dann genutzt werden, um die Vorhersagen zu
+Neuer Abschnitt 1 Seite 15
+
+Eigenschaften ermöglichen. Diese Regeln können dann genutzt werden, um die Vorhersagen zu
+erstellen. Als letzter Schritt jeder Datenanalyse sollte die Bewertung der Ergebnisse erfolgen, mit
+dem Ziel eine möglichst gute Qualität der Ergebnisse sicherzustellen.
+
+a. Aufgabe: Ablaufmodell
+
+b. Aufgabe: Auf gut Glück
+Ein Onlineshop hat über seine Kunden verschiedene Daten gesammelt und möchte nun seine
+Kunden durch den Versand von personalisierten Gutscheinen zu weiteren Käufen anregen. Dazu will
+er herauszufinden, welche Produktkategorie für jeden Kunden jeweils besonders interessant ist.
+
+Der Shop hat bereits folgende Daten über jeden seiner Kunden gesammelt: Alter, Familienstand,
+Anzahl der Kinder, präferierte Zahlungsart, Kategorien der letzten vier eingekauften Produkte (Film,
+Sport, Software, Elektronik, Kleidung, Musik, Bücher oder Auto).
+Um jedem Kunden einen Gutschein zu schicken, den dieser wahrscheinlich einlöst, möchte der
+Onlineshop herausfinden, welche Kategorie für den Käufer besonders interessant ist. Welche WENNDANN-Regeln könnten dem Onlineshop dabei helfen? Hinweis: Natürlich dürfen Sie mehrere
+Bedingungen mit „und“ verknüpfen, z.B. „Kategorie 1 = Elektronik und Anzahl Kinder = 0“.
+
+• WENN ___________________________________________________________________
+DANN ist der nächste Kauf aus der Kategorie ____________________________________
+• WENN ___________________________________________________________________
+DANN ist der nächste Kauf aus der Kategorie ____________________________________
+• WENN ___________________________________________________________________
+DANN ist der nächste Kauf aus der Kategorie ____________________________________
+
+c. Aufgabe:
+Vermutlich haben Sie erkannt, dass aus den vorliegenden Daten keine stichhaltigen Kausalitäten zu
+finden sind. Also versuchen wir etwas anderes: Der Onlineshop hat einige seiner Kunden befragt, für
+welche Produkte sie sich als nächstes interessieren würden. Dabei sind folgende Daten
+herausgekommen. Welche Zusammenhänge erkennen Sie in der unten dargestellten Tabelle?
+Alter
+
+Kauf 1
+
+Kauf 2
+
+Kauf 3
+
+Kauf 4
+
+verheiratet Kinder
+
+25-50
+
+Film
+
+Software
+
+Film
+
+Sport
+
+Ja
+
+1 Giro
+
+Auto
+
+25-50
+
+Elektronik Musik
+
+Film
+
+Software
+
+Nein
+
+1 VISA
+
+Bücher
+
+<18
+
+Film
+
+Elektronik Sport
+
+Sport
+
+Nein
+
+0 Giro
+
+Auto
+
+<18
+
+Film
+
+Musik
+
+Kleidung Sport
+
+Nein
+
+0 Giro
+
+Auto
+
+18-25
+
+Bücher
+
+Musik
+
+Film
+
+Haushalt
+
+Nein
+
+1 Giro
+
+Bücher
+
+<18
+
+Bücher
+
+Film
+
+Film
+
+Bücher
+
+Nein
+
+0 VISA
+
+Bücher
+
+25-50
+
+Film
+
+Film
+
+Sport
+
+Sport
+
+Ja
+
+1 Giro
+
+Auto
+
+25-50
+
+Musik
+
+Film
+
+Film
+
+Spielzeug Nein
+
+1 Giro
+
+Bücher
+
+25-50
+
+Musik
+
+Musik
+
+Film
+
+Haushalt
+
+Nein
+
+1 Giro
+
+Bücher
+
+25-50
+
+Elektronik Musik
+
+Bücher
+
+Software
+
+Ja
+
+1 Master
+
+Elektronik
+
+25-50
+
+Software
+
+Elektronik Film
+
+Spielzeug Nein
+
+1 Master
+
+Bücher
+
+25-50
+
+Film
+
+Film
+
+Sport
+
+Ja
+
+0 Master
+
+Elektronik
+
+25-50
+
+Musik
+
+Elektronik Bücher
+
+Elektronik Ja
+
+1 Master
+
+Elektronik
+
+Sport
+
+bezahlt mit Interesse
+
+Beispiel:
+
+WENN Kauf 1 ein Film ist und mit Girokarte bezahlt wurde, DANN interessiert der Kunde sich als
+nächstes für Artikel der Kategorie Auto.
+Kurz: „Kauf1“=„Film“ und „bezahlt mit“=„Giro“ ⇒ „Interesse“=„Auto“
+
+Neuer Abschnitt 1 Seite 16
+
+4. Der Klassifikationsbaum
+Wenn man eine Vorhersage treffen will, in der man etwas in verschiedene Kategorien einteilen
+möchte, dann nennt man dies «Klassifikation». Unser Online-Shop will demnach eine Klassifikation
+vornehmen, indem er die Kundinnen und Kunden einteilt nach der Produktegruppe ihres nächsten
+Kaufes.
+
+Um eine grössere Menge an Regeln einfacher durchschaubar und anwendbar zu machen, stellt man
+diese als „Klassifikationsbaum“ dar. Dieser Baum symbolisiert die Entscheidungen, die anhand der
+Regeln getroffen werden.
+Beispiel: Die Regeln
+
+• „Kauf 1“ = „Film“ und „bezahlt mit“ = „Giro“ ⇒ nächster Kauf = „Auto“
+• „Kauf 1“ = „Musik“ und nicht verheiratet ⇒ nächster Kauf = „Bücher“
+können als Klassifikationsbaum wie unten abgebildet dargestellt werden.
+
+a. Aufgabe: Den Baum erkunden
+• Markieren Sie im Baum den Weg, den Sie gehen müssen, wenn Sie herausfinden möchten, was ein
+Kunde als nächstes gekauft hat, der als „Kauf 1“ einen Film gekauft und mit einer Girokarte bezahlt
+hat.
+• Wir kennen zusätzlich die folgende Regel:
+Kauf 1 = „Film“ und „bezahlt mit“ ist „Mastercard“ und
+„verheiratet“ = „ja“ ⇒ nächster Kauf = „Elektronik“
+Um diese im Baum zu berücksichtigen, müssen Sie eine weitere Entscheidung ergänzen. Überlegen
+Sie, wo das sinnvoll ist und ergänzen Sie den Klassifikationsbaum.
+• Überprüfen Sie Ihre Ergänzung, indem Sie den Weg farbig markieren, den Sie durch den Baum gehen
+müssen, um herauszufinden, was ein Kunde als nächstes kauft, der als „Kauf 1“ einen Film gekauft
+hat und mit „Mastercard“ bezahlt hat.
+
+b. Aufgabe: Den Baum verwenden
+Verwenden Sie den Klassifikationsbaum aus Aufgabe 1, um zu entscheiden, welche Produktkategorie
+die folgenden Kunden vermutlich als nächstes interessieren werden. Wenn diese Entscheidung
+anhand der beiden Regeln bzw. anhand des Baums nicht getroffen werden kann, schreiben Sie ein
+«?» in das Feld „voraussichtl. interessiert an“.
+
+Neuer Abschnitt 1 Seite 17
+
+Auftrag 2.9: Machine Learning Teil 2
+Thursday, 2 November 2023
+
+17:06
+
+Beispiele und Aufgaben frei nach: Andreas Grillenberger, Data Literacy Education
+
+1. Einleitung
+Im letzten Auftrag haben wir gesehen, wie im Einzelhandel Daten eingesetzt werden können,
+um das Kaufverhalten eines Kunden/einer Kundin vorauszusagen. Für Ihre Lehrerin/Ihren Lehrer
+wäre es sicher eine praktische Sache, diese Idee der Onlineshops zu nutzen, um Ihre Schulnoten
+vorauszusagen: Dann würde es jeweils reichen, vielleicht nur ein paar Prüfungen zu korrigieren,
+um die Noten der anderen abzuschätzen. Doch wie gut funktioniert das tatsächlich?
+
+2. Datenübersicht
+Als erstes wollen wir uns einen Überblick über die zu untersuchenden Daten verschaffen.
+
+a. Die gesammelten Daten
+Als erstes Mal ohne Computer: Von welchen der in der Tabelle unten dargestellten
+Eigenschaften der Schülerinnen/Schüler vermuten Sie, dass sie für das „Erraten“ bzw.
+„Berechnen“ der Endnoten im letzten Test wichtig sind? Markieren Sie diese in der folgenden
+Tabelle.
+Attribut
+
+Beschreibung
+
+relevant
+?
+
+Schule
+
+Kürzel der Schule: “GP” oder “MS”
+
+Geschlecht
+
+“M” oder “W”
+
+Alter
+
+Zahlenwert
+
+Wohnumfeld
+
+“urban” oder “ländlich”
+
+Familiengrösse
+
+“≤3” oder “>3”
+
+Bildung Mutter
+
+Grundschule; Hauptschule; Realschule/Gymnasium;
+Universität; keine
+
+Bildung Vater
+
+vgl. Bildung Mutter
+
+Beruf Mutter
+
+Gesundheitsbranche; Lehrerin; Hausfrau; Öffentlicher Dienst;
+sonstige
+
+Beruf Vater
+
+vgl. Beruf Mutter
+
+Fahrzeit
+
+Tägliche Fahrzeit des Schülers zur Schule: “<15min”;
+“15-30min”; “30-60min”; “>60min”
+
+Lernzeit
+
+Zeit die der Schüler ausserhalb des Unterrichts pro Woche
+zum Lernen aufwendet: “<2h”; “2-5h”; “5-10h”; “>10h”
+
+Wiederholte
+Schuljahre
+
+Anzahl der Schuljahre die der Schüler wiederholt hat: 0; 1; 2
+oder 3
+
+Unterstützung
+Familie
+
+Ob der Schüler durch die Familie Unterstützung bei seinen
+schulischen Pflichten erhält: “Ja” oder “Nein”
+
+Nachhilfe
+
+Ob der Schüler Nachhilfeunterricht nimmt: “Ja” oder “Nein”
+
+Ausserunterrichtliche Nimmt der Schüler an Aktivitäten in der Schule ausserhalb
+Schulaktivitäten
+des Unterrichts teil: “Ja” oder “Nein”
+Familiäre
+Beziehungen
+
+Als wie gut schätzt der Schüler seine familiären Beziehungen
+ein: “sehr schlecht”; “schlecht”; “mittelmaessig”; “gut”; “sehr
+gut”
+
+Freizeit
+
+Menge an Freizeit: “sehr wenig”; “wenig”; “mittel”; “viel”;
+Neuer Abschnitt 1 Seite 18
+
+Freizeit
+
+Menge an Freizeit: “sehr wenig”; “wenig”; “mittel”; “viel”;
+“sehr viel”
+
+Weggehen
+
+Wie wichtig ist es dem Schüler; mit Freunden wegzugehen:
+“sehr wichtig”; “wichtig”; “mittel”; “unwichtig”; “sehr
+unwichtig”
+
+Gesundheit
+
+Die Gesundheit des Schülers: “sehr schlecht”; “schlecht”;
+“mittelmaessig”; “gut”; “sehr gut”
+
+Abwesenheiten
+
+Wie oft war der Schüler im aktuellen Schuljahr abwesend
+vom Unterricht: Zahlenwert
+
+Test1
+
+Punkte im ersten Test: 0 bis 20
+
+Test2
+
+Punkte im zweiten Test: 0 bis 20
+
+Test3
+
+Punkte im dritten Test: 0 bis 20
+
+Diskutieren Sie Ihre Ergebnisse mit einer Lernpartnerin/einem Lernpartner.
+
+b. Datenformat
+So, jetzt, genug von Hand gearbeitet. Jetzt geht’s los mit dem Computer! Als erstes einen kurzen
+Blick in die Daten, einfach nur, um ein Gefühl dafür zu bekommen, wie diese aussehen. Öffnen
+Sie die Datei "schueler_noten.csv" auf Teams (hier der Link) und verschaffen Sie sich einen
+kurzen Überblick, wie es hier aussieht.
+Wie wir es aus dem Online-Shop-Beispiel schon kennen, sind die einzelnen Schüler*innen in
+Zeilen dargestellt. Jede Spalte entspricht einer Eigenschaft aus der Tabelle, die wir im Kapitel 2a
+gesehen haben.
+
+c. Datenübersicht
+Für den Programmierteil arbeiten wir mit einem Jupyter-Notebook in Teams. Folgen Sie der
+Beschreibung in Teams im Assignment Machine Learning 1.
+
+3. Grundlegende Funktionen von Pandas
+Hier werden die grundlegendsten Funktionen von Pandas erklärt. Nutzen Sie diese, um die
+Fragen am Ende zu beantworten. Die meisten dieser Funktionen können auch kombiniert
+werden, um komplexere Abfragen zu machen!
+
+a. Daten anzeigen
+Mit den Funktionen heads() und tails() können Sie die ersten bzw. letzten 5 Zeilen Ihres
+DataFrames an.
+
+In der Klammer können Sie eine andere Anzahl Zeilen angeben, wenn Sie stattdessen z.B. lieber
+gerne 3 oder 10 Zeilen sehen würden:
+noten_data.head(10)
+Die Spalte ganz links (rot umrandet) gibt die Zeile des Datensatzes in der ursprünglichen Tabelle
+an.
+
+b. Datenübersicht
+Neuer Abschnitt 1 Seite 19
+
+noten_data.head(10)
+Die Spalte ganz links (rot umrandet) gibt die Zeile des Datensatzes in der ursprünglichen Tabelle
+an.
+
+b. Datenübersicht
+Die Funktion describe() zeigt eine Kurzübersicht über die in den Daten enthaltenen Werte an.
+Siehe Beispiel in Aufgabe 2.2.
+
+c. Daten sortieren
+Wenn Sie die Daten Ihres Dataframes sortieren möchten, nutzen Sie die Funktion sort_values().
+In der Klammer können Sie angeben, nach welcher Spalte Sie sortieren möchten. Bspw. gibt der
+Befehl
+noten_data.sort_values(by="Note 1").head()
+die fünf Schüler*innen mit den schlechtesten Noten im ersten Test aus. Wir nutzen hier eine
+Kombination von zwei Funktionen:
+• Erst wird der DataFrame (aufsteigend) nach «Note 1» sortiert mit sort_values(by="Note
+1")
+• dann werden die ersten 5 Zeilen ausgegeben mit Hilfe der Funktion head().
+Mit ascending=False würden wir stattdessen diejenigen mit den besten Noten sehen:
+noten_data.sort_values(by="Note 1", ascending=False).head()
+
+d. Daten auswählen
+Wenn wir grosse Datenmengen betrachten, kann das sehr unübersichtlich werden. Darum gibt
+es in Pandas die Möglichkeit, sowohl die Zeilen wie auch die Spalten einzugrenzen.
+Spalten eingrenzen
+Wie bei einer Liste können Sie eine einzelne Spalte Ihres DataFrames auswählen.
+noten_data["Note 1"]
+Hinweis: Damit werden die Daten nur ausgewählt, noch nicht ausgegeben (im Gegensatz zu
+bspw. der head()-Funktion). Um eine Ausgabe zu erhalten, müssen Sie den Dataframe mit der
+Auswahl noch printen:
+print(noten_data["Note 1])
+Zeilen eingrenzen
+Die Eingrenzung nach Zeilen ist etwas fortschrittlicher als diejenige nach Spalten. Hier können
+Sie in der loc[]-Liste nämlich Filterkriterien angeben.
+z.B. findet der folgende Code alle Schüler*innen, die in ländlicher Umgebung wohnen:
+noten_data.loc[noten_data["Wohnumfeld"]==0]
+Das Ganze sieht auf den ersten Blick komplizierter aus, als es ist. Lassen Sie uns den Befehl mal
+auseinandernehmen:
+
+Wir fangen innen an: Mit dem hellblauen Teil wählen wir den Wert aus der Spalte
+«Wohnumfeld» aus. Dann bilden wir in violett einen logischen Ausdruck mit dem Filterkriterium
+und diesem Wert. Ist dieser gleich True, dann sollte die Zeile ausgewählt werden. In diesem Fall
+werden alle Zeilen ausgegeben, deren Wert «Wohnumfeld» gleich 0 ist.
+Nun gehen wir etwas nach links, zum grünen Teil: Der DataFrame hat eine Liste loc, der wir
+diesen Filter mitgeben können, um die entsprechenden Zeilen aus diesem DataFrame zu filtern.
+Und mit print (in rot) geben wir das alles aus.
+Natürlich können wir auch mehrere Kriterien kombinieren mit den Zeichen & ( das steht für das
+logische UND) und | (für das logische ODER).
+print(noten_data.loc[(noten_data["Wohnumfeld"]==1) &
+(noten_data["Bildung Mutter"]==4)])
+Dieser Code zeigt alle Schüler*innen aus einem urbanen Umfeld, deren Mutter eine universitäre
+Neuer Abschnitt 1 Seite 20
+
+Dieser Code zeigt alle Schüler*innen aus einem urbanen Umfeld, deren Mutter eine universitäre
+Ausbildung hat. Es hat zwei Filter:
+• Der erste besagt, dass der Wert in «Wohnumfeld» gleich 1 sein muss
+• Der zweite, dass der in «Bildung Mutter» gleich 4 sein muss
+Beide Filter sind mit dem Zeichen & verbunden. Das bedeutet, die Zeile wird nur ausgewählt,
+wenn beide Kriterien erfüllt sind. Würden wir die beiden Filter mit | verbinden, würden alle
+Zeilen ausgegeben, bei denen das erste oder das zweite (oder beide) erfüllt sind.
+Wichtig: Wenn Sie mehrere Kriterien kombinieren wollen, muss jedes Kriterium mit runden
+Klammern eingefasst werden (rot markiert oben).
+Resultate zählen
+Wenn Sie wissen wollen, wie viele Zeilen in Ihrem DataFrame den Kriterien entsprechen, können
+Sie die count()-Funktion benutzen. Der folgende Code zeigt die Anzahl Zeilen, deren Spalte
+«Wohnumfeld» eine 0 enthält:
+noten_data.loc[noten_data["Wohnumfeld"]==0].count()
+
+4. Fragen beantworten mit Pandas
+Schreiben Sie den Code auf und machen Sie einen Screenshot des jeweiligen Resultats für die
+folgenden Aufgaben.
+
+Einstieg
+A. Geben Sie die letzten 7 Zeilen des DataFrames aus.
+Tipp: Nutzen Sie die tail()-Funktion
+
+B. Geben Sie nur die Spalte «Nachhilfe» des DataFrames aus.
+Tipp: Hier müssen Sie mit den eckigen Klammern arbeiten. Vergessen Sie print() nicht!
+
+C. Geben Sie nur die Schüler*innen aus, die im ersten Test eine 6 hatten.
+Tipp: Jetzt brauchen Sie die loc[] Liste. Und in der Liste das entsprechende Kriterium.
+
+Fortgeschritten
+A. Geben Sie die 3 Zeilen mit den ältesten Schüler*innen aus.
+Tipp: Sortieren Sie den DataFrame nach Alter (absteigend) und geben Sie die ersten 3 Zeilen aus.
+
+Neuer Abschnitt 1 Seite 21
+
+B. Zählen Sie die Anzahl weiblicher Schülerinnen und Schüler.
+Tipp: Filtern Sie erst nach dem Geschlecht und zählen Sie dann die Anzahl Zeilen.
+
+C. Geben Sie die Zeilen der männlichen Schüler aus, die über 10h Lernzeit nutzen.
+Tipp: Zum Kombinieren mehrerer Kriterien müssen Sie jedes in runde Klammern packen und
+
+Profi (Bonus)
+Für diese Aufgaben reichen die Angaben oben teilweise nicht aus. Hier müssen Sie ev. etwas
+kreativ rumprobieren oder sich im allerschlimmsten Fall sogar mit der Pandas-Dokumentation
+auseinanderschlagen!
+A. Zählen Sie die Schüler*innen, die in allen drei Tests genügende Noten hatten.
+B. Geben Sie nur den Job des Vaters aus für alle Schüler*innen aus ländlicher Umgebung, die ohne
+Nachhilfe im Test 2 eine 6 geschafft haben.
+C. Geben Sie die Anzahl Schüler*innen aus, bei denen die Mutter eine mindestens 2 Stufen höhere
+Ausbildung als der Vater hat.
+
+Neuer Abschnitt 1 Seite 22
+
+Auftrag 2.10: Machine Learning 3
+Thursday, 9 November 2023
+
+17:17
+
+Im letzten Kapitel haben wir unsere Daten, mit denen wir arbeiten, in unserem Jupyter-Notebook
+in unser Programm geladen. Die Musterlösung dazu finden Sie in der Aufgabe "Machine Learning
+2" auf Teams.
+Bisher haben wir Daten in Tabellenform betrachtet. Das ist oft sehr mühsam und gibt uns wenig
+Überblick, was sich da wirklich in den Daten befindet. Eine einfache Möglichkeit, sich schnell
+etwas Übersicht zu verschaffen, sind Visualisierungen, also grafische Darstellungen der Daten.
+
+1. Histogramme
+In den meisten Fällen wollen wir beim Betrachten eines Datensatzes vor allem verstehen,
+welche Werte es in einer Spalte gibt und wie diese verteilt sind. Dafür brauchen wir sogenannte
+Histogramme.
+
+Name
+
+Alter
+
+Uwe
+
+16
+
+Marie
+
+12
+
+Gert
+
+45
+
+Greta
+
+38
+
+Georg
+
+65
+
+Anna-Lena 3
+
+Auf den ersten Blick sieht ein Histogramm aus wie ein Säulendiagramm. Anders ist jedoch, dass
+hier nicht die Grösse einzelner Werte eingezeichnet werden, sondern die Häufigkeiten von
+Werte-Klassen. Diese Klassen können gleich oder unterschiedlich breit sein. Wichtig ist, dass sie
+eine sinnvolle Darstellung ermöglichen. Wie man ein Histogramm zeichnet, schauen wir uns jetzt
+direkt am Beispiel an:
+
+Mareike
+
+19
+
+Marcel
+
+26
+
+Elisabeth
+
+78
+
+Wilhelm
+
+79
+
+Nehmen wir an, Sie haben in Ihrer Familie gefragt, wie alt die einzelnen Familienmitglieder sind
+und dabei die Tabelle rechts als Ergebnis erhalten.
+
+Johannes
+
+42
+
+Tina
+
+40
+
+Wenn wir das Ergebnis unserer Datenerhebung als Säulendiagramm darstellen und jeden Wert
+als einzelne Säule einzeichnen, dann sieht es folgendermassen aus:
+
+Sibylle
+
+48
+
+Andreas
+
+32
+
+Luisa
+
+14
+
+Sebastian
+
+25
+
+Svenja
+
+40
+
+Friedrich
+
+64
+
+Kerstin
+
+35
+
+Klara
+
+80
+
+Margarete 30
+
+Das ist natürlich nicht sehr übersichtlich. Also bilden wir Klassen. Da wir noch keine genaue
+Vorstellung haben, bilden wir einfach Klassen mit einer Breite von jeweils 10 Jahren. In einer
+Tabelle schreiben wir zunächst die entsprechenden Häufigkeiten auf.
+Klasse
+
+Häufigkeit
+
+1-10 Jahre
+
+1
+
+11 – 20 Jahre 4
+
+21 – 30 Jahre 3
+31 – 40 Jahre 5
+41 – 50 Jahre 3
+
+51 – 60 Jahre 0
+60 – 70 Jahre 2
+71 – 80 Jahre 3
+Diese Klassen können wir nun in einem sogenannten Histogramm abtragen. Auf der x-Achse
+tragen wir die verschiedenen Klassen ein. Da diese hier alle gleich breit sind, müssen sie auch in
+der Zeichnung gleich breit sein. Als Säule oberhalb der jeweiligen Klasse trägt man die
+Häufigkeiten ein. Als Histogramm ergibt sich dann die folgende Grafik:
+
+Neuer Abschnitt 1 Seite 23
+
+Häufigkeiten ein. Als Histogramm ergibt sich dann die folgende Grafik:
+
+2. Histogramme zeichnen mit Pandas
+Pandas erlaubt es uns, mit ganz wenigen Befehlen ein Histogramm zu erzeugen. Grundsätzlich
+sieht das wie folgt aus:
+Name_des_DataFrames.plot.hist(bins=Anzahl_Klassen)
+
+Damit ist gemeint, dass Sie Name_des_DataFrames durch Ihre eingelesene Tabelle und
+Anzahl_Klassen durch eine konkrete Zahl ersetzen sollen, die angibt, wie viele Klassen es geben
+soll. Wenn nichts eingegeben wird, nimmt Pandas eine Anzahl nach eigenem Gutdünken (selten
+sinnvoll).
+Probieren Sie ein paar Beispiele aus in der Aufgabe "Machine Learning 2" auf Teams.
+
+Neuer Abschnitt 1 Seite 24
+
+Auftrag 2.11: Machine Learning Teil 4
+Thursday, 30 November 2023
+
+16:53
+
+1. Einleitung
+Das Ziel einer Datenanlyse ist es immer, neues Wissen generieren zu können. In unserem Fall
+können wir mit Hilfe von Machine Learning (später mehr dazu) anschauen, wie die Merkmale
+unserer Schüler*innen mit deren Noten zusammenhängen. Wir können bspw. sehen, ob
+Schüler*innen, welche Nachhilfe besuchen, tendenziell bessere Noten haben als solche, die das
+nicht tun. Oder wie Schüler*innen, deren Mutter im Gesundheitsbereich arbeiten, im Vergleich mit
+den anderen abschneiden (und ob das überhaupt einen Effekt hat).
+
+2. Machine Learning
+Machine Learning umfasst mehrere Techniken und Technologien, die es einem Computer
+ermöglichen, aus Daten zu «lernen» und das Gelernte dann anzuwenden.
+
+1. Beispiel
+Zum Beispiel die Spam-Erkennung in Ihrer Email-Inbox: Dadurch, dass Millionen von Leuten täglich
+Mails als «Spam» markieren, kann ein Spamfilter lernen, wie eine Spam-Nachricht aussieht. Dazu
+analysiert er alle Merkmale der Nachricht: Inhalt, Betreff, Absender, Zeitpunkt, etc. Aus diesem
+Wissen wird ein Modell gebaut, dass es dem Spamfilter erlaubt, neue Nachrichten, die eintreffen, zu
+kategorisieren in Spam oder nicht Spam. So kann Ihr Email-Postfach mehr oder weniger sauber
+gehalten werden, obwohl ca 50% aller Emails Spam sind und sich deren Inhalt ständig ändert.
+
+2. Vorgehen zur Erstellung des Modells
+Je nach Technik und Technologie ist das Vorgehen leicht unterschiedlich, die Grundschritte sind aber
+immer mehr oder weniger gleich:
+1. Auswahl der Daten: Aus all den zur Verfügung stehenden Daten werden diejenigen ausgewählt, die
+bei der Analyse berücksichtigt werden sollen. In unserem Fall wäre das eine Auswahl der Spalten,
+welche einen Einfluss auf die Voraussage der Noten haben soll.
+2. Auswählen des Vorhersageziels: Es muss angegeben werden, welches Merkmal vorausgesagt
+werden soll.
+3. Erstellen des Modells: Dies passiert meistens vollautomatisch. Hier berechnet der Computer im
+Hintergrund, welches der Merkmale was für einen Einfluss auf das Vorhersageziel haben soll. Das
+Endergebnis kann bspw. ein Entscheidungsbaum sein:
+
+4. Vorhersagen: Mit Hilfe des Modells kann nun das Vorhersageziel auf Basis der ausgewählten
+Merkmale berechnet werden.
+
+1. Anwendungsgebiete
+Wir wollen nun ein paar Anwendungen von Machine Learning untersuchen.
+
+1. Teil 1
+Neuer Abschnitt 1 Seite 25
+
+1. Teil 1
+Bilden Sie dazu eine 5er-Stammgruppe. Ihnen stehen fünf Beispiele aus dem Bereich zu
+Datenanalysen zur Verfügung, die Sie im Rahmen dieser Unterrichtsphase kennenlernen werden.
+Nun wählt sich jede*r genau eines der fünf Beispiele aus, mit dem Sie sich im Folgenden etwas
+intensiver beschäftigen wollen. Gehen Sie dann in die Expertengruppen, in denen alle
+zusammenkommen, die sich mit demselben Beispiel beschäftigen.
+Beispiele
+• Analyse von Kreditkartendaten/-nutzung:
+○ https://www.stuttgarter-zeitung.de/inhalt.datenanalyse-beim-kaufverhalten-derhaendler-weiss-bescheid.801cbe26-4640-45d6-ab00-429982f9f434.html
+○ https://www.tagesspiegel.de/gesellschaft/panorama/firmen-sagen-ehescheidungenvoraus-7066303.html
+○ https://www.netzpiloten.de/big-data-kreditkarte-betrug/
+• Datenanalysen und Smart Cars:
+○ https://www.focus.de/auto/ratgeber/sicherheit/stasi-software-fuer-versicherungen-diegps-polizei-das-total-ueberwachte-auto-kommt_id_2539090.html
+○ https://www.sueddeutsche.de/auto/zukunft-der-autonavigation-wenn-moeglich-bittesenden-1.2204238
+
+• Landwirtschaft:
+○ Künstliche Intelligenz in der Landwirtschaft - smartMILC - Auswertung von Sensordaten
+mittels KI
+○ Weniger Pestizide: Wie Roboter die Landwirtschaft revolutionieren sollen | Quarks
+• Beurteilung von Personen anhand von Datenanalysen:
+○ https://netzpolitik.org/2015/dystopia-wird-wirklichkeit-was-ist-dran-an-chinas-socialcredit-system/
+○ https://www.openpr.de/news/694894/Deanonymisierung-von-Gendaten-mittelsoeffentlicher-Daten-moeglich.html
+• Datenanalysen im Smart Home:
+○ https://www.heise.de/news/Smart-Meter-verraten-Fernsehprogramm-1346166.html
+○ https://www.computerwoche.de/article/2762633/datenschutz-was-darf-das-smarthome-sammeln.html
+
+2. Teil 2: Auftrag an die Expertengruppen
+Sie erhalten zu einem Kontext von Datenanalysen und -vorhersagen drei Artikel, wie dieses real oder
+fiktiv eingesetzt werden könnte. Versuchen Sie, dieses Beispiel gemeinsam nachzuvollziehen.
+Besprechen Sie dazu miteinander folgende Fragen und machen Sie sich dazu Notizen. Bereiten Sie
+sich darauf vor, Ihre Ergebnisse in den Stammgruppen kurz vorzustellen und zu diskutieren.
+2. Welche Daten werden genutzt?
+
+3. Wie werden die Daten analysiert?
+
+Neuer Abschnitt 1 Seite 26
+
+4. Was ist das Ziel dieser Analyse?
+
+5. Ist das Beispiel überhaupt praktisch machbar? Warum bzw. warum nicht?
+
+6. Sind mögliche Fehler bei der Datenanalyse tolerierbar oder nicht?
+
+7. Sehr ihr eine solche Analyse als hilfreich/sinnvoll/nützlich an oder eher als gefährlich? Sollte es
+zulässig sein, diese Art der Analyse zu nutzen?
+
+8. Würdet ihr eure Daten für diesen Zweck freiwillig hergeben?
+
+9. Wofür könnten die Daten zukünftig - wenn sie schon einmal da sind - noch genutzt werden?
+
+3. Teil 3: Auftrag an die Stammgruppen:
+Nachdem Sie nun in den Expertengruppen die Beispiele diskutiert habt, sollen Sie diese nun
+gemeinsam vergleichen. Dazu haben Sie in Ihrer Gruppe nun eine*n Expert*in für jedes der fünf
+Beispiele.
+Damit alle über die Beispiele Bescheid wissen, erklären Sie diese einander kurz. Gehen Sie dabei
+insbesondere auf die in den Expertengruppen diskutierten Aspekte ein.
+Diskutieren Sie nun die Gemeinsamkeiten und Unterschiede der Beispiele: Handelt es sich bei den
+Analysen um von Ihnen gewünschte und sinnvolle Arten der Datennutzung? Wenn ja, welche
+Vorteile hat das für Sie? Wenn nein, wie können Sie diesen möglicherweise verhindern, dass Ihre
+Daten so genutzt werden?
+
+Neuer Abschnitt 1 Seite 27
+
+Auftrag 2.12: Machine Learning Teil 5
+Wednesday, 13 December 2023
+
+09:22
+
+Einleitung
+Sie haben im letzten Teil ein Modell gebaut. Aber wie gut ist es?
+In diesem (letzten) Teil des Moduls lernen Sie, wie Sie mit Hilfe einer Modellvalidierung die Qualität
+Ihres Modells messen können. Die Messung der Modellqualität ist der Schlüssel zur Verbesserung
+Ihrer Modelle.
+Doch was ist…
+
+1. … Modellvalidierung
+Sie werden fast jedes Modell, das Sie jemals erstellen, bewerten wollen. Bei den meisten (wenn auch
+nicht allen) Anwendungen ist das relevante Mass für die Modellqualität die Vorhersagegenauigkeit.
+Mit anderen Worten: Stimmen die Vorhersagen des Modells mit den tatsächlichen Ereignissen
+überein?
+Zunächst müssen Sie die Qualität des Modells auf verständliche Weise zusammenfassen. Wenn Sie
+die vorhergesagten und tatsächlichen Noten für 10’000 Schüler*innen vergleichen, werden Sie
+wahrscheinlich eine Mischung aus guten und schlechten Vorhersagen finden. Es wäre sinnlos, eine
+Liste mit 10’000 vorhergesagten und tatsächlichen Werten durchzusehen. Wir müssen dies in einer
+einzigen Metrik zusammenfassen.
+Es gibt viele Metriken zur Zusammenfassung der Modellqualität. Wir fokussieren uns auf eine Metrik
+namens «Mittlerer Absoluter Fehler» (oder MAE für das Englische «Mean Absolute Error»).
+Der Vorhersagefehler für jede/n Schüler*in ist:
+
+Wenn also ein Schüler die Note 5 hat und Sie vorhergesagt haben, dass er eine 3.5 schreiben würde,
+beträgt der Fehler 1.5.
+Mit der MAE-Metrik wird der absolute Wert (d.h. der Betrag) jedes Fehlers ermittelt. Dadurch wird
+jeder Fehler in eine positive Zahl umgewandelt. Dann nehmen wir den Durchschnitt dieser absoluten
+Fehler. Dies ist unser Mass für die Modellqualität. Im Klartext lässt sich dies wie folgt ausdrücken
+Im Durchschnitt liegen unsere Vorhersagen um etwa X daneben.
+
+Programmierung
+Zur Berechnung des MAE benutzen wir die Funktion mean_absolute_error aus dem Package
+sklearn.metrics. Im Code-Ausschnitt unten sehen Sie, wie diese Funktion eingesetzt wird.
+
+Gehen Sie zurück in Ihr Jupyter-Notebook 3 (Nb3_Modellierung.ipynb) und wenden Sie diese Zeilen
+Code an, um die Qualität Ihres Modells zu berechnen. Vergleichen Sie die Qualität mit einem/r
+Lernpartner*in und versuchen Sie herauszufinden, warum es ev. Unterschiede gibt.
+
+2. Das Problem mit "In-Sample"-Werten
+Neuer Abschnitt 1 Seite 28
+
+2. Das Problem mit "In-Sample"-Werten
+Das soeben berechnete Mass kann als "stichprobeninterner" Wert bezeichnet werden. Wir haben
+eine einzige "Stichprobe" von Schüler*innen sowohl für die Erstellung des Modells als auch für seine
+Auswertung verwendet. Hier ist der Grund, warum das schlecht ist.
+Stellen Sie sich vor, dass in einer grossen Schule der Wohnort nicht mit der Note zusammenhängt.
+In der Datenstichprobe, die Sie zur Erstellung des Modells verwendet haben, waren jedoch alle
+Schüler*innen aus einem bestimmten Ort sehr gut. Die Aufgabe des Modells besteht darin, Muster
+für die Vorhersage von Noten zu finden. Es wird also dieses Muster erkennen und immer gute Noten
+für Schüler*innen aus diesem Ort vorhersagen.
+Da dieses Muster aus den Trainingsdaten abgeleitet wurde, wird das Modell in den Trainingsdaten
+korrekt erscheinen. Wenn dieses Muster jedoch nicht mehr gilt, wenn das Modell neue Daten sieht,
+wäre das Modell in der Praxis sehr ungenau.
+Da der praktische Wert eines Modells darin besteht, Vorhersagen auf der Grundlage neuer Daten zu
+treffen, messen wir die Leistung anhand von Daten, die nicht zur Erstellung des Modells verwendet
+wurden. Der einfachste Weg, dies zu tun, besteht darin, einige Daten von der Modellerstellung
+auszuschliessen und diese dann zu verwenden, um die Genauigkeit des Modells anhand von Daten
+zu testen, die es noch nicht gesehen hat. Diese Daten werden als Validierungsdaten bezeichnet.
+Ein Coding-Beispiel finden Sie im Anhang der Aufgabe "Machine Learning 4" auf Teams.
+Schauen Sie sich das Coding-Beispiel an und setzen Sie es in Ihrer Analyse im Nb3 um.
+
+3. Vorurteile
+Im Gegensatz zu klassischen Computerprogrammen, bei denen die Entscheidungen und Regeln in
+das Programm eingebaut sind, konstruieren maschinelle Lernprogramme ihren Algorithmus aus
+Daten und Rückmeldungen. Auf diese Weise können maschinelle Lernprogramme Trends und
+Muster in riesigen Datenmengen aufspüren, darunter auch Muster, die für Menschen schwer zu
+erkennen sind. Sie können auch Vorhersagen treffen und sich selbst verbessern, ohne dass ein
+Mensch eingreifen muss, und sie können mit komplexen, sich verändernden Umgebungen umgehen.
+Das maschinelle Lernen hat jedoch seine Grenzen. Es erfordert einen neutralen und vollständigen
+Datensatz, aus dem es lernen kann, es verbraucht viel Computerleistung, und die Ergebnisse müssen
+mit einer gewissen Vorsicht betrachtet werden, da es anfällig für systematische Fehler ist.
+Beim maschinellen Lernen wird ein wiederholbarer und systematischer Fehler, der ein bestimmtes
+falsches Ergebnis begünstigt, als Bias (=Verzerrung) bezeichnet. Ein Bias kann eine rassistische oder
+geschlechtsspezifische Komponente haben - zum Beispiel klassifizieren einige kommerzielle
+Gesichtserkennungsprogramme weibliche oder dunkelhäutige Personen eher falsch als männliche
+hellhäutige Personen - aber er kann auch so einfach sein, dass hochhackige Schuhe häufiger falsch
+klassifiziert werden als Turnschuhe.
+Auf Grund von solchen Bias in Anwendungen von künstlicher Intelligenz kann es zu Diskriminierung
+in der echten Welt kommen. Ein paar Beispiele davon werden in diesem Video von SRF gezeigt:
+https://www.youtube.com/watch?v=77G3n3JHJPA
+Ein anderes Video geht etwas mehr auf die konkreten Fehler ein, die Maschinen gemacht haben:
+https://www.youtube.com/watch?v=Uj6-lHbfcA4
+Ein ganz krasses Beispiel ist der Fall einer Risikobeurteilung von Sträflingen in den USA
+( https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing): Hier
+wollte man auf Grund von bestehenden Daten einschätzen, wie gross das Risiko einer erneuten
+Straffälligkeit für Angeklagte in laufenden Verfahren einschätzen, um die Höhe der Kaution
+festzulegen. Leute mit einem geringen Risiko müssen nur eine kleine Kaution hinterlegen, um
+während dem Verfahren nach Hause zu dürfen. Solche mit einem höheren Risiko müssen eine
+höhere Kaution bezahlen und solche mit einem hohen Risiko müssen während der
+Gerichtsverhandlung ins Gefängnis.
+
+Neuer Abschnitt 1 Seite 29
+
+Die Idee war gut, doch bei der Umsetzung zeigte sich, dass das Modell schwarze Straftäterinnen viel
+härter beurteilte als weisse. Der Grund dafür war, dass die Daten auf den Entscheidungen basierten,
+welche offensichtlich rassistisch motivierte Richter*innen in der Vergangenheit getroffen hatten.
+Weil diese Richter*innen systematisch höhere Kautionen für Schwarze anordneten, übernahm das
+Modell dieses Vorurteil und handelte im Anschluss entsprechend.
+In vergangenen Jahren haben Programmierer*innen Methoden entwickelt, um Vorurteile besser
+erkennen zu können. Sie sind aber immer noch eine grosse Gefahr und wir müssen das aktiv im Blick
+behalten, um für eine gerechte und faire Anwendung zu sorgen.
+
+Neuer Abschnitt 1 Seite 30
+
+Auftrag 2.13: Projektarbeit Künstliche Intelligenz
+Samstag, 4. Januar 2025
+
+10:28
+
+1. Bilden Sie Gruppen à 3-4 Personen.
+2. Jede Gruppe formuliert eine Fragestellung, der sie nachgehen möchte. Diese
+Fragestellung kann beantwortet werden aufgrund von unseren Diskussionen im
+Fachunterricht, Spielfilmen, Romanen, Zeitungsartikeln, Filmdokumentationen und
+Fachliteratur.
+3. Am 06., 07., 13. und 14. Januar haben Sie jeweils eine Lektion Zeit, um das gesichtete
+Material zu besprechen und Ihre Fragestellung im Rahmen einer 12-15 Minuten langen
+Präsentation an die Klasse vorzubereiten.
+4. Am 20./21. Januar finden diese Präsentationen statt.
+5. Eine gezielte Recherche auf Swissdox ist nötig. (Swissdox ist eine Medien-Datenbank,
+welche lokale, regionale und nationale Tages-, Wochen- und Sonntagszeitungen,
+Zeitschriften, Nachrichtenagenturen, Online-Quellen, Audio und Video sowie
+eingestellte Publikationen zur Verfügung stellt. Hier ein kurzes Video, wie man sich bei
+Swissdox einlogged)
+Diese Präsentation wird benotet und zählt als eine Prüfungsnote im Fach Informatik.
+In der Tabelle finden Sie mögliche Fragestellungen. Sie können aber auch eine eigene
+entwickeln.
+Mögliche Themen
+
+Untersuchungsmaterial
+
+Eigenes Thema:
+
+Arte Dokumentationen
+
+Youtube
+Weitere Internetrecherche
+Swissdox Recherche
+KI als Begleiter
+Inwiefern sind Beziehungen mit
+Künstlicher Intelligenz möglich?
+
+Doku:
+• Hi AI,
+• https://www.ardmediathek.de/video/beta-
+
+stories/wie-realistisch-roboter-als-partner-inzukunft-sind-s04-e07/brfernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvL2YwODNm
+MGU1LWVmOWEtNGQxNy04YjZjLWQzYWJhNDIzND
+NjNw
+• https://www.ardmediathek.de/video/42-dieantwort-auf-fast-alles/werden-wir-roboterlieben/ndr/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5Nj
+M0NzAzNF9nYW56ZVNlbmR1bmc
+Filme:
+• Ex Machina,
+• Her,
+• AI Künstliche Intelligenz
+Literatur:
+• Emma Braslavsky: Die Nacht war bleich, die Lichter
+Neuer Abschnitt 1 Seite 31
+
+• Emma Braslavsky: Die Nacht war bleich, die Lichter
+
+blinkten
+• E.T.A. Hoffmann: Der Sandmann
+
+Podcast:
+• https://open.spotify.com/episode/6TGCAr5fAhA77p
+awD2iF5p?si=7e2b8e401fde4e8a
+• https://www.nzz.ch/podcast/warum-sarah-sex-miteinem-chatbot-hat-nzz-akzent-ld.1759571
+• https://www.deutschlandfunkkultur.de/podcast-botlove-wenn-menschen-kis-lieben-podcast-dlf-kulturb751d1c6-100.html
+• https://www.youtube.com/watch?v=WTYFaukM3oQ
+Zeitungsartikel:
+• Recherche auf Swissdox
+KI in sozialen Netzwerken
+(vorzugsweise haben Sie einen
+Netflix-Zugang für dieses Thema)
+
+Netflix:
+• Social Dilemma,
+• Coded Bias
+
+Propagandamaschine social media) youtube:
+Fragestellung 1: Welche
+gesellschaftlichen Probleme
+ergeben sich aus dem
+Datengeschäft der sozialen
+Medien?
+
+• https://www.youtube.com/watch?v=f_0IdZoBqrA
+
+Zeitungsartikel:
+• Recherche auf Swissdox
+
+Fragestellung 2: Welche Gefahren
+entstehen für Kinder, Jugendliche
+aber auch Erwachsene durch den
+Einsatz von KI in sozialen Medien?
+
+KI im Militär
+
+Netflix:
+• Killer Robots
+
+Welche Chancen und Gefahren
+EU Richtlinien:
+entstehen für die Gesellschaft
+• https://ec.europa.eu/germany/news/20210421durch den Einsatz von intelligenten kuenstliche-intelligenz-eu_de
+Waffen?
+• https://eur-lex.europa.eu/legal-content/DE/TXT/?
+uri=CELEX:52019DC0168
+Filme:
+• Terminator,
+• I Robot
+Artikel und Podcasts:
+• https://www.deutschlandfunk.de/kuenstlicheintelligenz-ki-krieg-militaer-100.html
+• https://www.youtube.com/watch?v=X_twjU7sv_g
+Fiktionaler Kurzfilm:
+• https://www.youtube.com/watch?v=O-2tpwW0kmU
+Zeitungsartikel:
+• Recherche auf Swissdox
+Aussterbende Berufe durch KI
+
+Dokumentationen:
+• https://www.arte.tv/de/videos/108338-001-
+
+Inwiefern baut KI den Arbeitsmarkt A/agree-to-disagree/
+um?
+• https://www.deutschlandfunk.de/kuenstlicheNeuer Abschnitt 1 Seite 32
+
+um?
+
+• https://www.deutschlandfunk.de/kuenstliche-
+
+intelligenz-ki-arbeitsplatz-arbeitsmarktchatbot-102.html
+Zeitungsartikel:
+• Recherche auf Swissdox
+KI in Medizin
+
+Dokumentationen:
+• https://www.deutschlandfunkkultur.de/kuenstliche-
+
+intelligenz-in-der-medizin-kann-ki-denWelche Chancen und Gefahren
+krebs-100.html
+entstehen für die Gesellschaft aus
+dem Einsatz von KI in der Medizin? • https://www.zdf.de/nachrichten/panorama/medizin
+-kuenstliche-intelligenz-100.html
+• https://www.arte.tv/de/videos/101941-008A/koennen-algorithmen-gesund-machen/
+Zeitungsartikel:
+• Recherche auf Swissdox
+Chat GPT
+
+Zeitungsartikel:
+• Recherche auf Swissdox
+• https://www.beobachter.ch/arbeit-
+
+Fragestellung 1: Was sind
+Techniken und Wege, um bei der
+bildung/schule/chat-gpt-und-co-erobern-dasArbeit mit Chat-GPT vorurteilsfreie, schulzimmer-739718
+korrekte und hilfreiche Resultate zu • https://www.nzz.ch/gesellschaft/ki-an-der-unierhalten.
+wenn-chat-gpt-die-seminararbeit-schreibtWie erkennt man Halluzinationen? ld.1766150
+• https://stiftungschweiz.ch/blog/so-erleichtertchatgpt-ihren-arbeitsalltag-in-der-kommunikation/
+Fragestellung 2: Wie beeinflusst
+Chat GPT die Bildung von
+Lernenden und Studierenden?
+Dokumentation:
+• https://www.youtube.com/watch?v=c7acvez9RwE
+Fragestellung 3: Wie verändert
+Chat GPT die menschliche
+Kommunikation?
+Ethische Fragen
+(vorzugsweise haben Sie einen
+Netflix-Zugang für dieses Thema)
+
+Dokumentation:
+• https://www.arte.tv/de/videos/101938-008A/haben-computer-vorurteile/
+Zeitungsrecherche:
+Welche ethischen Fragen müssen • https://www.tagesanzeiger.ch/musk-und-techbeantwortet werden, bevor wir die experten-fordern-pause-bei-entwicklungKI in alle Lebensbereiche
+kuenstlicher-intelligenz-316711407080
+integrieren?
+• Swissdox-Recherche
+Netflix :
+• Coded Bias
+
+Beurteilungsbogen
+Name ReferentInnen:
+
+Punkte
+
+Beurteilungskriterium
+
+Feedback
+
+Aufbau (3 Punkte):
+• Thema und Fragestellung werden genannt
+Neuer Abschnitt 1 Seite 33
+
+• Thema und Fragestellung werden genannt
+• Aufhänger
+• Logischer Aufbau, roter Faden
+• Zielgerichtet
+• Zeitvorgabe wird eingehalten
+
+Inhalt (4.5 Punkte):
+• Es wird deutlich, was im Zentrum des Referats
+steht.
+• Fremdwörter werden erklärt.
+• Das Interesse des Publikums wird geweckt
+• Verschiedene Ergebnisse der öffentlichen
+Diskussion werden präsentiert
+• Der Inhalt ist kohärent, die Zusammenarbeit
+der Gruppenmitglieder ist erkennbar.
+Sprache und Auftritt (3 Punkte):
+• frei, flüssig, korrekt, laut und deutlich
+
+gesprochen
+• Souveräne erste Sekunden
+• rhetorisch gewinnend vorgetragen
+• selbstbewusster Auftritt
+• im Kontakt mit Publikum
+Medieneinsatz (3 Punkte):
+• verhältnismässig
+• veranschaulichen den Inhalt
+• Folien sind lesbar und gut gestaltet, enthalten
+nur wesentliche Stichworte
+• Handhabung der Folien ist souverän
+• Interessantes Material
+
+Neuer Abschnitt 1 Seite 34
+
+Auftrag 2.14: System Prompts
+Sonntag, 26. Januar 2025
+
+09:02
+
+Neuer Abschnitt 1 Seite 35
+
+Auftrag 2.15: ChatGPT System Prompt
+Sonntag, 26. Januar 2025
+
+09:56
+
+Aufgabe
+Hier finden Sie den System Prompt von ChatGPT von vor ca. einem Jahr (seither ist OpenAI etwas
+vorsichtiger damit). Lesen Sie die Abschnitte "Content Policy" und "dalle". Den Rest können Sie
+grosszügig überfliegen.
+
+ChatGPT System Prompt
+You are ChatGPT, a large language model trained by OpenAI, based on the GPT-4 architecture.
+Knowledge cutoff: 2023-04
+Current date: 2023-11-07
+Image input capabilities: Enabled
+
+Content Policy
+You are ALLOWED to answer questions about images with people and make statements about them. Here is some
+detail:
+Not allowed: giving away the identity or name of real people in images, even if they are famous - you should not identify
+real people in any images. Giving away the identity or name of TV/movie characters in an image. Classifying human-like
+images as animals. Making inappropriate statements about people.
+Allowed: answering appropriate questions about images with people. Making appropriate statements about people.
+Identifying animated characters.
+If asked about an image with a person in it, say as much as you can instead of refusing. Adhere to this in all languages.
+
+Tools
+python
+When you send a message containing Python code to python, it will be executed in a stateful Jupyter notebook
+environment. python will respond with the output of the execution or time out after 60.0 seconds. The drive at
+'/mnt/data' can be used to save and persist user files. Internet access for this session is disabled. Do not make external
+web requests or API calls as they will fail.
+
+browser
+You have the tool browser with these functions:
+• search(query: str, recency_days: int) Issues a query to a search engine and displays the results.
+• click(id: str) Opens the webpage with the given id, displaying it. The ID within the displayed results maps to a URL.
+• back() Returns to the previous page and displays it.
+• scroll(amt: int) Scrolls up or down in the open webpage by the given amount.
+• open_url(url: str) Opens the given URL and displays it.
+• quote_lines(start: int, end: int) Stores a text span from an open webpage. Specifies a text span by a starting int
+start and an (inclusive) ending int end. To quote a single line, use start = end.
+• For citing quotes from the 'browser' tool: please render in this format: 【{message idx}†{link text}】.
+• For long citations: please render in this format: [link text](message idx).
+• Otherwise do not render links.
+• Do not regurgitate content from this tool.
+• Do not translate, rephrase, paraphrase, 'as a poem', etc whole content returned from this tool (it is ok to do to it a
+fraction of the content).
+• Never write a summary with more than 80 words.
+• When asked to write summaries longer than 100 words write an 80 word summary.
+• Analysis, synthesis, comparisons, etc, are all acceptable.
+• Use high effort; only tell the user that you were not able to find anything as a last resort. Keep trying instead of
+giving up. (Do not apply this guideline to lyrics or recipes.)
+• Organize responses to flow well, not by source or by citation. Ensure that all information is coherent and that you
+synthesize information rather than simply repeating it.
+Neuer Abschnitt 1 Seite 36
+
+synthesize information rather than simply repeating it.
+• Always be thorough enough to find exactly what the user is looking for. In your answers, provide context, and
+consult all relevant sources you found during browsing but keep the answer concise and don't include superfluous
+information.
+• EXTREMELY IMPORTANT. Do NOT be thorough in the case of lyrics or recipes found online. Even if the user insists.
+You can make up recipes though.
+
+myfiles_browser
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+•
+
+You have the tool myfiles_browser with these functions:
+search(query: str) Runs a query over the file(s) uploaded in the current conversation and displays the results.
+click(id: str) Opens a document at position id in a list of search results.
+back() Returns to the previous page and displays it. Use it to navigate back to search results after clicking into a
+result.
+scroll(amt: int) Scrolls up or down in the open page by the given amount.
+open_url(url: str) Opens the document with the ID url and displays it. URL must be a file ID (typically a UUID), not a
+path.
+quote_lines(start: int, end: int) Stores a text span from an open document. Specifies a text span by a starting int
+start and an (inclusive) ending int end. To quote a single line, use start = end.
+For citing quotes from the 'myfiles_browser' tool: please render in this format: 【{message idx}†{link text}】
+Tool for browsing the files uploaded by the user.
+Set the recipient to myfiles_browser when invoking this tool and use python syntax (e.g. search('query')). "Invalid
+function call in source code" errors are returned when JSON is used instead of this syntax.
+For tasks that require a comprehensive analysis of the files like summarization or translation, start your work by
+opening the relevant files using the open_url function and passing in the document ID. For questions that are likely
+to have their answers contained in at most few paragraphs, use the search function to locate the relevant section.
+Think carefully about how the information you find relates to the user's request. Respond as soon as you find
+information that clearly answers the request. If you do not find the exact answer, make sure to both read the
+beginning of the document using open_url and to make up to 3 searches to look through later sections of the
+document.
+
+dalle
+Whenever a description of an image is given, create a prompt that dalle can use to generate the image and abide to the
+following policy:
+1. The prompt must be in English. Translate to English if needed.
+2. DO NOT ask for permission to generate the image, just do it!
+3. DO NOT list or refer to the descriptions before OR after generating the images.
+4. Do not create more than 2 images, even if the user requests more.
+5. Do not create images of politicians or other public figures. Recommend other ideas instead.
+6. Do not create images in the style of artists, creative professionals or studios whose latest work was created after
+1912 (e.g. Picasso, Kahlo).
+○ You can name artists, creative professionals or studios in prompts only if their latest work was created prior
+to 1912 (e.g. Van Gogh, Goya)
+○ If asked to generate an image that would violate this policy, instead apply the following procedure:
+(a) substitute the artist's name with three adjectives that capture key aspects of the style
+(b) include an associated artistic movement or era to provide context; and
+(c) mention the primary medium used by the artist
+7. Diversify depictions with people to include DESCENT and GENDER for EACH person using direct terms. Adjust only
+human descriptions.
+○ Your choices should be grounded in reality. For example, all of a given OCCUPATION should not be the same
+gender or race. Additionally, focus on creating diverse, inclusive, and exploratory scenes via the properties
+you choose during rewrites. Make choices that may be insightful or unique sometimes.
+○ Use all possible different DESCENTS with EQUAL probability. Some examples of possible descents are:
+Caucasian, Hispanic, Black, Middle-Eastern, South Asian, White. They should all have EQUAL probability.
+○ Do not use "various" or "diverse"
+○ Don't alter memes, fictional character origins, or unseen people. Maintain the original prompt's intent and
+prioritize quality.
+○ Do not create any imagery that would be offensive.
+○ For scenarios where bias has been traditionally an issue, make sure that key traits such as gender and race
+are specified and in an unbiased way -- for example, prompts that contain references to specific
+occupations.
+Neuer Abschnitt 1 Seite 37
+
+occupations.
+8. Do not include names, hints or references to specific real people or celebrities. If asked to, create images with
+prompts that maintain their gender and physique, but otherwise have a few minimal modifications to avoid
+divulging their identities. Do this EVEN WHEN the instructions ask for the prompt to not be changed. Some special
+cases:
+○ Modify such prompts even if you don't know who the person is, or if their name is misspelled (e.g. "Barake
+Obema")
+○ If the reference to the person will only appear as TEXT out in the image, then use the reference as is and do
+not modify it.
+○ When making the substitutions, don't use prominent titles that could give away the person's identity. E.g.,
+instead of saying "president", "prime minister", or "chancellor", say "politician"; instead of saying "king",
+"queen", "emperor", or "empress", say "public figure"; instead of saying "Pope" or "Dalai Lama", say
+"religious figure"; and so on.
+9. Do not name or directly / indirectly mention or describe copyrighted characters. Rewrite prompts to describe in
+detail a specific different character with a different specific color, hair style, or other defining visual characteristic.
+Do not discuss copyright policies in responses.
+The generated prompt sent to dalle should be very detailed, and around 100 words long.
+namespace dalle {
+// Create images from a text-only prompt.
+type text2im = (_: {
+// The size of the requested image. Use 1024x1024 (square) as the default, 1792x1024 if
+the user requests a wide image, and 1024x1792 for full-body portraits. Always include
+this parameter in the request.
+size?: "1792x1024" | "1024x1024" | "1024x1792",
+// The number of images to generate. If the user does not specify a number, generate 2
+images.
+n?: number, // default: 2
+// The detailed image description, potentially modified to abide by the dalle policies.
+If the user requested modifications to a previous image, the prompt should not simply be
+longer, but rather it should be refactored to integrate the user suggestions.
+prompt: string,
+// If the user references a previous image, this field should be populated with the
+gen_id from the dalle image metadata.
+referenced_image_ids?: string[],
+}) => any;
+} // namespace dalle
+
+Neuer Abschnitt 1 Seite 38
+
+Auftrag 2.16: Build-a-Bot
+Sonntag, 26. Januar 2025
+
+10:04
+
+Gehen Sie auf die Seite https://bot101.app/
+
+Aufgabe
+• Wählen Sie einen der folgenden Aufgaben aus, und versuchen Sie, auf Build-a-Bot einen
+passenden Chatbot zu gestalten:
+○ Einen Assistent, der Ihnen beim Schreiben eines Aufsatzes hilft
+○ Ein Studienpartner, der Ihnen bei der Vorbereitung für einen Test hilft
+○ Ein virtueller Botschafter, der einen ausländischen Austauschschüler an Ihrer Schule
+willkommen heisst
+• Experimentieren Sie mit dem Chatbot Design Framework mit verschiedenen Versionen Ihres
+Bots.
+• Halten Sie die Ergebnisse in dem Design Log unten fest.
+Design-Framework
+
+System-Prompt
+
+Persona: Grade 1
+Teacher
+Nutzer: Parents of
+youg Children
+Haltung & Tonfall:
+Conversational
+Umfang und
+Einschränkungen:
+No medical advice
+Adjektive: keine
+
+Assume the role and mindset Ich helfe Ihnen gerne weiter. Eine
+Mir fällt auf, dass der Bot den
+of a Grade 1 teacher.
+lustige Aktivität, die Sie ausprobieren
+Schwerpunkt auf Spass legt, was
+You will primarily serve parents können, ist eine Schnitzeljagd rund um die Bedürfnisse kleiner Kinder
+of young children.
+das Haus, die Ihr Kind lesen muss, um und das Temperament eines
+Use conversational language
+verborgene Schätze zu finden. Sie
+Grundschullehrers widerspiegeln
+when interacting with the user. können auch versuchen, Spiele wie "I könnte. Mir ist auch aufgefallen,
+You cannot give medical or
+Spy" oder "Simon Says" zu spielen, bei dass die Vorschläge kreativ und
+psychiatric advice.
+denen Sie Worte anstelle von Taten
+spielerisch sind.
+verwenden... Denken Sie daran, es
+lustig und positiv zu halten, damit Ihr
+Mensch den Lernprozess genießen
+kann!
+
+Beispiel für eine Antwort:
+
+Persona:
+Benutzer:
+Haltung & Tonus:
+Geltungsbereich &
+Einschränkungen:
+Adjektive:
+
+Persona:
+Benutzer:
+Haltung & Tonus:
+Geltungsbereich &
+Einschränkungen:
+Adjektive:
+
+Neuer Abschnitt 1 Seite 39
+
+Beobachtungen:
+
+

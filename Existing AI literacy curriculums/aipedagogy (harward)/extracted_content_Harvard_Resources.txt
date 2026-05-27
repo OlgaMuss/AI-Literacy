@@ -1,0 +1,510 @@
+AI Guide
+
+External
+Resources
+
+AI GUIDE
+LLM Tutorial
+PART 1: AI STARTER
+What is AI?
+Foundations of
+Generative AI
+Teaching With AI
+Key Terms
+PART 2: EXPLORE LLMS
+Compare LLMs
+Configure LLMs
+PART 3: RESOURCES
+External Resources
+Sample AI Code of
+Conduct
+
+The resources
+below are just a
+starting place and
+not intended to
+represent the full
+breadth or depth of
+this rapidly evolving
+field. We encourage
+you to conduct your
+own research,
+question critically,
+and share what you
+discover.
+I’m new to AI and I’d
+love to learn more.
+Where might I
+start?
+A People’s
+Guide to AI, a
+workbook we
+like by Mimi
+Onuoha and
+Mother
+
+Cyborg,
+published by
+Allied Media
+Projects
+Generative AI
+Primer, an
+accessible
+overview of
+Generative AI
+topics and
+tools,
+published by
+the National
+Centre for AI, a
+nonprofit in
+the UK
+Large
+language
+models,
+explained with
+a minimum of
+math and
+jargon, an
+accessible and
+in-depth
+article by
+Timothy B Lee
+and Sean Trott
+Models All the
+Way Down, an
+introduction
+and
+investigation
+
+into AI training
+data sets by
+Knowing
+Machines
+In terms of
+classroom and
+university policies,
+what have others
+done? Are there
+precedents I can
+review?
+Proposed
+Harvard AI
+Code of
+Conduct, a
+proposed code
+of conduct
+written
+collaboratively
+between
+students and
+educators at
+Harvard, led by
+metaLAB (at)
+Harvard
+Syllabi Policies
+for AI
+Generative
+Tools, a
+collection of
+university and
+course AI
+policies,
+
+curated by
+Lance Eaton
+AI Detection
+Tools Falsely
+Accuse
+International
+Students
+of Cheating, by
+Tara García
+Mathewson,
+The Markup, a
+recent article
+describing one
+of many
+drawbacks and
+risks of AI
+detection tools
+(which we at
+AIPP oppose)
+I’m a high school
+teacher. Are there
+resources
+specifically for me?
+The AI
+Education
+Project has
+lesson plans
+ranging from 5
+min warmups
+to full day
+projects on a
+range of
+topics, all
+
+created
+specifically for
+high school
+students.
+AI Literacy
+Lessons for
+Grades 6–12
+from Common
+Sense includes
+8 short lessons
+introducing AI.
+AI Resources
+from
+Stanford’s
+CRAFT include
+a collection of
+45-60 minute
+lessons for
+high school
+students on
+key topics,
+including
+algorithmic
+bias and
+privacy.
+AI4ALL has indepth lesson
+plans on a
+variety of
+topics, each
+with a
+comprehensive
+teaching
+
+guide.
+MIT RAISE’s
+DAILy
+Workshop
+provides
+visual, handson activities
+that help
+explain more
+technical
+topics related
+to AI. Although
+designed for
+middle school
+students,
+these activities
+are engaging
+and go into
+impressive
+depth.
+Who are some
+people writing
+about these topics?
+Who might I follow
+online?
+Reflecting
+Allowed, Maha
+Bali
+One Useful
+Thing, Ethan
+Mollick
+AI and
+
+Academia,
+Bryan
+Alexander
+Teaching AI
+Ethics, Leon
+Furze
+Rhetorica,
+Marc Watkins
+Cybernetic
+Forests, Eryk
+Salvaggio
+AI + Education
+= Simplified,
+Lance Eaton
+AI: A Guide for
+Thinking
+Humans,
+Melanie
+Mitchell
+What are some
+related Initiatives?
+101 Creative
+Ideas to Use AI
+in Education,
+an open
+access book of
+crowdsourced
+lessons from
+educators in
+nineteen
+
+countries,
+edited by
+Chrissi
+Nerantzi,
+Sandra
+Abegglen,
+Marianna
+Karatsiori, and
+Antonio
+MartínezArboleda
+Stanford
+CRAFT, a
+collection of
+resources for
+high school
+teachers from
+the Stanford
+Graduate
+School of
+Education
+AI Text
+Generators
+and Teaching
+Writing:
+Starting Points
+for Inquiry,
+compiled by
+Anna Mills for
+the Writing
+Across the
+Curriculum
+Clearinghouse
+
+Critical AI
+Literacy for
+Educators, a
+curated
+resource list
+by Katie
+Conrad and
+Sean
+Kamperman
+Learn With AI,
+a growing
+collection of
+resources from
+the University
+of
+Maine’s Center
+for Innovation
+in Teaching
+and Learning,
+created by Jon
+Ippolito
+Welcome to
+the machine:
+Generative AI
+& higher
+education: a
+selective guide
+to resources,
+by Dr. Perry
+Share
+AI Literacy
+Lessons, a free
+introductory
+
+course on AI
+that helps
+address its
+social and
+ethical impacts
+Where can I learn
+more about how AI
+relates to bias and
+discrimination,
+environmental
+impacts, privacy
+and surveillance,
+worker exploitation,
+misinformation,
+etc.? (there are
+many more; here are
+a few to start with!)
+On the
+Dangers of
+Stochastic
+Parrots: Can
+Language
+Models Be Too
+Big?, by Timnit
+Gebru, Emily
+M. Bender,
+Angelina
+McMillanMajor, and
+Margaret
+Mitchell
+A misleading
+open letter
+
+about sci-fi AI
+dangers
+ignores the
+real risks, by
+Arvind
+Narayanan and
+Sayash Kapoor
+Statement
+from the listed
+authors of
+Stochastic
+Parrots on the
+“AI pause”
+letter, by
+Timnit Gebru,
+Emily M.
+Bender,
+Angelina
+McMillanMajor, and
+Margaret
+Mitchell
+OpenAI Used
+Kenyan
+Workers on
+Less Than $2
+Per Hour to
+Make ChatGPT
+Less Toxic, by
+Billy Perrigo,
+TIME
+AI Snake Oil,
+by Arvind
+
+Narayanan and
+Sayash
+Kapoor, a
+terrific
+substack on a
+range of AI
+topics that
+helps to
+demystify the
+(continuous) AI
+hype
+How should my
+students cite their
+use of these tools?
+How to cite
+ChatGPT, by
+Timothy
+McAdoo, APA
+Style, April 7,
+2023
+How do I cite
+generative AI
+in MLA style?,
+by MLA, March
+17, 2023
+Citing and
+referencing:
+Generative AI,
+by Monash
+University
+Library
+Acknowledgin
+
+g the use of
+generative
+artificial
+intelligence, by
+Monash
+University
+Are there online
+communities to
+discuss these
+topics?
+Higher Ed
+discussions of
+AI writing &
+use (Facebook)
+ChatGPT
+(Zotero)
+AI & Education
+Google Group
+Artificial
+Intelligence in
+Education
+LinkedIn
+Group
+The AI
+Classroom
+Facebook
+Group
+Wait, there’s
+(much!) more. For
+an extensive,
+
+crowdsourced
+resource list, we
+recommend “AI Text
+Generators: Sources
+to Stimulate
+Discussion Among
+Teachers” compiled
+by Anna Mills for
+the Writing Across
+the Curriculum
+Clearinghouse,
+which includes
+useful content on
+many topics,
+including:
+Prompt
+Writing
+Publicly
+Available
+Language
+Models
+Short Pieces
+on the General
+Topic of AI
+Materials in
+Spanish
+We also recommend
+this curated
+resource list from
+the MLA-CCCC Joint
+Task Force on
+Writing and AI:
+
+Quick Start Guide to
+AI and Writing
+Is there a resource
+you love and would
+recommend? Send
+us a message and
+let us know!
+
+Next:
+Previous: Sample
+Configure AI Code
+LLMs
+of
+Conduct
+
+Assignme
+nts
+AI Guide
+AI Starter
+Explore
+LLMs
+
+About
+Using Our
+Content
+Contact
+Us
+
+Resource
+s
+
+Copyright © metaLAB (at) Harvard
+2023-2025
+
+Credits
+
+

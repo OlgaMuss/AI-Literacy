@@ -1,0 +1,687 @@
+AI Snapshots
+Warm Ups for Core Classrooms
+
+AI Snapshots © 2025 by Indigitize is licensed under CC BY-NC-SA 4.0. To view a
+copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+AI Snapshots
+What are AI Snapshots?
+●
+
+●
+
+AI Snapshots are an assortment of classroom warm ups that will give your students
+a basic understanding of AI. In just 10 minutes of class time, students will learn to
+define, identify, and think critically about artificial intelligence.
+This set of Snapshots were based off the AI Snapshots by aiEDU, and have been
+modified to be used in classrooms that mainly serve Indigenous students.
+
+Why AI?
+
+In the next few decades, AI will affect any career field your students pursue, any
+consumer product they use, and policies that will shape their lives. In fact, you can
+bet your students are already interacting with AI in their day-to-day lives. A daily
+dose of AI will empower your students with the knowledge they need to succeed.
+
+AI in Core Subjects
+Real-world examples of AI are considered in the context of each of the
+four core subject areas. There are 2 slides for each warm up:
+●
+●
+
+Student-facing warm up slide
+Considerations for the discussion that teacher may use to prompt
+students. The speaker notes on this slide include links to sources
+and additional guidance that teachers may find helpful
+
+Despite being organized by subject, none of the warm ups require
+specialized subject-matter knowledge. We welcome you to do as
+many warm ups as you can even if they fall outside of the subject you
+teach.
+
+Table of Contents
+Who am I?
+
+5
+
+Fact or Fiction
+
+12
+
+English Warm Ups
+
+19
+
+Science Warm Ups
+
+28
+
+Math Warm Ups
+
+37
+
+Social Studies Warm Ups
+
+46
+
+Who Am I?
+
+Who Am I?
+
+Use your Google search skills to find out!
+Teacher and Data Scientist
+→ I am a data scientist for an agency that is
+helping the environment
+→ I graduated from MIT in 2018 with a
+Bachelors in Business Analytics
+→ I co-founded Lakota AI Code Camp, a
+summer program where students get
+hands-on experience building apps while
+incorporating Indigenous knowledge and
+methods
+
+Mason Grimshaw
+●
+●
+●
+●
+
+Raised on the Rosebud Reservation
+as Sicangu Lakota
+Gave a TEDx Talk in 2023
+Passionate about preserving
+Indigenous languages
+Teaches at Lakota AI Code Camp
+
+Who Am I?
+
+Use your Google search skills to find out!
+Inventor
+→ I am Ojibwe from the Sault Tribe
+→ I am the inventor of SkoBots, a personal,
+wearable, and interactive Indigenous
+language revitalization robot
+→ I founded The STEAM Connection, a
+minority and youth-led charity that has
+reached 800k+ kids - when I was 18 years
+old
+
+Danielle Boyer
+●
+●
+●
+
+Born in 2001
+Grew up in Michigan
+Lives in both Southern California
+and Michigan
+
+Who Am I?
+
+Use your Google search skills to find out!
+AI Poet
+→ I am a published poet and
+self-proclaimed nerd!
+→ I was one of the engineers who worked
+on Amazon’s Alexa
+→ I am the founder of Indigenous AI, a
+non-profit with the goal to enable
+Indigenous communities to participate in
+Machine Learning (ML) research
+
+Michael Running Wolf
+●
+●
+
+Raised in Montana by his grandmother
+who spoke Cheyenne
+Lifelong goal is to revitalize Indigenous
+languages using AR and VR
+
+Fact or Fiction?
+
+Kinship with AI
+
+Use your Google search skills to find out: is this AI fact or fiction?
+Musqueam author Quelemia Sparrow uses
+AI to meet the character of her story. She
+explores whether artificial intelligence and
+humans can become kin. We discover the
+program that the AI is currently running is at
+odds with the human and non-human
+world.
+
+Fact!
+
+IndigiGuard
+
+Use your Google search skills to find out: is this AI fact or fiction?
+A team of Indigenous mathematicians and
+programmers created IndigiGuard, an AI app that
+blends algorithms with language preservation. Through
+the use of algorithms, IndigiGuard decoded the
+complex patterns of endangered Indigenous
+languages, offering translations and guaranteeing the
+survival of all Indigenous dialects. With each tap of a
+screen, IndigiGuard became not just a tool but a source
+of hope for Indigenous communities working to
+revitalize and preserve their cultural heritage.
+
+Fiction!
+Although fiction, there are Indigenous computer
+scientists actively working within their communities to
+blend tradition with technology and preserve their
+languages. A notable example is the Mamutjitji Story
+app, which uses a Western Desert Dreamtime story to
+teach science.
+The app is available in English and Ngalia, an
+Aboriginal language with only three speakers. This app
+aims to preserve language and traditional knowledge,
+passing it on to the next generation.
+
+SkoBots
+
+Use your Google search skills to find out: is this AI fact or fiction?
+SkoBots an interactive and wearable
+educational robot, designed to sit on
+your shoulder and can learn and help
+teach about traditional languages. This
+robot has a blend of traditional and
+customizable parts and responds when
+being approached with speech or
+flashing light.
+
+Fact!
+Skobots are the first cultural robot...
+designed entirely by Indigenous
+leaders.
+A personalized, wearable, and
+interactive Indigenous language
+revitalization robot that senses
+motion and speaks our languages.
+
+English Warm Ups
+
+Fake Art
+In 2022, a report found that 75% of
+Indigenous-style goods were created by
+non-Indigenous people. This number will likely
+rise, as some people are training AI models on
+authentic Indigenous art, to create
+AI-generated pieces. The artists of the
+authentic pieces did not give their consent to
+their work being used for this purpose.
+How can artwork be protected? Who benefits and
+who is harmed from this fake art?
+
+Teacher Guidance
+You may have considered…
+●
+●
+●
+
+●
+●
+
+Any artist in the world is already be at risk because of the
+capabilities of AI. This has already come up with book covers.
+It should not be allowed to scrape for artwork or use artwork in AI
+models unless the artist has given permission.
+If non-Indigenous people are making money from the sales of their
+fake art, they are taking business away from the real, Indigenous
+artists -> Furthering the colonial mindset of taking from Indigenous
+communities.
+Generating fake art threatens the cultural integrity of the history of
+those artists and the communities they are from.
+Between AI’s imperfections and non-Indigenous people prompting
+the fake art, it is likely that the designs created wouldn’t accurately
+reflect the distinctive styles from specific nations and artists.
+
+Language Living On
+Amazon Alexa operates in 9 human languages,
+Siri in 20. They operate in the most commonly
+spoken languages around the globe, and even
+provide a variety of dialects in English, French,
+and more. The AI team at Meta recently
+developed a new AI model that generates
+language based on audio clips.
+How could you design an AI that helps preserve an Indigenous
+language? How could you design it so it can help preserve
+any/all Indigenous languages?
+
+Teacher Guidance
+You may have considered…
+●
+●
+●
+●
+●
+
+What are the complexities that Indigenous languages hold, that
+languages like English don’t?
+Who is speaking the languages we want to preserve and would
+they feel comfortable providing audio?
+Is there a framework for an AI that could be used, and any
+Indigenous language could be applied?
+App ideas for how users would engage with the data in an
+engaging way to preserve their language.
+How to protect the data and follow the wishes of those who
+provide/the communities the language is spoken in.
+
+Hey Siri. Hey Siri. Hey Si- never mind
+Many Indigenous languages are not
+recognized by mainstream speech
+recognition technology. A team of
+developers is building a new app addressing
+this by tailoring speech recognition to Native
+American languages.
+As a leader within your community, how would you evaluate
+whether this technology is suitable for widespread adoption?
+
+Teacher Guidance
+You may have considered…
+●
+●
+●
+●
+
+How do you measure whether speech recognition is effective?
+Where will the data for this app come from, and how will accuracy
+be ensured?
+What are users’ experiences of the technology: are they enjoying it
+or are they frustrated by it?
+How will it be built to engage young users, so they keep their
+language alive?
+
+Beware of advice - even this
+Argument A
+
+Argument B
+
+"Developing AI to write book
+reviews would help people
+make better choices. Not only
+would an AI have a neutral
+point of view, but it would
+write reviews faster, too. No
+more waiting weeks after a
+book's release."
+
+"An AI could never appreciate
+a good book or recognize a
+bad one the way a real
+person could. It's important to
+understand the human
+perspective when deciding
+what to read next. We need
+real live book critics."
+
+Which argument do you agree with more? Does it change
+depending on the topic/content of the book? Why?
+
+Teacher Guidance
+You may have considered…
+●
+●
+●
+●
+●
+●
+●
+
+The AI has to learn to write reviews from somewhere, in this case
+probably old book reviews.
+What makes a useful book review?
+Not everyone uses book reviews in the same way.
+AI might be biased in the way it reviews books.
+Book reviewers might lose their jobs if the AI is very good.
+How would people feel about having yet another algorithm dictate the
+content we interact with?
+Who wrote the book, what is it about, and what experience does the
+reviewer have with the topic and background of the author?
+
+Science Warm Ups
+
+Medicinal Plant Knowledge
+Indigenous communities hold valuable
+knowledge about medicinal plants.
+Computer scientists are exploring how
+use AI in Indigenous communities to
+protect this knowledge in the digital age.
+How can AI work with Indigenous communities preserve
+their traditional knowledge of medicinal plants while
+making sure it is respected and not misused?
+
+Teacher Guidance
+You may have considered…
+●
+●
+
+●
+
+Discuss the importance of cultural preservation and the ethical
+considerations when integrating AI into traditional practices.
+Explore ways in which Indigenous communities can actively
+participate in the development and use of AI technologies to
+safeguard their knowledge.
+Consider the role of education and collaboration in ensuring that AI
+initiatives respect and benefit Indigenous cultures.
+
+Human-Nonhuman
+Connections with SkoBots
+SkoBots are AI language bots designed to
+have personalities, but how comfortable would
+individuals be interacting with them? Especially
+in Indigenous communities where cultural
+connections are significant.
+How do you feel about using a language bot like
+SkoBots that acts like a person, and what would
+make you feel comfortable or uncomfortable
+when using it?
+
+Teacher Guidance
+You may have considered…
+●
+●
+
+●
+
+How this technology could impact human relationships and
+communication.
+The importance of respecting cultural beliefs and values when
+using AI technology like SkoBots (designed by Native youth for Native
+youth!)
+Weighing the potential benefits with the potential drawbacks and
+thinking about what guides us in forming opinions.
+
+AI-Driven Sustainability in
+Your Community
+Indigenous communities often face unique
+challenges in accessing sustainable energy
+sources. AI technology can play an important
+role in identifying the most suitable renewable
+energy solutions based on local conditions,
+such as wind patterns and sunlight availability.
+How can AI be used to assess the most effective
+sustainable energy sources for your community,
+considering factors like wind patterns and sunlight?
+
+Teacher Guidance
+You may have considered…
+●
+
+●
+●
+●
+
+Why it's important for everyone in the community to help decide on
+ways to use clean energy and how AI can help us all work together
+to make our future more sustainable.
+How AI can help decide where to put things like wind turbines to
+make them work best in different parts of your area.
+The importance of involving community members in
+decision-making processes regarding sustainable energy initiatives.
+What, if any, are the unintended implications of each of these
+energy sources?
+
+Connections to Star Stories
+Many Indigenous cultures have rich oral
+traditions and stories that describe the origins
+and importance of stars, planets, and
+constellations. These stories offer a unique
+lens in the scientific understanding of the
+universe. With the advancement of AI, this
+could help to preserve, share, and connect
+with these cultural narratives.
+How would you design an AI that can share stories and
+knowledge about the stars?
+
+Teacher Guidance
+You may have considered…
+●
+●
+
+●
+●
+
+Discussing the importance of preserving and sharing these cultural
+stories, and how AI could possibly play a role.
+Potential capabilities of AI such as storytelling through text, audio,
+visuals…etc, interactive exploration, and connections to relevant
+scientific information and data.
+Ways to make sure the system is respectful, accessible, and
+engaging for diverse audiences.
+Data privacy, cultural sensitivity, and appropriate use of traditional
+knowledge.
+
+Math Warm Ups
+
+Navajo Code Talkers
+Navajo Code Talkers were key to the allied victory
+of World War II. They were able to encrypt and
+decrypt messages in 1/10 of the time computers
+were able to at that time. Even though the Navajo
+language is complex and wasn’t written at the
+time, the code breakers added another layer with
+word substitution. The “dictionary” used to
+decipher a code is now available.
+In what ways do you see Indigenous youth shaping the
+future of technology and AI, both in their communities and
+worldwide?
+
+Teacher Guidance
+You may have considered…
+●
+●
+●
+●
+
+The people who create tech should represent those who use it.
+Indigenous communities have unique histories, values, and needs
+that “big tech” isn’t always considering.
+Young Indigenous people can build solutions unique to their
+communities.
+Young Indigenous people can join tech teams and open up
+representation in those spaces.
+
+First served
+COVID-19 illustrated the complications with
+large-scale vaccine distribution. To decide which
+communities to prioritize, officials consider
+hundreds of statistics like population density,
+residents’ age, and number of hospitals. The
+process is time-consuming and statistics are
+often inaccurate. The focus was largely on the
+world’s most populated areas.
+How would you design an AI that can learn to accurately get the
+statistics that matter to your community?
+
+Teacher Guidance
+You may have considered…
+●
+●
+●
+●
+●
+
+How to determine which factors make someone high-risk
+Demand for the vaccine itself.
+Common comorbidities associated with COVID.
+Potential bias in the statistics used to make decisions.
+Deadly impacts of getting things wrong and liability around them.
+
+Starting early
+Image you’re starting Math+AI4, a non-profit
+that aims to engage middle school students
+in your community in the mathematics of AI.
+You’re having trouble recruiting students.
+You’ve found that students, parents, and
+teachers are unaware of the vast impacts AI
+will have on their lives, so they don’t seek out
+your programs.
+How would you design an AI that can learn to solve this
+problem using survey data about students’ interests?
+
+Teacher Guidance
+You may have considered…
+●
+●
+●
+●
+●
+
+Why there is a lack of interest?
+What might engage prospective students.
+How to collect the data you need from minors.
+How to include perspectives of teachers and families.
+How to measure success.
+
+The Real Salvator Mundi
+Can math help us figure out if a painting is
+authentic? Researchers divided up Da
+Vinci paintings into 350x350 pixel squares
+and trained an AI to recognize his
+handiwork.
+
+How could AI help preserve the integrity of Indigenous
+art, and why is it important to do so?
+
+Teacher Guidance
+You may have considered…
+●
+●
+
+●
+●
+
+An AI could be trained on markers of authenticity based on tribe,
+artist, and more.
+Community Input. If AIs are trained on Indigenous art, that data is “out
+there”. Do members of the communities want to put more out there in
+hopes this AI works, or do they prefer not to?
+○ Not everyone in a community will agree; who makes the
+decision?
+Figuring out if an image has been digitally altered.
+Authorship is complicated, with frequent collaboration and ease of
+copying information.
+
+Social Studies Warm Ups
+
+AI for Equal Access to Museums
+OurWorlds, an extended reality platform showcasing
+historical and cultural experiences, aims to make
+educational content accessible globally. Disparities in
+access to museum exhibits between major
+metropolitan areas and smaller cities/rural areas
+highlight the need for innovative solutions like AI to
+bridge this gap.
+How would you design an AI system that uses images of
+museum exhibits to create a virtual experience accessible to
+individuals in underserved areas, including Indigenous
+communities?
+
+Teacher Guidance
+You may have considered…
+●
+●
+
+●
+
+The effects of AI and extended reality technologies can help make
+Indigenous cultural knowledge and artifacts more accessible.
+AI can analyze and interpret images of Indigenous cultural exhibits
+to generate interactive virtual experiences that authentically
+represent the traditions, stories, and contexts of these artifacts.
+Involving Indigenous communities in the design and development
+of AI-powered virtual experiences to support the preservation of
+cultural integrity and knowledge.
+
+Age Bias in Healthcare AI
+Recent research indicates that healthcare
+AI may not properly support elders. This
+issue of age bias in healthcare AI raises
+concerns about equitable access to
+technology-driven healthcare solutions for
+all age groups, including Indigenous
+communities.
+How can we address age bias in healthcare AI to support our
+elders in receiving the necessary support and benefits from tech
+advancements in healthcare?
+
+Teacher Guidance
+You may have considered…
+●
+●
+●
+●
+
+●
+●
+
+Indigenous communities may have unique cultural practices and
+languages that aren't always considered in healthcare AI.
+Access to technology might be limited in some communities,
+making it harder for older individuals to use healthcare AI.
+Think about the specific needs and cultural sensitivities
+Making sure the technology is respectful of traditions and
+languages, and easy for older members of these communities to
+use.
+Involve community members in the development process to make
+sure it meets the needs of our elders
+By including the community’s input and feedback, we can create
+technology that respects their culture and addresses any biases
+that might exist.
+
+Access to Healthy Food Options
+In many communities, access to
+affordable and nutritious food is
+limited. This issue worsens health
+disparities and challenges residents'
+ability to maintain a balanced diet.
+How can AI technology be used to improve access to
+healthy and affordable food, and what role can
+community members play in this process?
+
+Teacher Guidance
+You may have considered…
+●
+
+●
+
+Why it's essential for Indigenous community members to help
+decide on ways to get better food access, making sure it fits their
+culture and sustainability.
+Using AI as a tool to analyze food disparities and which
+communities might need more access to healthier food options.
+
+Preserving artifacts
+Indigenous cultures around the world have diverse
+collection of artifacts that hold deep significance and
+provide insights into the histories of these peoples.
+Unfortunately, many of these artifacts have been
+damaged, lost, or removed from their original context
+over time. AI systems could be used to help preserve,
+restore, and connect people with these important
+artifacts.
+How could AI technology be adapted to help preserve,
+document, and share artifacts and their cultural
+significance?
+
+Teacher Guidance
+You may have considered…
+●
+●
+
+●
+
+Consider ethics in terms of data privacy, cultural sensitivity, and
+traditional knowledge.
+Brainstorm potential capabilities of AI systems:
+○ Automated restoration
+○ Identification of and location of artifacts
+○ Multimedia storytelling
+○ Connections to relevant historical data
+Having people connect with these artifacts can foster a greater
+understanding and appreciation.
+
+

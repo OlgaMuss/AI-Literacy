@@ -1,0 +1,160 @@
+WHAT WE DO ▽
+
+Home
+
+AI Ethics Learning Toolkit
+
+BLOG
+
+SEARCH
+
+CONTACT US
+
+EVENTS
+
+RESOURCES
+
+SUBSCRIBE
+
+ABOUT US ▽
+
+Who Benefits From AI?
+
+AI ETHICS LEARNING TOOLKIT
+
+Who Benefits From AI?
+Exploring the AI Divide and AI Info Privilege
+
+“We have a computing divide at the heart of the A.I. revolution…It’s not merely a
+hardware problem. It’s the sovereignty of our digital future.”
+– Lacina Koné, the director general of Smart Africa
+
+An extension of the digital divide, the AI divide refers to the growing gap
+between individuals, communities, and companies who have access to
+cutting-edge Artificial Intelligence tools and those who do not. Roughly
+one-third of the global population (2.6 billion people) does not have
+regular access to the internet (which would include AI). Beyond physical
+access to technology – like hardware, software, or premium AI
+subscriptions – this divide also includes disparities in access to education
+and skills training that are critical for using AI e!ectively. AI’s rapid
+integration into the workplace disproportionately a!ects people in lowwage or routine jobs, who are more likely to face displacement from the
+jobs of the future. At the industry level, development and control of
+
+advanced AI is concentrated in the hands of multi-billion dollar, “Big Tech”
+corporations – such as Meta, OpenAI, Amazon, X, Google, and Microsoft.
+Although smaller start-ups are entering the AI space, they must overcome
+huge barriers, including the high cost of training LLMs and limited access
+to high-quality datasets. In learning about AI, students should reflect on
+their own AI privileges, as well as global AI divides, and consider what
+e!orts could be e!ective in bridging the AI divide.
+
+Learning Activities
+
+Conversation Starters A Few Questions to Get the
+Discussion Going
+
+Who is harmed, and who benefits, from access to AI technology?
+Are there AI tools that you pay for premium subscriptions to (ex.
+Premium ChatGPT, Grammarly)? If so, how does that benefit you?
+If not, what disadvantages might you face?
+What are some types of jobs you could see being replaced by AI?
+What are some ways we can ensure equitable access to AI and AI
+training?
+
+Active Learning with AI Fun Ways to Explore AI’s
+Strengths and Limitations
+
+Freemium AI vs. Premium AI. Students can investigate the
+
+di!erence between access to a freemium version of ChatGPT vs.
+Duke’s premium subscription.
+Educational / Information Privilege backpack. Ask students to work
+alone to brainstorm the educational/info privileges they’ve
+observed in K-12 and college settings. Ask them to include at least
+a couple “AI” privileges. (Examples and blank backpack activity).
+Role play. Assign roles to groups of students (community college
+vs. R1 University; private K-12 school vs. underfunded public
+school; small business vs. large corporation). Students research
+and brainstorm some of the advantages/disadvantages their
+assigned organization faces in the age of AI.
+
+Disciplinary Extensions Ideas for Exploring AI’s Impact in
+Specific Fields
+Public Policy/Education: Students could research and present on
+a proposed intervention or policy for improving the AI divide in a
+particular context (K-12, higher ed).
+Economics: Students can “follow the money” and research top
+tech companies, funders, partnerships, and data sources.
+Compare/contrast availability of $ and resources between big tech
+companies and smaller start-ups.
+Computer Science: Students could discuss the factors that benefit
+students studying CS at a university like Duke, in contrast to a
+community college, or less-resourced institution?
+
+Resources
+Satariano, A., Mozur, P., Russell, K., & Kim, J. (2025, June 23). The A.I. Race Is Splitting the World Into
+Haves and Have-Nots. The New York Times. [News article]
+
+Trucano, M. (2023). AI and the next digital divide in education. Brookings. [Blog post]
+Gay, R. (2012, May 16). Peculiar benefits. The Rumpus. [Blog post]
+Booth, char. (2014, December 1). On Information Privilege. Info-Mational. [Blog post]
+
+Scholarly
+Kak, A., West, S., & Whittaker, M. (2023). Make no mistake—AI is owned by Big Tech. MIT Technology
+Review. [Article]
+Gonzales, S. (2024, August 6). AI literacy and the new Digital Divide—A Global Call for Action. UNESCO.
+[Report]
+
+Recommendations
+Related topics → Is AI biased?
+AI Pedagogy Project (Harvard) Assignments → Filter by theme (e.g. bias) and/or subject (e.g. ethics &
+philosophy)
+
+1. Satariano, A., Mozur, P., Russell, K., & Kim, J. (2025, June 23). The A.I. Race Is Splitting the World Into
+Haves and Have-Nots. The New York Times.
+2. International Telecommunication Union (ITU). (2023, September 12). Population of global o!ine
+continues steady decline to 2.6 billion people in 2023 [UN]. ITU.Int.
+
+PHYSICAL LOCATION
+The Erwin Square Mill Building
+2024 West Main Street
+
+BROWSE
+What We Do
+About
+
+Durham, NC 27705
+
+MAILING ADDRESS
+Box 90700
+
+Blog
+Contact Us
+Events
+
+Durham, NC 27708
+
+Directions
+
+CONTACT US
+
+Resources
+
+Phone: (919) 660-5806
+Email:
+
+Newsletter Signup
+
+learninginnovation@duke.edu
+
+CONNECT
+WITH US
+SUPPORT OUR
+WORK
+Donate to Duke
+Learning Innovation &
+Lifetime Education
+
+Copyright © 2025 Duke Learning Innovation & Lifetime Education
+
+

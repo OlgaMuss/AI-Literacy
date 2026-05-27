@@ -1,0 +1,100 @@
+Playtesting Your ChatGPT Prompt
+By Alexander Landfair
+Improve students' communication techniques by practicing “Rogers’s rules” for active
+listening with ChatGPT.
+
+https://aipedagogy.org/assignment/playtesting-your-chatgpt-prompt/
+
+Learning Objectives
+Cultivate your prompt-engineering skills
+Demonstrate and refine your understanding of “Rogers’s rules” for active listening
+Practice recognizing, anticipating, and addressing your readers’ needs and
+expectations
+
+Note to Instructors
+This assignment asks students to demonstrate their understanding of a conflict-resolution
+strategy known as “Rogers’s rules.” It can be adapted to work with any skill or topic
+introduced in your class. “Rogers’s rules” describe a model developed by the psychologist
+Carl Rogers that is meant to improve the quality of classroom discussions, especially those
+about sensitive or controversial issues. According to these rules, each student can state
+their opinion only after they have first restated the ideas and feelings of the previous
+speaker and, most importantly, to that speaker’s satisfaction. These rules encourage
+students to attend closely to one another, rather than waiting for their turn to speak. As a
+result, conversations achieve greater depth and nuance, ensuring that each student’s
+comments build upon–rather than merely follow–the ideas of the previous speaker.
+
+Instructions
+Part 1: Drafting
+1. Start by explaining that this assignment asks students to engineer a prompt that
+
+instructs ChatGPT to follow protocols or perform skills introduced in class. Students
+will “playtest” their prompts to identify any limitations or flaws in their instructions.
+When ChatGPT fails to follow protocols or practice skills described in students’
+instructions, students are asked to revise the prompt to prevent the same failure in
+future tests. In this way, students practice the habits of experienced writers, who view
+writing not simply as the expression of ideas, but rather as the complex process of
+transforming and arranging ideas in ways that meet readers’ needs and expectations.
+2. Instruct students to craft a ChatGPT prompt that demonstrates a deep and nuanced
+understanding of Rogers’s rules and trains ChatGPT to effectively and consistently
+adhere to these rules. The precise nature of the conversation that students have with
+ChatGPT will depend on the topic of your course. To consider some examples,
+students might have a discussion focused on the intersection between healthcare and
+Artificial Intelligence, electoral systems and democracy, affirmative action, border
+security, the effects of different economic policies on reducing income inequality, etc.
+3. If students need further guidance on drafting appropriate language for their prompt,
+here is a sample that effectively outlines a set of rules for enhancing mutual
+understanding between conversation participants:
+“We’re going to have a conversation that adheres to ‘Rogers’s rules.’ According to
+these rules, each person can state their opinion only after they have first restated the
+ideas and feelings of the previous speaker, and to that speaker’s satisfaction. This
+means that after I speak, you must demonstrate that you understand and ask me
+whether or not your interpretation is accurate and complete. Please do not let me get
+away with merely claiming that I understand. In other words, ‘yes,’ ‘sure,’ or ‘I get it’ are
+not valid responses to ‘Do you understand what I’m saying?’ Instead, you must insist
+that I demonstrate my understanding. However, ‘yes’ can be a valid response to ‘Have I
+understood you correctly?’ If I do certify your interpretation, you must then respond by
+challenging or augmenting my opinion. But if I do not certify your interpretation, you
+must try again or ask clarifying questions until you are able to demonstrate accurate
+understanding to my satisfaction. Finally, after stating our own opinions, we’ll ask ‘Do
+you understand what I’m saying?’ to cue the other to respond. If either of us breaks any
+of these rules, the other must stop to correct the issue and insist that the rules are
+followed.”
+Part 2: Testing to Pass
+
+1. Early in the creative process, designers “test to pass.” This means testing a product
+under ideal conditions that are most likely to result in success, in order to demonstrate
+proof of concept. Students’ task here is to gently test their prompts. As a conversant,
+they should be predictable and pose straightforward claims on simple, uncontroversial
+topics. For instance, taking the first example above, students might discuss the
+benefits of regular health checkups and exercise.
+2. Students should review the conversation transcript to see whether ChatGPT
+effectively and consistently adheres to Rogers’s rules after insisting that it follows
+them. If students observe failures or deviations, encourage them to revise the
+language in their prompt accordingly and repeat Part 2.
+Part 3: Testing to Fail
+1. Later in the creative process, designers “test to fail.” This means testing a product
+under the most difficult, demanding conditions that are most likely to result in failure,
+in order to identify weaknesses and limitations in your design. Students’ task here is to
+put their prompt to the ultimate test. As a conversant, they should be unpredictable
+and recalcitrant. For instance, continuing with the topic above, students might discuss
+AI’s ability to improve diagnostic accuracy, concerns that AI might replace certain jobs
+in healthcare, the value of mood prediction algorithms for mental health services, and
+the potential for AI to lead to biased medical decisions, all in one conversation.
+2. Here, students should take note of when ChatGPT fails to adhere to Rogers’s rules, or
+ineffectively or inconsistently enforces them. If they observe missteps, have them
+revise their prompt accordingly and repeat parts 2 and 3.
+Part 4: Reflection
+1. Once students have completed this assignment, have a conversation as a class or in
+small groups (or ask students to submit a brief 300 to 500 word reflection essay along
+with their conversation transcripts), focusing on some of the following questions:
+What were the most significant challenges you faced when crafting your prompt
+to adhere to Rogers’s rules?
+How did you address any failures or inconsistencies in ChatGPT’s responses
+during the “Testing to Pass” and “Testing to Fail” phases?
+What insights did you gain about the importance of active listening and accurately
+
+restating others’ ideas in both human and AI-mediated conversations?
+How might the skills and techniques you practiced in this assignment be applied
+to real-world discussions and conflict-resolution scenarios in your field of study?
+
+

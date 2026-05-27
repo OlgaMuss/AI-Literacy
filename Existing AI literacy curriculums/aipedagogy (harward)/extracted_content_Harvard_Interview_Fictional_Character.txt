@@ -1,0 +1,77 @@
+Interview a Fictional Character
+By Mike Kentz
+Have a conversation with an AI-crafted fictional character to explore the underlying
+intricacies of a literary text.
+
+https://aipedagogy.org/assignment/interview-a-fictional-character/
+
+Learning Objectives
+Engage in critical dialogue with a fictional persona to develop conversational skills
+Practice active listening in order to probe lines of inquisition previously unexplored for
+a certain fictional character
+Critically reflect on the accuracy of AI to capture the nuances of characters from wellinterpreted literary texts
+
+Instructions
+Interview Questions
+1. Students generate interview questions for a fictional or historical character that are
+broad, open-ended, and show an understanding of historical or literary context.
+Students may use an AI tool of their choosing, such as Character.AI, ChatGPT, Claude,
+Gemini, etc. You might also encourage students to work with a tool that has enhanced
+voice mode features, such as GPT-4o or Google Assistant, to create a sense of flowing
+conversation.
+This step is guided by a rubric, peer feedback, and teacher feedback to ensure
+student questions will generate meaningful conversation.
+Use journalistic thinking principles and teach students to “put themselves in their
+character’s shoes” and imagine what types of questions will “get them talking.”
+If students are struggling to generate questions, it may be helpful to first suggest
+
+noting down particular themes that they may want to focus on (e.g., political
+views, personal values, relationships, etc.).
+2. Sample open-ended questions:
+Can you describe a significant friendship or rivalry and its effect on your life?
+What has been the most challenging obstacle you’ve faced, and how did you
+overcome it?
+If you could change one thing about your past, what would it be and why?
+Were you involved in any significant political events and, if so, how did it shape or
+alter your beliefs?
+What are your thoughts on the societal norms and expectations of your era?
+How do you perceive your own role in the narrative? Do you agree with how the
+author has portrayed you?
+
+Conducting the Interview
+1. Students practice interviewing a character of their choosing and share the experience
+in class.
+If possible, students are encouraged to use the voice chat feature that some AI
+models offer to support a conversational experience.
+Students interview the historical or fictional character in question using a rubric
+for active listening as a guide. Active listening entails maintaining attentiveness,
+understanding and empathizing with responses, reflecting on answers,
+demonstrating non-judgmental engagement, and responding appropriately with
+opinions.
+
+Evaluation
+1. Students will then copy and paste and share the chat transcripts with the teacher for
+evaluation and assessment of critical thinking, active listening, problem-solving, and
+any other objectives the teacher chooses.
+This can further the goal of developing empathy in students, conversational skills,
+or problem-solving, analysis, and critical thinking.
+
+Analysis
+
+1. Students then analyze the chatbot. Did it further their understanding of the character
+in question? Did it mimic the character from the book or from history, or did it fail to
+capture characteristic nuances?
+2. Students will write a paper using quoted evidence from the chat transcript itself– in
+comparison with the book or textbook– to show that the bot either mimicked/missed
+mimicking the character in question or furthered/did not further their understanding
+of the character in question.
+This develops AI literacy on the back-end of what was already a rich, engaging
+approach to literary or historical understanding of a character.
+
+Resources
+“Using Character Chatbots in English Class,” Mike Kentz, Edutopia
+“How a Holden Caulfield Chatbot Helped My Students Develop AI Literacy,” Mike Kentz,
+
+EdSurge
+
+

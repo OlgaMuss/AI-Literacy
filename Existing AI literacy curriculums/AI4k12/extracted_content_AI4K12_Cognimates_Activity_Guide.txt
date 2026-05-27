@@ -1,0 +1,376 @@
+Intelligent
+Assistant with
+Keywords
+(Cognimates)
+Activity Guide
+Version of November 28, 2022
+
+Christina Gardner-McCune
+University of Florida
+
+David S. Touretzky
+Carnegie Mellon University
+This work was funded by a grant from NEOM Company.
+
+An early version of this activity was developed for the AI4GA (Artificial Intelligence for Georgia)
+project funded by National Science Foundation awards DRL-2049029 and DRL-2048502.
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+Intelligent Assistant with Keywords
+(Cognimates) Activity
+
+Summary
+
+Create a simulated intelligent assistant in Scratch that responds to voice input, modeled after
+Siri or Alexa. This is a simulation that outputs predetermined responses to selected keywords in
+the input; real assistants do much more.
+
+Grade Bands: 3-5, 6-8, 9-12
+Learning Objectives
+Construct a keyword-based intelligent assistant using the Cognimates version of Scratch.
+Students will be able to:
+●
+Use the Speech to Text extension to incorporate speech recognition into a program.
+●
+Scan recognized utterances for keywords and construct responses using Scratch’s string
+operations.
+●
+Use the Text to Speech extension to produce spoken responses.
+
+Materials/Resources Required
+●
+●
+●
+●
+
+Laptop or notebook with a microphone and speaker
+Chrome web browser
+Access to the Cognimates web site (https://codelab.cognimates.me/). Note that you must
+use this version of Scratch, not the one at scratch.mit.edu.
+Optional: pre-made demo Intelligent Assistant with Keywords (Cognimates).sb3.
+
+Guidelines and Standards
+AI4K12 Guidelines
+Big Idea 4: Natural Interaction
+4-A-iv: Natural language (Applications)
+
+2
+
+Other Relevant Educational Standards
+Computer Science Teachers Association Standards
+1A-AP-10 K-2
+
+Develop programs with sequences and simple loops, to experess ideas or address a
+problem.
+
+1A-AP-14 K-2
+
+Debug (identify and dix) errors in an algorithm or program that includes sequences
+and simple loops.
+
+1A-AP-09 K-2
+
+Model the way programs store and manipulate data by using numbers or other
+symbols to represent information
+
+1B-AP-09 3-5
+
+Create programs that use varibales to store and modify data.
+
+1B-AP-10 3-5
+
+Create programs that include sequences, events, loops, and conditionals.
+
+2-AP-11 6-8
+
+Create clearly named variables that represent different data types and perform
+operations on their values.
+
+2-AP-12 6-8
+
+Design and iteratively develop programs that combine control structures, including
+nested loops and compound conditionals.
+
+2-AP-14 6-8
+
+Create procedures with parameters to organize code and make it easier to reuse.
+
+2-AP-16 6-8
+
+Incorporate existing code, media, and libraries into original programs, and give
+attribution.
+
+3A-AP-14 9-10
+
+Use lists to simplify soultions, generalizing computational problems instead of
+repeatedly using simple variables.
+
+3A-AP-15 9-10
+
+Justify the selection of speciﬁc structures when tradeoffs involves implementation,
+readability, and program performance, and explain the beneﬁts and drawbacks of
+choices made.
+
+3A-AP-18 9-10
+
+Create artifacts by using procedures within a program, combinations of data and
+procedures, or interrelated programs.
+
+3A-AP-16 11-12
+
+Demonstrate code reuse by creating programming solutions using libraries and APIs.
+
+3
+
+Other Relevant Activities
+1.
+2.
+3.
+
+Intelligent Assistant with Keywords (ML4K)
+Chatbot with BERT
+SpeechDemo
+
+Vocabulary Terms
+Flashcards for these vocabulary terms are located at the end of this guide.
+●
+Alexa
+●
+Intelligent assistant
+●
+Keywords
+●
+Siri
+
+Preparation
+Setting up to Use Cognimates
+1.
+
+Here is a direct link to the Scratch3 page at
+Cognimates.me. Note that you must use this
+version of Scratch, not the one at scratch.mit.edu:
+https://codelab.cognimates.me/. You can also get
+to this page by going to the Cognimates.me home
+page and clicking on the “Code & Play” button.
+
+2.
+
+At the bottom of the palette you will ﬁnd entries
+for the Speech to Text and Text to Speech
+extensions, which are pre-loaded. These give you
+the additional blocks shown at right.
+
+4
+
+Writing the Keyword Response Functions
+The intelligent assistant works by accepting input from the user, scanning it for keywords, and
+generating a canned response when a keyword matches. The assistant understands several
+types of requests; we will write a separate block to handle each type.
+All block deﬁnitions appear at the end of this section; refer to those pages when you need to
+create a block in the steps below.
+1.
+
+Go to “Variables” and create a variable called user_response. This is what you should see:
+
+2.
+
+Go to “My Blocks” and click on the “Make Block” button. Create the block named
+“keyword-response” with inputs “keyword” and “response”.
+
+3.
+
+Enter the deﬁnition of keyword-response using the code provided at the end of this
+section.
+
+👉 Try this!
+4.
+
+Let’s test the program before adding more response types. Enter all the code shown
+under “Main program”. This consists of three chunks: one to handle the “When green ﬂag
+clicked” event, one to handle the “When this sprite clicked” event, and one to handle the
+“When I hear” event. In this last chunk, leave out the “two-step” and “riddle” blocks
+because we haven’t deﬁned those yet.
+
+5.
+
+Click on the green ﬂag and say “Assistant, what time is it?” You should hear the response
+“There’s no time like the present.” Now say “Assistant, make me a sandwich.” You should
+hear the response “You can’t be serious.”
+
+5
+
+6.
+
+Next will provide a way for the assistant to tell us a joke. For this we introduce a more
+complex block that outputs a canned message, waits for the user to say something back,
+and then does a keyword-based response to that. It’s called “two-step”. Make a block with
+that name; its inputs are “keyword”, “response”, “keyword2”, “response2”, and “default”.
+
+7.
+
+Enter the deﬁnition for the “two-step” block using the code provided at the end of this
+section. Note that whenever we want the computer to ask us something, we must ﬁrst
+tell it to stop listening. This prevents it from hearing and responding to its own speech
+when it asks us a question. That’s why two-step is more complicated than
+keyword-response.
+
+8.
+
+Add the call to two-step to the main program, after the calls to keyword-response.
+
+👉 Try this!
+9.
+
+Test the program by clicking on the green ﬂag and saying “Assistant, please tell me a
+joke.”
+
+10.
+
+The last feature we’ll add allows the assistant to ask us riddles. In order to use the “riddle”
+block you must create two list variables. Create a list variable called riddle_questions and
+set it to this list:
+★
+What has hands but cannot clap?
+★
+What has eyes but cannot see?
+★
+What has legs but doesn’t walk?
+★
+What can you catch but not throw?
+
+The result should look like this:
+
+6
+
+11.
+
+Create another list variable called riddle_answers and set it to this list:
+★
+clock
+★
+potato
+★
+table
+★
+cold
+The result should look like this:
+
+12.
+
+Uncheck the boxes for riddle_questions and riddle_answers so they don’t appear on the
+stage.
+
+13.
+
+Create two new variables called “riddle_question” and “riddle_answer” and uncheck their
+boxes. Then create a new block named “riddle”. Enter the deﬁnition for the riddle block
+using the code provided at the end of this section. Notice that riddle makes use of
+two-step.
+
+14.
+
+Update the main program by inserting a “riddle” block after the “two-step” block. Now
+your program should exactly match the code shown in this activity guide.
+
+👉 Try this!
+15.
+
+Test your program by clicking on the green ﬂag and saying “Assistant, ask me a riddle.”
+Try giving the right answer. Then ask for another riddle and try giving the wrong answer.
+
+Running the Complete Demo
+Click on the green start ﬂag to begin the demo. Begin each request with the wake word
+“Assistant”. You can make requests such as:
+●
+Assistant, what is the weather outside?
+●
+Assistant, what time is it?
+●
+Assistant, are you happy today?
+●
+Assistant, can you tell me a joke?
+●
+Assistant, do you know any good jokes?
+●
+Assistant, please ask me a riddle.
+To stop the demo, click on the sprite. This tells Scratch to stop listening to your microphone.
+
+7
+
+Limitations of the Demo
+The demo looks for keywords and will match anything containing those characters, even if the
+meaning is different. For example, “Assistant, are most tents weatherproof?” will match
+“weather”, and “Assistant, do you go dancing sometimes?” will match “time”. We could prevent
+this erroneous matching by including a space on either side of the keyword. But then
+“<space>joke<space>” wouldn’t match “Assistant, do you know any jokes?”. And nothing we do
+will allow “happy” to match “Assistant, how is your happiness?”
+
+Make It Your Own
+Have students modify the code to create their own keywords and responses. For more
+advanced students, have them implement a “quiz” option modeled after the “riddle” block; it
+should pick a quiz question at random from a list the student creates. For example, it could be a
+trivia quiz about their school, or a quiz about their state (e.g., state motto, state bird, state
+ﬂower, state capital).
+Students could also modify the code to make the sprite change its appearance while it’s
+responding to a request, or while it’s waiting for you to supply an answer to a joke or riddle.
+
+Assessments
+To be determined.
+
+Other resources
+
+Copyright © 2022 AI4K12.org. Released under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License
+. This work was funded by a grant from NEOM Company.
+Visual design by Pam Amendola.
+Chatbot vocabulary item icon courtesy of Flaticon.com.
+
+8
+
+Code for This Demo
+Main program
+
+9
+
+keyword-response
+
+riddle
+
+10
+
+two-step
+
+11
+
+Vocabulary Flash Cards
+ALEXA
+Amazon’s cloud-based voice service
+which uses a natural voice experience
+that allows people to interact with the
+technology they use every day.
+
+INTELLIGENT ASSISTANT
+Digital assistants that emulate
+human interaction to perform certain
+tasks, especially simple, repetitive
+ones.
+
+KEYWORD
+
+A word that a program speciﬁcally
+checks for that has a special meaning
+for it, typically a command such as
+“play” or a parameter like “time”.
+
+SIRI
+
+Apple's personal assistant for iOS,
+macOS, tvOS and watchOS devices that
+uses voice recognition and is powered
+by artiﬁcial intelligence (AI)
+Visual design by Pam Amendola.
+
+12
+
+

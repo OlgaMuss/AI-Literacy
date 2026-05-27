@@ -1,0 +1,574 @@
+AI in My Life: AI, Ethics & Privacy Workshops for
+15-16-Year-Olds
+Malika Bendechache
+
+ADAPT/Lero Centres, Dublin City
+University
+Dublin, Ireland
+malika.bendechache@dcu.ie
+
+Laura Grehan
+
+ADAPT Centre, Dublin City
+University
+Dublin, Ireland
+laura.grehan@adaptcentre.ie
+
+Irina Tal
+
+P. J. Wall
+
+Lero Centre, Dublin City University
+Dublin, Ireland
+irina.tal@dcu.ie
+
+Emma Clarke
+
+ADAPT Centre, Dublin City
+University
+Dublin, Ireland
+emma.clarke@adaptcentre.ie
+
+Laurence Van der Haegen
+
+ADAPT Centre, Trinity College
+Dublin
+Dublin, Ireland
+pj.wall@tcd.ie
+
+Brenda Leong
+
+DCU Access, Dublin City University
+Dublin, Ireland
+laurence.vanderhaegen@dcu.ie
+
+Aidan O’Driscoll
+
+DCU Access, Dublin City University
+Dublin, Ireland
+aidan.odriscoll@dcu.ie
+
+Future of Privacy Forum
+USA
+bleong@fpf.org
+
+Anne Kearns
+
+ADAPT Centre, Dublin City
+University
+Dublin, Ireland
+anne.kearns@dcu.ie
+
+Rob Brennan
+
+ADAPT Centre, Dublin City
+University
+Dublin, Ireland
+rob.brennan@dcu.ie
+H20204 project to deliver the programme to the DCU Access5 22school network. DCU Access has a mission of creating equality
+of access to third-level education for students from groups currently underrepresented in higher education. Each partner brings
+proven training activities in AI, ethics and privacy. A novel blending of material into a youth-driven narrative will be the subject
+of initial co-creation workshops and supported by pilot material
+delivery by undergraduate DCU Student Ambassadors. Train-thetrainer workshops and a toolkit for teachers will enable delivery.
+The material will use a blended approach (in person and online)
+for delivery during COVID-19. It will also enable wider use of the
+material developed. An external study of programme effectiveness
+will report on participants’: enhanced understanding of AI and
+its impact, improved data literacy skills in terms of their understanding of data privacy and security, empowerment to protect
+privacy, growth in confidence in participating in public discourse
+about STEM, increased propensity to consider STEM subjects at
+all levels, and greater capacity of teachers to facilitate STEM interventions. This paper introduces the project, presents more details
+about co-creation workshops that is a particular step in the proposed methodology and reports some preliminary results.
+
+ABSTRACT
+AI in My Life’ project will engage 500 Dublin teenagers from disadvantaged backgrounds in a 15-week (20-hour) co-created, interactive workshop series encouraging them to reflect on their experiences in a world shaped by Artificial Intelligence (AI), personal data
+processing and digital transformation. Students will be empowered
+to evaluate the ethical and privacy implications of AI in their lives,
+to protect their digital privacy and to activate STEM careers and
+university awareness. It extends the ‘DCU TY’ programme for innovative educational opportunities for Transition Year students from
+underrepresented communities in higher education.
+Privacy and cybersecurity researchers and public engagement
+professionals from the SFI Centres ADAPT1 and Lero2 will join
+experts from the Future of Privacy Forum3 and the INTEGRITY
+1 https://www.adaptcentre.ie/
+2 https://lero.ie/
+
+3 https://fpf.org/
+
+CCS CONCEPTS
+
+This work is licensed under a Creative Commons Attribution International
+4.0 License.
+
+• Security and privacy → Human and societal aspects of security and privacy.
+
+WebSci ’21 Companion, June 21–25, 2021, Virtual Event, United Kingdom
+© 2021 Copyright held by the owner/author(s).
+ACM ISBN 978-1-4503-8525-1/21/06.
+https://doi.org/10.1145/3462741.3466664
+
+4 https://h2020integrity.eu/
+
+5 https://www.dcu.ie/access
+
+34
+
+WebSci ’21 Companion, June 21–25, 2021, Virtual Event, United Kingdom
+
+Bendechache, et al.
+
+and hosted 22,000 girls from 26 counties. More than 90% of participants in the event said that the workshop inspired them to consider
+studying STEM at Third Level.
+A recent report by University College Dublin [4] found that subject choice in TY was the biggest indicator of future career choice
+in STEM subjects, especially amongst female students. Promoting STEM careers at this point in students’ academic development
+will have a significant influence on future career choices for participating students and contribute to lessening the gap amongst
+disadvantaged students when it comes to participation in STEM
+courses and careers. In addition, feedback from schools completing
+the DCU TY programme in 2019 highlighted significant interest
+in greater interaction with research centres. The above evidence
+points to a substantial need, and unaddressed demand, for a workshop series for TY students that focuses on AI, ethics and data
+privacy.
+
+KEYWORDS
+Artificial Intelligence, Data, STEM, Co-creation, Privacy, Security,
+Ethics.
+ACM Reference Format:
+Malika Bendechache, Irina Tal, P. J. Wall, Laura Grehan, Emma Clarke,
+Aidan O’Driscoll, Laurence Van der Haegen, Brenda Leong, Anne Kearns,
+and Rob Brennan. 2021. AI in My Life: AI, Ethics & Privacy Workshops
+for 15-16-Year-Olds. In 13th ACM Web Science Conference 2021 (WebSci ’21
+Companion), June 21–25, 2021, Virtual Event, United Kingdom. ACM, New
+York, NY, USA, 6 pages. https://doi.org/10.1145/3462741.3466664
+
+1
+
+INTRODUCTION
+
+From wearable devices to smart home technology, we generate data
+constantly across most aspects of our lives [1]. As the amount of
+data collected grows exponentially over the next decade [7], new
+risks relating to ethics, privacy and security will emerge. Through
+its activities with teenagers and teachers, the project team has
+identified a significant need for a school workshop series that empowers participants to deliberate on the opportunities, issues and
+challenges presented by the ever-increasing role of AI (Artificial
+Intelligence) in our lives.
+Research shows children are vulnerable due to low awareness of
+digital privacy. Even the oldest children struggle to comprehend the
+full complexity of internet data flows and data commercialisation
+[2]. This project will combine existing resources from the project
+partners with best practice and materials from other international
+projects to address this deficit. In early 2020, ADAPT partnered with
+the Department of Education’s Junior Cycle for Teachers (JCT) unit
+to deliver workshops focused on AI and ethics that linked closely
+to learning outcomes of eight Junior Cycle subjects. These JCT
+STE(A)M6 workshops were designed around topics in STEM (Science, Technology, Engineering and Math) and the Arts to provide
+Junior Cycle teachers with learning experiences that would allow
+for interdisciplinary responses to societal challenges in subjectspecific and cross-curricular contexts. In the workshop evaluation,
+teachers called for a wider rollout of the workshops, saying “This
+needs to be compulsory for teachers. Offers great ideas and gets
+students thinking about their actions using AI” and “This is a vital
+whole-school topic as AI is in all parts of life”.
+In addition, ADAPT are a leading partner in the INTEGRITY
+H20207 project for teaching responsible research conduct to various cohorts of students across Europe through evidence-based,
+scaffolded learning. The main aim of the INTEGRITY project is to
+empower students, and also to give them the skills to deal with
+other important areas of research integrity including plagiarism,
+carrying out research as part of a larger group and reporting other
+unethical behaviour.
+ADAPT also delivered a think-in and careers seminar for female
+Transition Year (TY) students in collaboration with iWish8 in January 2020 at Trinity College Dublin (TCD). iWish is a volunteer-led
+community committed to showcasing the power of STEM to female
+secondary school students. The event ran over 4 days in Ireland
+
+2
+
+TARGET AUDIENCE
+
+‘AI in My Life’ is a novel workshop series on AI, ethics and privacy
+for Transition Year (TY) students (aged 14-15 years). The reason
+for targeting TY students is because intervention at this point (age)
+is so important in addressing gender gaps in STEM. An article by
+Delaney and Devereux [4] has found that subject choice for Leaving
+Certificate is the most important determinant and have a causal
+effect on STEM college choices. Therefore, policy interventions to
+reduce the STEM gender gap would need to be implemented when
+students are choosing Leaving Certificate subjects rather than later
+when they are considering what to study in college.
+The project will engage 500 students from DEIS9 schools that
+are economically and educationally disadvantaged backgrounds in
+reflection, dialogue and discussion around societal implications of
+emerging AI innovations. A report by Lorraine et al. [10] has found
+that the achievement gap between students in DEIS and non-DEIS
+schools is apparent in the domain of scientific literacy, just as it
+is in reading and mathematics literacies. Students attending DEIS
+schools have significantly lower mean performance in scientific
+literacy (41 points) compared to students in non-DEIS schools and
+compared to the country average. Another Report by Weir and
+Kavanagh [12] looked at an evaluation and analysis of DEIS school
+and students’ achievements and highlighted the need for a positive
+discrimination towards schools with concentrations of students
+from poor backgrounds, and that these schools should continue to
+be targeted for additional resources. The report analysis showed
+that the gap continues to narrow, however, a significant gap still
+exists, and more efforts are needed to support these underprivileged
+schools. AI in My Life workshop series is an initiative that aims to
+support these schools and narrow further the gap.
+
+3
+
+COURSE DEVELOPMENT
+
+6 https://jct.ie/steAm/steAm
+
+Co-creation and active learner involvement are demonstrated to
+improve the quality of education as it takes into consideration the
+learners needs and it also stimulates the teachers’ growth [8]. It
+has also the potential to improve the motivation as the learners
+feel engaged and empowered being actively involved in creating
+the content [3]. While co-creation tends to be explored or used
+
+8 https://www.iwish.ie/
+
+9 Delivering Equality of Opportunity in Schools
+
+7 https://h2020integrity.eu
+
+35
+
+AI in My Life: AI, Ethics & Privacy Workshop
+
+WebSci ’21 Companion, June 21–25, 2021, Virtual Event, United Kingdom
+
+more in higher education, there are examples of using co-creation
+with the purpose of creating educational materials with younger
+learners as well. For example, a nuance of co-creation was employed
+by Kumar et al. [9] in co-designing with young pupils (8-11years)
+online privacy related games and stories. One of their major findings
+was that it is important when creating privacy-related educational
+material for children to include relatable elements. Based on all this
+evidence in the literature, we have decided to adopt a co-creation
+approach in creating the educational material for the module.
+
+3.1
+
+about what apps they use the most, any privacy concerns around
+those apps, what is the usage frequency, features they love and
+use cases for various apps. In the first workshop, the participants
+will be also introduced to the Future of Privacy Forum (FPF) in a
+short talk entitled: “Who are the FPF?”. The workshop starts with
+introductions, icebreakers to get everyone comfortable and engaged
+and contains a mix of quizzes implemented with Google Forms and
+Mentimeter.com and discussions in breakout rooms.
+Workshop 2 digs deeper into the participant’s understanding of
+privacy and security. The workshop intends to gather information
+about the participants’ attitude when it comes to the tradeoff between sharing their data and the use of an app, their level of trust in
+various apps, the privacy settings they are using (if they are using
+any), the reasons for using these privacy settings and what they
+think the advantages/disadvantages of such privacy settings are
+from their perspective. The activities are a mix of quizzes and discussions around the topics above. Depending on the dynamic of the
+workshop, the plan is to also have a debate format when discussing
+advantages and disadvantages (with opposite teams: pro-team and
+cons-team). A variety of tools will be involved in the delivery of
+the workshop.
+Workshop 3 is focused mainly on the AI topic, but it also brings
+all the elements (privacy and security) together and shows their
+interaction. Some of the topics that will be covered in the workshop
+are around: deep fake videos and their opinion on these (positive
+vs negative uses, what future will bring for these videos, can they
+distinguish them), recommendation features in various apps they
+are using (what is their opinion on these, do they like them, how do
+they think these features work) and their opinion on the use of AI
+in the future (do they find AI scary?). Various AI use cases (tracking
+apps, self-driving cars, recommender systems, robots, etc.) will be
+brought into discussion. Then the workshop will include a demo
+of a prediction tool from Cambridge (empowered by AI) that uses
+social media data to build a psychological profile of the user: Apply
+Magic Sauce10 . Students will see AI in action and an interaction use
+case with the privacy of the individuals. There will be a discussion
+around this tool, privacy and security implications, and the power
+of AI. The students will have the opportunity to have hands-on
+experience with the tool.
+The workshop will be closed with a presentation and activity
+led by a representative of the National Anti-Bullying Centre11 .
+The delivery of the workshop will again involve a mix of tools,
+quizzes, polls, discussions, and hands-on experience with Apply
+Magic Sauce tool.
+
+Co-creation workshops
+
+Our methodology involves co-creation workshops with a sample of
+students and teachers that will help ensure that content and learning
+methodologies resonate with and engage the intended audience
+effectively. Prior to the workshops, the researchers involved and
+DCU Student Ambassadors were trained on how to facilitate these
+co-creation workshops for an active engagement of the learners.
+DCU Student Ambassadors were recruited from students on DCU’s
+Computing and Engineering degrees.
+These workshops are designed to feedback into the course, but
+also to foster the interest of the involved learners in AI, data and
+digital privacy and STEM in general. A total of 24 students and
+four teachers from three DCU Access linked schools are invited to
+these workshops in order to help refine application scenarios for
+discussion and select the informal learning tools (from a variety of
+existing interactive activities) that appeal to them most.
+The workshops are designed to be highly interactive and involve
+quizzes, discussions, collaborative tasks and hands-on experience
+with AI empowered tools that make sense of the digital footprint.
+Some of the main goals of the co-creation workshops are 1) to
+identify the apps mostly used by the learners, how often they use
+these apps, how they use these apps, privacy concerns about the
+apps, the features they like about them and 2) to identify their level
+of awareness about privacy and AI. In relation to the second goal,
+the workshops are designed to find out what the learners know
+about AI and privacy, what would they like to find out, is there
+anything that concerns them in relation to AI and privacy, do they
+use any privacy controls. The first goal will support us in developing
+scenarios that will resonate with them when exemplifying various
+concepts in the module developed. We envisage for instance that
+some of the features they love about the apps they are using would
+be empowered by AI (e.g., content recommendation features). The
+second goal will support us in an appropriate selection of content
+that needs to be presented to them in the context of the developed
+module.
+The co-creation workshops were designed around the aforementioned goals as a series of 3 workshops. The workshops follow a
+blended delivery due to COVID-19 restrictions. They are organized
+over Zoom as the researchers involved and DCU ambassadors were
+unable to be in the classroom with the students. The students were
+all in the classroom with their teachers. Note that the word students
+and participants are used interchangeably throughout the paper.
+Workshop 1 is the introductory workshop that focuses on discovering the apps most used by the students and getting a first glimpse
+at their privacy, security and AI awareness. This workshop aims to
+introduce the project and collect information from the participants
+
+3.2
+
+Content Development and Delivery
+
+Following the co-creation workshops, the content of the module will
+be shaped from relevant existing materials and tools and tailored
+to the needs, expectations and level of the learners. The developed
+learning content will be then delivered in a series of workshops
+with the active involvement of the researchers and DCU student
+ambassadors as well. While the content and learning methodologies
+employed will be guided by insights gained during the co-creation
+workshops, a variety of key themes have been initially identified
+10 https://applymagicsauce.com/demo
+11 http://antibullyingcentre.ie/
+
+36
+
+WebSci ’21 Companion, June 21–25, 2021, Virtual Event, United Kingdom
+
+Bendechache, et al.
+
+for delivery over 15 workshops. These key themes include an introductory workshop, a citizen think-in on AI, privacy and ethics,
+responsible research and innovation, various other data privacy
+workshops, and an AI careers and tech showcase. Especially in the
+latter theme, the researchers aim to continue to engage with the
+learners in the delivery of the content as well due to evidence in
+the literature that shows a highly positive impact on them when
+interacting with role models [11]. Noteworthy is the fact that girls
+are particularly positively impacted by the interaction with female
+role models (that will be definitely involved in the project). The
+literature shows that the girls are more attracted to a career in
+STEM following this type of interaction [6]. This is of particular
+importance considering that there are ongoing efforts to reduce the
+gender gap in STEM that is acknowledged to be a global problem
+[5].
+The learning material developed will use a blended approach
+(in person and online) for delivery during COVID-19. It will also
+enable wider use of the material developed. Teachers will attend
+train-the-trainer workshops to enable delivery, and they will have
+access to ongoing remote support for the programme’s duration.
+We estimated that the module will be delivered to approximately
+572 students from the DCU Access network of schools, however,
+the blended approach will also enable subsequent wider use of the
+material beyond DCU Access schools.
+
+4
+
+for interventions in the delivery style of the next workshops
+if the students’ feedback would indicate such a need.
+• Results of Workshop 1
+Figure 1 shows the results of the feedback collected from
+the post-workshop questionnaire about the learners’ experience in the workshop. As it can be seen, all the participants
+seemed to have enjoyed the workshop and they liked most
+the level of interaction across all the different activities of
+the workshop. Hence, the evaluation of workshop 1 in terms
+of student experience with the workshop had very positive
+results. Students indicated it to be a fun learning experience
+with a high degree of interaction. Very few comments were
+made that indicated the preference for direct contact with
+the researchers and student ambassadors, but unfortunately,
+this is not possible due to COVID19 restrictions. The instructors were very positively rated as well (56.3% excellent, 25%
+very good, 18.8% good). Following this feedback, it was concluded that no interventions were necessary for the next 2
+workshops.
+Figure 2 shows the impact of the workshop on the participants’ motivation on learning new concepts. As can be seen
+in the two figures, most participants agreed on the importance of the workshop and on motivating them to learn more
+about privacy, security and AI. We envisage that the impact
+on their motivation will be even higher at the end of the 3
+workshops.
+
+EVALUATION
+
+This section looks at the evaluation of this engagement project.
+We split the evaluation into two: the evaluation of co-creation
+workshops and the overall evaluation of the project that is mostly
+focused on evaluating the course content developed and its delivery.
+
+4.1
+
+4.2
+
+Overall Evaluation
+
+The project will employ the services of an external evaluation
+consultant to effectively evaluate this project before, during and
+after delivery. In line with international best practice, a mixedmethods evaluation approach will be adopted. The specifics of
+the evaluation plan will be determined in conjunction with the
+evaluation consultant and the co-creation workshop participants.
+The evaluation methodology will be discussed and agreed upon
+between the evaluation consultant and the researchers involved in
+the project.
+The following are the proposed metrics to evaluate the success
+of the project:
+
+Co-creation workshops evaluation
+• Pre-workshops questionnaire
+Prior to engaging in workshop 1 activities, the students were
+invited to respond to a questionnaire aimed at collecting
+some demographic information about themselves, their interest, level of knowledge and awareness in the topics, we
+focus on namely ethics, privacy, security and AI, but also
+their engagement with STEM and their interest in pursuing
+a career in STEM.
+• Post-workshops questionnaires
+The workshops will end with a questionnaire designed in a
+way to measure the impact of the workshops on the interest
+in digital privacy, security and AI, the motivation to learn
+about digital privacy, security and AI, the knowledge level
+about these concepts, the motivation of following a STEM
+career. Moreover, the questionnaires will also look at their
+experience with the co-creation workshops.
+Towards the end of workshop 1 activities, the students were
+invited to respond to another questionnaire aimed at collecting their feedback about workshop 1. They were asked to
+rate the workshop and the workshop instructors, what did
+they like and dislike about the workshop, and whether the
+workshop had an immediate effect on their motivation to
+learn more about digital privacy, security and AI. The main
+idea behind conducting this extra questionnaire was to allow
+
+• No. of students completing workshop series and no. of teachers trained to facilitate workshops in their schools.
+• Percentage (%) of students reporting enhanced confidence in
+their ability to engage in informed debate on STEM issues
+and/or having a better understanding of the role of STEM in
+their lives.
+• Percentage (%) of students reporting increased awareness of
+how to safeguard their digital privacy, security, and AI.
+• Increase in students’ propensity to consider STEM subjects
+at Senior Cycle/Third Level
+• No. of student ambassadors and researchers who report enhanced skills in public engagement.
+
+5
+
+CONCLUSION
+
+This paper introduced ‘AI in My Life’, an ongoing project that aims
+to create a novel course for TY students that will consist of workshop series on AI, ethics and privacy. More than 500 students from
+
+37
+
+AI in My Life: AI, Ethics & Privacy Workshop
+
+WebSci ’21 Companion, June 21–25, 2021, Virtual Event, United Kingdom
+
+(a) Feedback about the workshop
+
+(b) What did participants like about the workshop
+
+Figure 1: Feedback collected from the Post-workshop questionnaire.
+
+(a) Impact on learning about AI
+
+(b) Impact on learning about digital privacy and
+security
+
+Figure 2: Impact of the workshop on the participants motivation on learning new concepts
+DEIS schools that are economically, and educationally disadvantaged backgrounds will have direct access to the workshops in its
+first phase. The paper presents the methodology followed in the
+project in terms of the development of the novel course and its
+evaluation. The project adopts an innovative approach in the development of the content that actively involves the stakeholders:
+students and teachers. Co-creation workshops were designed for
+this purpose that are described in detail in this paper. Moreover,
+the paper also reports the feedback following the first such cocreation workshop. Students positively rated the workshop and
+the instructors and enjoyed the interactive nature of the event and
+the activities designed for them. The workshop also had a very
+positive impact on their motivation on learning more about privacy,
+security and AI.
+We envisage that both co-creation workshops and especially the
+novel course will improve students’ data literacy skills in terms of
+their understanding of how they generate the data, how this may
+be used by the AI-empowered solutions, the security and privacy
+of their data. Moreover, as mentioned in the evaluation section, we
+expect to see an impact on the students’ knowledge about privacy,
+security, AI, engagement and motivation to learn more about these
+topics, and an increased interest in STEM careers.
+
+ACKNOWLEDGMENTS
+This work was supported by Science Foundation Ireland through
+Discover programme grant number 20/DP/8175 and through the
+ADAPT Centre for Digital Content Technology (www.adaptcentre.ie)
+[grant number 13/RC/2106_P2] and through Lero- the Irish Software Research Centre (www.lero.ie). [grant number 13/RC/2094_2].
+
+REFERENCES
+[1] Marr Bernard. 2018. How Much Data Do We Create Every Day? The
+Mind-Blowing Stats Everyone Should Read. https://www.forbes.com/sites/
+bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mindblowing-stats-everyone-should-read/?sh=5538af9e60ba.
+[2] Livio Bioglio, Sara Capecchi, Federico Peiretti, Dennis Sayed, Antonella Torasso,
+and Ruggero G Pensa. 2018. A social network simulation game to raise awareness
+of privacy among school children. IEEE Transactions on Learning Technologies 12,
+4 (2018), 456–469.
+[3] Alison Cook-Sather, Catherine Bovill, and Peter Felten. 2014. Engaging students
+as partners in learning and teaching: A guide for faculty. John Wiley & Sons.
+[4] Judith Delaney and Paul J Devereux. 2019. It’s not just for boys! Understanding
+gender differences in STEM. SSRN: https://ssrn.com/abstract=3346348 (2019).
+[5] Alicia García-Holgado, Sonia Verdugo-Castro, Ma Cruz Sánchez-Gómez, and
+Francisco J. García-Peñalvo. 2019. Trends in Studies Developed in Europe Focused
+on the Gender Gap in STEM. In Proceedings of the XX International Conference
+on Human Computer Interaction (Donostia, Gipuzkoa, Spain) (Interacción ’19).
+Association for Computing Machinery, New York, NY, USA, 1–8. https://doi.
+org/10.1145/3335595.3335607
+
+38
+
+WebSci ’21 Companion, June 21–25, 2021, Virtual Event, United Kingdom
+
+Bendechache, et al.
+
+[6] Sarah D Herrmann, Robert Mark Adelman, Jessica E Bodford, Oliver Graudejus,
+Morris A Okun, and Virginia SY Kwan. 2016. The effects of a female role model
+on academic performance and persistence of women in STEM courses. Basic and
+Applied Social Psychology 38, 5 (2016), 258–268.
+[7] Plonetsky Jules and Renieris Elizabeth. 2020. Privacy 2020: 10 Privacy Risks
+And 10 Privacy Enhancing Technologies To Watch In The Next Decade. https:
+//fpf.org/wp-content/uploads/2020/01/FPF_Privacy2020_WhitePaper.pdf.
+[8] Karen D Könings, Serge Mordang, Frank Smeenk, Laurents Stassen, and Subha
+Ramani. 2020. Learner involvement in the co-creation of teaching and learning:
+AMEE Guide No. 138. Medical Teacher (2020), 1–13.
+[9] Priya Kumar, Jessica Vitak, Marshini Chetty, Tamara L Clegg, Jonathan Yang,
+Brenna McNally, and Elizabeth Bonsignore. 2018. Co-designing online privacyrelated games and stories with children. In Proceedings of the 17th ACM Conference
+
+on Interaction Design and Children. Association for Computing Machinery, New
+York, NY, USA, 67–79. https://doi.org/10.1145/3202185.3202735
+[10] Gilleece Lorraine, M. Nelis Sharon, Fitzgerald Caitríona, and Cosgrove Jude.
+2020. Reading, mathematics and science achievement in DEIS schools: Evidence
+from PISA 2018. https://www.erc.ie/wp-content/uploads/2020/11/ERC-DEISReport_Sept-2020_A4_Website.pdf.
+[11] Jiyun Elizabeth L Shin, Sheri R Levy, and Bonita London. 2016. Effects of role
+model exposure on STEM and non-STEM student engagement. Journal of Applied
+Social Psychology 46, 7 (2016), 410–427.
+[12] Susan Weir and Lauren Kavanagh. 2018. The evaluation of DEIS at post-primary
+level: Closing the achievement and attainment gaps. Educational Research Centre,
+Dublin, Ireland.
+
+39
+
+

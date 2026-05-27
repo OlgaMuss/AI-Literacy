@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Literacy Curriculums Mapping & Comparison</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        
+        .container {
+            max-width: 1800px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            margin: 0;
+            font-size: 2.2em;
+            font-weight: 300;
+        }
+        
+        .header p {
+            margin: 10px 0 0 0;
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .table-container {
+            overflow-x: auto;
+            padding: 20px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 11px;
+        }
+        
+        th {
+            background-color: #4a5568;
+            color: white;
+            padding: 10px 5px;
+            text-align: left;
+            font-weight: 600;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        
+        td {
+            padding: 8px 5px;
+            border-bottom: 1px solid #e2e8f0;
+            vertical-align: top;
+            line-height: 1.4;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        
+        tr:hover {
+            background-color: #e6fffa;
+        }
+
+        .priority-high {
+            background-color: #c6f6d5 !important;
+        }
+
+        .priority-medium-high {
+            background-color: #e6ffed !important;
+        }
+
+        .priority-medium {
+            background-color: #fef9c3 !important;
+        }
+
+        .priority-low {
+            background-color: #fce7f3 !important;
+        }
+
+        .priority-high:hover {
+            background-color: #9ae6b4 !important;
+        }
+
+        .priority-medium-high:hover {
+            background-color: #c6f6d5 !important;
+        }
+
+        .priority-medium:hover {
+            background-color: #fef08a !important;
+        }
+
+        .priority-low:hover {
+            background-color: #fbcfe8 !important;
+        }
+        
+        .curriculum-name {
+            font-weight: bold;
+            color: #2d3748;
+            font-size: 12px;
+        }
+        
+        .curriculum-name a {
+            color: #2c3e50;
+            text-decoration: none;
+            border-bottom: 1px dotted #2c3e50;
+        }
+        
+        .curriculum-name a:hover {
+            color: #3498db;
+            border-bottom: 1px solid #3498db;
+        }
+        
+        .check { color: #38a169; font-weight: bold; }
+        .cross { color: #e53e3e; font-weight: bold; }
+        .partial { color: #dd6b20; font-weight: bold; }
+        
+        .summary-stats {
+            background-color: #f7fafc;
+            padding: 15px;
+            margin: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #2c3e50;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+            gap: 10px;
+        }
+        
+        .stat-item {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 1.4em;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .stat-label {
+            color: #4a5568;
+            font-size: 0.75em;
+        }
+        
+        .footer {
+            background-color: #2d3748;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-size: 0.85em;
+        }
+
+        .framework-tag {
+            background-color: #edf2f7;
+            padding: 1px 4px;
+            border-radius: 3px;
+            font-size: 9px;
+            color: #4a5568;
+            display: inline-block;
+            margin: 1px;
+        }
+
+        .format-tag {
+            display: inline-block;
+            padding: 1px 3px;
+            margin: 1px;
+            border-radius: 2px;
+            font-size: 8px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        .format-h { background-color: #ebf8ff; color: #2c5282; border: 1px solid #bee3f8; }
+        .format-l { background-color: #f0fff4; color: #22543d; border: 1px solid #c6f6d5; }
+        .format-v { background-color: #fff5f5; color: #742a2a; border: 1px solid #fed7d7; }
+
+        .target-audience { font-size: 10px; color: #4a5568; }
+        .duration-text { font-size: 10px; color: #718096; white-space: nowrap; }
+        
+        .level-badge {
+            font-size: 9px;
+            font-weight: bold;
+            color: #4a5568;
+            background: #e2e8f0;
+            padding: 1px 4px;
+            border-radius: 4px;
+        }
+
+        .references {
+            text-align: left;
+            margin-top: 20px;
+            padding: 20px;
+            background-color: rgba(255,255,255,0.1);
+        }
+
+        .references h3 {
+            margin-top: 0;
+            font-size: 1.1em;
+        }
+
+        .references ol {
+            font-size: 0.85em;
+            line-height: 1.8;
+            padding-left: 20px;
+        }
+
+        .references li {
+            margin-bottom: 8px;
+        }
+
+        .references a {
+            color: #90cdf4;
+            text-decoration: underline;
+        }
+
+        .references a:hover {
+            color: #bee3f8;
+        }
+
+        sup a {
+            font-size: 0.8em;
+            color: #3182ce;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>AI Literacy Curriculum Comparison</h1>
+            <p>Mapping Goals, Recommendations, and Content Depth Across 13 Programs</p>
+        </div>
+        
+        <div class="summary-stats">
+            <h3 style="margin-top: 0; color: #2d3748; font-size: 1em;">Analysis Overview</h3>
+            <div class="stats-grid">
+                <div class="stat-item"><div class="stat-number">13</div><div class="stat-label">Curriculums</div></div>
+                <div class="stat-item"><div class="stat-number">10</div><div class="stat-label">With Frameworks</div></div>
+                <div class="stat-item"><div class="stat-number">12</div><div class="stat-label">Address Bias</div></div>
+                <div class="stat-item"><div class="stat-number">13</div><div class="stat-label">Ethics Focused</div></div>
+            </div>
+        </div>
+        
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 120px;">Curriculum & Audience</th>
+                        <th style="width: 50px;">Year</th>
+                        <th style="width: 60px;">Age Group</th>
+                        <th style="width: 60px;">Duration</th>
+                        <th style="width: 150px;">Curriculum Goals</th>
+                        <th style="width: 250px;">Description</th>
+                        <th style="width: 120px;">LLM Coverage</th>
+                        <th style="width: 80px;">Level</th>
+                        <th style="width: 40px;">Hal.</th>
+                        <th style="width: 40px;">Bias</th>
+                        <th style="width: 40px;">Ethics</th>
+                        <th style="width: 100px;">Tech Aspects</th>
+                        <th style="width: 100px;">Decision Framework</th>
+                        <th style="width: 100px;">UNESCO Framework Alignment</th>
+                        <th style="width: 100px;">UNICEF Prep (Rec 8)</th>
+                        <th style="width: 100px;">EveryoneAI Risks Warning</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- GREEN: Age 13-14 + LLMs + Hallucinations -->
+                    <tr class="priority-high">
+                        <td>
+                            <div class="curriculum-name"><a href="https://www.berlin.de/sen/bildung/unterricht/medienbildung/ki-auftraege/" target="_blank" rel="noopener">Berlin KI-Aufträge</a></div>
+                            <div class="target-audience">German Secondary</div>
+                        </td>
+                        <td>2021-2024<sup><a href="#ref3" style="text-decoration:none;">3</a></sup></td>
+                        <td>10-19</td>
+                        <td class="duration-text">Missions</td>
+                        <td>Practical AI tool exploration; recognizing hallucinations.</td>
+                        <td>Research-based project work; investigating real-world cases. Mission-based; focuses on tool interaction and investigation.</td>
+                        <td><span class="check">Yes</span> - Chatbots, hallucinations, text generation</td>
+                        <td><span class="level-badge">Intermediate</span></td>
+                        <td class="check">Yes</td>
+                        <td class="check">Yes</td>
+                        <td class="partial">Medium</td>
+                        <td>Tool Exploration</td>
+                        <td><span class="framework-tag">Mission-based</span></td>
+                        <td><span class="framework-tag">Medium</span> Focus on Applications; Apply level.</td>
+                        <td class="check">Yes</td>
+                        <td class="partial">Partial (Cognitive risks of tools)</td>
+                    </tr>
+                    <!-- LIGHT GREEN: Age 13-14 + LLMs + Hallucinations -->
+                    <tr class="priority-high">
+                        <td>
+                            <div class="curriculum-name"><a href="http://dayofai.org/curriculum" target="_blank" rel="noopener">Day of AI - Brain Behind the Bot</a></div>
+                            <div class="target-audience">Ages 12-18</div>
+                        </td>
+                        <td>2025<sup><a href="#ref13" style="text-decoration:none;">13</a></sup></td>
+                        <td>12-18</td>
+                        <td class="duration-text">4 Lessons</td>
+                        <td>Understand how chatbots work, explore bias in AI, and establish responsible AI use norms.</td>
+                        <td>Explores NLP, LLMs, machine learning. Students learn how chatbots predict language, make mistakes (hallucinations), and how bias appears in responses. Includes establishing classroom norms for AI use.</td>
+                        <td><span class="check">Yes</span> - Chatbots, NLP, LLMs, hallucinations explicitly covered</td>
+                        <td><span class="level-badge">Intermediate</span></td>
+                        <td class="check">Yes</td>
+                        <td class="check">High</td>
+                        <td class="check">High</td>
+                        <td>NLP, LLMs, ML</td>
+                        <td><span class="framework-tag">Classroom Norms</span></td>
+                        <td><span class="framework-tag">High</span> Focus on chatbots, bias, and responsible use.</td>
+                        <td class="check">Yes</td>
+                        <td class="check">Yes (AI mistakes and bias)</td>
+                    </tr>
+                    <!-- LIGHT GREEN: Age 13-14 + LLMs (no explicit hallucinations) -->
+                    <tr class="priority-medium-high">
+                        <td>
+                            <div class="curriculum-name"><a href="https://raise.mit.edu/daily/" target="_blank" rel="noopener">MIT DAILy</a></div>
+                            <div class="target-audience">Middle School (6-8)</div>
+                        </td>
+                        <td>2023<sup><a href="#ref2" style="text-decoration:none;">2</a></sup></td>
+                        <td>11-14</td>
+                        <td class="duration-text">Modular</td>
+                        <td>Intro to AI mechanics, algorithms as opinions, and AI careers.</td>
+                        <td>Decision trees, bias investigation, supervised ML. Focus on YouTube redesign project and ethical matrices.</td>
+                        <td><span class="cross">No</span> - Core curriculum focuses on ML/bias, not LLMs</td>
+                        <td><span class="level-badge">Introductory</span></td>
+                        <td class="cross">No</td>
+                        <td class="check">High</td>
+                        <td class="check">High</td>
+                        <td>Neural Nets, Decision Trees</td>
+                        <td><span class="framework-tag">YouTube Redesign</span></td>
+                        <td><span class="framework-tag">Strong</span> Strong on Techniques & Applications; Create level reached.</td>
+                        <td class="check">Strong</td>
+                        <td class="check">Yes (Cognitive/Social via YouTube case)</td>
+                    </tr>
+                    <tr class="priority-medium-high">
+                        <td>
+                            <div class="curriculum-name"><a href="https://www.commonsense.org/education/collections/ai-literacy-lessons-for-grades-6-12" target="_blank" rel="noopener">Common Sense Media</a></div>
+                            <div class="target-audience">Grades 6-12</div>
+                        </td>
+                        <td>2023<sup><a href="#ref4" style="text-decoration:none;">4</a></sup></td>
+                        <td>11-18</td>
+                        <td class="duration-text">15-45 min</td>
+                        <td>Define AI/GenAI; reflect on personal benefits and drawbacks.</td>
+                        <td>Short, accessible lessons; focus on digital citizenship. Time-limited snapshots; focused on high-level definitions.</td>
+                        <td><span class="check">Yes</span> - GenAI, chatbots, text/image/audio generation, plagiarism</td>
+                        <td><span class="level-badge">Introductory</span></td>
+                        <td class="cross">No</td>
+                        <td class="partial">Partial</td>
+                        <td class="partial">Medium</td>
+                        <td>GenAI Concepts</td>
+                        <td><span class="framework-tag">Benefits/Drawbacks</span></td>
+                        <td><span class="framework-tag">Medium</span> Understand level focus on Ethics & Impact.</td>
+                        <td class="check">Yes</td>
+                        <td class="check">Yes (Social/Emotional reflection)</td>
+                    </tr>
+                    <tr class="priority-medium-high">
+                        <td>
+                            <div class="curriculum-name"><a href="https://www.aiedu.org/" target="_blank" rel="noopener">aiEDU</a></div>
+                            <div class="target-audience">Grades 6-12 / Educators</div>
+                        </td>
+                        <td>2024<sup><a href="#ref5" style="text-decoration:none;">5</a></sup></td>
+                        <td>11-18+</td>
+                        <td class="duration-text">Flexible</td>
+                        <td>Build AI Readiness; prepare for workforce disruption by 2030.</td>
+                        <td>3-Criteria Framework (Purpose, Privacy, Practicality); Lead with Human Advantage. Snapshot-centric; wide amount of concepts integrated into subjects.</td>
+                        <td><span class="check">Yes</span> - GenAI tools, prompting, ethical use, limitations</td>
+                        <td><span class="level-badge">Comprehensive</span></td>
+                        <td class="cross">No</td>
+                        <td class="check">High</td>
+                        <td class="check">High</td>
+                        <td>AP CSP, ML Basics</td>
+                        <td><span class="framework-tag">3-Criteria</span></td>
+                        <td><span class="framework-tag">Strong</span> Covers Techniques, Ethics & Mindset.</td>
+                        <td class="check">Strong</td>
+                        <td class="check">Yes (Human Advantage vs AI)</td>
+                    </tr>
+                    <tr class="priority-medium-high">
+                        <td>
+                            <div class="curriculum-name"><a href="https://www.ai4ga.org/" target="_blank" rel="noopener">Georgia AI4GA</a></div>
+                            <div class="target-audience">High School</div>
+                        </td>
+                        <td>2023-2024<sup><a href="#ref6" style="text-decoration:none;">6</a></sup></td>
+                        <td>14-18</td>
+                        <td class="duration-text">Full Sem.</td>
+                        <td>Comprehensive study of autonomous systems, NLP, and decision making.</td>
+                        <td>Project-based learning (e.g. Dream Bot); Unit 3 Decision Making. Full semester; high amount of concepts across 3 large units.</td>
+                        <td><span class="check">Yes</span> - NLP, chatbots, language models</td>
+                        <td><span class="level-badge">Advanced</span></td>
+                        <td class="cross">No</td>
+                        <td class="check">Yes</td>
+                        <td class="partial">Medium</td>
+                        <td>Robotics, Perception</td>
+                        <td><span class="framework-tag">Unit 3 Framework</span></td>
+                        <td><span class="framework-tag">Very High</span> Deep Techniques & System Design; Create level.</td>
+                        <td class="check">Strong</td>
+                        <td class="partial">Partial (Decision making impacts)</td>
+                    </tr>
+                    <!-- YELLOW: Age 13-14 only (no LLMs or limited LLMs) -->
+                    <tr class="priority-medium">
+                        <td>
+                            <div class="curriculum-name"><a href="https://enaris.org" target="_blank" rel="noopener">ENARIS (EPFL)</a></div>
+                            <div class="target-audience">Secondary (14-18)</div>
+                        </td>
+                        <td>2022<sup><a href="#ref7" style="text-decoration:none;">7</a></sup></td>
+                        <td>14-18</td>
+                        <td class="duration-text">Modular</td>
+                        <td>Educate on possibilities, limitations, and inner workings of AI.</td>
+                        <td>Distinguish algorithmic vs societal bias; modular exercise completion. Deep-dive modules; high concept density (NN, RL, CV).</td>
+                        <td><span class="partial">Partial</span> - NLP covered, limited GenAI focus</td>
+                        <td><span class="level-badge">Advanced</span></td>
+                        <td class="cross">No</td>
+                        <td class="check">High</td>
+                        <td class="check">High</td>
+                        <td>Neural Nets, CV, NLP</td>
+                        <td><span class="framework-tag">Possibilities/Limits</span></td>
+                        <td><span class="framework-tag">Very High</span> Extensive Techniques & Apps coverage.</td>
+                        <td class="check">Strong</td>
+                        <td class="partial">Partial</td>
+                    </tr>
+                    <tr class="priority-medium">
+                        <td>
+                            <div class="curriculum-name"><a href="https://www.media.mit.edu/projects/ai-ethics-for-middle-school/overview/" target="_blank" rel="noopener">MIT AI Ethics</a></div>
+                            <div class="target-audience">Advanced HS</div>
+                        </td>
+                        <td>2019-2022<sup><a href="#ref9" style="text-decoration:none;">9</a></sup></td>
+                        <td>10-18</td>
+                        <td class="duration-text">Modular</td>
+                        <td>Understand mechanics; recognize systems as socio-technical and non-neutral.</td>
+                        <td>Construct ethical matrices; collaborative classroom AI usage norms. Activity-centric; moderate amount of deep ethical concepts.</td>
+                        <td><span class="partial">Partial</span> - Pre-LLM core, updated with GenAI considerations</td>
+                        <td><span class="level-badge">Intermediate</span></td>
+                        <td class="check">Yes</td>
+                        <td class="check">High</td>
+                        <td class="check">High</td>
+                        <td>Classification, ML</td>
+                        <td><span class="framework-tag">Classroom Norms</span></td>
+                        <td><span class="framework-tag">Very High</span> Leading on Ethics & Mindset.</td>
+                        <td class="check">Strong</td>
+                        <td class="check">Yes (Socio-technical impact)</td>
+                    </tr>
+                    <tr class="priority-medium">
+                        <td>
+                            <div class="curriculum-name"><a href="https://ai4k12.org/" target="_blank" rel="noopener">AI4K12</a></div>
+                            <div class="target-audience">K-12</div>
+                        </td>
+                        <td>2018-2021<sup><a href="#ref1" style="text-decoration:none;">1</a></sup></td>
+                        <td>5-18</td>
+                        <td class="duration-text">Flexible</td>
+                        <td>Establish K-12 standards via 5 Big Ideas: Perception, Learning, Representation, Interaction, and Impact.</td>
+                        <td>Framework for age-appropriate progression; focus on ethical design and sensory perception. Framework-centric; covers foundational AI mechanics across all grade bands.</td>
+                        <td><span class="cross">No</span> - Pre-LLM era framework</td>
+                        <td><span class="level-badge">Foundational</span></td>
+                        <td class="cross">No</td>
+                        <td class="partial">Partial</td>
+                        <td class="partial">Medium</td>
+                        <td>5 Big Ideas</td>
+                        <td class="cross">None</td>
+                        <td><span class="framework-tag">High</span> Covers 5 Big Ideas; focus on Perception & Impact.</td>
+                        <td class="check">Yes</td>
+                        <td class="partial">Partial (Social impact covered)</td>
+                    </tr>
+                    <!-- PINK: Wrong age group -->
+                    <tr class="priority-low">
+                        <td>
+                            <div class="curriculum-name"><a href="https://www.adaptcentre.ie/projects/ai-in-my-life/" target="_blank" rel="noopener">AI Adapt (Gillian Barber)</a></div>
+                            <div class="target-audience">Secondary (TY)</div>
+                        </td>
+                        <td>2021<sup><a href="#ref8" style="text-decoration:none;">8</a></sup></td>
+                        <td>15-16</td>
+                        <td class="duration-text">1-1.5 hrs</td>
+                        <td>Career exploration, dual skilling in AI, navigating course options.</td>
+                        <td>Multidisciplinary approach; initial search for 3rd level courses. Career-centric modules; small amount of foundational terms.</td>
+                        <td><span class="cross">No</span> - Pre-LLM era, ML basics focus</td>
+                        <td><span class="level-badge">Introductory</span></td>
+                        <td class="cross">No</td>
+                        <td class="check">Yes</td>
+                        <td class="check">High</td>
+                        <td>ML Basics, Careers</td>
+                        <td><span class="framework-tag">Role in Life</span></td>
+                        <td><span class="framework-tag">Medium</span> Focus on Mindset & Careers.</td>
+                        <td class="check">Yes</td>
+                        <td class="partial">Partial (Career focus)</td>
+                    </tr>
+                    <tr class="priority-low">
+                        <td>
+                            <div class="curriculum-name"><a href="https://www.adaptcentre.ie/projects/ai-in-my-life/" target="_blank" rel="noopener">AI in My Life Workshops</a></div>
+                            <div class="target-audience">15-16 year olds</div>
+                        </td>
+                        <td>2021<sup><a href="#ref8" style="text-decoration:none;">8</a></sup></td>
+                        <td>15-16</td>
+                        <td class="duration-text">2-4 hrs</td>
+                        <td>Uncover ethical and privacy implications; evaluate society's role.</td>
+                        <td>Data control tips; hands-on workshop interaction. Activity-dense workshops; focus on ethics and privacy.</td>
+                        <td><span class="cross">No</span> - Pre-LLM era, facial recognition & ML focus</td>
+                        <td><span class="level-badge">Intermediate</span></td>
+                        <td class="cross">No</td>
+                        <td class="check">Yes</td>
+                        <td class="check">High</td>
+                        <td>Facial Rec, ML</td>
+                        <td><span class="framework-tag">Data Control</span></td>
+                        <td><span class="framework-tag">High</span> Strong Ethics & Human Mindset focus.</td>
+                        <td class="check">Yes</td>
+                        <td class="check">Yes (Privacy/Social risks)</td>
+                    </tr>
+                    <tr class="priority-low">
+                        <td>
+                            <div class="curriculum-name"><a href="https://ctl.duke.edu/ai-ethics-learning-toolkit/" target="_blank" rel="noopener">Duke Learning Innovation</a></div>
+                            <div class="target-audience">Higher Ed</div>
+                        </td>
+                        <td>2025<sup><a href="#ref10" style="text-decoration:none;">10</a></sup></td>
+                        <td>18+</td>
+                        <td class="duration-text">Modular</td>
+                        <td>Critically analyze AI harm vs benefit; emphasize critical thinking.</td>
+                        <td>Use 11 critical questions ("Do We Need AI?"); evaluate accuracy. Discussion-heavy; focuses on few but deep philosophical concepts.</td>
+                        <td><span class="check">Yes</span> - GenAI, LLMs, misinformation, accuracy evaluation</td>
+                        <td><span class="level-badge">Advanced</span></td>
+                        <td class="check">Yes</td>
+                        <td class="check">High</td>
+                        <td class="check">High</td>
+                        <td>Glossary, Concepts</td>
+                        <td><span class="framework-tag">Critical Questioning</span></td>
+                        <td><span class="framework-tag">Medium</span> Ethics & Mindset focused for Higher Ed.</td>
+                        <td>N/A (Higher Ed)</td>
+                        <td class="check">Yes (Harm vs benefit)</td>
+                    </tr>
+                    <tr class="priority-low">
+                        <td>
+                            <div class="curriculum-name"><a href="https://aipedagogy.org/" target="_blank" rel="noopener">AI Pedagogy (Harvard)</a></div>
+                            <div class="target-audience">Higher Ed</div>
+                        </td>
+                        <td>2023<sup><a href="#ref11" style="text-decoration:none;">11</a></sup></td>
+                        <td>18+</td>
+                        <td class="duration-text">Flexible</td>
+                        <td>Critical engagement with AI journalism and pedagogical methods.</td>
+                        <td>Avoid 18 pits of AI journalism; Socratic questioning of bots. Resource-centric; focused on pedagogical application.</td>
+                        <td><span class="check">Yes</span> - LLMs, chatbots, prompting, limitations, journalism pitfalls</td>
+                        <td><span class="level-badge">Advanced</span></td>
+                        <td class="cross">No</td>
+                        <td class="check">Yes</td>
+                        <td class="check">High</td>
+                        <td>Socratic Methods</td>
+                        <td><span class="framework-tag">Playtesting Limits</span></td>
+                        <td><span class="framework-tag">Medium</span> Focus on pedagogical applications & Ethics.</td>
+                        <td>N/A (Higher Ed)</td>
+                        <td class="check">Yes (Journalism pitfalls)</td>
+                    </tr>
+                    <tr class="priority-low">
+                        <td>
+                            <div class="curriculum-name"><a href="https://www.toddleapp.com/learn/ai-literacy-skills/about-the-course/" target="_blank" rel="noopener">Toddle AI 101</a></div>
+                            <div class="target-audience">K-12 Educators</div>
+                        </td>
+                        <td>2023<sup><a href="#ref12" style="text-decoration:none;">12</a></sup></td>
+                        <td>Adults</td>
+                        <td class="duration-text">8 Lessons</td>
+                        <td>Develop computational thinking and self/social awareness with AI.</td>
+                        <td>"Gray Area Sort" for ethical decisions; FAB and SAMR frameworks. Lesson-centric; covers 8 core skills systematically.</td>
+                        <td><span class="check">Yes</span> - GenAI tools, prompting, classroom integration</td>
+                        <td><span class="level-badge">Intermediate</span></td>
+                        <td class="partial">Partial</td>
+                        <td class="check">Yes</td>
+                        <td class="check">High</td>
+                        <td>Comp. Thinking</td>
+                        <td><span class="framework-tag">Gray Area Sort</span></td>
+                        <td><span class="framework-tag">High</span> Strong Mindset & Ethics for educators.</td>
+                        <td class="check">Yes</td>
+                        <td class="check">Yes (Social/Self Awareness)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="footer">
+            <p>Data extracted from AI Readiness Framework v2.0, MIT AI Ethics Guide, and Georgia AI4GA materials.</p>
+            <p>Elicit removed (research report). fobizz removed per user request.</p>
+            
+            <div class="references">
+                <h3>References for Development Years</h3>
+                <ol>
+                    <li id="ref1">AI4K12 Initiative began in 2018 (NSF Grant DRL-1846073); major publication "Artificial Intelligence Thinking in K-12" by Touretzky & Gardner-McCune published in 2021. Source: <a href="https://ai4k12.org/" target="_blank">ai4k12.org</a></li>
+                    <li id="ref2">MIT DAILy curriculum featured in New York Times, February 6, 2023. Source: <a href="https://education.mit.edu/press/daily-ai-curriculum-and-step-researchers-in-the-ny-times" target="_blank">MIT Education</a></li>
+                    <li id="ref3">Berlin KI-Aufträge curriculum materials initially developed January 2021, with ongoing updates through 2024. Source: KI-Aufträge.pdf, Berlin Senatsverwaltung für Bildung, Jugend und Familie</li>
+                    <li id="ref4">Common Sense Media AI Literacy Lessons for Grades 6-12 developed 2023; AI Toolkit for School Districts released June 4, 2025. Source: <a href="https://www.commonsense.org/education/collections/ai-literacy-lessons-for-grades-6-12" target="_blank">Common Sense Media</a></li>
+                    <li id="ref5">aiEDU: The AI Education Project unveiled curriculum and learning products on December 11, 2024. Source: <a href="https://www.prnewswire.com/news-releases/aieduthe-ai-education-project-unveils-classroom-learning-products-and-professional-development-programs-to-build-ai-readiness-302328742.html" target="_blank">PR Newswire, December 14, 2024</a></li>
+                    <li id="ref6">Georgia AI4GA co-design process presented at SIGCSE March 2023; public announcement May 21, 2024. Source: <a href="https://news.gatech.edu/news/2024/05/21/ai4ga-lays-groundwork-nsf-funded-nationwide-k-12-ai-curriculum" target="_blank">Georgia Tech News</a></li>
+                    <li id="ref7">ENARIS curriculum associated with Roteco research published August 25, 2022 in Frontiers in Education. Source: <a href="https://infoscience.epfl.ch/" target="_blank">EPFL Infoscience</a></li>
+                    <li id="ref8">"AI in My Life" programme published at WebSci '21 (13th ACM Web Science Conference), June 21-25, 2021. Source: <a href="https://doras.dcu.ie/26045/" target="_blank">DORAS DCU Repository</a></li>
+                    <li id="ref9">MIT AI Ethics Education Curriculum: Original version published August 2019 by Blakeley H. Payne; expanded project-based curricula published through 2022 including "AI + Ethics Curricula for Middle School Youth" (International Journal of Artificial Intelligence in Education, August 2022). Source: <a href="https://thecenter.mit.edu/wp-content/uploads/2020/07/MIT-AI-Ethics-Education-Curriculum.pdf" target="_blank">MIT Center</a> and <a href="https://www.media.mit.edu/publications/ijaied-ai-ethics-for-middle-school/" target="_blank">MIT Media Lab</a></li>
+                    <li id="ref10">Duke Learning Innovation AI Ethics Toolkit launched Spring 2025. Source: <a href="https://lile.duke.edu/blog/2025/08/announcing-dukes-ai-ethics-learning-toolkit/" target="_blank">Duke LILE</a></li>
+                    <li id="ref11">AI Pedagogy Project launched November 16, 2023 by Harvard's metaLAB. Source: <a href="https://cyber.harvard.edu/story/2023-11/harvards-metalab-introduces-ai-pedagogy-project" target="_blank">Berkman Klein Center</a></li>
+                    <li id="ref12">Toddle AI launched in 2023; AI 2.0 announced January 31, 2024. Source: <a href="https://www.toddleapp.com/learn/blog-post/toddle-demo-day-ib-jan24/" target="_blank">Toddle Blog</a></li>
+                    <li id="ref13">Day of AI "Brain Behind the Bot" curriculum developed 2025 by MIT Media Lab (Isabella Pu, Graduate Research Assistant) and Day of AI team. Covers chatbots, NLP, LLMs, and hallucinations for ages 12-18. Source: <a href="http://dayofai.org/curriculum" target="_blank">Day of AI</a></li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

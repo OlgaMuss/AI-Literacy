@@ -1,0 +1,186 @@
+WHAT WE DO ▽
+
+Home
+
+AI Ethics Learning Toolkit
+
+BLOG
+
+SEARCH
+
+CONTACT US
+
+EVENTS
+
+RESOURCES
+
+SUBSCRIBE
+
+ABOUT US ▽
+
+Does AI Harm Critical Thinking
+
+AI ETHICS LEARNING TOOLKIT
+
+Does AI Harm Critical
+Thinking?
+Exploring Critical Thinking and Overreliance
+
+“[AI] could completely reorient our relationship to knowledge, prioritizing rapid,
+detailed, abridged answers over a deep understanding and the consideration of
+varied sources and viewpoints.”
+– Matteo Wong, technology journalist at The Atlantic
+
+Artificial intelligence is increasingly integrated into critical thinking and
+decision-making across research, government, and industry. While AI
+enables rapid data analysis at an unprecedented speed and scale,
+overreliance on AI can erode an individual’ s critical thinking skills. In the
+higher education context, researchers have found that university students
+who use Large Language Models (LLMs) to complete writing and research
+tasks experienced reduced cognitive load but demonstrated poorer
+reasoning and argumentation skills compared to those students using
+
+traditional search methods. Another research study found that students
+using LLMs focused on a narrower set of ideas, resulting in more biased
+and superficial analyses. Critical thinking–characterized by evaluation of
+information, questioning of assumptions, and formation of independent
+judgments–remains a uniquely human skill that AI cannot fully replicate.
+Instead of serving as a replacement for human reasoning, AI should
+function as a tool to enhance it. Students need to be aware of AI’s
+limitations, biases, and errors, ensuring they do not outsource their
+judgment to AI-generated content uncritically.
+
+Learning Activities
+
+Conversation Starters A Few Questions to Get the
+Discussion Going
+
+What does ‘critical thinking’ mean to you? Do you think AI will
+become capable of ‘critical thinking,’ or is it something uniquely
+human?
+In what ways could overreliance on AI harm our critical thinking
+skills in school or at work? Reflect on your own experiences with AI
+when considering the question.
+What strategies could students use to balance the benefits of AI
+with the need to develop their own critical thinking skills?
+How do you evaluate the accuracy of AI-generated information?
+What strategies do you use to factcheck?
+
+Active Learning with AI Fun Ways to Explore AI’s
+Strengths and Limitations
+
+Students compare AI-generated summaries or arguments with
+ones they (or a peer) create and discuss di"erences in depth,
+nuance, and accuracy. Reflect on your own writing process. How
+does your writing and thinking process compare to what AI is
+doing?
+Students use AI to generate answers to complex questions, then
+cross-check with scholarly sources, identifying inconsistencies or
+biases. What did you discover? What was your process for checking
+the chatbot’s response?
+Have students prompt AI to generate arguments for and against a
+controversial topic, then evaluate the reasoning and missing
+nuances. How might your own biases, or views, impact your
+evaluation?
+No AI Alternative: Provide students with two versions of an
+argument (one AI-generated, one human-generated) without
+revealing the source. Discuss which one they found more
+convincing and why.
+
+Disciplinary Extensions Ideas for Exploring AI’s Impact in
+Specific Fields
+
+Writing: Engage with a chatbot as a writing partner for an
+assignment. Reflect on the process: what role did you play in
+guiding the chatbot? How did the chatbot’s suggestions influence
+your writing? How di"erent would it be to engage with a
+student/peer reviewer, as compared to a chatbot?
+Philosophy & Ethics: Explore whether reliance on AI undermines
+
+autonomy and personal responsibility in decision-making
+Media & Journalism: Examine how AI-generated misinformation
+influences public opinion
+Psychology & Neuroscience: Explore how the brain regions
+associated with trust and decision-making respond to AI-generated
+information and study whether AI can assist in reducing cognitive
+overload or, paradoxically, increase individuals’ dependency and
+make them less capable of handling complex decisions without AI
+intervention. Relevant readings: Kosmyna et al. and Stadler et al.
+
+Resources
+Kim, L. (2025, January 13). I over relied on AI and those shortcuts cost me | HackerNoon. [Blog article]
+
+Wong, M. (2024, November 8). AI is killing the internet’s curiosity. The Atlantic. [Magazine article]
+Hedrih, V. (2024, September 17). Study finds ChatGPT eases students’ cognitive load, but at the expense
+of critical thinking. Psychology News. [News article]
+
+Scholarly
+Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I., & Maes, P.
+(2025, June 10). Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for
+essay writing task. arXiv. [Preprint]
+Stadler, M., Bannert, M., & Sailer, M. (2024). Cognitive ease at a cost: LLMs reduce mental e"ort but
+compromise depth in student scientific inquiry. Computers in Human Behavior, 160, 108386. [Journal
+article]
+Lee, H.-P. et al. (2025, April 1). The impact of generative AI on critical thinking: Self-reported reductions in
+cognitive e!ort and confidence e!ects from a survey of knowledge workers. Proceedings of the ACM CHI
+Conference on Human Factors in Computing Systems. [Report]
+Zhou, E., & Lee, D. (2024). Generative artificial intelligence, human creativity, and art. PNAS Nexus, 3(3),
+pg 052. [Article]
+Zirar, A. (2023). Exploring the impact of language models, such as ChatGPT, on student learning and
+assessment.Review of Education, 11(3), e3433. [Journal article]
+
+Recommendations
+Related topics → Can we trust AI? Does AI spread mis/disinfo?
+AI Pedagogy Project (Harvard) Assignments → Filter by theme (e.g. misinformation) and/or subject (e.g.
+ethics & philosophy)
+
+1. Wong, M. (2024, November 8). AI Is Killing the Internet’s Curiosity. The Atlantic.
+2. Stadler, M., Bannert, M., & Sailer, M. (2024). Cognitive ease at a cost: LLMs reduce mental e"ort but
+compromise depth in student scientific inquiry. Computers in Human Behavior, 160, 108386.
+3. Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I., & Maes, P.
+(2025, June 10). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay
+Writing Task. arXiv.Org. https://arxiv.org/abs/2506.08872v1
+
+PHYSICAL LOCATION
+The Erwin Square Mill Building
+2024 West Main Street
+
+BROWSE
+What We Do
+About
+
+Durham, NC 27705
+
+MAILING ADDRESS
+Box 90700
+
+Blog
+Contact Us
+Events
+
+Durham, NC 27708
+
+Directions
+
+CONTACT US
+
+Resources
+
+Phone: (919) 660-5806
+Email:
+
+Newsletter Signup
+
+learninginnovation@duke.edu
+
+CONNECT
+WITH US
+SUPPORT OUR
+WORK
+Donate to Duke
+Learning Innovation &
+Lifetime Education
+
+Copyright © 2025 Duke Learning Innovation & Lifetime Education
+
+

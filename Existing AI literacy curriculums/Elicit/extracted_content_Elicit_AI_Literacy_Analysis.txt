@@ -1,0 +1,810 @@
+What are existing open source and free AI literacy curriculums for primary,
+secondary and high schools? Which countries, language and age group they
+cover? what knowledge, competences, skills? How many cover Ethical AI and
+risks & benefits of AI?
+Ten open source or free AI literacy curricula for K-12 education have been identified, with coverage across all school
+levels (primary through high school), originating primarily from the US and Spanish-speaking countries, teaching
+machine learning and programming skills through hands-on methods, and universally including AI ethics content
+with most addressing bias, societal impacts, and AI risks.
+
+Abstract
+Ten open source or free AI literacy curricula for school learners appear in the literature. The studies report curricula
+designed for primary, middle, and high school students. Specifically, three curricula target primary students, six
+target middle schoolers, and six target high school students—with some spanning multiple levels. Four curricula
+originate in the United States, three in Spain (or Spanish‑speaking contexts), one in Australia, one in Europe, and
+two provide global or unspecified geographic coverage. Six curricula use English, two use Spanish, and two do not
+specify a primary language. One curriculum (Hollands & Breazeal, 2024) is explicitly available under a Creative
+Commons license; several others imply open or free status, while five do not mention it.
+The curricula address technical and conceptual content that includes machine learning (in five studies) and programming using tools such as Scratch or AppInventor (in three studies). They integrate hands‑on projects, workshops,
+and group activities to develop practical competencies alongside conceptual learning. All studies describe coverage
+of AI ethics—nine curricula include content on ethical use, bias, and societal impact—while seven address risks such
+as misinformation, bias, or legal and sustainability concerns. These findings delineate the current landscape of AI
+literacy resources for primary to high school education.
+
+Paper search
+Using your research question ”What are existing open source and free AI literacy curriculums for primary, secondary
+and high schools? Which countries, language and age group they cover? what knowledge, competences, skills? How
+many cover Ethical AI and risks & benefits of AI?”, we searched across over 126 million academic papers from the
+Semantic Scholar corpus. We retrieved the 50 papers most relevant to the query.
+
+Screening
+We screened in sources that met these criteria:
+• Target Population: Does the study describe AI literacy curricula specifically designed for primary, secondary,
+or high school students (ages 5-18)?
+• Curriculum Accessibility: Are the curricula explicitly described as open source, free, or freely available?
+• Curriculum Detail: Does the study provide detailed descriptions of curriculum content, learning objectives,
+or educational components?
+• Implementation Status: Does the study report on curricula that have been implemented, piloted, or fully
+developed (rather than purely theoretical)?
+
+1
+
+• Educational Level Scope: Is the curriculum NOT designed exclusively for higher education (university/college
+level) or adult learners?
+• Commercial Status: Is the curriculum NOT a commercial or proprietary AI education program requiring
+payment or licensing fees?
+• AI Focus Specificity: Is this NOT a general technology or computer science curriculum that only mentions AI
+as a minor component?
+• Practical Implementation: Is this NOT purely a theoretical framework or conceptual paper without describing
+specific curriculum implementations?
+We considered all screening questions together and made a holistic judgement about whether to screen in each paper.
+
+Data extraction
+We asked a large language model to extract each data column below from each paper. We gave the model the
+extraction instructions shown below for each column.
+• Target Age Group and Educational Level:
+Identify the specific age range or educational level (e.g., primary, middle school, high school) for which the AI
+literacy curriculum is designed.
+• Look in the introduction, methods, or participant description sections
+• If multiple age groups are mentioned, list all
+• If an exact age range is not specified, use the educational level as a proxy
+• Format: e.g., ”High school students (ages 14-18)” or ”Middle school (grades 6-8)”
+• If no clear age group is specified, write ”Not specified”
+• Curriculum Coverage of AI Topics:
+Identify and list the specific AI knowledge, competencies, and skills covered in the curriculum:
+• Scan the methods, curriculum description, and results sections
+• List all topics mentioned (e.g., AI basics, machine learning, conversational AI, AI ethics)
+• Pay special attention to ethical AI and AI risks/benefits
+• Use direct quotes where possible
+• If topics are not clearly specified, write ”Not fully described”
+• Geographic and Language Coverage:
+Determine the country or region where the curriculum was developed or tested:
+• Check methods section, participant demographics, and affiliations
+• Note the primary language of instruction
+• If multiple countries are involved, list all
+• If no geographic information is provided, write ”Not specified”
+• Format: Country/Region, Primary Language
+• Curriculum Delivery Method:
+Identify how the AI literacy curriculum was delivered:
+• Look for details about instructional approach in methods or implementation sections
+• Note specific methods (e.g., online workshop, in-person class, project-based learning)
+2
+
+• Indicate if multiple delivery methods were used
+• If delivery method is not clear, write ”Not specified”
+• Include any unique pedagogical approaches mentioned
+• Accessibility and Inclusivity Features:
+Identify any specific efforts to make the curriculum accessible or inclusive:
+• Search for mentions of reducing barriers to participation
+• Note any strategies to include underrepresented groups
+• Look for mentions of minimal prerequisite knowledge or technology requirements
+• If no specific accessibility features are mentioned, write ”Not described”
+• Use direct quotes if possible to capture the approach
+• Sample Size and Participant Characteristics:
+Extract information about the study participants:
+• Total number of participants
+• Breakdown of participants (e.g., students, teachers)
+• Any demographic information provided
+• If multiple groups were involved (e.g., students and teachers), list separately
+• If information is incomplete, note what is missing
+• Format: Total n = X (students: Y, teachers: Z)
+
+Results
+Characteristics of Included Studies
+Curriculum
+Name/Program
+
+Target Age Groups
+
+Geographic Coverage
+
+Open Source Status
+
+Williams et al., 2022:
+Creative AI, Dancing with
+AI, How to Train Your
+Robot
+Bellas et al., 2022: AI+
+Erasmus+ Curriculum
+
+Middle school students
+(ages 11–13)
+
+United States, English
+
+High school students
+(ages 15–18)
+
+Judd, 2020: AI4ALL Open
+Learning
+
+High school students
+
+Europe (Lithuania,
+Finland, Slovenia, Italy,
+Spain), English
+Not specified
+
+Free online resources;
+open or free status was
+implied in the paper, but
+not explicitly stated
+Openly available; open or
+free status was implied
+
+Banks & Renzella, 2025:
+Day of AI Australia
+Destéfano et al., 2024:
+CreaTIC Academy
+Humanistic AI
+
+Upper primary and early
+secondary (ages 10–16)
+Middle school students
+(ages 11–14)
+
+3
+
+Australia, English
+
+Free and approachable;
+open or free status was
+implied
+No mention found
+
+Spain, Spanish; Argentina,
+Spanish
+
+Free tools used; open or
+free status was implied
+
+Curriculum
+Name/Program
+Hollands & Breazeal, 2024:
+MIT/i2Learning Modular
+AI Literacy
+Van Brummelen et al.,
+2020: Conversational AI
+Curriculum
+Zhang et al., 2022: DAILy
+Workshop
+Moreno-León et al., 2024:
+EPCIA Project
+Ng et al., 2023: Systematic
+Review
+
+Target Age Groups
+
+Geographic Coverage
+
+Open Source Status
+
+Students aged 5–18
+(primary to high school)
+
+United States, English;
+global implementation
+
+High school students
+(grades 8–12)
+
+United States, English
+
+Freely
+downloadable/adaptable
+under Creative Commons
+No mention found
+
+Middle school students
+(grades 7–9)
+Primary and secondary
+(grades 4–8)
+Secondary school students
+(junior and senior)
+
+United States, English
+
+No mention found
+
+Spain, Spanish
+
+No mention found
+
+Not specified (global
+review)
+
+No mention found
+
+Target Age Groups:
+• Primary school (ages ~5–10):3 curricula (Banks & Renzella, Hollands & Breazeal, Moreno-León et al.)
+• Middle school (ages ~11–14):7 curricula (Williams et al., Banks & Renzella, Destéfano et al., Hollands & Breazeal,
+Zhang et al., Moreno-León et al.)
+• High school (ages ~15–18):6 curricula (Bellas et al., Judd, Banks & Renzella, Hollands & Breazeal, Van Brummelen et al., Ng et al.)
+• Multiple age groups:Some curricula spanned multiple age groups.
+• We didn't find mention of any studies where the target age group was not specified.
+Geographic Coverage:
+• United States:4 curricula
+• Australia:1 curriculum
+• Spain:3 curricula; Argentina:1 curriculum
+• Europe (Lithuania, Finland, Slovenia, Italy, Spain):1 curriculum
+• English language:6 curricula; Spanish language:2 curricula
+• Global or unspecified coverage:2 studies
+• We didn't find mention of geographic coverage for 2 studies.
+Open Source Status:
+• Explicitly open/free (Creative Commons license):1 curriculum
+• Open or free status implied:4 curricula
+• We didn't find mention of open or free status for 5 curricula.
+
+Thematic Analysis
+Geographic Distribution and Language Coverage
+
+4
+
+Curriculum Name/Program
+
+Country/Region(s)
+
+Primary Language(s)
+
+Williams et al., 2022
+Bellas et al., 2022
+
+United States
+Europe (Lithuania, Finland,
+Slovenia, Italy, Spain)
+Not specified in abstract
+Australia
+Spain; Argentina
+United States; global
+implementation
+United States
+United States
+Spain
+Not specified (global review)
+
+English
+English
+
+Judd, 2020
+Banks & Renzella, 2025
+Destéfano et al., 2024
+Hollands & Breazeal, 2024
+Van Brummelen et al., 2020
+Zhang et al., 2022
+Moreno-León et al., 2024
+Ng et al., 2023
+
+Not specified in abstract
+English
+Spanish
+English
+English
+English
+Spanish
+Not specified in abstract
+
+Geographic distribution:
+• United States:4 studies
+• Spain:3 studies
+• Lithuania, Finland, Slovenia, Italy, Argentina, Australia:1 study each
+• Global implementation or review:2 studies
+• We didn't find mention of the country or region for 2 studies.
+Primary language:
+• English:6 studies
+• Spanish:2 studies
+• We didn't find mention of the primary language for 2 studies.
+Summary:
+• Most studies were conducted in English-speaking countries or used English as the primary language.
+• Studies from Spanish-speaking countries and in Spanish were also present.
+• We didn't find mention of any studies specifying more than one primary language.
+
+Age Group Targeting and Educational Level Alignment
+Curriculum Name/Program
+
+Target Age Groups / Educational Level
+
+Williams et al., 2022
+Bellas et al., 2022
+Judd, 2020
+Banks & Renzella, 2025
+Destéfano et al., 2024
+Hollands & Breazeal, 2024
+Van Brummelen et al., 2020
+Zhang et al., 2022
+
+Middle school (ages 11–13)
+High school (ages 15–18)
+High school
+Upper primary and early secondary (ages 10–16)
+Middle school (ages 11–14)
+Primary to high school (ages 5–18)
+High school (grades 8–12)
+Middle school (grades 7–9)
+5
+
+Curriculum Name/Program
+
+Target Age Groups / Educational Level
+
+Moreno-León et al., 2024
+Ng et al., 2023
+
+Primary and secondary (grades 4–8)
+Secondary school (junior and senior)
+
+Educational levels and age groups:
+• Primary (elementary) level students:3 studies (Banks & Renzella, Hollands & Breazeal, Moreno-León et al.)
+• Middle school level students or equivalent ages/grades:6 studies (Williams et al., Banks & Renzella, Destéfano
+et al., Hollands & Breazeal, Zhang et al., Moreno-León et al.)
+• High school level students or equivalent ages/grades:6 studies (Bellas et al., Judd, Banks & Renzella, Hollands
+& Breazeal, Van Brummelen et al., Ng et al.)
+• Multiple educational levels (primary and secondary):3 studies (Banks & Renzella, Hollands & Breazeal, MorenoLeón et al.)
+• We didn't find mention of studies that targeted only early primary (below grade 4 or age 10), nor did we find
+mention of any that focused exclusively on post-secondary or adult learners.
+
+Knowledge, Competencies, and Skills Framework
+Curriculum
+Name/Program
+Williams et al., 2022
+
+Bellas et al., 2022
+Judd, 2020
+
+Banks & Renzella,
+2025
+Destéfano et al.,
+2024
+
+Technical Skills
+Artificial
+intelligence basics,
+machine learning,
+generative
+adversarial
+networks, robotics
+Programming,
+embedded
+intelligence
+No mention found
+
+Machine learning,
+natural language
+processing
+Coding (Scratch,
+AppInventor),
+machine learning
+for kids
+
+Conceptual
+Knowledge
+
+Practical
+Competencies
+
+Assessment
+Methods
+
+Perception,
+reasoning, learning,
+societal impact
+
+Hands-on projects,
+critique of artificial
+intelligence artifacts
+
+Projects,
+presentations, group
+activities
+
+Perception,
+actuation, reasoning,
+learning, ethics
+Artificial
+intelligence basics,
+everyday
+applications, ethics
+Artificial
+intelligence ethics
+
+Real-world problem
+solving, teamwork
+
+Feedback, practical
+workshops
+
+Discussion,
+community
+engagement
+
+No mention found
+
+No mention found
+
+No mention found
+
+Project-based, social
+research, critical
+reflection
+
+No mention found
+
+Human cognition,
+philosophy of mind,
+ethics
+
+6
+
+Curriculum
+Name/Program
+Hollands & Breazeal,
+2024
+
+Van Brummelen et
+al., 2020
+
+Zhang et al., 2022
+
+Moreno-León et al.,
+2024
+
+Ng et al., 2023
+
+Technical Skills
+Machine learning,
+data science,
+artificial intelligence
+in social media,
+ChatGPT
+Conversational
+artificial
+intelligence,
+machine learning,
+Alexa skills
+Machine learning,
+logic systems,
+generative
+adversarial
+networks, Teachable
+Machine
+Programming
+(Scratch, machine
+learning for kids),
+machine learning
+models
+No mention found
+
+Conceptual
+Knowledge
+
+Practical
+Competencies
+
+Assessment
+Methods
+
+Artificial
+intelligence
+vocabulary,
+mechanics, societal
+impact, ethics
+Big 5 artificial
+intelligence ideas,
+ethics, data literacy
+
+Hands-on activities,
+design challenges
+
+Teacher/student
+feedback,
+knowledge tests
+
+Design, testing,
+future artificial
+intelligence
+planning
+
+Tutorials,
+questionnaires,
+feedback
+
+Bias, societal
+impacts, career
+futures
+
+Interactive,
+hands-on, career
+exploration
+
+Pre/post tests,
+qualitative feedback
+
+Artificial
+intelligence basics,
+societal impact
+
+Project-based,
+demystifying
+artificial intelligence
+
+Quantitative tests,
+questionnaires
+
+Ethical use, basic to
+advanced artificial
+intelligence
+concepts
+
+Collaborative,
+interdisciplinary
+problem-solving
+
+Knowledge tests,
+questionnaires,
+qualitative analysis
+
+Technical skills:
+• Machine learning:5 studies
+• Programming or coding (including Scratch, AppInventor, machine learning for kids):3 studies
+• Generative adversarial networks:2 studies
+• Other technical skills (robotics, embedded intelligence, natural language processing, data science, artificial intelligence in social media, ChatGPT, conversational artificial intelligence, Alexa skills, logic systems, Teachable
+Machine, machine learning models):Each found in 1 study
+• We didn't find mention of a full description of technical skills in 2 studies.
+Conceptual knowledge:
+• Ethics or ethical use:6 studies
+• Societal impact or societal impacts:4 studies
+• Perception, reasoning, learning:Each found in 2 studies
+• Artificial intelligence basics:2 studies
+• Other conceptual topics (human cognition, philosophy of mind, artificial intelligence vocabulary, mechanics,
+Big 5 artificial intelligence ideas, data literacy, bias, career futures, everyday applications, basic to advanced
+
+7
+
+artificial intelligence concepts):Each found in 1 study
+Practical competencies:
+• Hands-on or interactive activities/projects:4 studies
+• Project-based learning:2 studies
+• Other competencies (real-world problem solving, teamwork, critique of artificial intelligence artifacts,
+discussion, community engagement, social research, critical reflection, design/design challenges, testing,
+future artificial intelligence planning, career exploration, demystifying artificial intelligence, collaborative/interdisciplinary problem-solving):Each found in 1 study
+• We didn't find mention of practical competencies in 2 studies.
+Assessment methods:
+• Knowledge or quantitative tests:4 studies
+• Questionnaires:3 studies
+• Feedback:3 studies
+• Projects, presentations, group activities, practical workshops, tutorials, qualitative feedback or analysis:Each
+found in 1 study
+• We didn't find mention of assessment methods in 4 studies.
+
+Ethical Artificial Intelligence Education and Risk-Benefit Coverage
+
+Curriculum
+Name/Program
+Williams et al., 2022
+
+Bellas et al., 2022
+
+Judd, 2020
+Banks & Renzella,
+2025
+Destéfano et al.,
+2024
+
+Ethical Artificial
+Intelligence
+Components
+Artificial
+intelligence ethics,
+societal
+implications,
+stakeholder analysis
+Sustainability,
+ethics, legal aspects
+(sustainability,
+ethics, legal)
+Ethics, social
+impacts
+Artificial
+intelligence ethics
+Artificial
+intelligence ethics,
+gender/skin-type
+bias, social
+sensitivity
+
+Risk Coverage
+
+Benefit Coverage
+
+Integration
+Approach
+
+Deepfakes,
+misinformation, bias
+
+Societal impact,
+positive/negative
+effects
+
+Embedded in
+projects and
+discussions
+
+Ethics, legal,
+sustainability
+
+No mention found
+
+Dedicated teaching
+units
+
+No mention found
+
+Future uses of
+artificial intelligence
+No mention found
+
+Discussion-based,
+integrated
+Included as core
+concept
+Humanistic,
+project-based,
+reflective
+
+No mention found
+Artificial
+intelligence risks,
+bias, social
+experiments
+
+8
+
+Universal topics,
+social good
+
+Curriculum
+Name/Program
+Hollands & Breazeal,
+2024
+Van Brummelen et
+al., 2020
+Zhang et al., 2022
+Moreno-León et al.,
+2024
+Ng et al., 2023
+
+Ethical Artificial
+Intelligence
+Components
+Responsible,
+equitable, ethical
+use, algorithmic bias
+Artificial
+intelligence ethics,
+bias,
+strengths/weaknesses
+Bias, ethical
+considerations,
+societal impacts
+Societal impact,
+demystifying
+artificial intelligence
+Ethical use, ethical
+dimensions
+
+Risk Coverage
+
+Benefit Coverage
+
+Benefits/harms, bias
+
+Societal benefits,
+optimism about
+artificial intelligence
+Positive/negative
+effects of
+conversational
+agents
+Career futures,
+adaptability
+
+Bias, hyper-realistic
+text/speech
+generation
+Bias, mitigation
+strategies
+Positive/negative
+effects
+
+Societal impact
+
+No mention found
+
+No mention found
+
+Integration
+Approach
+Modular, hands-on,
+adaptable
+Dedicated modules,
+project reflection
+Integrated
+throughout
+curriculum
+Project-based,
+implicit
+Collaborative,
+interdisciplinary
+
+Ethical artificial intelligence components:
+• Explicit coverage of ethics, artificial intelligence ethics, or ethical use/dimensions:9 studies
+• Bias (including algorithmic, gender, or skin-type bias):6 studies
+• Societal implications or impacts:3 studies
+• Social impacts or social sensitivity:2 studies
+• Other components (responsible/equitable use, legal aspects, sustainability, stakeholder analysis, strengths/weaknesses,
+demystifying artificial intelligence):Each found in 1 study
+Risk coverage:
+• Bias:7 studies
+• Ethics or ethical risks:2 studies
+• Legal and sustainability risks:Each found in 1 study
+• Other risks (deepfakes, misinformation, artificial intelligence risks, social experiments, benefits/harms, hyperrealistic text/speech generation, mitigation strategies, positive/negative effects):Each found in 1 study
+• We didn't find mention of risk coverage in 3 studies.
+Benefit coverage:
+• Societal impact or societal benefits:3 studies
+• Positive/negative effects:2 studies
+• Future uses, career futures, or adaptability:3 studies
+• Social good, universal topics, optimism about artificial intelligence, conversational agents:Each found in 1
+study
+• We didn't find mention of benefit coverage in 3 studies.
+Integration approach:
+
+9
+
+• Project-based or project reflection approaches:3 studies
+• Discussion-based approaches:2 studies
+• Embedded or integrated approaches (including integration throughout the curriculum):3 studies
+• Dedicated teaching units or modules:2 studies
+• Other approaches (humanistic, reflective, modular, hands-on, adaptable, core concept, collaborative/interdisciplinary, implicit):Each found in 1 study
+: Source: Williams et al., 2022 : Source: Williams et al., 2022 : Source: Bellas et al., 2022 : Source: Bellas et al., 2022 :
+Source: Judd, 2020 : Source: Judd, 2020 : Source: Banks & Renzella, 2025 : Source: Banks & Renzella, 2025 : Source:
+Destéfano et al., 2024 : Source: Destéfano et al., 2024 : Source: Hollands & Breazeal, 2024 : Source: Hollands &
+Breazeal, 2024 : Source: Van Brummelen et al., 2020 : Source: Van Brummelen et al., 2020 : Source: Zhang et al.,
+2022 : Source: Zhang et al., 2022 : Source: Moreno-León et al., 2024 : Source: Moreno-León et al., 2024 : Source: Ng
+et al., 2023 : Source: Ng et al., 2023
+
+References
+D. Ng, Jiahong Su, J. Leung, and S. K. Chu. “Artificial Intelligence (AI) Literacy Education in Secondary Schools: A
+Review.” Interactive Learning Environments, 2023.
+F. Bellas, Sara Guerreiro-Santalla, Martin Naya, and R. Duro. “AI Curriculum for European High Schools: An Embedded Intelligence Approach.” International Journal of Artificial Intelligence in Education, 2022.
+Fiona M. Hollands, and C. Breazeal. “Establishing AI Literacy Before Adopting AI.” The Science Teacher, 2024.
+Helen Zhang, Irene A. Lee, Safinah Ali, Daniella DiPaola, Yihong Cheng, and C. Breazeal. “Integrating Ethics and
+Career Futures with Technical Learning to Promote AI Literacy for Middle School Students: An Exploratory
+Study.” International Journal of Artificial Intelligence in Education, 2022.
+Jessica Van Brummelen, Tommy Heng, and Viktoriya Tabunshchyk. “Teaching Tech to Talk: K-12 Conversational
+Artificial Intelligence Literacy Curriculum and Development Tools.” AAAI Conference on Artificial Intelligence,
+2020.
+Jesús Moreno-León, Margarita Vasco-González, Marcos Román-González, and Gregorio Robles. “Investigating the
+Impact of Programming Activities on Computational Thinking and AI Literacy in Spanish Schools.” Workshop in
+Primary and Secondary Computing Education, 2024.
+Mariela Destéfano, Anna Trifonova, and Mario Barajas. “Teaching AI to the Next Generation: A Humanistic Approach.” Digital Education Review, 2024.
+Natasha Banks, and Jake Renzella. “Day of AI Australia: Teacher Insights from a Nation-Wide AI Literacy Program
+for K-12 Students.” Technical Symposium on Computer Science Education, 2025.
+Randi Williams, Safinah Ali, Nisha Devasia, Daniella DiPaola, Jenna Hong, Stephen P. Kaputsos, Brian Jordan, and C.
+Breazeal. “AI + Ethics Curricula for Middle School Youth: Lessons Learned from Three Project-Based Curricula.”
+International Journal of Artificial Intelligence in Education, 2022.
+Sarah Judd. “All Means All: Bringing Project-Based, Approachable AI Curriculum to More High School Students
+Through AI4ALL Open Learning.” Technical Symposium on Computer Science Education, 2020.
+
+10
+
+

@@ -1,0 +1,196 @@
+WHAT WE DO ▽
+
+Home
+
+AI Ethics Learning Toolkit
+
+BLOG
+
+SEARCH
+
+CONTACT US
+
+EVENTS
+
+RESOURCES
+
+SUBSCRIBE
+
+ABOUT US ▽
+
+Is AI A Spy
+
+AI ETHICS LEARNING TOOLKIT
+
+Is AI A Spy?
+Exploring Privacy and Surveillance
+
+“Generative AI completely obliterates the idea of individual responsibility for privacy
+because you can’t control these algorithms’ access to your information, or what they
+do with it.”
+– Dr. Alice Marwick, media scholar
+
+Sam Altman, CEO of OpenAI, recently tweeted that ChatGPT’s improved
+memory meant that it can now reference past conversations and “get to
+know you over your life.” Is this helpful, or creepy? AI privacy involves
+how your personal information is collected, used, and shared by AI
+companies. This includes data scraped from the web without your consent
+and data you input into AI systems through prompts. A 2023 Pew
+Research poll found that 81% of Americans who had heard of AI believe
+the information collected by AI companies will be used in ways people are
+uncomfortable with or that weren’t originally intended. Pew Research also
+found that 6 in 10 Americans frequently skip reading privacy policies. This
+
+highlights the “privacy paradox,” the gulf between people’s attitudes
+towards protecting their privacy and their actual online behavior. Despite
+privacy concerns, many people freely give away their personal data for the
+convenience of using apps, websites, and now AI tools. For students, AI
+privacy is particularly significant. As students rely on AI tools for learning,
+research, writing, and even personal advice, they should be mindful of the
+sensitive data they share and consider when it’s appropriate to disclose
+information.
+
+Learning Activities
+
+Conversation Starters A Few Questions to Get the
+Discussion Going
+
+What privacy protections do you use to safeguard your identity
+online? Do you use caution with the information you enter into AI
+tools? Do you read privacy policies?
+Would you ever talk to an AI chatbot as a friend or confidant? How
+do the responses make you feel? If you use AI in this way, how is
+what you share di!erent (or the same) to what you’d share with a
+friend?
+Can you think of situations where it might be harmful for AI
+companies to collect, train on, or share someone’s private
+information? Are there times where AI personalization features are
+actually helpful?
+Who should be responsible for protecting a user’s privacy in an AI
+system? Should it be the individual, the AI company, or the
+government?
+What ethical considerations should guide the use of generative AI
+in collecting or analyzing sensitive data, such as private
+
+conversations or biometric information?
+
+Active Learning with AI Fun Ways to Explore AI’s
+Strengths and Limitations
+
+What does AI know about you? Have students prompt AI to see if it
+“knows” anything about them. If nothing turns up/or your name is
+too common, what does it have to say about your professor? Did it
+make anything up? Is it creepy? Where is it sourcing the
+information?
+AI privacy policy review. Have students work in teams to review the
+privacy policy for major AI companies (OpenAI, Google’s Gemini,
+Meta). Ask questions like, what surprised you? What do you find
+confusing?
+No AI Alternative: Data, Privacy, and Identity card game. Try this
+activity that aims to teach students about the intersections of data,
+privacy, and identity. A simpler, online version of this activity can
+be found here.
+
+Disciplinary Extensions Ideas for Exploring AI’s Impact in
+Specific Fields
+
+Biology/Ethics: Students could explore common biometric data
+collection methods (e.g. fingerprint, facial recognition, DNA
+sequencing) used in biology and medicine. Ask students to reflect
+on the ethical implications of di!erent forms of biometric data
+collection.
+Social Sciences: Students could explore how privacy breaches
+
+harm marginalized populations disproportionately. Assign teams
+di!erent groups of people and have them consider a case study
+(ex. AI in policing, AI in healthcare, AI in immigration).
+Philosophy: Where is the line between a right to privacy and
+surveillance for security’s sake?
+Computer Science/Engineering: What are some
+techniques/mechanisms that can be incorporated into AI tools to
+provide more privacy for the end user?
+
+Resources
+Bogost, I., & Warzel, C. (2025, April 27). American panopticon. The Atlantic. [Magazine article]
+Burgess, M. (2024, October 12). How to stop your data from being used to train AI. Wired. [Magazine
+article]
+Joseph, J. (2025, April 11). ChatGPT has receipts, will now remember everything you’ve ever told it.
+PCMAG. [Magazine article]
+Marwick, A. (2023). You are not responsible for your own online Privacy. Wired. [Magazine article]
+Roose, K., et al. (2021, August 20). Why Apple is about to search your files. The New York Times. [Podcast]
+Predates GAI but excellent story on privacy & ethics.
+
+Scholarly
+Crowley, J. (2016, November 28). Identity, privacy & privilege: Using data to discuss systemic racism – Ethical
+Tech. [Blog post]
+Faverio, M. (2023, October 18). Key findings about Americans and data privacy. Pew Research Center.
+[Research Report]
+Hargittai, E., & Marwick, A. (2016). “What can I really do?” Explaining the privacy paradox with online
+apathy. International Journal of Communication, 10. [Journal article]
+
+Recommendations
+Related topics → Can we trust AI?
+
+Penn State University, Digital Shred, Privacy Literacy Toolkit. Excellent resources compiled by librarians
+at PSU-Berks.
+AI Pedagogy Project (Harvard) Assignments → Filter by theme (e.g. privacy) and/or subject (e.g. ethics &
+philosophy)
+Privacy-related Articles from the AI Ethics & Policy News Aggregator sourced by Casey Fiesler. Note: This
+would be an excellent place to identify recent news stories you could share with students, or
+incorporate into a case study.
+
+1. Marwick, A. (n.d.). You Are Not Responsible for Your Own Online Privacy. Wired. Retrieved July 18, 2025,
+from https://www.wired.com/story/you-are-not-responsible-for-your-own-online-privacy/
+2. Sam Altman [@sama]. (2025, April 10). We have greatly improved memory in chatgpt—It can now reference
+all your past conversations! This is a surprisingly great feature imo, and it points at something we are excited
+about: Ai systems that get to know you over your life, and become extremely useful and personalized.
+[Tweet]. Twitter. https://x.com/sama/status/1910380643772665873
+3. Faverio, M. (2023, October 18). Key findings about Americans and data privacy. Pew Research Center.
+https://www.pewresearch.org/short-reads/2023/10/18/key-findings-about-americans-and-data-privacy/
+4. Faverio, M.
+5. Hargittai, E., & Marwick, A. (2016). “What Can I Really Do?” Explaining the Privacy Paradox with Online
+Apathy. International Journal of Communication, 10.
+
+PHYSICAL LOCATION
+The Erwin Square Mill Building
+2024 West Main Street
+
+BROWSE
+What We Do
+About
+
+Durham, NC 27705
+
+MAILING ADDRESS
+Box 90700
+
+Blog
+Contact Us
+Events
+
+Durham, NC 27708
+
+Directions
+
+CONTACT US
+
+Resources
+
+Phone: (919) 660-5806
+Email:
+
+Newsletter Signup
+
+learninginnovation@duke.edu
+
+CONNECT
+WITH US
+SUPPORT OUR
+WORK
+Donate to Duke
+Learning Innovation &
+Lifetime Education
+
+Copyright © 2025 Duke Learning Innovation & Lifetime Education
+
+

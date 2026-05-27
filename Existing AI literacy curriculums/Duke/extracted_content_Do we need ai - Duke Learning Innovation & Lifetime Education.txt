@@ -1,0 +1,122 @@
+WHAT WE DO ▽
+
+Home
+
+AI Ethics Learning Toolkit
+
+BLOG
+
+SEARCH
+
+CONTACT US
+
+EVENTS
+
+RESOURCES
+
+SUBSCRIBE
+
+ABOUT US ▽
+
+Do we need ai
+
+AI ETHICS LEARNING TOOLKIT
+
+Do we need AI?
+“The technologies we believe to be bringing us into the future are actually
+taking us back from the progress already made.”
+– Dr. Joy Buolamwini, computer scientist & digital activist
+From concerns about AI’s impact on the environment to the disruptive role it has on
+human work, learning, and creativity, not everyone is on board with AI. Some argue
+that the growing tech oligarchy at OpenAI, Meta, Google, and X, are exploiting
+humans for profit gains. Some fear that in the quest for “e!ciency” AI will displace
+human workers with sub-par work (aka AI slop). This section provides readings,
+discussions, and questions for instructors who do not want to introduce use of AI in
+their classrooms but would like their students to think critically about AI’s impacts
+on society.
+
+Learning Activities
+
+Conversation Starters A Few Questions to Get the
+Discussion Going
+
+Who specifically benefits from the development of AI? Who is
+harmed?
+What are some compelling reasons you’ve heard about why
+people do not want to use AI?
+What are some small, practical ways you could see yourself limiting
+(or opting out entirely) of AI use in your daily life? What di!culties
+would you face? What benefits might come from this stance?
+Pick a setting in which the use of AI makes you particularly
+uncomfortable. Discuss your reasons for being wary of AI in this
+setting. Ex. Healthcare, Schools, Government, Entertainment (tv,
+movies), Criminal Justice, Journalism, etc.
+Why is it di!cult to imagine our world without AI?
+
+Active Learning with AI Fun Ways to Explore AI’s
+Strengths and Limitations
+
+Have students make a zine! Like Julie Steele’s Anti-AI manifesto,
+you can have students work individually, or in groups, to articulate
+a critique of AI through the format of a zine. How to make a zine.
+Have students read Duke’s Prompt Responsibly principles and
+discuss one principle you find the most thought-provoking or
+compelling. Which one is it? Why does it resonate with you?
+Take a Side/Debate. Split the class into AI boosters and Anti-AI
+advocates. Give them time to discuss and do some research (no
+AI!). Then facilitate a debate between the two sides.
+Disconnect Experiment – aside from critical tasks (school work,
+health, etc.), have students disconnect from phone/social
+
+media/AI/internet-streaming for 48 hours. Keep a reflection log on
+how this experiment feels.
+
+Disciplinary Extensions Ideas for Exploring AI’s Impact in
+Specific Fields
+
+Public Policy: Case Study – Geo Group. This is a private prison
+company which controls AI surveillance technology for
+undocumented immigrants. Students could discuss the ethics of
+using AI in this setting (NYTimes article on this)
+Philosophy: Discuss whether AI can have “personhood”
+Literature: Technology is a frequent theme in dystopian fiction.
+Explore science fiction texts that present resistance to
+AI/technology. How do these compare to the current moment?
+Art history: Can AI image generators create art? Why or why not?
+
+Resources
+Stele, J. (2024, October 3). AI is very bad, actually: A manifesto. Julie Setele. [Zine]
+O’Neil, L. (2023, August 12). These women tried to warn us about AI. Rolling Stone. [Magazine article]
+
+Mozilla Foundation. (2017-present). IRL: Online Life is Real Life. [Podcast]
+Recent seasons are focused on AI and hosted by digital activist Bridget Todd.
+Bender, E. & A. Hanna. (2023-). Mystery AI Hype Theater 3000. [Podcast]
+Tagline: “Artificial Intelligence has too much hype. In this podcast, linguist Emily M. Bender and
+sociologist Alex Hanna break down the AI hype, separate fact from fiction, and science from
+bloviation.”
+
+Black Mirror. British TV series exploring dystopian narratives related to technology. [Video]
+
+Scholarly
+Hicks, M. T., Humphries, J., & Slater, J. (2024). ChatGPT is bullshit. Ethics and Information Technology,
+26(2), 38. [Journal article]
+Bender, E. and A. Hanna. (2025). The AI Con: How to fight Big Tech’s hype and create the future we want.
+Harper Collins. [Book – available in Duke Libraries]
+Hao, K. (2025). Empire of AI: Dreams and nightmares in Sam Altman’s OpenAI. Penguin Press. [Book]
+Narayanan, A., & Kapoor, S. (2025). Why an overreliance on AI-driven modelling is bad for science.
+Nature, 640(8058), 312–314. [Journal article]
+Merchant, B. (2023). Blood in the machine: The origins of the rebellion against big tech. Little, Brown and
+Company. [Book – available in Duke Libraries]
+Postman, N. (1998, March 28). Five things we need to know about technological change. [Presentation]
+Kaczynski, T. (1995). Industrial society and its future. Washington Post. [Manifesto]
+TRIGGER WARNING: This is the Unabomber’s manifesto and reading it would require some
+background and context given to students beforehand.
+
+Recommendations
+Related topics → All of them.
+Bullshit Machines → website developed as a critique to AI hype. Includes ideas for how to teach about
+it.
+AI Pedagogy Project (Harvard) Assignments → Filter by theme (e.g. misinformation) and/or subject (e.g.
+ethics & philosophy)
+
+

@@ -1,0 +1,388 @@
+Category,Subcategory,Specific Learning Point,Berlin,Day of AI,MIT DAILy,Common Sense,aiEDU,Georgia,ENARIS,MIT AI Ethics,AI4K12,AI Adapt,Duke,Harvard,Toddle
+AI Fundamentals,Definitions,"AI definition: computer programs/technologies that perform tasks requiring human intelligence",Yes - explored through intelligence testing,Yes - covered in intro,Yes - three components of AI,Yes - definition and generative AI,Yes - K-5/6-8/9-12 progressions,Yes - vocabulary,Yes - no uniform definition activity,Yes - algorithms as opinions,Yes - Five Big Ideas poster,Yes - video and definition,Yes - glossary,No,Yes - Lesson 1
+AI Fundamentals,Definitions,"Narrow AI vs General AI: all current AI is narrow (task-specific), general AI doesn't exist yet",No,No,No,No,No,No,Yes - deep dive with movie examples (Wall-E),No,No,No,No,No,No
+AI Fundamentals,Definitions,"Three basic components of most AI systems",No,No,Yes - core lesson content,No,No,No,No,No,No,No,No,No,No
+AI Fundamentals,Definitions,"AI vs non-AI: distinguishing technologies that use/don't use AI",Yes - activities,Yes - discussed,Yes - AI or Not activity,No,Yes - K-5 competency,No,No,No,Yes - poster context,Yes - AI in everyday life,No,No,Yes - Lesson 1
+AI Fundamentals,Types & Applications,"Map of AI: Think (logic/search), Know (data/databases), Learn (ML), Sense (perception), Act (output)",No,No,No,No,No,No,Yes - detailed taxonomy,No,No,No,No,No,No
+AI Fundamentals,Types & Applications,"Everyday AI applications: GPS, recommendations, face unlock, voice assistants",Yes - character chat,Yes - classroom discussion,Yes - journal activities,Yes - warm-up,Yes - AI Snapshots,Yes - daily life examples,Yes - examples in modules,No,Yes - poster context,Yes - Siri/Alexa examples,No,No,Yes - Lesson 1
+AI Fundamentals,Types & Applications,"Computer perception extracts meaning from sensory signals (not just sensing)",No,No,Yes - AI4K12 standard,No,No,Yes - sensing vs perception,No,No,Yes - Big Idea 1,No,No,No,No
+AI Fundamentals,Types & Applications,"Robots: characteristics, autonomous behavior, types of decisions robots make",No,No,No,No,No,Yes - Module 1.2 worksheet (classify 16 items),Yes - examples,No,No,Yes - robotics,No,No,No
+Algorithms & Data,Algorithms,"Algorithm definition: list of instructions/steps to solve a task (recipe analogy)",No,Yes - vocabulary,Yes - PB&J activity,No,Yes - Future of Work,Yes - vocabulary,Yes - detailed (Bubble Sort, Tic-Tac-Toe exercises),Yes - PB&J,Yes - reasoning context,Yes - Intelligent Paper,No,No,No
+Algorithms & Data,Algorithms,"Creating your own algorithm for mundane tasks (making breakfast, opening door)",No,No,No,No,No,No,Yes - exercise,No,No,No,No,No,No
+Algorithms & Data,Algorithms,"Algorithms need to be very specific (distance, speed, rotation details)",No,No,No,No,No,No,Yes - emphasized,No,No,No,No,No,No
+Algorithms & Data,Algorithms,"Algorithms as opinions: different goals and stakeholders lead to different algorithm designs",No,No,Yes - Lesson 0.2 core,No,No,No,No,Yes - ethical matrices,No,No,No,No,No
+Algorithms & Data,Data,"Data as digital representation of information; choice of data affects outcomes",No,No,Yes - supervised ML context,Yes - how AI learns,Yes - datasets throughout,Yes - vocabulary,Yes - fundamental concept,No,Yes - Learning Big Idea,No,No,No,No
+Algorithms & Data,Data,"More data can improve accuracy but doesn't fix bias without diversity",No,Yes - implicit,Yes - explicit lesson point,Yes - slides,Yes - competency,Yes - ML modules,Yes - overfitting/underfitting,Yes - Teachable Machine,No,No,No,No,No
+Algorithms & Data,Data,"Labeled data: examples with correct answers for training",No,No,Yes - supervised ML,No,Yes - frameworks,Yes - ML modules,Yes - core SL concept,Yes - Teachable Machine,No,No,No,No,No
+Algorithms & Data,Data,"Training data vs test data: disjoint sets to check generalization not memorization",No,No,Yes - neural networks,No,Yes - ML activities,Yes - ML pipeline,Yes - emphasized,Yes - Teachable Machine,No,No,No,No,No
+Algorithms & Data,Data,"Overfitting: model works on training but fails on new data due to specific features",No,No,No,No,No,No,Yes - detailed examples,No,No,No,No,No,No
+Algorithms & Data,Data,"Underfitting: model learns nothing useful; too little or wrong features",No,No,No,No,No,No,Yes - movie revenue example,No,No,No,No,No
+Algorithms & Data,Data,"Transfer learning: using pre-trained models as starting point or preprocessing",No,No,No,No,No,No,Yes - fire→fracture example,No,No,No,No,No,No
+Algorithms & Data,Data,"Garbage in, garbage out: algorithm only as good as its data",No,No,No,Yes - implicit,Yes - frameworks,Yes - ML contexts,Yes - emphasized,No,No,No,Yes - glossary,No,No
+Algorithms & Data,Representation,"Types of computer reasoning: classification, prediction, recommendation, planning/scheduling",No,No,No,No,No,Yes - Module 3.1 activity,No,No,No,No,No,No,No
+Algorithms & Data,Representation,"Feature vectors: representing objects by their characteristics for classification",No,No,Yes - decision trees,No,No,Yes - decision trees and pasta/candy,Yes - implicit,No,No,No,No,No,No
+Algorithms & Data,Representation,"Word embeddings: words as points in high-dimensional semantic feature space (300+ dimensions)",No,No,No,No,No,Yes - Module 2.4 unplugged 3D activity,No,No,Yes - demo listed,No,No,No,No
+Machine Learning,Supervised Learning,"Supervised learning: learning from labeled examples to classify or predict",Yes - Teachable Machine images,No,Yes - core unit,Yes - mentioned,Yes - framework,Yes - ML pipeline,Yes - full module,Yes - Teachable Machine,Yes - resources,No,No,No,No
+Machine Learning,Supervised Learning,"Classification vs regression: labeling data vs predicting numeric values",No,No,Yes - generation vs classification,No,No,Yes - implicit,Yes - explicit,No,No,No,No,No,No
+Machine Learning,Supervised Learning,"Training process: initialize model, iterate on training data adapting weights, test on separate data",No,No,Yes - feedforward/backpropagation,No,Yes - frameworks,Yes - ML modules,Yes - detailed 5-step process,Yes - Teachable Machine,No,No,No,No,No
+Machine Learning,Supervised Learning,"Real-world SL applications: face detection, object recognition, spam filters, speech recognition, price prediction, user profiling for ads",No,No,Yes - various units,No,Yes - AI Snapshots,Yes - modules,Yes - extensive examples,No,Yes - resources,No,No,No,No
+Machine Learning,Decision Trees,"Decision tree structure: root node, decision nodes, leaf nodes with Yes/No branches",No,No,Yes - PastaLand lesson,No,No,Yes - pasta/candy activities,No,No,No,No,No,No,No
+Machine Learning,Decision Trees,"Features for classification: describing object characteristics to split groups",No,No,Yes - PastaLand,No,No,Yes - pasta/candy features,Yes - Classification Game,No,No,No,No,No,No
+Machine Learning,Decision Trees,"Building decision trees: questions that split items into equal groups iteratively",No,No,Yes - detailed lesson,No,Yes - ML activities,Yes - Module 3.2-3.3,No,No,No,No,No,No,No
+Machine Learning,Decision Trees,"Decision trees reflect builder's background knowledge and assumptions (bias)",No,No,Yes - explicit learning point,No,No,No,No,No,No,No,No,No,No
+Machine Learning,Bias in ML,"Algorithmic bias: training data imbalance leads to unfair outcomes",Yes - ML bias module,Yes - bias in chatbots,Yes - Lesson 0.5 + Unit 1,Yes - slide + lesson,Yes - competencies + Snapshots,Yes - case study,Yes - Amazon/Tay examples,Yes - Teachable Machine,Yes - resources,Yes - COMPAS example,Yes - extensive,No,No
+Machine Learning,Bias in ML,"Sources of bias: who collected data, what's included/excluded, labeling choices",No,Yes - internet bias,Yes - data diversity,No,Yes - competencies,Yes - ML activities,Yes - societal bias creates algorithmic bias,Yes - Teachable Machine,No,No,Yes - multiple files,No,No
+Machine Learning,Bias in ML,"Real examples: Amazon hiring tool discriminated against women, Tay chatbot racist speech, face recognition fails on some demographics",No,No,No,No,No,Yes - mentioned,Yes - detailed case studies,No,No,Yes - mentioned,Yes - multiple examples,No,No
+Machine Learning,Bias in ML,"Strategies to mitigate bias: diverse datasets, data preprocessing, re-curation methods",No,No,Yes - lesson content,No,Yes - frameworks,Yes - ML activities,Yes - discussed,Yes - Teachable Machine,No,No,Yes - discussed,No,No
+Neural Networks,Architecture,"Neural network structure: input layer, hidden layer(s), output layer with neurons",No,No,Yes - detailed lesson,No,No,Yes - Module 3.6,Yes - feed-forward architecture,No,Yes - resources,No,No,No,No
+Neural Networks,Architecture,"Neurons, weights, layers: how parts form functions that compute output",No,No,Yes - labeling diagram,No,No,Yes - Learning Objectives,Yes - detailed,No,Yes - Big Ideas,No,No,No,No
+Neural Networks,Training,"Weights adjusted during training in response to errors (backpropagation)",No,No,Yes - training process steps,No,No,Yes - dog bites example,Yes - learning rule,No,Yes - mentioned,No,No,No,No
+Neural Networks,Training,"Feedforward, evaluation, backpropagation: three steps of neural network training",No,No,Yes - explicit labeling activity,No,No,No,No,No,No,No,No,No,No
+Neural Networks,Single Neuron,"Single neuron mechanics: inputs, weights, weighted sum, threshold, activation (0/1 output)",No,No,No,No,No,Yes - Module 3.5 Neuron Sandbox (AND/OR logic),Yes - linear threshold unit,No,Yes - Neuron Sandbox tool,No,No,No,No
+Neural Networks,Single Neuron,"Boolean logic with neurons: AND (need both), OR (need either), using weights and thresholds",No,No,No,No,No,Yes - PB&J, boots, picnic problems,No,No,No,No,No,No,No
+Neural Networks,Applications,"Deep neural networks enable modern NLP and computer vision (CNNs, LLMs)",No,Yes - LLM focus,Yes - mentioned,No,Yes - token prediction,Yes - transformer NNs,Yes - image/speech examples,No,Yes - Big Idea 4,No,No,No,No
+NLP & Language,Speech Recognition,"How speech recognition works: sound waves, microphones, waveforms, spectrograms",No,No,No,No,No,Yes - Module 2.2 detailed activities,No,No,Yes - resources,No,No,No,No
+NLP & Language,Speech Recognition,"Spectrograms show frequency patterns to distinguish speech sounds (better than waveforms alone)",No,No,No,No,No,Yes - matching activity,No,No,Yes - resources,No,No,No,No
+NLP & Language,Speech Recognition,"Homophones and context: brake/break, flour/flower - full sentences disambiguate",No,No,No,No,No,Yes - student activity,No,No,No,No,No,No,No
+NLP & Language,Speech Recognition,"Speech-to-text, automatic transcription, text-to-speech applications",No,No,No,No,No,Yes - vocabulary,Yes - digital assistants,No,Yes - resources,No,No,No,No
+NLP & Language,Language Understanding,"Natural Language Processing (NLP): field enabling computers to understand human language",Yes - character chat,Yes - chatbots use NLP,Yes - various lessons,No,No,Yes - vocabulary,Yes - chatbots module,No,Yes - resources,No,No,No,No
+NLP & Language,Language Understanding,"Language is symbolic; syntax combines words; thousands of years after speech came writing",No,No,No,No,No,Yes - Unit 2 vocabulary,No,No,No,No,No,No,No
+NLP & Language,Language Understanding,"Ambiguity in human speech makes NLP challenging",No,No,No,No,No,Yes - Module 2.3,No,No,No,No,No,No,No
+NLP & Language,Language Understanding,"NLP pipeline: tokenization, lemmatization, POS tagging, syntax analysis, semantic analysis",No,No,No,No,No,No,Yes - detailed module,No,No,No,No,No,No
+NLP & Language,Language Understanding,"Intent and entity extraction from user queries",No,No,No,No,No,No,Yes - chatbot module,No,No,No,No,No,No
+NLP & Language,Text Generation,"LLMs predict next token/word based on probability from training data patterns",Yes - Soekia next-token exploration,Yes - detailed explanation,Yes - various units,No,Yes - 9-12 definition,Yes - transformer NNs mentioned,No,No,Yes - language models,No,No,No,No
+NLP & Language,Text Generation,"LLMs generate word-by-word, not whole sentences at once",No,Yes - explicit example: 'The boy walked his...',No,No,No,No,No,No,No,No,No,No,No
+NLP & Language,Text Generation,"Training: word chunks → neural network predicts next → check against actual → update weights → repeat billions of times",No,Yes - detailed steps,No,No,No,No,No,No,No,No,No,No,No
+NLP & Language,Text Generation,"Temperature parameter: low = most probable words, high = more randomness/creativity/errors",Yes - Soekia exploration,No,No,No,No,No,No,No,No,No,No,No,No
+NLP & Language,Text Generation,"Corpus: collection of text data used for training",No,No,No,No,No,Yes - vocabulary,No,No,No,No,No,No,No
+NLP & Language,Chatbots,"Chatbots: programs that converse with people; appear in many everyday contexts",Yes - multiple activities,Yes - full curriculum focus,Yes - various units,Yes - lesson on human-like design,Yes - AI Snapshots,Yes - Module 2.7,Yes - full module,No,Yes - resources,Yes - mentioned,No,No,No
+NLP & Language,Chatbots,"Chatbots don't understand like humans; they guess from training-data patterns",No,Yes - explicit point,No,No,No,No,Yes - lack of awareness,No,No,Yes - Intelligent Paper analogy,No,No,No
+NLP & Language,Chatbots,"Types of chatbots: commercial (24/7), therapeutic (Woebot, ELIZA), social (empathy/humor/mood)",No,No,No,No,No,No,Yes - detailed taxonomy,No,No,No,No,No,No
+NLP & Language,Chatbots,"Turing test: judge cannot tell human from machine; no AI has passed full test",No,No,No,No,No,No,Yes - history + Loebner Prize,No,No,No,No,No,No
+NLP & Language,Chatbots,"Rule-based vs NLP-based chatbot construction",No,No,No,No,No,No,Yes - two approaches,No,No,No,No,No,No
+NLP & Language,Chatbots,"Chatbot design: decision trees, avoid dead ends/loops, closing phrases",No,No,No,No,No,No,Yes - flowchart bots,No,No,No,No,No,No
+NLP & Language,Chatbots,"Human feedback and reinforcement learning shape chatbot politeness and helpfulness",No,Yes - three training layers,No,No,No,No,No,No,No,No,No,No,No
+NLP & Language,Word Representations,"Word embeddings as coordinates in semantic feature space; real systems use 300+ dimensions",No,No,No,No,No,Yes - unplugged 3D classroom activity,No,No,Yes - demo resource,No,No,No,No
+NLP & Language,Word Representations,"Co-occurrence: words appearing near each other in text create semantic relationships",No,No,No,No,No,Yes - gumdrop example,No,No,No,No,No,No,No
+NLP & Language,Word Representations,"Semantic features: gender, animacy, age, number as dimensions",No,No,No,No,No,Yes - Module 2.4,No,No,No,No,No,No,No
+NLP & Language,Translation,"Machine translation: how computers translate between languages; limitations",No,No,No,No,No,Yes - Module 2.5,No,No,Yes - video resource,No,No,No,No
+NLP & Language,Sentiment Analysis,"Sentiment analysis: subjectivity vs polarity; limitations",No,No,No,No,No,Yes - Module 2.6,No,No,Yes - curriculum named,No,No,No,No
+Computer Vision,Perception,"Computer vision: getting computers to see (faces, poses, objects, scenes, medical scans)",No,No,Yes - various units,No,Yes - bees example,Yes - face detection,Yes - full module,No,Yes - Big Idea 1,No,No,No,No
+Computer Vision,Perception,"Object recognition challenges: many shapes/colors, different viewing angles",No,No,No,No,No,Yes - vocabulary,No,No,No,No,No,No,No
+Computer Vision,Perception,"Sensors in autonomous vehicles: LIDAR, radar, sonar - how each works and what they detect",No,No,No,No,No,Yes - detailed vocabulary,No,No,No,No,No,No,No
+Computer Vision,Image Processing,"Images as grayscale (0-255 per pixel) or RGB; binary storage",No,No,No,No,No,No,Yes - fundamental representation,No,No,No,No,No,No
+Computer Vision,Image Processing,"Edge detection: significant brightness change at boundaries; used in face/sign/lane detection",No,No,No,No,No,Yes - Learning Objectives,Yes - Sobel/Canny algorithms,No,No,No,No,No,No
+Computer Vision,Image Processing,"Flood fill algorithm: spread from seed until boundary; uses in Minesweeper, Paint bucket",No,No,No,No,No,No,Yes - detailed,No,No,No,No,No,No
+Computer Vision,Image Processing,"Abstraction in CV: silhouettes and outlines can suffice (elephant example)",No,No,No,No,No,No,Yes - exercise,No,No,No,No,No,No
+Computer Vision,Techniques,"Viola-Jones face detection: sliding window, Haar-like features, frontal faces only",No,No,No,No,No,No,Yes - detailed,No,No,No,No,No,No
+Computer Vision,Techniques,"Face detection vs face recognition: detection finds faces, recognition identifies individuals",No,No,No,No,No,Yes - face filters,Yes - explicit distinction,No,No,Yes - face biometrics,No,No,No
+Computer Vision,Applications,"Facial recognition applications: phone unlock, passport, surveillance; privacy concerns",No,No,No,No,Yes - face recognition + deletion,Yes - face filters Scratch,Yes - mentioned,No,Yes - ethics resource,Yes - biometrics discussion,No,No,No
+Computer Vision,Applications,"Face filters: detect facial features and mesh to apply/distort graphics in 3D",No,No,No,No,No,Yes - detailed explanation,Yes - mentioned,No,No,No,No,No,No
+Computer Vision,Applications,"Industrial CV: defect detection, assembly mistake detection replacing human workers",No,No,No,No,No,No,Yes - mentioned,No,No,No,No,No,No
+Computer Vision,Applications,"Medical CV: cancer detection in scans assisting doctors",No,No,No,No,Yes - brain scans,No,Yes - mentioned,No,No,No,No,No,No
+Computer Vision,Limitations,"Adversarial examples: small pixel changes can fool classifiers (traffic light example)",No,No,No,No,No,No,Yes - discussion slide,No,No,Yes - video reference,No,No,No
+Generative AI,GANs,"GANs (Generative Adversarial Networks): generator and discriminator competing to create content",No,No,Yes - full unit (2.1-2.2),No,No,No,Yes - AI & Art module,Yes - mentioned,No,No,No,No,No
+Generative AI,GANs,"Generator creates, discriminator evaluates; iterative adversarial training improves both",No,No,Yes - detailed lesson,No,No,No,Yes - described,No,No,No,No,No,No
+Generative AI,GANs,"GANs can generate photographs, paintings, poetry, music, jokes",No,No,Yes - exploring GANs activity,No,No,No,Yes - arts module,No,No,No,No,No,No
+Generative AI,GANs,"Distinguishing GAN-generated art from human-generated art",No,No,Yes - GANs or Not activity,No,No,No,Yes - apps,No,No,Yes - Art vs AI quiz,No,No,No
+Generative AI,Image Generation,"AI image generators trained on large datasets; can reflect dataset stereotypes",No,No,No,No,Yes - Midjourney stereotypes,No,No,No,No,No,Yes - bias,No,No
+Generative AI,Image Generation,"Prompt engineering for image generation; style mimicry and artist concerns",Yes - mentioned,No,No,No,Yes - tools (Freeflo, Firefly),No,Yes - arts module,No,No,No,Yes - theft,No,No
+Generative AI,Text Generation,"Generative AI creates text, images, audio from prompts",Yes - multiple activities,Yes - ChatGPT focus,Yes - stories unit,Yes - definition,Yes - throughout,Yes - ChatGPT case study,No,No,No,Yes - ChatGPT,No,No,Yes - Lesson 1
+Generative AI,Text Generation,"LLMs as statistical models with self-supervised learning on large text/code corpora",No,No,No,No,Yes - 9-12 definition,No,No,No,No,No,No,No,No
+Generative AI,Text Generation,"Style transfer: AI can mimic writing styles (Shakespeare, specific authors)",No,No,No,No,Yes - AI Snapshots,No,Yes - transformers,No,No,No,No,No,No
+Generative AI,Applications,"Real-world generative AI: ChatGPT, DALL-E, book covers, reviews, handwriting, voice cloning",Yes - activities,Yes - classroom norms,Yes - various units,Yes - examples,Yes - AI Snapshots extensive,Yes - ChatGPT debate,Yes - tools list,No,Yes - resources,No,No,No,Yes - mentioned
+Generative AI,Limitations,"Classification vs generation: contrasting the two processes",No,No,Yes - full lesson comparing both,No,No,No,No,No,No,No,No,No,No
+Deepfakes & Misinformation,Deepfakes,"Deepfakes: manipulated realistic audio/video of people doing/saying things they didn't",No,No,Yes - Unit 2.5,Yes - mentioned,Yes - PSA project,No,Yes - detailed (GANs + autoencoders),Yes - mentioned,Yes - resources,Yes - Balenciaga Pope,Yes - mentioned,No,No
+Deepfakes & Misinformation,Deepfakes,"Deepfake creation techniques: GANs, autoencoders, facial structure/expression transfer",No,No,Yes - mentioned,No,No,No,Yes - technical detail,No,No,No,No,No,No
+Deepfakes & Misinformation,Deepfakes,"Seven clues to spot deepfakes: hair, eyes, side profile, emotions, teeth, background, asymmetry",No,No,Yes - explicit lesson,No,Yes - education focus,No,No,No,No,No,No,No,No
+Deepfakes & Misinformation,Deepfakes,"Deepfake harms: blackmail, defamation, bullying, identity theft, election manipulation, geopolitics",No,No,Yes - consequences lesson,No,Yes - democracy impact,No,Yes - detailed list,No,No,Yes - mentioned,Yes - benign vs harmful,Yes - political,No,No
+Deepfakes & Misinformation,Deepfakes,"Deepfake benefits: film production, HCI, satire, surgery training",No,No,No,No,No,No,Yes - listed,No,No,Yes - voice banking,No,No,No
+Deepfakes & Misinformation,Misinformation,"Misinformation (no intent) vs disinformation (deliberate); AI has no intent but can be weaponized",No,No,Yes - misinformation unit,Yes - harm category,Yes - AI Snapshots,No,No,No,No,No,Yes - definitions,No,No
+Deepfakes & Misinformation,Misinformation,"Misinformation spreads faster than authentic information",No,No,Yes - lesson description,Yes - discussed,No,No,No,No,No,No,No,No,No
+Deepfakes & Misinformation,Misinformation,"Fact vs opinion vs reasoned judgment; loaded language and omission as bias signals",No,No,Yes - lesson content,No,No,No,No,No,No,No,No,No,No
+Deepfakes & Misinformation,Misinformation,"Ways to decrease misinformation spread; fact-checking strategies",No,No,Yes - propose solutions,Yes - discussed,Yes - DebunkBot,No,No,No,No,No,Yes - activities,No,No
+Deepfakes & Misinformation,Verification,"Hallucinations: AI outputs false/fabricated information confidently",No,Yes - vocabulary and lesson focus,No,No,No,Yes - ChatGPT limitations,No,No,No,No,Yes - AI mirage,No,No
+Deepfakes & Misinformation,Verification,"Interrogating the internet: asking many questions, verifying AI claims with multiple sources",No,Yes - Lesson 2 core concept,No,No,Yes - critical thinking,No,No,No,No,No,Yes - cross-checking,Yes - Socratic method,No
+Deepfakes & Misinformation,Verification,"Source evaluation: credibility, tone, author point of view, bias indicators",No,Yes - worksheet,Yes - misinformation lesson,No,Yes - lateral reading,No,No,No,No,No,Yes - scholarly sources,Yes - journalism,No
+Deepfakes & Misinformation,Verification,"Don't trust first search result; cross-check multiple sources",No,Yes - optional extension,No,No,Yes - competencies,No,No,No,No,No,Yes - activities,No,No
+Ethics & Values,Ethical Frameworks,"Ethical matrices: mapping stakeholders to their values and system goals",No,No,Yes - core tool (Lessons 0.3, YouTube redesign),No,No,No,No,Yes - full tool,No,No,No,No,No
+Ethics & Values,Ethical Frameworks,"Stakeholders: who is affected by technology; why they care; optimized vs not optimized",No,No,Yes - PB&J and recommendation algorithms,No,No,No,No,Yes - throughout,No,No,No,No,No
+Ethics & Values,Ethical Frameworks,"EU Trustworthy AI guidelines: Human autonomy, Fairness, Harm prevention, Traceability",No,No,No,No,No,No,Yes - four principles detailed,Yes - seven requirements version,No,Yes - full module,Yes - mentioned,No,No
+Ethics & Values,Ethical Frameworks,"Seven EU requirements: human oversight, robustness, privacy, diversity/fairness, transparency, societal/environmental well-being, accountability",No,No,No,No,No,No,No,Yes - full list,No,Yes - detailed,No,No,No
+Ethics & Values,Ethical Frameworks,"Creating ethical rules: logical, fact-based, defensible principles, public accountability (Kant)",No,No,No,No,No,No,Yes - detailed philosophy,Yes - discussed,No,Yes - ethics module,No,No,No
+Ethics & Values,Ethical Frameworks,"Robot laws exercise: students create rules and find loopholes/misinterpretations",No,No,No,No,No,No,Yes - robot butler activity,No,No,No,No,No,No
+Ethics & Values,Ethical Frameworks,"Asimov's Three Robot Laws: harm prevention, obedience, self-preservation hierarchy",No,No,No,No,No,No,Yes - referenced,No,No,No,No,No,No
+Ethics & Values,Principles,"Good moral decisions: consistent across similar cases, perspective-taking",No,No,No,No,No,No,Yes - detailed,No,No,Yes - perspectives,No,No,No
+Ethics & Values,Principles,"Conflicts between ethical principles (e.g., harm prevention vs autonomy in predictive policing)",No,No,No,No,No,No,Yes - discussed,No,No,No,No,No,No
+Ethics & Values,Principles,"Black box algorithms: when decision process is opaque; transparency challenges",No,No,No,No,No,No,Yes - mentioned,No,No,No,Yes - accountability,Yes - journalism,No
+Ethics & Values,Dilemmas,"Trolley problem: utilitarian (minimize deaths) vs virtue ethics (don't actively kill)",No,No,No,No,No,No,Yes - Bentham vs Kant,No,No,Yes - Moral Machine,No,No,No
+Ethics & Values,Dilemmas,"Moral Machine: self-driving car unavoidable crash scenarios; who to spare decisions",No,No,No,No,No,Yes - Module 1.6,Yes - detailed exercise,No,No,Yes - group activity,No,No,No
+Ethics & Values,Dilemmas,"Cultural variation in moral choices: who people choose to spare varies by country",No,No,No,No,No,No,Yes - mentioned,No,No,Yes - Ireland vs world patterns,No,No,No
+Ethics & Values,Dilemmas,"Moral Machine findings: people want utilitarian cars for others but self-protective cars for themselves",No,No,No,No,No,No,Yes - research results,No,No,No,No,No,No
+Ethics & Values,Human-AI Interaction,"Using AI for school: when it helps vs undermines learning; transparent and responsible use",No,Yes - Lesson 4 full focus,No,No,Yes - metacognition,No,No,No,No,Yes - ChatGPT homework,No,Yes - academic integrity,Yes - Lessons 6-8
+Ethics & Values,Human-AI Interaction,"Classroom AI usage norms: assignment-specific guidelines for when/how to use AI",No,Yes - Lesson 4 activity,No,No,No,No,No,No,No,No,No,No,Yes - essential agreements
+Ethics & Values,Human-AI Interaction,"AI and human connection: does AI strengthen or weaken relationships",No,Yes - Lesson 3 full focus,No,Yes - friendship impacts,Yes - companion apps,No,No,No,No,Yes - connection discussion,No,No,No
+Ethics & Values,Human-AI Interaction,"Daily connection patterns: verbal, physical, emotional, digital; with whom and how",No,Yes - connection chart timeline,No,No,No,No,No,No,No,No,No,No,No
+Ethics & Values,Human-AI Interaction,"Authorr agency: staying in charge of thinking and creativity when collaborating with AI",No,No,No,No,Yes - competencies,No,No,No,No,No,No,Yes - Socratic chats,Yes - Lesson 6
+Bias & Fairness,Concepts,"Bias definition: unfair support/opposition, often hidden; can be in data or human raters",No,Yes - explicit definition,Yes - throughout,Yes - training data,Yes - frameworks,Yes - case studies,Yes - detailed,Yes - Teachable Machine,No,Yes - emotional recognition,Yes - extensive,No,No
+Bias & Fairness,Concepts,"Algorithmic/data bias vs societal bias; societal bias often drives algorithmic bias",No,No,Yes - sources,No,Yes - pipeline stages,No,Yes - explicit relationship,No,No,Yes - training data skew,Yes - monoculture,No,No
+Bias & Fairness,Concepts,"Fairness challenges: treating everyone the same vs reducing inequalities",No,No,No,No,No,No,Yes - tension discussed,No,No,No,No,No,No
+Bias & Fairness,Real Examples,"Amazon hiring tool discriminated against women due to male-heavy historical data",No,No,No,No,No,No,Yes - detailed case,No,No,Yes - mentioned,Yes - mentioned,No,No
+Bias & Fairness,Real Examples,"Microsoft Tay chatbot: racist speech from Twitter training data, taken down in 16 hours",No,No,No,No,No,No,Yes - detailed,No,No,No,No,No,No
+Bias & Fairness,Real Examples,"Face recognition worse on some demographics (skin tone, gender)",No,No,No,No,No,Yes - mentioned,Yes - mentioned,No,No,Yes - training data skew,Yes - mentioned,No,No
+Bias & Fairness,Real Examples,"COMPAS recidivism risk: amplifying historical judicial bias",No,No,No,No,No,Yes - mentioned,No,No,No,Yes - example,Yes - mentioned,No,No
+Bias & Fairness,Real Examples,"Emotion recognition performs worse on underrepresented groups",No,No,No,No,No,No,No,No,No,Yes - game activity,No,No,No
+Bias & Fairness,Real Examples,"Linguistic diversity: few languages well-represented on web/in GenAI",No,No,No,No,Yes - Indigenous languages,No,No,No,No,No,Yes - mentioned,No,No
+Bias & Fairness,Real Examples,"Image generator stereotypes: lawyer, engineer, doctor default representations",No,No,No,No,Yes - activities,No,No,No,No,No,Yes - mentioned,No,No
+Bias & Fairness,Mitigation,"Bias mitigation strategies: diverse data, preprocessing (grayscale, geometric transforms), careful curation",No,No,Yes - re-curating datasets,No,Yes - competencies,Yes - mentioned,Yes - detailed strategies,Yes - Teachable Machine,No,Yes - can reduce bias,No,No,No
+Bias & Fairness,Mitigation,"Self-reflection on stereotypes; active communication about bias",No,No,No,No,No,No,Yes - two-point list,No,No,No,No,No,No
+Bias & Fairness,Mitigation,"Blinded processes can reduce human bias (funding review example)",No,No,No,No,No,No,No,No,No,Yes - mentioned,No,No,No
+Limitations & Capabilities,What AI Cannot Do,"AI doesn't think, feel, or have self-awareness like humans",No,Yes - explicit point,No,No,Yes - avoid anthropomorphizing,No,Yes - no awareness,No,Yes - poster context,Yes - emotional intelligence lacking,No,No,Yes - algorithms + weights
+Limitations & Capabilities,What AI Cannot Do,"Human advantages: self-awareness, emotional intelligence (empathy, social cues, accept criticism, move on from mistakes)",No,No,No,No,Yes - human advantage domain,No,No,No,No,Yes - detailed list,No,No,Yes - mentioned
+Limitations & Capabilities,What AI Cannot Do,"Creativity, empathy, and interdisciplinary thinking harder to automate",No,No,No,No,Yes - frameworks,No,No,No,No,Yes - distinctiveness,Yes - future work,No,Yes - creativity focus
+Limitations & Capabilities,What AI Cannot Do,"AI limitations in understanding context, sarcasm, stories, emotions",No,No,No,No,No,Yes - Module 2.4,No,No,No,No,No,No,No
+Limitations & Capabilities,What AI Cannot Do,"Chatbot limitations: failed conversations from insufficient pattern recognition, frustration",No,Yes - responses don't fit,No,No,No,Yes - Module 2.7,Yes - mentioned,No,No,No,No,No,No
+Limitations & Capabilities,What AI Cannot Do,"Current AI is task-specific (narrow); cannot adapt to truly unknown situations",No,No,No,No,No,No,Yes - vs fictional AI,No,Yes - narrow vs general,No,No,No,No
+Limitations & Capabilities,Reliability,"Overreliance on AI: may weaken critical thinking and independent judgment",No,No,No,No,Yes - research cited,No,No,No,No,No,Yes - glossary,Yes - critique,No
+Limitations & Capabilities,Reliability,"Cross-checking AI outputs with scholarly/expert sources",No,Yes - interrogating internet,Yes - misinformation,No,Yes - competencies,No,No,No,No,No,Yes - activities,Yes - evidence-based,No
+Limitations & Capabilities,Reliability,"LLMs vs search engines: answer generation vs link lists; critical thinking tradeoffs",No,Yes - mentioned,No,No,Yes - AI Snapshots,No,No,No,No,No,Yes - research,No,Yes - Lesson 4
+Limitations & Capabilities,Reliability,"AI outputs can differ across tools/prompts; need to compare",No,No,No,No,Yes - competencies,No,No,No,No,No,No,No,No
+Limitations & Capabilities,Reliability,"Factual vs non-factual outputs; lateral reading across perspectives",No,No,No,No,Yes - competencies,No,No,No,No,No,No,No,No
+Prompt Engineering,Techniques,"Prompt engineering: crafting effective prompts to get useful AI responses",Yes - prompt engineering module,No,No,No,Yes - tools,No,No,No,No,No,No,No,No
+Prompt Engineering,Techniques,"SPEAR framework: Situation, Problem, Example, Ask, Review",Yes - explicit,No,No,No,No,No,No,No,No,No,No,No,No
+Prompt Engineering,Techniques,"Role prompting: using personas to steer style and tone",Yes - mentioned,No,No,No,No,No,No,No,No,No,No,No,No
+Prompt Engineering,Techniques,"Meta-prompting: having LLM iteratively refine your prompt",Yes - activity,No,No,No,No,No,No,No,No,No,No,No,No
+Prompt Engineering,Techniques,"Chain-of-thought prompting: step-by-step reasoning with few-shot examples",Yes - Wei et al reference,No,No,No,No,No,No,No,No,No,No,No,No
+Prompt Engineering,Techniques,"Take time to think phrasing; promise of rewards (unreliable)",Yes - mentioned,No,No,No,No,No,No,No,No,No,No,No,No
+Prompt Engineering,Techniques,"Brockman Prompt: breaking complex tasks into smaller steps for AI",No,No,No,No,No,No,No,No,No,No,No,No,Yes - Lesson 4
+Prompt Engineering,Techniques,"Computational thinking when working with AI: structure problems logically",No,No,No,No,No,No,No,No,No,No,No,No,Yes - Lesson 4
+Prompt Engineering,Testing,"Playtesting prompts: test to pass (easy) vs test to fail (adversarial)",No,No,No,No,No,No,No,No,No,No,No,Yes - full activity,No
+Prompt Engineering,Testing,"Rogers's active listening rules applied to prompting: restate to satisfaction, clarify",No,No,No,No,No,No,No,No,No,No,No,Yes - protocol,No
+System Design,Chatbot Design,"System prompts vs user prompts: defining LLM identity, knowledge cutoff, content policy, tool use",Yes - reading real ChatGPT system prompt,No,No,No,No,Yes - mentioned,No,No,No,No,No,No,No
+System Design,Chatbot Design,"Build-a-Bot framework: persona, user audience, tone, scope/constraints, adjectives",Yes - design activity,No,No,No,No,No,No,No,No,No,No,No,No
+System Design,Chatbot Design,"DALL-E rules in system prompts: English only, no political figures, style restrictions, diversity instructions",Yes - reading actual rules,No,No,No,No,No,No,No,No,No,No,No,No
+System Design,Responsible Design,"Model cards: intended use, data sources, limitations, warnings",No,No,No,No,No,Yes - Module 3.8,No,No,No,No,No,No,No
+System Design,Responsible Design,"Design choices affect different stakeholders differently; need to consider multiple perspectives",No,No,Yes - ethical matrices,No,No,Yes - case studies,Yes - perspective-taking,Yes - ethical matrices,No,Yes - perspectives,No,No,Yes - Circle of Perspectives
+System Design,Responsible Design,"Transparency and explainability in AI systems",No,No,No,No,Yes - predator classifier,No,Yes - traceability principle,Yes - requirement,No,No,Yes - accountability,Yes - black box,No
+Reinforcement Learning,Concepts,"Reinforcement learning: learning without being told how, only goals and possible actions",No,No,No,No,Yes - Gran Turismo,No,Yes - full module,No,No,No,No,No,No
+Reinforcement Learning,Concepts,"RL terms: Agent, Environment, Action, State, Reward",No,No,No,No,No,No,Yes - core vocabulary,No,No,No,No,No,No
+Reinforcement Learning,Concepts,"Q-learning: Q(state, action) quality values; pick highest Q; update from rewards",No,No,No,No,No,No,Yes - detailed,No,No,No,No,No,No
+Reinforcement Learning,Concepts,"Training through self-play (chess Lc0) vs evaluation functions",No,No,No,No,No,No,Yes - chess example,No,No,No,No,No,No
+Reinforcement Learning,Limitations,"State space explosion: chess ~10^44 states; manual tables infeasible",No,No,No,No,No,No,Yes - hexapawn example,No,No,No,No,No,No
+Reinforcement Learning,Limitations,"Exploration vs exploitation tradeoff; wrong lessons from weak/strong opponents",No,No,No,No,No,No,Yes - coin game, MENACE,No,No,No,No,No,No
+Reinforcement Learning,Applications,"RL in ad targeting to maximize clicks",No,No,No,No,No,No,Yes - mentioned,No,No,No,No,No,No
+Reinforcement Learning,Applications,"AlphaStar: huge action space (~10^26 vs chess ~40)",No,No,No,No,No,No,Yes - comparison,No,No,No,No,No,No
+Societal Impact,Labor & Economy,"AI impact on jobs: automation of routine/physical tasks, transformation vs replacement",No,No,Yes - careers unit,No,Yes - 22% jobs disrupted by 2030,No,No,No,No,Yes - obsolete jobs quiz,Yes - disruption,No,Yes - mentioned
+Societal Impact,Labor & Economy,"Ghost work: low-wage labeling, moderation, transcription in Global South",No,No,No,No,Yes - mentioned,No,No,No,No,No,Yes - full topic,Yes - hidden labor,No
+Societal Impact,Labor & Economy,"Complementarity of human+AI strengths determines job transformation",No,No,No,No,No,No,No,No,No,Yes - warehouse example,Yes - emphasis,No,No
+Societal Impact,Labor & Economy,"AI careers: multidisciplinary, dual skilling (domain + AI), fast-moving field",No,No,Yes - careers unit,No,No,No,No,No,No,Yes - full module,Yes - full guide,No,No
+Societal Impact,Labor & Economy,"Future jobs unknown; need resilience, adaptability, AI literacy for everyone",No,No,Yes - career roadmap,No,No,No,No,No,No,Yes - emphasized,Yes - Kevin Kelly quote,No,No
+Societal Impact,Labor & Economy,"AI skills in demand; shortage leads to higher salaries (Ireland context)",No,No,No,No,No,No,No,No,No,Yes - careers guide,Yes - mentioned,No,No
+Societal Impact,Labor & Economy,"Study paths: AI specialists (CS/engineering) vs dual-skilled domain experts",No,No,No,No,No,No,No,No,No,Yes - Qualifax examples,Yes - chemistry+AI etc,No,No
+Societal Impact,Power & Access,"AI divide: access to tools, internet, education/skills; low-wage/routine jobs more exposed",No,No,No,No,Yes - competencies,No,No,No,No,Yes - mentioned,Yes - ~2.6B without internet,No,No
+Societal Impact,Power & Access,"Tech oligarchy: concentration at Meta, OpenAI, Amazon, X, Google, Microsoft; LLM cost barriers",No,No,No,No,No,No,No,No,No,No,Yes - critique,No,No
+Societal Impact,Power & Access,"Information privilege: who has access to premium AI tools and education",No,No,No,No,Yes - backpack activity,No,No,No,No,No,Yes - mentioned,No,No
+Societal Impact,Power & Access,"Freemium vs premium: different capabilities and access levels",No,No,No,No,Yes - ChatGPT example,No,No,No,No,No,Yes - mentioned,No,No
+Societal Impact,Benefits & Harms,"AI benefits: efficiency, productivity, creativity, learning support, accessibility",Yes - activities,Yes - discussed,Yes - consequences lessons,Yes - helpful category,Yes - AI Snapshots,Yes - applications,Yes - possibilities,No,Yes - positive impact,Yes - pros/cons,Yes - benefits,No,Yes - Lesson 1
+Societal Impact,Benefits & Harms,"AI harms: bias, misinformation, privacy, job displacement, overreliance, impersonation, cyberbullying",Yes - activities,Yes - discussed,Yes - consequences lessons,Yes - harmful category,Yes - extensive Snapshots,Yes - case studies,Yes - limitations,No,Yes - negative impact,Yes - risks,Yes - toolkit,No,Yes - Lesson 1
+Societal Impact,Benefits & Harms,"Unanticipated consequences: AI effects on social, cultural, economic, political systems",No,No,Yes - explicit lesson,No,No,No,No,No,Yes - societal impact Big Idea,No,No,No,No
+Societal Impact,Surveillance & Control,"Social credit systems: scoring citizens, cultural context, researcher accountability",No,No,No,No,No,No,No,Yes - China example,No,Yes - ethics module,No,No,No
+Societal Impact,Surveillance & Control,"Live facial recognition: benefits vs constitutional concerns (London vs Berlin)",No,No,No,No,Yes - policy variation,No,No,No,No,No,No,No,No
+Societal Impact,Surveillance & Control,"AI in immigration surveillance (Geo Group example)",No,No,No,No,No,No,No,No,No,No,Yes - case study,No,No
+Societal Impact,Surveillance & Control,"Smartphone tracking, social media data collection, targeted advertising",No,No,No,No,Yes - many examples,No,Yes - detailed (GDPR, profiles),No,No,Yes - data economy,No,No,No
+Societal Impact,Media & Culture,"Recommendation algorithms: personalization, filter bubbles, radicalization risks",No,No,Yes - YouTube redesign,Yes - lesson,Yes - hidden signals,No,Yes - ethics,No,No,No,No,No,No
+Societal Impact,Media & Culture,"Echo chambers: mostly hearing ideas you agree with",No,Yes - definition and discussion,No,No,No,No,No,No,No,No,No,No,No
+Societal Impact,Media & Culture,"Social media manipulation: detailed profiles, non-obvious data collection, free services paid with attention/data",No,No,No,No,Yes - TikTok examples,No,Yes - module 9 full focus,No,No,Yes - privacy discussion,No,No,No
+Societal Impact,Media & Culture,"EU GDPR (since 2018): processing rules, right to information, heavy fines, cross-border data",No,No,No,No,No,No,Yes - mentioned,No,No,No,No,No,No
+Societal Impact,Media & Culture,"Data persistence: Internet Archive, Wayback Machine; deletion is hard",No,No,No,No,No,No,Yes - exercises,No,No,No,No,No,No
+Societal Impact,Media & Culture,"Jurisdiction-specific rights: right to own image, child protection laws",No,No,No,No,No,No,Yes - mentioned,No,No,No,No,No,No
+Societal Impact,Media & Culture,"AI-generated content labeling: China 2024 mandatory watermarks",No,No,No,No,Yes - regulation example,No,No,No,No,No,No,No,No
+Societal Impact,Government & Policy,"Government automated decision systems: 29 AIs of Washington DC project",No,No,No,No,Yes - project,No,No,No,No,No,No,No,No
+Societal Impact,Government & Policy,"Lethal autonomous weapons (Ukraine context)",No,No,No,No,Yes - mentioned,No,No,No,No,No,No,No,No
+Societal Impact,Government & Policy,"Political instability prediction (CoupCast example: Mali/Chad)",No,No,No,No,Yes - mentioned,No,No,No,No,No,No,No,No
+Societal Impact,Government & Policy,"Political deepfakes: changing persona (South Korea president 20h video)",No,No,No,No,Yes - example,No,No,No,No,No,No,No,No
+Societal Impact,Government & Policy,"DebunkBot: reducing false beliefs (~20% in study)",No,No,No,No,Yes - mentioned,No,No,No,No,No,No,No,No
+Societal Impact,Historical Context,"Historical AI/automation and labor displacement",No,No,No,No,No,No,No,No,No,Yes - mentioned,Yes - discussed,No,No
+Societal Impact,Historical Context,"Navajo Code Talkers: Indigenous role in tech/encryption history",No,No,No,No,Yes - Indigenous AI,No,No,No,No,No,No,No,No
+Environmental Impact,Energy & Resources,"AI training and operation consumes significant energy, water, creates GHG emissions",No,No,Yes - environmental impact lesson,No,Yes - energy cost comparisons,No,Yes - module 10 full focus,Yes - sustainability,No,Yes - data centers 18% Irish energy,Yes - sustainability,No,No
+Environmental Impact,Energy & Resources,"GPT-3 training: ~313 tons CO2 (estimate cited)",No,No,No,No,No,No,Yes - specific number,Yes - mentioned,No,Yes - Register citation,No,No,No
+Environmental Impact,Energy & Resources,"Data centers: ~2% global electricity; cooling needs; ~260 MW continuous (Google example)",No,No,No,No,No,No,Yes - specific stats,No,No,Yes - mentioned,No,No,No
+Environmental Impact,Energy & Resources,"Generating text ~30× more energy than retrieving from source",No,No,No,No,No,No,No,No,No,No,Yes - Luccioni estimate,No,No
+Environmental Impact,Energy & Resources,"ChatGPT water use per prompts; comparing ChatGPT vs Google search energy",No,No,No,No,Yes - mentioned,No,No,Yes - mentioned,No,Yes - range cited,Yes - comparisons,No,No
+Environmental Impact,Digital Footprint,"ICT emissions: 3.2% global CO2 (2020) vs aviation comparison",No,No,No,No,No,No,Yes - detailed stats,No,No,No,No,No,No
+Environmental Impact,Digital Footprint,"Streaming: >75% German/60% global traffic; 4K drives volume; ~23× data/hour high vs low res",No,No,No,No,No,No,Yes - specific numbers,No,No,No,No,No,No
+Environmental Impact,Digital Footprint,">5.5B mobile phones (2020); batteries 50% better but charge frequency similar",No,No,No,No,No,No,Yes - phone stats,No,No,No,No,No,No
+Environmental Impact,Digital Footprint,"Web page weight ~4× since 2010; personal carbon: ~140g CO2 per GB",No,No,No,No,No,No,Yes - detailed,No,No,No,No,No,No
+Environmental Impact,Mitigation,"Positive AI for environment: smart thermostats, traffic optimization, smart farming, DeepMind cooling (~40% savings)",No,No,No,No,Yes - mentioned,No,Yes - examples,No,No,No,No,No,No
+Environmental Impact,Mitigation,"Personal actions: repair devices, streaming hygiene, lower resolution, clean inbox, power strips",No,No,No,No,No,No,Yes - detailed tips,No,No,No,No,No,No
+Environmental Impact,Mitigation,"Strategies to reduce AI environmental impact; algorithm optimization to reduce training time",No,No,Yes - lesson objective,No,No,No,Yes - server virtualization etc,Yes - mentioned,No,No,No,No,No
+Environmental Impact,Tradeoffs,"Digitalization–climate net effect unclear; tension between reducing emissions and demanding performance",No,No,No,No,No,No,Yes - discussed,No,No,No,No,No,No
+Privacy & Data,Data Collection,"How personal data is collected, used, shared; what platforms know about you",No,Yes - discussed,No,Yes - how AI is trained,Yes - competencies,No,Yes - social media module,No,No,Yes - privacy discussion,Yes - spy module,No,No
+Privacy & Data,Data Collection,"PII (personally identifiable information) and privacy risks",No,No,No,No,Yes - K-5 to 9-12,No,No,No,No,No,Yes - prompts,No,No
+Privacy & Data,Data Collection,"Privacy paradox: most don't read policies; 81% uncomfortable with data use but share anyway",No,No,No,No,No,No,Yes - cited,No,No,No,Yes - behavior,No,No
+Privacy & Data,Data Collection,"Web scraping without consent; training data from Reddit, Wikipedia, video transcripts",No,No,No,No,No,No,Yes - module 9,No,No,No,Yes - scraped content,No,No
+Privacy & Data,Data Collection,"Data download exercises: Instagram, YouTube, TikTok procedures",No,No,No,No,No,No,Yes - step-by-step,No,No,No,No,No,No
+Privacy & Data,Data Collection,"If you're not paying, you are the product: ad-based models",No,No,No,No,No,No,Yes - mentioned,No,No,Yes - Zuckerberg comparison,No,No,No
+Privacy & Data,Usage Guidelines,"Don't put sensitive information in AI prompts (school/personal)",No,No,No,No,Yes - guidance,No,No,No,No,Yes - privacy policies,Yes - PII warning,No,No
+Privacy & Data,Usage Guidelines,"Reading privacy policies: OpenAI, Gemini, Meta comparisons",No,No,No,No,No,No,Yes - mentioned,No,No,Yes - activity,Yes - activities,No,No
+Privacy & Data,Usage Guidelines,"Privacy settings in AI tools (e.g., Gemini data hygiene)",No,No,No,No,No,No,No,No,No,Yes - mentioned,No,No,No
+Privacy & Data,Risks,"Chatbot memory: knows you over your life; prompt data collection",No,No,No,No,No,No,No,No,No,No,Yes - scope,No,No
+IP & Copyright,Concepts,"Copyright infringement vs fair use in AI training data; unsettled legal landscape",No,No,Yes - AI art ownership,Yes - plagiarism lesson,Yes - ethical sourcing,No,No,No,No,No,Yes - theft module,No,No
+IP & Copyright,Concepts,"Who owns AI-generated content: generator, discriminator, dataset curator, algorithm author, prompt writer",No,No,Yes - explicit lesson activity,No,No,No,Yes - authorship discussion,No,No,No,Yes - discussed,No,No
+IP & Copyright,Concepts,"Authorship and credit: trainers not AI; humanization affects credit/blame; provenance debates",No,No,No,No,Yes - music recombination,No,Yes - detailed MPI study,No,No,No,No,No,No
+IP & Copyright,Practices,"Ethical citation: giving credit for AI-assisted work",No,No,No,Yes - mentioned,Yes - competencies,No,No,No,No,No,No,No,Yes - Lesson 7
+IP & Copyright,Practices,"Academic integrity with AI: not uploading copyrighted material, not mimicking artists without attribution",No,No,No,No,Yes - SmartTeach,No,No,No,No,No,Yes - user ethics,No,No
+IP & Copyright,Practices,"Plagiarism vs AI assistance: understanding the difference",No,No,No,Yes - full lesson,Yes - detector false positives,No,No,No,No,No,Yes - mentioned,Yes - assignment integrity,Yes - Lesson 7
+IP & Copyright,Cases,"NYT, artists suing AI companies; companies cite fair use/transformative",No,No,No,No,No,No,No,No,No,No,Yes - legal tension,No,No
+Hands-on Tools,Platforms,"Teachable Machine: supervised learning image/audio/pose classification tool",Yes - full activity,No,Yes - Unit 1 core,No,No,Yes - mentioned,Yes - mentioned,Yes - full activity,Yes - resource,Yes - bias activity,No,No,No
+Hands-on Tools,Platforms,"Cognimates Scratch: keyword-based intelligent assistant building",No,No,No,No,No,Yes - related activity,No,No,Yes - full activity guide,No,No,No,No
+Hands-on Tools,Platforms,"CMU Neuron Sandbox: single neuron logic gate simulation",No,No,No,No,No,Yes - worksheets,No,No,Yes - resource,No,No,No,No
+Hands-on Tools,Platforms,"Machine Learning for Kids: various Scratch-based ML projects",No,No,No,No,No,No,Yes - face-lock mentioned,No,Yes - resource,No,No,No,No
+Hands-on Tools,Platforms,"AI for Oceans: training fish vs garbage classifier",No,No,No,No,No,No,Yes - exercise option,No,Yes - resource,No,No,No,No
+Hands-on Tools,Platforms,"Quick, Draw!: drawing recognition",No,Yes - mentioned,No,No,No,No,No,No,Yes - resource,No,No,No,No
+Hands-on Tools,Platforms,"Pandas: data analysis with head/tail, describe, sort_values, loc filtering, histograms",Yes - student data activity,No,No,No,No,No,No,No,No,No,No,No,No
+Hands-on Tools,Platforms,"TensorFlow / TensorFlow.js for advanced ML projects",No,No,No,No,No,No,Yes - advanced option,No,Yes - resources,No,No,No,No
+Hands-on Tools,Platforms,"Wombo Dream, DALL-E Mini, Artbreeder, Magic Sketchpad, AI Duet, Magenta for creative AI",No,No,No,No,No,No,Yes - detailed tool list,No,Yes - resources,No,No,No,No
+Hands-on Tools,Gen AI Tools,"ChatGPT, Claude, Gemini, Perplexity for text generation and research",Yes - extensive,Yes - classroom norms,Yes - various,Yes - mentioned,Yes - many contexts,Yes - case study,No,No,Yes - resources,Yes - mentioned,Yes - mentioned,Yes - prompting,Yes - throughout
+Hands-on Tools,Gen AI Tools,"AI code generators (Safurai, GitHub Copilot): completion, explanation, tests from natural language",Yes - mentioned,No,No,No,Yes - SmartTeach,No,No,No,No,No,No,No,No
+Hands-on Tools,Gen AI Tools,"AI detectors for student writing: limits, false accusations, humanize bypasses",No,No,No,No,Yes - SmartTeach ethical concerns,No,No,No,No,No,Yes - concerns,No,No
+Hands-on Tools,Gen AI Tools,"Reusable style prompts (Freeflo); multi-model image gen (Catbird)",No,No,No,No,Yes - SmartTeach tools,No,No,No,No,No,No,No,No
+Hands-on Tools,Gen AI Tools,"PDF.ai: chat with documents, summaries, OCR",No,No,No,No,Yes - SmartTeach,No,No,No,No,No,No,No,No
+Hands-on Tools,Other Tools,"Markov chain text generation: statistical language model",No,No,No,No,No,No,No,No,Yes - demo resource,No,No,No,No
+Hands-on Tools,Other Tools,"TensorFlow Playground: visualizing neural network training",No,No,No,No,No,No,No,No,Yes - resource,No,No,No,No
+Hands-on Tools,Other Tools,"Moral Machine: ethical dilemma scenarios for self-driving cars",No,No,No,No,No,Yes - Module 1.6,Yes - exercise with moralmachine.net,No,No,Yes - activity,No,No,No
+Hands-on Tools,Other Tools,"Bot or Not / humanornot.ai: distinguishing human from AI in conversation",Yes - game activity,No,No,No,No,No,No,No,No,No,No,No,No
+Hands-on Tools,Other Tools,"Thing Translator: object recognition to foreign language",No,No,No,No,No,No,No,No,No,Yes - mentioned,No,No,No
+Programming & CS,Data Structures,"Graphs: nodes and links representing cities/highways, search problems",No,No,Yes - route finding,No,No,Yes - vocabulary,No,No,No,No,No,No,No
+Programming & CS,Data Structures,"Trees: nodes with one parent (except root); search trees from search algorithms",No,No,Yes - breadth-first search,No,No,Yes - vocabulary,No,No,No,No,No,No,No
+Programming & CS,Algorithms,"Breadth-first search for route finding",No,No,Yes - activity,No,No,Yes - Module 1.5,No,No,No,No,No,No,No
+Programming & CS,Algorithms,"Graph coloring for route finding",No,No,No,No,No,Yes - unplugged,No,No,No,No,No,No,No
+Programming & CS,Concepts,"Abstraction: removing unnecessary details to focus on essential elements",No,No,No,No,Yes - innovations,Yes - vocabulary,No,No,No,No,No,No,No
+Programming & CS,Concepts,"Hardware vs software distinction",No,No,No,No,No,Yes - vocabulary,No,No,No,No,No,No,No
+Programming & CS,Concepts,"Decomposing problems into subproblems",No,No,Yes - standard,No,No,No,No,No,No,No,No,No,Yes - Lesson 4
+Programming & CS,Scratch/Blocks,"Custom blocks, variables, lists, string operations in Scratch",No,No,No,No,No,No,No,No,Yes - Cognimates guide,No,No,No,No
+Programming & CS,Scratch/Blocks,"Speech-to-text and text-to-speech blocks; stop listening before AI speaks to avoid self-triggering",No,No,No,No,No,No,No,No,Yes - Cognimates details,No,No,No,No
+Programming & CS,Scratch/Blocks,"Wake words; keyword matching limitations (substring issues, stemming)",No,No,No,No,No,No,No,No,Yes - detailed,No,No,No,No
+Specific Concepts,Transformers,"Transformer neural networks for language understanding and generation",No,No,No,No,No,Yes - vocabulary,Yes - BERT, GPT-3, DALL-E,No,Yes - resources,No,No,No,No
+Specific Concepts,CNNs,"Convolutional neural networks for image processing",No,No,No,No,No,No,No,No,Yes - resources,No,No,No,No
+Specific Concepts,Adversarial ML,"Adversarial examples: subtle changes fool models; robustness issues",No,No,No,No,No,No,Yes - CV discussion,No,No,Yes - video,No,No,No
+Specific Concepts,Training Details,"Model parameters vs algorithm parameters (hyperparameters)",No,No,No,No,No,No,Yes - cake sweetness analogy,No,No,No,No,No,No
+Specific Concepts,Training Details,"Training can take hours to weeks for large models; millions of images needed",No,No,No,No,Yes - costs,No,Yes - mentioned,No,No,No,No,No,No
+Specific Concepts,Training Details,"Pre-trained models enable fast browser-based training with small datasets",No,No,No,No,No,No,Yes - game controller,No,No,No,No,No,No
+Specific Concepts,Training Details,"Training involves billions of iterations",No,Yes - explicit,No,No,No,No,No,No,No,No,No,No,No
+Specific Concepts,Model Evaluation,"Mean Absolute Error (MAE): |predicted - actual| for model validation",Yes - ML activities,No,No,No,No,No,No,No,No,No,No,No,No
+Specific Concepts,Model Evaluation,"In-sample vs hold-out validation data: avoiding spurious patterns",Yes - ML activities,No,No,No,No,No,No,No,No,No,No,No,No
+Specific Concepts,Limitations,"Machine learning requires clear rules, actions, goals; works best in well-defined domains",No,No,No,No,No,No,Yes - games popular,No,No,No,No,No,No
+Real-world Systems,Autonomous Vehicles,"Self-driving car subsystems: perception, localization, navigation, maneuver planning, vehicle control, collision avoidance",No,No,No,No,No,Yes - detailed vocabulary,No,No,No,No,No,No,No
+Real-world Systems,Autonomous Vehicles,"Levels of autonomy; driver-assistance vs full autonomy",No,No,No,No,No,Yes - Module 1.6,No,No,No,No,No,No,No
+Real-world Systems,Autonomous Vehicles,"Self-driving car sensors: how LIDAR, radar, sonar work; what each can/cannot detect",No,No,No,No,No,Yes - detailed vocabulary,No,No,No,No,No,No,No
+Real-world Systems,Autonomous Vehicles,"Ethical issues: releasing before fully ready, customer vs public safety, attractive nuisance, liability",No,No,No,No,No,Yes - Tesla case study,Yes - trolley/ethics,No,No,Yes - Moral Machine,No,No,No
+Real-world Systems,Autonomous Vehicles,"Uber software flaw + human safety driver insufficient",No,No,No,No,No,Yes - referenced,No,No,No,No,No,No,No
+Real-world Systems,Autonomous Vehicles,"Policy questions: mandates, liability, oversight for delivery routes",No,No,No,No,No,Yes - Module 1.6 prompts,Yes - ethics committee,No,No,No,No,No,No
+Real-world Systems,Intelligent Assistants,"Intelligent assistants: Siri, Alexa, Google Assistant - how they understand questions and respond",Yes - mentioned,Yes - mentioned,Yes - Unit 2,No,Yes - examples,Yes - vocabulary,Yes - mentioned,No,Yes - Cognimates context,Yes - mentioned,No,No,No
+Real-world Systems,Intelligent Assistants,"Question answering: parsing, parts of speech, syntactic/semantic relationships, knowledge sources",No,No,No,No,No,Yes - Module 2.3 Berkeley Neural Parser,No,No,No,No,No,No,No
+Real-world Systems,Intelligent Assistants,"Limitations: systems are collections of techniques; challenges with stories/sarcasm",No,No,No,No,No,Yes - Module 2.3-2.4,No,No,No,No,No,No,No
+Real-world Systems,Recommender Systems,"Recommendation algorithms: Netflix, TikTok, YouTube; personalization based on history/metrics",Yes - reasoner classification,No,Yes - YouTube redesign project,Yes - algorithms lesson,Yes - hidden signals,Yes - reasoner type,Yes - ad targeting,No,Yes - resources,No,No,No,No
+Real-world Systems,Spam Filters,"Spam filters: learning from millions of user labels; features from content/subject/sender/time",Yes - ML example,No,No,No,No,No,Yes - NLP example,No,No,No,No,No,No
+Real-world Systems,Industry,"Industrial robots: warehouse (Amazon Kiva), agriculture (planting/harvesting), delivery (Scout, Kiwibot)",No,No,No,No,No,Yes - case study examples,No,No,No,No,No,No,No
+Real-world Systems,Industry,"AI in production: defect detection, assembly mistakes replacing human workers",No,No,No,No,No,No,Yes - mentioned,No,No,No,No,No,No
+Real-world Systems,Healthcare,"Medical AI: precision medicine, scan analysis, cancer risk prediction, assistive robots (Stevie II)",No,No,No,No,Yes - medication prediction,No,Yes - assisting doctors,No,No,Yes - healthcare examples,No,No,No
+Real-world Systems,Agriculture,"Smart farming: precision chemicals, IoT sensors, yield prediction",No,No,No,No,Yes - mentioned,No,Yes - positive uses,No,No,No,No,No,No
+Real-world Systems,Other,"Credit scoring, COMPAS recidivism, connected cars, social scoring systems using AI",Yes - discussions,No,No,No,No,No,No,No,No,Yes - COMPAS,Yes - multiple,No,No
+Real-world Systems,Other,"Vaccine prioritization algorithms and demographic bias",No,No,No,No,Yes - Indigenous AI,No,No,No,No,No,No,No,No
+Real-world Systems,Other,"Wildfire mapping drones; disaster relief robots",No,No,No,No,Yes - mentioned,Yes - mentioned,No,No,No,No,No,No,No
+AI & Art,Philosophy,"Can AI create art? Definition of art and authorship",No,No,Yes - explicit debate lesson,No,No,No,Yes - module 8 focus,No,No,No,Yes - art history,No,No
+AI & Art,Philosophy,"AI as tool vs collaborator/muse in creative process",No,No,No,No,No,No,Yes - framing,No,No,No,No,No,Yes - creative process
+AI & Art,Examples,"AI-generated art examples: Robbie Barrat, Edmond de Belamy (Christie's), Beethoven 10th completion, Botnik Harry Potter",No,No,No,No,No,No,Yes - detailed,No,No,No,No,No,No
+AI & Art,Examples,"AI music: Holly Herndon Spawn (responsible data use), DeepBeat/Suno recombining artist lines",No,No,No,No,Yes - credit issues,No,Yes - examples,No,No,No,No,No,No
+AI & Art,Examples,"Botto: DAO + AI with community voting, weekly NFT auctions",No,No,No,No,No,No,Yes - mentioned,No,No,No,No,No,No
+AI & Art,Examples,"AI tools for art: DALL-E, Wombo Dream, Gaugan2, Autodraw, AI Duet, Arbitrary Style Transfer",No,No,No,No,No,No,Yes - app lab,No,Yes - resources,No,No,No,No
+AI & Art,Indigenous,"AI-generated fake Indigenous art: 75% non-Indigenous goods (2022); cultural/economic harm",No,No,No,No,Yes - Indigenous AI focus,No,No,No,No,No,No,No,No
+AI & Art,Indigenous,"Art provenance (Da Vinci patch classifier) extended to Indigenous authenticity and consent",No,No,No,No,Yes - Indigenous AI,No,No,No,No,No,No,No,No
+Social Skills,Critical Thinking,"FAB check: Fairness, Accuracy, Bias evaluation framework",No,No,No,No,No,No,No,No,No,No,No,No,Yes - Lesson 2
+Social Skills,Critical Thinking,"Critical thinking: evaluation, questioning assumptions, independent judgment",No,No,No,No,Yes - core competency,No,No,No,No,No,Yes - overreliance risk,Yes - Socratic method,Yes - Lesson 2
+Social Skills,Critical Thinking,"Comparing AI vs human reasoning quality; identifying where AI falls short",No,No,No,No,Yes - research,No,No,No,No,No,Yes - LLM research,Yes - evaluating essays,No
+Social Skills,Critical Thinking,"Blind comparison of AI vs human arguments/writing",No,No,No,No,No,No,No,No,No,No,Yes - activity,Yes - rubric,No
+Social Skills,Creativity,"Using AI to support creativity while maintaining original voice and vision",No,No,Yes - AI art/stories,No,Yes - frameworks,No,No,No,No,No,No,Yes - essays,Yes - Lesson 3
+Social Skills,Creativity,"Personas for writing: informative, persuasive, entertainment styles",No,No,No,No,No,No,No,No,No,No,No,No,Yes - worksheets
+Social Skills,Collaboration,"SAMR model (AI edition): Simple help, A little better, Make together, Really new",No,No,No,No,No,No,No,No,No,No,No,No,Yes - Lesson 6
+Social Skills,Collaboration,"Essential agreements for when/how AI can be used on assignments",No,Yes - classroom norms,No,No,No,No,No,No,No,No,No,No,Yes - Lessons 6+8
+Social Skills,Communication,"Communicating AI use: describe when/how AI influenced process, not just citations",No,No,No,No,No,No,No,No,No,No,No,No,Yes - Lesson 7
+Social Skills,Communication,"Making thinking visible: honest reflection on AI role in creative process",No,No,No,No,Yes - transparency,No,No,No,No,No,No,No,Yes - Lesson 7
+Social Skills,Problem Solving,"Gray Area Sort: gradient spectrum for debatable AI uses (totally ok to questionable)",No,No,No,No,No,No,No,No,No,No,No,No,Yes - Lesson 8
+Social Skills,Problem Solving,"Analyzing risks and benefits of AI for different tasks; informed decision-making",No,No,No,No,Yes - throughout,No,No,No,No,No,No,No,Yes - Lesson 8
+Social Skills,Perspectives,"Circle of Perspectives: stepping into different viewpoints on AI issues",No,No,No,No,No,No,No,No,No,No,No,No,Yes - Lesson 5
+Social Skills,Perspectives,"Multiple perspectives on AI: student, parent, developer, principal, etc.",No,No,Yes - stakeholders,No,No,No,Yes - emphasis,No,No,No,No,No,Yes - Lesson 5
+Social Skills,Perspectives,"Diverse developers reduce cultural bias in AI systems",No,No,No,No,No,No,No,No,No,Yes - Ireland patterns,No,No,No
+Social Skills,EI & Awareness,"Emotional intelligence: collaboration, empathy, compassion, self-regulation, listening",No,No,No,No,Yes - human advantage,No,No,No,No,Yes - vs machines,No,No,Yes - awareness focus
+Social Skills,EI & Awareness,"Self and social awareness: how bias, ethics, social impact affect different people/groups",No,No,No,No,Yes - competencies,No,No,No,Yes - societal impact,No,No,No,Yes - Lesson 5
+Pedagogy & Activities,Unplugged,"Intelligent Piece of Paper: Tic-Tac-Toe following instructions without understanding strategy",No,No,No,No,No,No,Yes - mentioned,No,No,Yes - detailed activity,No,No,No
+Pedagogy & Activities,Unplugged,"Bubble Sort: sorting line of students by height using algorithm",No,No,No,No,No,No,Yes - exercise,No,No,No,No,No,No
+Pedagogy & Activities,Unplugged,"Classification Game: students play SL algorithm role with cat/dog images (pen-and-paper)",No,No,No,No,No,No,Yes - exercise,No,No,No,No,No,No
+Pedagogy & Activities,Unplugged,"Coin Game: RL training through physical board game",No,No,No,No,No,No,Yes - exercise,No,No,No,No,No,No
+Pedagogy & Activities,Unplugged,"Semantic feature space: 3D classroom axes for word coordinate activity",No,No,No,No,No,Yes - full activity,No,No,No,No,No,No,No
+Pedagogy & Activities,Unplugged,"Pasta/Candy decision trees: physical objects for classification feature extraction",No,No,Yes - PastaLand,No,No,Yes - both activities,No,No,No,No,No,No,No
+Pedagogy & Activities,Projects,"Deepfake PSA: 250-400 word press release educating public about deepfakes and democracy",No,No,No,No,Yes - project,No,No,No,No,No,No,No,No
+Pedagogy & Activities,Projects,"ChatGPT interview design for communication app",No,No,No,No,Yes - project,No,No,No,No,No,No,No,No
+Pedagogy & Activities,Projects,"Interspecies communication app design",No,No,No,No,Yes - project,No,No,No,No,No,No,No,No
+Pedagogy & Activities,Projects,"YouTube recommendation algorithm redesign with ethical matrix",No,No,Yes - culminating project,No,No,No,No,No,No,No,No,No,No
+Pedagogy & Activities,Projects,"Dream Bot: design robot that solves everyday problem with sensors/subsystems",No,No,No,No,No,Yes - Module 1.7,No,No,No,No,No,No,No
+Pedagogy & Activities,Projects,"Original story using GAN-based tools for text and images",No,No,Yes - activity,No,No,No,No,No,No,No,No,No,No
+Pedagogy & Activities,Projects,"Anti-AI manifesto zine creation",No,No,No,No,No,No,No,No,No,No,Yes - activity,No,No
+Pedagogy & Activities,Projects,"Interview fictional character: open-ended questions, journalistic principles, evidence from transcript vs source",No,No,No,No,No,No,No,No,No,No,No,Yes - full activity,No
+Pedagogy & Activities,Debates & Discussion,"ChatGPT debate: benefits vs risks with structured argument, evidence, rebuttal",No,No,No,No,No,Yes - full structure,No,No,No,No,No,No,No
+Pedagogy & Activities,Debates & Discussion,"AI booster vs Anti-AI debate with research",No,No,No,No,No,No,No,No,No,No,Yes - activity,No,No
+Pedagogy & Activities,Debates & Discussion,"Take a Stand: helpful vs harmful AI with supporting reasons",No,No,No,No,No,No,No,No,No,No,No,No,Yes - Lesson 1
+Pedagogy & Activities,Reflection,"Explore AI journal for documenting learning",No,No,Yes - activity,No,No,No,No,No,No,No,No,No,No
+Pedagogy & Activities,Reflection,"One Word Story: collaborative story-building comparing to LLM text generation",No,No,No,No,No,No,No,No,No,No,No,No,Yes - Lesson 1
+Pedagogy & Activities,Reflection,"T-chart: how AI is used + questions about AI",No,No,No,No,No,No,No,No,No,No,No,No,Yes - Lesson 1
+Pedagogy & Activities,Reflection,"AI in creative process worksheet: making thinking visible",No,No,No,No,No,No,No,No,No,No,No,No,Yes - Lesson 7
+Pedagogy & Activities,Reflection,"48-hour disconnect experiment with reflection log",No,No,No,No,No,No,No,No,No,No,Yes - activity,No,No
+Pedagogy & Activities,Reflection,"Exit tickets, reflection prompts throughout lessons",No,Yes - various,No,No,No,No,No,No,No,Yes - discussions,No,No,Yes - throughout
+Specialized Topics,Indigenous AI,"Indigenous language preservation with AI: Lakota AI Code Camp, SkoBots, Mamutjitji",No,No,No,No,Yes - full strand,No,No,No,No,No,No,No,No
+Specialized Topics,Indigenous AI,"Indigenous data sovereignty and consent in AI training",No,No,No,No,Yes - emphasis,No,No,No,No,No,No,No,No
+Specialized Topics,Indigenous AI,"Virtual museums for access equity (OurWorlds); community co-design",No,No,No,No,Yes - mentioned,No,No,No,No,No,No,No,No
+Specialized Topics,Domain-Specific,"Wolfram calculus solver trained on synthetic problems; pedagogy tradeoffs",No,No,No,No,Yes - mentioned,No,No,No,No,No,No,No,No
+Specialized Topics,Domain-Specific,"Poker decision support (PioSOLVER) for combinatorial decisions",No,No,No,No,Yes - mentioned,No,No,No,No,No,No,No,No
+Specialized Topics,Domain-Specific,"Ithaca for damaged inscriptions: 62% restoration accuracy, ~30 year dating",No,No,No,No,Yes - archaeology,No,No,No,No,No,No,No,No
+Specialized Topics,Domain-Specific,"AI hate-speech detection: Facebook 97% of removed hate speech AI-detected (2021)",No,No,No,No,Yes - scale stat,No,No,No,No,No,No,No,No
+Specialized Topics,Domain-Specific,"Dual-use AI: drug design repurposed to toxic compounds",No,No,No,No,Yes - ethics example,No,No,No,No,No,No,No,No
+Specialized Topics,Domain-Specific,"Electronic nose AI: detecting multiple scents and mixtures",No,No,No,No,Yes - mentioned,No,No,No,No,No,No,No,No
+Specialized Topics,Domain-Specific,"Animal communication translation: ethics and goals",No,No,No,No,Yes - mentioned,No,No,No,No,No,No,No,No
+Specialized Topics,Domain-Specific,"Pain-like reflexes in robots: ethical discomfort",No,No,No,No,Yes - mentioned,No,No,No,No,No,No,No,No
+Specialized Topics,Historical,"ELIZA (1966): early therapeutic chatbot",No,No,No,No,No,No,Yes - historical reference,No,No,No,No,No,No
+Specialized Topics,Historical,"Arthur Samuel: ML pioneer and definition",No,No,No,No,No,No,No,No,No,Yes - mentioned,No,No,No
+Specialized Topics,Journalism,"18 pitfalls in AI journalism: agency attribution, humanoid imagery, brain analogies, human comparisons, hyperbole, false claims, conflict of interest, missing limitations, hidden labor",No,No,No,No,No,No,No,No,No,No,No,Yes - full checklist,No
+Specialized Topics,Safety,"AI detection tools and limits",Yes - mentioned,No,No,No,Yes - false positives,No,No,No,No,No,No,No,No
+Specialized Topics,Safety,"Adversarial prompting: jailbreaks, grandmother exploit, emotional manipulation",Yes - optional,No,No,No,No,No,No,No,No,No,No,No,No
+Literacy Meta-Skills,Frameworks,"AI literacy: understand AI, evaluate outputs, recognize ethical/social implications",No,No,No,No,Yes - definition,No,No,No,No,No,Yes - definition,No,Yes - course goal
+Literacy Meta-Skills,Frameworks,"Digital literacy connections to AI literacy",No,No,No,No,Yes - frameworks,No,No,No,No,No,No,No,No
+Literacy Meta-Skills,Frameworks,"AI Readiness Framework: human advantage skills as complement to AI competencies",No,No,No,No,Yes - central framing,No,No,No,No,No,No,No,No
+Literacy Meta-Skills,Frameworks,"WEF Future of Jobs: skills discussion",No,No,No,No,No,No,No,No,No,No,No,Yes - optional,No
+Literacy Meta-Skills,Assessment,"Certificate of completion after assessment",No,No,No,No,No,No,No,No,No,No,No,No,Yes - course end
+Literacy Meta-Skills,Assessment,"Quiz activities for checking AI knowledge",No,No,No,No,Yes - 12% pass stat,No,Yes - multiple,No,No,Yes - initial,No,No,No
+Advanced Topics,NLP Architectures,"BERT: transformer model for question answering and chatbots",Yes - Chatbot with BERT,No,No,No,No,No,Yes - mentioned,No,Yes - resource title,No,No,No,No
+Advanced Topics,NLP Architectures,"GPT-3 and language generation; DALL-E from GPT-3 family",No,No,No,No,No,No,Yes - mentioned,No,Yes - resources,No,No,No,No
+Advanced Topics,Research Methods,"Training on synthetic data (Wolfram example)",No,No,No,No,Yes - mentioned,No,No,No,No,No,No,No,No
+Advanced Topics,Research Methods,"Anticipatory shipping: AI predicts orders before explicit request (Amazon patent)",Yes - mentioned,No,No,No,No,No,No,No,No,No,No,No,No
+Advanced Topics,Research Methods,"Target pregnancy prediction from purchase patterns",Yes - case narrative,No,No,No,No,No,No,No,No,No,No,No,No
+Advanced Topics,Technical Depth,"Sigmoid, ReLU, leaky ReLU activation functions; bias term in neuron formula",No,No,No,No,No,No,Yes - mentioned,No,No,No,No,No,No
+Advanced Topics,Technical Depth,"Degrees of freedom calculation for neural networks",No,No,No,No,No,No,Yes - objective,No,No,No,No,No,No
+Advanced Topics,Technical Depth,"Von Neumann architecture vs neural networks: ALU, control, memory, I/O",No,No,No,No,No,No,Yes - comparison,No,No,No,No,No,No
+Advanced Topics,Technical Depth,"Receptive field: neurons sensitive to groups of inputs",No,No,No,No,No,No,Yes - mentioned,No,No,No,No,No,No
+Advanced Topics,Technical Depth,"Division of labor in deep networks: early layers → simple parts, later → larger structures",No,No,No,No,No,No,Yes - CV module,No,No,No,No,No,No
+Metacognition,Learning About Learning,"How you learn with vs without AI; when AI helps vs hinders skill development",No,Yes - Lesson 4 focus,No,No,Yes - competencies,No,No,No,No,No,No,Yes - writing cycles,Yes - Lessons 6-8
+Metacognition,Learning About Learning,"Productive struggle, iteration, seeking help as learning skills",No,No,No,No,Yes - lifelong learning,No,No,No,No,No,No,No,No
+Metacognition,Learning About Learning,"Metacognition about thinking and creativity processes with AI",No,No,No,No,Yes - competencies,No,No,No,No,No,No,No,Yes - throughout
+Diverse Perspectives,Representation,"Diversity and inclusion in AI workforce reduces bias",No,No,No,No,Yes - emphasized,No,Yes - mentioned,No,No,Yes - mentioned,Yes - mentioned,No,No
+Diverse Perspectives,Representation,"Who builds AI affects who benefits and who is harmed",No,No,No,No,Yes - theme,No,Yes - developer influence,No,No,No,Yes - full topic,No,No
+Diverse Perspectives,Cultural,"Cultural knowledge to infer intentions from behavior; body language, facial expressions",No,No,No,No,No,No,No,No,Yes - Natural Interaction,No,No,No,No
+Diverse Perspectives,Cultural,"AI vision systems may lack knowledge of objects outside creators' culture",No,No,Yes - bias lesson,No,No,No,No,No,No,No,No,No,No
+Real Applications Case Studies,Tesla Autopilot,"Tesla Autopilot: driver engagement issues, releasing before full readiness, attractive nuisance legal concept",No,No,No,No,No,Yes - full case study,No,No,No,No,No,No,No
+Real Applications Case Studies,ChatGPT Limitations,"ChatGPT limitations: helpfulness, truthfulness, harmlessness evaluation; takes medical exams, homework concerns",Yes - Build-a-Bot,Yes - discussed,No,Yes - mentioned,Yes - various,Yes - debate with research,No,No,No,No,No,No,No
+Real Applications Case Studies,Google Translate,"Google Translate: how it works, limitations of machine translation",No,No,No,No,No,Yes - worksheet,No,No,Yes - video,No,No,No,No
+Real Applications Case Studies,Social Media Bots,"Social media bots: growth via hashtags/locations, weak conversation, data theft risks",No,No,No,No,No,No,Yes - types,No,No,No,No,No,No
+Real Applications Case Studies,AlphaGo,"AlphaGo: reinforcement learning in complex games",No,No,No,No,No,No,Yes - mentioned,No,Yes - documentary,No,No,No,No
+Real Applications Case Studies,Various,"App responsibility: app stores vs government for unethical AI apps",No,No,No,No,Yes - policy question,No,No,No,No,No,No,No,No
+Real Applications Case Studies,Various,"Robot hotel example: limits of narrow automation in service",No,No,No,No,Yes - AI Snapshot,No,No,No,No,No,No,No,No
+Real Applications Case Studies,Various,"Hollywood writers/actors strike over generative AI",No,No,No,No,Yes - mentioned,No,No,No,No,No,No,No,No

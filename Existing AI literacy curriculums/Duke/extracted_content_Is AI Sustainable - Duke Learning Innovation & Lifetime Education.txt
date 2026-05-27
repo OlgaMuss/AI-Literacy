@@ -1,0 +1,170 @@
+WHAT WE DO ▽
+
+Home
+
+AI Ethics Learning Toolkit
+
+BLOG
+
+SEARCH
+
+CONTACT US
+
+EVENTS
+
+RESOURCES
+
+SUBSCRIBE
+
+ABOUT US ▽
+
+Is AI Sustainable
+
+AI ETHICS LEARNING TOOLKIT
+
+Is AI Sustainable?
+Exploring Environmental Impacts
+
+“Generative AI has a very disproportionate energy and carbon footprint with very little in
+terms of positive stu! for the environment.”
+– Dr. Sasha Luccioni, Artificial Intelligence Researcher & Climate Lead, Hugging Face
+
+The rapid growth of AI has environmental implications, raising concerns
+regarding its sustainability and carbon footprint. AI systems require vast
+amounts of computational power, which could lead to high energy
+consumption and greenhouse gas emissions. The data centers that
+support AI operations contribute to environmental degradation, water
+consumption, and e-waste. Research by leading AI sustainability expert
+Sasha Luccioni estimates that AI-generated text responses, such as those
+from Google AI Overview or ChatGPT, consume 30 times more energy to
+generate new text versus extracting text from a source. As AI continues to
+evolve, it is crucial to evaluate its environmental costs and explore ways to
+
+mitigate its impact. Instructors may encourage students to be mindful of
+the environmental impact of AI as they explore its applications and reflect
+on the balance between convenience and sustainability.
+
+Learning Activities
+
+Conversation Starters A Few Questions to Get the
+Discussion Going
+
+In what ways do you think AI technologies impact the environment,
+both positively and negatively?
+Who should be responsible for making AI environmentally
+sustainable? Why?
+Can AI be made more eco-friendly? How?
+Have you seen/heard about examples of AI being used to help the
+environment?
+
+Active Learning with AI Fun Ways to Explore AI’s
+Strengths and Limitations
+
+In teams, students can use the ChatUI Energy Bot to investigate the
+energy consumption of everyday tasks when using AI. Students
+find one example of AI energy use and compare it to something
+familiar, like charging a phone.
+Students could track their carbon footprint in a log for a week
+
+related to AI.
+No AI Alternatives:
+Students investigate how much water is used to cool AI data
+centers and compare it to daily household water use.
+Students research the di"erence in energy consumption per
+query between ChatGPT and Google and analyze the
+di"erences.
+
+Disciplinary Extensions Ideas for Exploring AI’s Impact in
+Specific Fields
+
+Business/Markets & Management: What is the responsibility of
+tech companies in reducing AI’s environmental impact? Some
+companies have been pulling back on sustainability goals.
+Investigate what companies have done and how it compares to
+what they’re currently doing.
+Environmental Science: AI’s applications in climate modeling and
+conservation e"orts versus its unintended consequences on
+natural resources.
+Arts & Media Studies: AI-generated images/media carry a
+particularly large carbon footprint. What are the ethics and
+implications of AI’s enviro impact in visual/media arts?
+Public Policy: How awareness of AI’s environmental impacts can
+inform regulation, energy standards, and national sustainability
+goals in the tech sector.
+
+Resources
+Logan, C. Against AI and Its Environmental Harms-keep | Riseup Pad. Excellent megathread/aggregator of
+
+all kinds of AI and the enviro sources. Organized by source types. [Aggregated bibliography]
+Luccioni, S., Trevelin, B. & M. Mitchell. (2024, September 24). The Environmental Impacts of AI — Primer.
+[Article]. Excellent starting place. Luccioni and her team are leading scholars in AI and the environment.
+
+Cartography of generative AI. [Website]
+
+Scholarly
+Vincent, J. (2024, February 16). How much electricity do AI generators consume? The Verge. [Article]
+Parshall, A. (2025, June 11). What Do Google’s AI Answers Cost the Environment? Scientific American.
+[Magazine article]
+Verma, P., & Tan, S. (2024, September 18). A bottle of water per email: The hidden environmental costs
+of using AI chatbots. Washington Post. [News article]
+Kwong, E. (2025, March 30). AI and the Environment NPR. Duration: 12 min. [Podcast].
+Dope Labs. (2025, May 11). AI’s environmental cost. Duration: 38 minutes. [Podcast].
+Roose, K., Newton, C., et al. (2025, January 17). Goodbye TikTok, Ni Hao RedNote? + A.I.’s Environmental
+Impact + Meta’s Masculine Energy. The New York Times. [Podcast]
+
+Recommendations
+Related topics → Do we need AI? Who builds our AI?
+AI Pedagogy Project (Harvard) Assignments → Filter by theme (e.g. misinformation) and/or subject (e.g.
+science & technology studies)
+Sustainability-related Articles from the AI Ethics & Policy News Aggregator sourced by Casey Fiesler.
+Note: This would be an excellent place to identify recent news stories you could share with students, or
+incorporate into a case study.
+
+1. Hao, K. (2025). Empire of AI: Dreams and Nightmares in Sam Altman’s OpenAI. Penguin Press. Pg. 276
+2. Luccioni, S., Jernite, Y., & Strubell, E. (2024). Power Hungry Processing: Watts Driving the Cost of AI
+Deployment? The 2024 ACM Conference on Fairness, Accountability, and Transparency, 85–99.
+https://doi.org/10.1145/3630106.3658542
+
+PHYSICAL LOCATION
+The Erwin Square Mill Building
+2024 West Main Street
+
+BROWSE
+What We Do
+About
+
+Durham, NC 27705
+
+MAILING ADDRESS
+Box 90700
+
+Blog
+Contact Us
+Events
+
+Durham, NC 27708
+
+Directions
+
+CONTACT US
+
+Resources
+
+Phone: (919) 660-5806
+Email:
+
+Newsletter Signup
+
+learninginnovation@duke.edu
+
+CONNECT
+WITH US
+SUPPORT OUR
+WORK
+Donate to Duke
+Learning Innovation &
+Lifetime Education
+
+Copyright © 2025 Duke Learning Innovation & Lifetime Education
+
+
