@@ -1,0 +1,39 @@
+item_id,concept_id,link_strength,rationale,needs_validation
+robotparts_1,W1_03,primary,"Item shows Marty component (PCB connecting leg motors/sensors to onboard computer); W1 slide 17 explicitly teaches PCB + leg motors + sensors",TRUE
+robotparts_2,W1_03,primary,"Item asks hip-motor movement; W1 slide 17: 'Hip motor - lifts the whole leg'",TRUE
+sensors_1,W5_09,primary,"Item: primary job of Marty's foot IR sensor (detect obstacles/edge); W5 slide 20 lists foot IR sensor",TRUE
+sensors_1,W5_10,partial,"W5 slide 22 explains IR sensing mechanism (active IR reflection) underlying the correct answer",TRUE
+sensors_2,W5_06,primary,"Item: what a sensor can NOT do (move a leg = actuator); W5 slide 16 defines sensor as receiving/reacting to signals; moving is motor function",TRUE
+sensors_2,W5_09,partial,"Distractors (tilt/pickup detection) match W5 slide 20 (accelerometer, tilt sensor)",TRUE
+microcontrollers_1,W6_02,primary,"Item: main processor on Arduino Nano ESP32; W6 slides 6-7: Arduino Nano stores program in memory, microprocessor executes",TRUE
+microcontrollers_2,W6_01,primary,"Item: role of microcontroller = run one simple program (control motors/read sensors); W6 slide 5 gives exactly this definition",TRUE
+AI_DA09,W2_01,primary,"Item: AI differs from previous IT via learning ability/independence; W2 slide 4 defines AI as ability to learn",TRUE
+AI_DA09,W2_02,partial,"AI-vs-rule-based contrast (W2 slides 4-5) supports the distinction",TRUE
+CA12,W2_02,primary,"Item: which example is NOT AI (big-data storage); W2 slides 4-5 teach AI vs non-AI with examples",TRUE
+CI29,W2_04,primary,"Item: face-to-Van-Gogh app = generation; W2 slide 8 teaches classify/predict vs generative create; slide 9 activity 'classify or generate'",TRUE
+CI31,W2_05,primary,"Item: labeled tulip dataset = supervised learning; W2 slides 10-11: supervised uses labeled data",TRUE
+UA19,W2_05,primary,"Item: central feature of RL = trial-and-error; W2 slide 10: 'Verstärkendes Lernen: Versuch und Irrtum mit Belohnungen'",TRUE
+GA10,W4_07,primary,"Item: what is a prompt (input controlling model output); prompt engineering explicitly taught W4 slide 17",TRUE
+GA10,W2_09,partial,"W2 slide 25 introduces 'Prompts' as text sent to LLM (weaker, term only)",TRUE
+LLMdesign_1,W4_07,primary,"Item: which instruction produces a worse response ('Tell me about science' = vague); W4 slide 17 teaches specific/structured prompts",TRUE
+GA13,W2_04,primary,"Item: generative AI learns from data and creates content resembling learned patterns; W2 slide 8: 'Generative KI: Erschaffen'",TRUE
+GA13,W2_07,partial,"W2 slides 20-23 (LLM learns patterns in 3 steps) underpin 'learns from existing data'",TRUE
+EA05,W4_02,primary,"Item: voice assistant gives different career info by gender/origin = bias/discrimination; W4 slide 9: bias definition + discrimination",TRUE
+EA05,W4_03,partial,"W4 slide 11: demographic/frequency bias types match the scenario's mechanism",TRUE
+GA04,W4_04,primary,"Item: factors (not) causing hallucinations; W4 slide 12 teaches hallucinations as structural problem of LLMs",TRUE
+PR1,W5_01,primary,"Item: best description of a command; W5 slide 4 teaches commands (cooking metaphor)",TRUE
+PR2,W5_03,primary,"Item: blink LED 10x = loop; W5 slide 6 teaches loops",TRUE
+PR3,W5_11,primary,"Item: when is turn_on_light() executed (if-else); W5 slide 24 teaches if-else",TRUE
+PR4,W5_05,primary,"Item: correct walk-then-turn sequence; W5 slides 8-12 teach sequencing commands in Blockly",TRUE
+PR4,W6_04,partial,"W6 slide 9 introduces C++ syntax (setup/loop) matching the item's C++ framing",TRUE
+GA17,W6_06,unknown,"ITEM TEXT NOT RECOVERABLE from workspace files (column header says only 'AI Ethics 1'). Provisional link to W6 ethics; replace once text confirmed by authors",TRUE
+GA16,W6_06,partial,"Item: AI voice actors put humans out of work (social responsibility); W6 slide 20 teaches ethics guidelines; job-market impact not explicitly on enacted slides (was 'optional' in plan)",TRUE
+EA11,W6_05,primary,"Item: risks of AI incl. high power/water consumption; W6 slides 14-17 teach energy/water/materials impact",TRUE
+LLMmc_1,W6_01,primary,"(NOT ADMINISTERED) 'What is a microcontroller? small computer on a chip' = W6 slide 5 verbatim",TRUE
+LLMmc_2,W6_02,primary,"(NOT ADMINISTERED) '+/- terminals always necessary' = W6 slide 8",TRUE
+LLMmc_3,W6_03,primary,"(NOT ADMINISTERED) '3V at pins' = W6 slide 8",TRUE
+LLMmc_4,W6_03,primary,"(NOT ADMINISTERED) 'pin state when on = HIGH' = W6 slide 8",TRUE
+LLMmc_5,W6_03,primary,"(NOT ADMINISTERED) 'LOW = switched off' = W6 slide 8",TRUE
+LLMmc_6,W6_03,primary,"(NOT ADMINISTERED) 'program controls pin switching' = W6 slide 8",TRUE
+LLMmc_7,W6_01,primary,"(NOT ADMINISTERED) 'only a single program' = W6 slide 5",TRUE
+LLMmc_8,W6_04,primary,"(NOT ADMINISTERED) 'language for microcontrollers = C++' = W6 slide 9",TRUE
