@@ -1,0 +1,95 @@
+chapter,chapter_name,map_name,map_code,volume,page,status
+1,The Nature of Science,Scientific World View,1A,Vol2,5,extracted
+1,The Nature of Science,Evidence and Reasoning in Inquiry,1B,Vol1,17,extracted
+1,The Nature of Science,Scientific Investigations,1B,Vol1,19,extracted
+1,The Nature of Science,Scientific Theories,1B,Vol1,21,extracted
+1,The Nature of Science,Avoiding Bias in Science,1B,Vol1,23,extracted
+1,The Nature of Science,The Scientific Community,1C,Vol2,7,extracted
+1,The Nature of Science,Science and Society,1C,Vol2,9,extracted
+2,The Nature of Mathematics,Nature of Mathematics,2AB,Vol2,13,extracted
+2,The Nature of Mathematics,Mathematical Processes,2C,Vol1,27,extracted
+2,The Nature of Mathematics,Mathematical Models,2C,Vol1,29,extracted
+3,The Nature of Technology,Technology and Science,3A,Vol2,17,extracted
+3,The Nature of Technology,Design Constraints,3B,Vol1,33,extracted
+3,The Nature of Technology,Designed Systems,3B,Vol1,35,extracted
+3,The Nature of Technology,Interaction of Technology and Society,3C,Vol1,37,extracted
+3,The Nature of Technology,Decisions About Using Technology,3C,Vol1,39,extracted
+4,The Physical Setting,Solar System,4A,Vol1,45,MISSING
+4,The Physical Setting,Stars,4A,Vol1,47,MISSING
+4,The Physical Setting,Galaxies and the Universe,4A,Vol1,49,MISSING
+4,The Physical Setting,Weather and Climate,4B,Vol1,21,MISSING
+4,The Physical Setting,Use of Earth's Resources,4B,Vol1,23,MISSING
+4,The Physical Setting,Changes in the Earth's Surface,4C,Vol1,?,MISSING
+4,The Physical Setting,Plate Tectonics,4C,Vol1,53,MISSING
+4,The Physical Setting,Atoms and Molecules,4D,Vol1,55,MISSING
+4,The Physical Setting,Conservation of Matter,4D,Vol1,57,MISSING
+4,The Physical Setting,States of Matter,4D,Vol1,59,MISSING
+4,The Physical Setting,Chemical Reactions,4D,Vol1,61,MISSING
+4,The Physical Setting,Energy Transformations,4E,Vol1,25,MISSING
+4,The Physical Setting,Laws of Motion,4F,Vol1,63,MISSING
+4,The Physical Setting,Waves,4F,Vol1,65,MISSING
+4,The Physical Setting,Gravity,4G,Vol1,43,MISSING
+4,The Physical Setting,Electricity and Magnetism,4G,Vol1,27,MISSING
+5,The Living Environment,Diversity of Life,5A,Vol2,31,extracted
+5,The Living Environment,DNA and Inherited Characteristics,5B,Vol1,69,MISSING
+5,The Living Environment,Variation in Inherited Characteristics,5B,Vol1,71,MISSING
+5,The Living Environment,Cell Functions,5C,Vol1,73,MISSING
+5,The Living Environment,Cells and Organs,5C,Vol1,75,MISSING
+5,The Living Environment,Interdependence of Life,5D,Vol1,33,MISSING
+5,The Living Environment,Flow of Matter in Ecosystems,5E,Vol1,77,MISSING
+5,The Living Environment,Flow of Energy in Ecosystems,5E,Vol1,79,MISSING
+5,The Living Environment,Biological Evolution,5F,Vol1,81,MISSING
+5,The Living Environment,Natural Selection,5F,Vol1,83,MISSING
+6,The Human Organism,Human Identity,6A,Vol1,95,extracted
+6,The Human Organism,Human Identity,6A,Vol2,37,extracted
+6,The Human Organism,Human Development,6B,Vol1,39,MISSING
+6,The Human Organism,Basic Functions,6C,Vol1,41,MISSING
+6,The Human Organism,Disease,6E,Vol1,87,MISSING
+6,The Human Organism,Maintaining Good Health,6E,Vol1,89,MISSING
+6,The Human Organism,Coping with Mental Distress,6F,Vol1,91,MISSING
+6,The Human Organism,Diagnosis and Treatment of Mental Disorders,6F,Vol1,93,MISSING
+7,Human Society,Heredity and Experience Shape Behavior,7A,Vol1,97,extracted
+7,Human Society,Culture Affects Behavior,7A,Vol1,99,MISSING
+7,Human Society,Group Behavior,7B,Vol2,45,extracted
+7,Human Society,Influences on Social Change,7C,Vol1,101,MISSING
+7,Human Society,Social Decisions,7D,Vol1,?,MISSING
+7,Human Society,Political and Economic Systems,7E,Vol2,47,extracted
+7,Human Society,Social Conflict,7F,Vol1,49,MISSING
+7,Human Society,Global Interdependence,7G,Vol1,51,MISSING
+8,The Designed World,Agricultural Technology,8A,Vol1,107,extracted
+8,The Designed World,Materials Science,8B,Vol2,55,extracted
+8,The Designed World,Manufacturing,8B,Vol1,57,MISSING
+8,The Designed World,Energy Resources,8C,Vol1,59,MISSING
+8,The Designed World,Communication Technology,8D,Vol1,109,extracted
+8,The Designed World,Computers,8E,Vol1,111,extracted
+8,The Designed World,Health Technology,8F,Vol1,61,MISSING
+9,The Mathematical World,Numbers,9A,Vol2,65,extracted
+9,The Mathematical World,Ratios and Proportionality,9A,Vol1,119,extracted
+9,The Mathematical World,Graphic Representation,9B,Vol1,115,extracted
+9,The Mathematical World,Symbolic Representation,9B,Vol1,117,extracted
+9,The Mathematical World,Describing Change,9B,Vol1,121,MISSING
+9,The Mathematical World,Shapes,9C,Vol1,67,MISSING
+9,The Mathematical World,Averages and Comparisons,9D,Vol1,123,MISSING
+9,The Mathematical World,Correlation,9D,Vol1,125,MISSING
+9,The Mathematical World,Statistical Reasoning,9D,Vol1,127,MISSING
+9,The Mathematical World,Reasoning,9E,Vol1,69,MISSING
+10,Historical Perspectives,The Copernican Revolution,10A,Vol2,73,extracted
+10,Historical Perspectives,Classical Mechanics,10B,Vol2,75,extracted
+10,Historical Perspectives,Relativity,10C,Vol2,77,extracted
+10,Historical Perspectives,Moving the Continents,10DE,Vol2,79,extracted
+10,Historical Perspectives,The Chemical Revolution,10F,Vol2,81,extracted
+10,Historical Perspectives,Splitting the Atom,10G,Vol2,83,extracted
+10,Historical Perspectives,Explaining Evolution,10H,Vol2,85,extracted
+10,Historical Perspectives,Discovering Germs,10I,Vol2,87,MISSING
+10,Historical Perspectives,The Industrial Revolution,10J,Vol2,89,MISSING
+11,Common Themes,Systems,11A,Vol1,133,MISSING
+11,Common Themes,Models,11B,Vol2,93,extracted
+11,Common Themes,Constancy,11C,Vol2,95,extracted
+11,Common Themes,Patterns of Change,11C,Vol2,97,extracted
+11,Common Themes,Scale,11D,Vol2,99,extracted
+12,Habits of Mind,Values in Science,12A,Vol2,103,extracted
+12,Habits of Mind,Public Perception of Science,12A,Vol2,105,extracted
+12,Habits of Mind,Computation and Estimation,12B,Vol2,107,extracted
+12,Habits of Mind,Using Tools and Devices,12C,Vol2,109,extracted
+12,Habits of Mind,Communication Skills,12D,Vol2,111,extracted
+12,Habits of Mind,Detecting Flaws in Arguments,12E,Vol2,113,extracted
